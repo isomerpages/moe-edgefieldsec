@@ -22,10 +22,36 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: EDGEFIELD
+      description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
+      button: LEARN MORE
+      url: /edgefield/principals-message
+      image: /images/edgefield-crop.png
+      alt: Image alt text
+  - infopic:
+      title: FUTURE-READY
+      description: '"Change is the very essence of life." - Lee Kuan Yew, Founding
+        Prime Minister of Singapore'
+      button: LEARN MORE
+      url: /future-ready
+      image: /images/future-ready-crop.png
+      alt: Image alt text
+  - infopic:
+      title: EXPERIENCE
+      description: '"The will to win, the desire to succeed, the urge to reach your
+        full potential... will unlock the door to personal excellence." -
+        Confucius, Chinese Philosopher'
+      button: LEARN MORE
+      url: /experience/cca
+      image: /images/experience.png
+      alt: Image alt text
+  - infopic:
+      title: TOGETHER
+      description: ' "Education is not a filling of a pail, but the lighting of a
+        fire." - William Butler Yeats, Irish poet'
+      button: LEARN MORE
+      url: /together
+      image: /images/together.png
+      alt: Image alt text
 ---
