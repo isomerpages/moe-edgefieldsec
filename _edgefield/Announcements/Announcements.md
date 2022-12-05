@@ -4,7 +4,6 @@ permalink: /edgefield/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-
 ### 2020 Edgefield Secondary Virtual Open House!
 
 ![](/images/tn547d8f2e2_508.jpg)
@@ -19,7 +18,6 @@ Visit our Virtual Open House from 20 - 27 November this year!
 
 Nominations for the annual Inspiring Teacher of English Awards are now open!  
   
-[READ MORE](https://edgefieldsec-moe-edu-sg-admin.cwp.sg/edgefield/announcements/nominations-for-inspiring-english-teacher-award-2020)
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/nominations-for-inspiring-english-teacher-award-2020)
 
 ----------
-
