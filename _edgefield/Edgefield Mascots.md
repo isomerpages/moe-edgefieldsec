@@ -22,3 +22,5 @@ The boy mascot is **Entrepreneurship** - Our Applied Learning Programme is cen
     style="width:25%">
 
 The Superhero mascot is **Innovation** - As Collaborative Innovators, you get the chance to learn with and from your friends as you come up with strategies that solve authentic real-world issues. Whether it's our signature Future Ready Programme or the national Odyssey of the Mind competition, get ready to confidently lead the charge with your innovative and creative solutions!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fP0uSsm_-3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
