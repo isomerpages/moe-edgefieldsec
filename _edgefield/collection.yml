@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - School Prospectus.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -13,3 +12,4 @@ collections:
       - Open House 2022.md
       - 360 School Virtual Tour.md
       - 10th Anniversary.md
+      - School Prospectus.md
