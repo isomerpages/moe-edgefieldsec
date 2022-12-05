@@ -2,4 +2,5 @@ collections:
   edgefield:
     output: true
     order:
+      - Our Story/.keep
       - Principal's Message.md
