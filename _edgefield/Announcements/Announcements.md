@@ -14,7 +14,8 @@ Visit our Virtual Open House from 20 - 27 November this year!
 
 ### Inspiring Teacher of English Award 2020 - Invitation for Nominations!
 
-![](/images/tn2b8ab5d58_238.jpg)
+<img src="/images/tn2b8ab5d58_238.jpg" 
+    style="width:70%">
 
 Nominations for the annual Inspiring Teacher of English Awards are now open!  
   
