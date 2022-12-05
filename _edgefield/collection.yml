@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our Story/Mission, Vision, Motto & Core Values.md
-      - Our Story/About Edgefield.md
       - Our Story/.keep
+      - Our Story/About Edgefield.md
+      - Our Story/Mission, Vision, Motto & Core Values.md
