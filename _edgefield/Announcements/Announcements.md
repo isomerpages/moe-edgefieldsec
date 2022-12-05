@@ -22,3 +22,11 @@ Nominations for the annual Inspiring Teacher of English Awards are now open!
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/nominations-for-inspiring-english-teacher-award-2020)
 
 ----------
+
+### Outstanding Youth in Education Award (OYEA) 2020
+
+![](/images/tn2ef7a8c4d_182.jpg)
+
+The **Outstanding Youth in Education Award (OYEA)** seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. Submit your nominations by 7 January 2020!
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/outstanding-youth-in-education-award-oyea-2020)
