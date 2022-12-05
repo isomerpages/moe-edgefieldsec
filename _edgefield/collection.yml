@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - 10th Anniversary.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -12,3 +11,4 @@ collections:
       - Our Story/EFSS Coffee Table Book.md
       - Open House 2022.md
       - 360 School Virtual Tour.md
+      - 10th Anniversary.md
