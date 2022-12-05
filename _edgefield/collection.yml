@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - Our Story/About Edgefield.md
       - Our Story/.keep
