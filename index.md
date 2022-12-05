@@ -13,15 +13,15 @@ sections:
       button: Locate US
       url: /edgefield/locate-us
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: "EFSS Signage 123 Open House 2022 "
+          description: (19 Nov 2022, 9am -1pm)
+          url: https://openhouse2022.edgefield.edu.sg/
+        - title: Full Subject-Based Banding (Full SBB) offered
+          description: ""
+          url: /experience/full-subject-based-banding-full-sbb
+        - title: Stay connected with us on the latest happenings here
+          description: ""
+          url: https://www.instagram.com/edgefieldsecondary/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,4 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
