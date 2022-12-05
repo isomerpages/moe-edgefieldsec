@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - 360 School Virtual Tour.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -11,3 +10,4 @@ collections:
       - Our Story/School Song.md
       - Our Story/EFSS Coffee Table Book.md
       - Open House 2022.md
+      - 360 School Virtual Tour.md
