@@ -2,6 +2,7 @@ collections:
   edgefield:
     output: true
     order:
+      - Open House 2022.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
