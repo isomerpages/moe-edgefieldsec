@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - Announcements.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -15,3 +14,4 @@ collections:
       - 10th Anniversary.md
       - School Prospectus.md
       - Edgefield Mascots.md
+      - Announcements.md
