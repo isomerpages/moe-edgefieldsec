@@ -46,3 +46,11 @@ The **President’s Award for Teachers (PAT)** gives national recognition to e
 
 ------
 
+### A Conversation with Ms Lily Lee
+
+<img src="/images/tn6c2fcc66b_167mid.jpg" 
+    style="width:50%">
+
+Ms Lily Lee, a Geography teacher at Edgefield Secondary School, is an EdTech advocate and active contributor to the SLS Community Gallery. 
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/conversation-with-ms-lily-lee)
