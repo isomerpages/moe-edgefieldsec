@@ -210,3 +210,14 @@ In conjunction with the Singapore Kindness Movement, and also to build a spirit 
 A Character Education talk was conducted on the 15 May. With the support of SportSG, we are happy to have our national basketball player, Ng Hanbin, to speak to the school about resilience and excellence.
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/learning-for-life-programme-character-education-talk-on-15-may)
+
+---
+
+### Modern Dance CCA – 5th in the Divisional Finals of Super24 Dance Competition @ Our Tampines Hub
+
+<img src="/images/tn96614247f_122mid.jpg" 
+    style="width:50%">
+
+Super 24 is a dance showcase competition to showcase dance talents and team unity. It emphasizes teamwork and ingenuity. Teams are to consist of exactly 24 members, dancing within a confined 8 by 8 metre square and performing a strictly 90-second routine.    
+  
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/modern-dance-cca-5th-in-the-divisional-finals-of-super24-dance-competition)
