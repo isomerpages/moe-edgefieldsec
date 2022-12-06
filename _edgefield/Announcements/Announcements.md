@@ -166,3 +166,14 @@ Nominations for the annual Inspiring Teacher of English awards are now open.
 The Singapore International Band Festival (SIBF) was held yesterday, 27 July and we would like to congratulate our Concert Band members for obtaining the bronze award!   
   
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/bronze-award-in-sibf)
+
+---
+
+### Congratulations to 3 of our students from Taekwondo being awarded the Peter Lim Scholarship
+
+<img src="/images/tn3ef13b854_126mid.jpg" 
+    style="width:50%">
+
+Congratulations to 3 of our students from Taekwondo – Cassandra, Nicole, and Iszafi – for each being awarded the Peter Lim Scholarship!  
+ 
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/congratulations-to-3-of-our-students-from-taekwondo-being-awarded)
