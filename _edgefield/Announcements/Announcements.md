@@ -199,3 +199,14 @@ Mr Chang Ching, whom Chun Mun regards as having played a pivotal role in develop
 In conjunction with the Singapore Kindness Movement, and also to build a spirit of Compassionate Leadership in the school community,   
   
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/it-s-edgefield-cares-week-16-20-april-2018)
+
+----
+
+### Learning for Life Programme – Character Education Talk on 15 May
+
+<img src="/images/tn08fa7cc87_123mid.jpg" 
+    style="width:50%">
+
+A Character Education talk was conducted on the 15 May. With the support of SportSG, we are happy to have our national basketball player, Ng Hanbin, to speak to the school about resilience and excellence.
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/learning-for-life-programme-character-education-talk-on-15-may)
