@@ -98,3 +98,14 @@ The LEAP Award recognises exceptional teachers who have made a difference in the
 The OHTA is conferred on an outstanding secondary or junior college teacher who has exhibited excellence in and made exemplary contribution to the teaching and learning of History.
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/outstanding-history-teacher-award-2019)
+
+---
+
+### Taekwondo National School Games Achievements 2019
+
+<img src="/images/tna96d94a31_133.jpg" 
+    style="width:50%">
+
+After four days of hard work and sweat, EFSS students who participated in the Taekwondo National School Games bagged a total of 81 medals! 
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/taekwondo-national-school-games-2019)
