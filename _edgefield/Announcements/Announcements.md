@@ -122,3 +122,14 @@ After four days of hard work and sweat, EFSS students who participated in the Ta
 Give due recognition to deserving Chinese language teachers who have shown exemplary efforts towards the teaching of Chinese language and culture by nominating them!
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/distinguished-chinese-language-teacher-award-2019)
+
+----
+
+### OUTSTANDING COMPUTING TEACHER AWARD 2019 - INVITATION FOR NOMINATIONS
+
+<img src="/images/tnc597c0114_130mid.jpg" 
+    style="width:50%">
+
+The Outstanding Computing Teacher Award (OCTA) 2019 recognises Computing teachers who have made outstanding and sustained contributions to Computing Education through their inspiring teaching and commitment to teacher professional development.  
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/outstanding-computing-teacher-award-2019)
