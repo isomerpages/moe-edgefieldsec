@@ -188,3 +188,14 @@ Congratulations to 3 of our students from Taekwondo – Cassandra, Nicole, and I
 Mr Chang Ching, whom Chun Mun regards as having played a pivotal role in developing his love for Mathematics, was invited to attend his graduation ceremony at Nanyang Polytechnic.  
   
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/congratulations-to-loh-chun-mun-our-alumnus-for-being-awarded-the)
+
+----
+
+### It’s Edgefield Cares Week (16 – 20 April 2018 )!
+
+<img src="/images/tna8a24e541_124.jpg" 
+    style="width:50%">
+		
+In conjunction with the Singapore Kindness Movement, and also to build a spirit of Compassionate Leadership in the school community,   
+  
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/it-s-edgefield-cares-week-16-20-april-2018)
