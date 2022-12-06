@@ -32,3 +32,17 @@ Nominations for the annual Inspiring Teacher of English Awards are now open!
 The **Outstanding Youth in Education Award (OYEA)** seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. Submit your nominations by 7 January 2020!
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/outstanding-youth-in-education-award-oyea-2020)
+
+----
+
+### President's Award for Teachers (PAT) 2020
+
+<img src="/images/tn6fa72e9c0_178mid.jpg" 
+    style="width:50%">
+
+The **President’s Award for Teachers (PAT)** gives national recognition to experienced teachers for their dedication and hard work in developing our young! Submit your nominations by 20 January 2020!
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/presidents-award-for-teachers-2020)
+
+------
+
