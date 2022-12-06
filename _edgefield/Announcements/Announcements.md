@@ -144,3 +144,14 @@ The Outstanding Computing Teacher Award (OCTA) 2019 recognises Computing teach
 Four of our students: Teffania (4EV), Joshua Lai (4EV), Chia Hui Jing (3EC) & Xing Zengbao (3EC), took part in the 20th International Elementz Science Research Conference and Exhibition held from 8th to 11th April 2019.
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/efss-team-commended-in-20th-international-elementz-science-research-conference)
+
+----
+
+### INSPIRING TEACHER OF ENGLISH AWARD 2019 - INVITATION FOR NOMINATIONS
+
+<img src="/images/tnd45c514b0_128mid.jpg" 
+    style="width:50%">
+
+Nominations for the annual Inspiring Teacher of English awards are now open.  
+  
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/inspiring-teacher-of-english-award-2019-invitation-for-nominations)
