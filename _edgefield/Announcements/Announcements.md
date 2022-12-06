@@ -76,3 +76,14 @@ The Caring Teacher Awards is a biennial event that pays tribute to teachers who 
 Our Science busking team has made it to top 47 to compete in the Science Busking Finals 2019! 
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/science-busking-team-2019)
+
+-----
+
+### The LEAP Award 2019
+
+<img src="/images/tn0511960cb_136mid.jpg" 
+    style="width:50%">
+
+The LEAP Award recognises exceptional teachers who have made a difference in the lives of their pupils.
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/the-leap-award-2019)
