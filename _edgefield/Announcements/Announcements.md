@@ -155,3 +155,14 @@ Four of our students: Teffania (4EV), Joshua Lai (4EV), Chia Hui Jing (3EC) & Xi
 Nominations for the annual Inspiring Teacher of English awards are now open.  
   
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/inspiring-teacher-of-english-award-2019-invitation-for-nominations)
+
+---
+
+### Bronze award in SIBF
+
+<img src="/images/tn79efccb57_127mid.jpg" 
+    style="width:50%">
+
+The Singapore International Band Festival (SIBF) was held yesterday, 27 July and we would like to congratulate our Concert Band members for obtaining the bronze award!   
+  
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/bronze-award-in-sibf)
