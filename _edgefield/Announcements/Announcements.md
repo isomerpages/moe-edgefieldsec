@@ -177,3 +177,14 @@ The Singapore International Band Festival (SIBF) was held yesterday, 27 July and
 Congratulations to 3 of our students from Taekwondo – Cassandra, Nicole, and Iszafi – for each being awarded the Peter Lim Scholarship!  
  
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/congratulations-to-3-of-our-students-from-taekwondo-being-awarded)
+
+----
+
+### Congratulations to Loh Chun Mun, our alumnus, for being awarded the Microsoft Gold Medal as well as Microsoft Award for Outstanding Project Work.
+
+<img src="/images/tn6410763e3_125mid.jpg" 
+    style="width:50%">
+		
+Mr Chang Ching, whom Chun Mun regards as having played a pivotal role in developing his love for Mathematics, was invited to attend his graduation ceremony at Nanyang Polytechnic.  
+  
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/congratulations-to-loh-chun-mun-our-alumnus-for-being-awarded-the)
