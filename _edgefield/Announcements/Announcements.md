@@ -54,3 +54,16 @@ The **President’s Award for Teachers (PAT)** gives national recognition to e
 Ms Lily Lee, a Geography teacher at Edgefield Secondary School, is an EdTech advocate and active contributor to the SLS Community Gallery. 
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/conversation-with-ms-lily-lee)
+
+---
+
+### Caring Teacher Awards (CTA) 2019
+
+<img src="/images/tn951edab99_163.jpg" 
+    style="width:50%">
+
+The Caring Teacher Awards is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students. All nomination forms are to be submitted by 20 Oct 2019!
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/caring-teacher-awards)
+
+-----
