@@ -87,3 +87,14 @@ Our Science busking team has made it to top 47 to compete in the Science Busking
 The LEAP Award recognises exceptional teachers who have made a difference in the lives of their pupils.
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/the-leap-award-2019)
+
+-----
+
+### OUTSTANDING HISTORY TEACHER AWARD 2019 - INVITATION FOR NOMINATIONS
+
+<img src="/images/tn7c4db79b6_13mid.jpg" 
+    style="width:50%">
+
+The OHTA is conferred on an outstanding secondary or junior college teacher who has exhibited excellence in and made exemplary contribution to the teaching and learning of History.
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/outstanding-history-teacher-award-2019)
