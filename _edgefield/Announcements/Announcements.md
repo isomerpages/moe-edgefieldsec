@@ -67,3 +67,12 @@ The Caring Teacher Awards is a biennial event that pays tribute to teachers who 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/caring-teacher-awards)
 
 -----
+
+### Science Busking Finals 2019!
+
+<img src="/images/tn87762a14d_162.jpg" 
+    style="width:50%">
+
+Our Science busking team has made it to top 47 to compete in the Science Busking Finals 2019! 
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/science-busking-team-2019)
