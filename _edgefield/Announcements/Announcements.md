@@ -109,3 +109,16 @@ The OHTA is conferred on an outstanding secondary or junior college teacher who 
 After four days of hard work and sweat, EFSS students who participated in the Taekwondo National School Games bagged a total of 81 medals! 
 
 [READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/taekwondo-national-school-games-2019)
+
+----
+
+### DISTINGUISHED CHINESE LANGUAGE TEACHER AWARD 2019 - INVITATION FOR NOMINATIONS
+
+<img src="/images/tn5823e67dc_131.jpg" 
+    style="width:50%">
+
+**2019 年全国杰出华文教师奖提名表格 NOMINATION FORM FOR DISTINGUISHED CHINESE LANGUAGE TEACHERS AWARDS**
+
+Give due recognition to deserving Chinese language teachers who have shown exemplary efforts towards the teaching of Chinese language and culture by nominating them!
+
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/distinguished-chinese-language-teacher-award-2019)
