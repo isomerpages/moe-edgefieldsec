@@ -2,8 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - Achievements/CCA Achievements.md
-      - Achievements/.keep
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -43,3 +41,5 @@ collections:
         15 May.md
       - Announcements/Modern Dance CCA – 5th in the Divisional Finals of Super24
         Dance Competition @ Our Tampines Hub.md
+      - Achievements/.keep
+      - Achievements/CCA Achievements.md
