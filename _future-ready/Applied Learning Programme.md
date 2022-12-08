@@ -47,4 +47,10 @@ Surmounting the challenges from COVID-19, under the innovative conceptualization
 
 Please visit the ARTasFest Website by scanning the QR code or visit the website @ [https://artasfest.edgefield.sg/](https://artasfest.edgefield.sg/)
 
-![](/images/Pic%2004.png)
+<img src="/images/Pic%2004.png" 
+    style="width:70%">
+
+You can also check out our live Instagram updates @efss\_artasfest
+
+<img src="/images/Pic%2005.png" 
+    style="width:70%">
