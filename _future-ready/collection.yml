@@ -2,7 +2,6 @@ collections:
   future-ready:
     output: true
     order:
-      - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md
       - Future Ready.md
       - Applied Learning Programme.md
       - Autonomy Supportive Behaviours.md
@@ -13,3 +12,4 @@ collections:
       - Compassionate Leaders In Act/VIA Projects.md
       - Learning For Life Programme.md
       - Research (Evidence based Design).md
+      - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md
