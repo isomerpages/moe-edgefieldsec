@@ -2,6 +2,6 @@ collections:
   student-accolades:
     output: true
     order:
-      - Tan Kah Kee Young Inventors' Award.md
       - Design Awards.md
       - GEM (ALP) Awards.md
+      - Tan Kah Kee Young Inventors' Award.md
