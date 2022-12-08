@@ -97,3 +97,48 @@ Year 3 Euclid, Member, 2020**_
 
 ### Performing Arts
 
+<img src="/images/Choir.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
+        
+Being a member of the choir has given me an opportunity to challenge myself and face my fears such as stage fright. Although I had past experiences being in the choir, there were still many things about choir yet for me to discover. With the patient guidance from my instructor, teachers and seniors, I have been able to pick up many techniques to improve my singing.  
+      
+I have gained much confidence through the different opportunities to perform. For example, during the annual Chinese New Year school performance, I slowly overcame stage fright as the choir had to perform in front of the whole school. This has also given me a platform to learn from how I can improve future performances.
+    
+As a member of the CCA, I really enjoy the opportunities when all the choir members are able to come together and harmonise. Being the President of Choir has given me the experience to organise activities and to learn how to lead by example. I believe that by being both a member and a leader, I've grown to be a better and more understanding person.  
+      
+**_Leong Zhun Ling Jodie <br>
+Year 3 Euler, Member, 2020_**
+
+<img src="/images/Concert%20Band.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
+    
+I have learnt many skills from being in the Concert Band. These skills include playing a new instrument and having a deeper understanding of music.  
+  
+Being in the Band has taught me important values like responsibility and teamwork as I would not be able to play a nice piece of music without other members of the band. I have also learnt to be confident, especially when performing.  
+I have definitely enjoyed making new friends in the Band. The teachers and conductors are very patient and friendly. The people in Band definitely help to make each practice fun and enjoyable. I would most definitely consider joining a band again in the future or even pursue my passion for music and learn music at a higher level.  
+  
+_**Jin Zixuan, David  <br>
+Year 3 Eliot, Member, 2020**_
+
+<img src="/images/ELDDS.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
+    
+As my first choice of CCA, being in ELDDS has been a very fulfilling and meaningful learning experience for me. ELDDS has given me many opportunities to open up and be comfortable on stage and to be who am I today.  
+  
+As a CCA leader, I was taught to play a key role in guiding the whole CCA . When making decisions or handling situations on the spot, I would have to be display mental and emotional strength for the good of my members.  
+  
+Through this CCA, I have grown to be a better person from the trust and the responsibility given to me by my drama instructors and teachers. Being a leader is not just a role but a way that has built my character and made me more confident and comfortable with myself.  
+  
+I will continue to do my best in the CCA to support my teachers, guide my juniors and grow my CCA more.  
+  
+_**Derrick Lam <br>
+Year 3 Edison, President, 2020**_
+
+<img src="/images/ELDDS.jpg" 
+    style="width:60%">
