@@ -1,4 +1,5 @@
 collections:
   future-ready:
     output: true
-    order: []
+    order:
+      - Future Ready.md
