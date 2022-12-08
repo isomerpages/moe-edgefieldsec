@@ -18,6 +18,35 @@ As a member of the Art Club, looking out for one another, striving to do better,
 Coming to CCA every week has made me find joy in work and feel more passionate about art. Some of the many things I enjoy would be our visits to exhibits, meeting Art Club students from other schools, and supporting various communities through art.  
       
 I hope to pursue a career in visual communications, which requires experience in various areas in art. I believe that with the skills and knowledge I have gained from my CCA, I will be able to continue my journey with the arts in different ways.
-    
       
 _**Anisha Vinata Widyawati Rachman,  <br>Year 3 Eliot, Vice President 2020**_
+
+<img src="/images/Entreprenuer%20Club.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/entrepreneur-club).
+    
+Ever since I joined the Entrepreneurship Club (E-Club), there has not been a day when I stopped learning. My CCA members and I participate in various competitions to learn about entrepreneurship. We learn how to pitch our ideas in front of an audience, work with people and apply business marketing skills in specific scenarios.  
+  
+In this CCA, we learn many different values like perseverance towards our main goal, having a vision to guide us and exercising bravery in pursuing opportunities. There are many things that I enjoy in this journey, but my favourite is definitely interacting with my fellow CCA members as we venture into learning new areas. All that I have learnt would benefit my future whether in society, at home and at work. Being in this CCA has taught me how to better communicate with the people around me. It has also broadened my creativity for creating new solutions to problems occurring in the world we live in.  
+  
+I'd certainly want to join a course similar to E-Club in the future and would love to see myself as a young entrepreneur! 
+
+_**Lee Ee Qian,  <br>
+Year 3 Emerson, President, 2020**_
+
+<img src="/images/New%20Media%20Club.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/new-media-club).
+    
+New Media Club enables us to learn both technical and soft skills required in Audio Visual management. Learning the ins and outs of managing an event requires us to be proficient in operating the various equipment and in communicating well with each other. The CCA also gives us plenty of opportunities to partake in school events to ensure that the event runs smoothly.  
+  
+Not only that, we can hone our photography and videography skills through our participation in competitions each year. We are encouraged to use our creativity to come up with interesting photos and videos that fit the theme of the competition. We also learn to work together in team competitions.  
+  
+The CCA also takes us to places such as Gardens by The Bay where we took photos of the plants and enjoyed friendly competitions with each other. Such experiences give us all a chance to bond together and get to know one another better.  
+  
+The photography and videography technical skills as well as the AV management skills would come in handy when we choose related courses in our Post-secondary journey. One key skill that we have picked up in this CCA is that of leadership and teamwork. By managing and leading school events, we can be prepared to take on a leadership role in the future and learn to work under pressure. Working with each other allows us to learn to work with others and will definitely be useful when we are in a team-based workspace. 
+
+_**Jasmine Lim Hui Min <br>
+Year 3 Everest, Vice President, 2020**_
