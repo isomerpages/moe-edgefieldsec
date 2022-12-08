@@ -2,5 +2,5 @@ collections:
   student-accolades:
     output: true
     order:
-      - GEM (ALP) Awards.md
       - Design Awards.md
+      - GEM (ALP) Awards.md
