@@ -2,5 +2,6 @@ collections:
   future-ready:
     output: true
     order:
+      - Autonomy Supportive Behaviours.md
       - Future Ready.md
       - Applied Learning Programme.md
