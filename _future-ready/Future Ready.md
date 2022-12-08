@@ -4,7 +4,7 @@ permalink: /future-ready/future-ready/
 description: ""
 ---
 <img src="/images/Applied-Learning-Programme.jpg" 
-    style="width:70%">
+    style="width:60%">
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/future-ready/applied-learning-programme).  
 
@@ -19,7 +19,7 @@ _"My confidence and communication skills have been further developed through thi
 Year 1 Euler, 2020**
 
 <img src="/images/Learning%20for%20life.jpg" 
-    style="width:70%">
+    style="width:60%">
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/future-ready/learning-for-life-programme).
 
@@ -42,7 +42,7 @@ Graduating Class of 2015 <br>
 ASEAN and SEA Games athlete**
 
 <img src="/images/TEL%20at%20Edgefield.jpg" 
-    style="width:70%">
+    style="width:60%">
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/future-ready/technology-enhanced-learning-at-edgefield-tel-at-edgefield).
     
