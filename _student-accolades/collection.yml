@@ -1,4 +1,5 @@
 collections:
   student-accolades:
     output: true
-    order: []
+    order:
+      - Design Awards.md
