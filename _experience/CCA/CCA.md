@@ -140,5 +140,46 @@ I will continue to do my best in the CCA to support my teachers, guide my junior
 _**Derrick Lam <br>
 Year 3 Edison, President, 2020**_
 
-<img src="/images/ELDDS.jpg" 
+<img src="/images/Festive%20Drums.jpg" 
     style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
+    
+I joined Festive Drums without much knowledge but as time passed, my interest for this CCA grew stronger as I started to enjoy every moment, realising it was alright to make mistakes so long as I learnt from them and improved. This love for drumming grew in me while I gained more experience on my drumming journey. Every second has been precious and enjoyable and whenever CCA sessions come to an end, I am always looking forward to the next session.  
+  
+I enjoy every moment I with my juniors and seniors and am really glad that they are a part of my journey. I really appreciate that I was given a chance to lead. It helped me grow further, not just in terms of values but also in terms of the ability to bond with my CCA members more.  
+  
+I do not regret selecting Festive Drums as one of my choices. This CCA has taught me teamwork, perseverance, responsibility and many other values. Over time, drumming has turned into a passion for me and it has never stopped growing. Our instructor is also always looking out for us, giving us feedback and helping us in many ways like teaching us different tactics in memorizing scores and refining the way we hold our drum sticks.  
+  
+Every performance is precious to me as we have watched each other grow from being anxious before the performance to developing confidence and achieving the sense of satisfaction after each performance. We have built a passionate team with strong synchronization and I’m really glad to be in this CCA.  
+  
+**_Daseryn Lui <br>
+Year 3 Einstein, Member, 2020_**
+
+<img src="/images/Guzheng.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
+        
+Guzheng CCA taught me how to express my emotion through music. Each piece of music has its own background story. By playing the Guzheng in different pitches and tones, it allows me to express different emotions and to communicate with the audience through music.  
+      
+Being a member of Guzheng CCA has given me an opportunity to learn more about teamwork. It requires all members to work together, listen to different sections in order to give our best performance to the audience. This value has had helped me in various school projects as I know the importance of working with my teammates.  
+      
+I really enjoy the moments when all the sections of the CCA are able to synchronise and create beautiful melodies. I treasure the opportunity to be the Vice President of the Guzheng CCA. It is therefore my responsibility to care for other members and it has helped me to become a better leader.  
+      
+**Ng Wenyu <br>
+Year 3 Eliot, Vice President, 2020**_
+
+<img src="/images/Harmonica.jpg" 
+    style="width:60%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
+    
+Joining the Harmonica CCA has helped me learn how to read number scores. Prior to joining the CCA, I could only read the 6 line music scores. I can now read number scores easily. This is an important skill that I can bring with me after secondary school.  
+  
+I have learnt values such as responsibility and patience from this being in the harmonica band. I have to take responsibility for learning new songs so that I am able to play the songs during performances. I have also learnt to be patient when teaching my juniors and members in my section when learning new songs. I enjoy learning to play songs as it is very fun to be able to play a song together with the whole band! I think that performing as a band is the most enjoyable thing to do in the CCA.  
+  
+The skills and values I learn in the CCA will definitely be applicable to my tertiary education and maybe even the workforce. I would have to be responsible in my work and be able to collaborate well with my future colleagues.  
+  
+**_Nur Khairunnisa Binte Mohamed Khir <br>
+Year 3 Euclid, President, 2020_**
