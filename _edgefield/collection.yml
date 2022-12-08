@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - Locate Us.md
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
@@ -46,3 +45,4 @@ collections:
       - Achievements/CCA Achievements.md
       - Achievements/Student Accolades.md
       - Achievements/Staff Accolades.md
+      - Locate Us.md
