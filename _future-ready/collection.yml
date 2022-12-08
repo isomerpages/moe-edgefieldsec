@@ -2,6 +2,7 @@ collections:
   future-ready:
     output: true
     order:
+      - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md
       - Future Ready.md
       - Applied Learning Programme.md
       - Autonomy Supportive Behaviours.md
