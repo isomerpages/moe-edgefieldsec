@@ -2,5 +2,5 @@ collections:
   future-ready:
     output: true
     order:
-      - Applied Learning Programme.md
       - Future Ready.md
+      - Applied Learning Programme.md
