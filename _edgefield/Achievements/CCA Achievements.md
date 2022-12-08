@@ -27,19 +27,19 @@ third_nav_title: Achievements
 
 | Uniformed Group |  2018 | 2019 | 2020 |
 |---|---|---|---|
-| NPCC (SEA) |  |  |    |
-| Unit Overall Proficiency (UOPA) Award |  N.A |  Gold |  Results released in 2021 |
-| Others |  N.A | SPF- NPCC Badge<br>Adam Khoo Junhao (4EV) | SPF–NPCC Badge<br>Chin Ngee An (4EL)<br>Seow Khee Shean (4EU) |
-| NCDCC |  |  |    |
-| Unit Overall Proficiency (UOPA) Award |    N.A   |  Silver | Results released in 2021   |
-| NCDCC Emergency Responders' Challenge |  N.A | 3rd Placing  |  N.A |
-| GIRL GUIDES |  |  |  |
-| Puan Noor Aishah Award (PNAA) | N.A  |  1st COY - Silver<br>2ND COY - Silver |  N.A |
-| Pin Design Competition  | N.A | 2nd Placing  |   N.A  |
-| Centenary Carnival cum World Thinking Day @ Botanic Gardens North Division Amazing Race  | 1st Placing  |  N.A | N.A |
-| SCOUTS |  |  |  |
-| Frank Cooper Sands Award | N.A  |   Gold | Results released in 2021  |
-| Chief Commissioner's Award  | N.A | N.A |  HIGHEST ACHIEVEMENT<br>Wong Kin Lok (4EU)<br>Clarence Lim (4EL) |
-|  Singapore-Malaysia Scout Exchange | N.A  |  Amazing Race - Gold | N.A  |
-| North Area Cluster Scout Lore Quest and Structure Modelling Competition | N.A | 3rd Placing  | N.A |
+| **NPCC (SEA)** |  |  |    |
+| • **Unit Overall Proficiency (UOPA) Award** |  N.A |  Gold |  Results released in 2021 |
+| • **Others** |  N.A | SPF- NPCC Badge<br>Adam Khoo Junhao (4EV) | SPF–NPCC Badge<br>Chin Ngee An (4EL)<br>Seow Khee Shean (4EU) |
+| **NCDCC** |  |  |    |
+| • **Unit Overall Proficiency (UOPA) Award** |    N.A   |  Silver | Results released in 2021   |
+| • **NCDCC Emergency Responders' Challenge** |  N.A | 3rd Placing  |  N.A |
+| **GIRL GUIDES** |  |  |  |
+| • **Puan Noor Aishah Award (PNAA)** | N.A  |  1st COY - Silver<br>2ND COY - Silver |  N.A |
+| • **Pin Design Competition**  | N.A | 2nd Placing  |   N.A  |
+| • **Centenary Carnival cum World Thinking Day @ Botanic Gardens North Division Amazing Race**  | 1st Placing  |  N.A | N.A |
+| **SCOUTS** |  |  |  |
+| • **Frank Cooper Sands Award** | N.A  |   Gold | Results released in 2021  |
+| • **Chief Commissioner's Award**  | N.A | N.A |  HIGHEST ACHIEVEMENT<br>Wong Kin Lok (4EU)<br>Clarence Lim (4EL) |
+|  • **Singapore-Malaysia Scout Exchange** | N.A  |  Amazing Race - Gold | N.A  |
+| • **North Area Cluster Scout Lore Quest and Structure Modelling Competition** | N.A | 3rd Placing  | N.A |
 | | |
