@@ -7,7 +7,7 @@ third_nav_title: CCA
 ### Clubs
 
 <img src="/images/Art%20Club.jpg" 
-    style="width:70%">
+    style="width:60%">
 
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/art-club).
         
