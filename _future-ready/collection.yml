@@ -2,6 +2,7 @@ collections:
   future-ready:
     output: true
     order:
+      - Learning For Life Programme.md
       - Future Ready.md
       - Applied Learning Programme.md
       - Autonomy Supportive Behaviours.md
