@@ -2,5 +2,5 @@ collections:
   sports:
     output: true
     order:
-      - Basketball.md
       - Badminton (Boys,Girls).md
+      - Basketball.md
