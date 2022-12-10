@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/CCA.md
       - CCA/Clubs.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
