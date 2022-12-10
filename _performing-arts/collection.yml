@@ -2,9 +2,9 @@ collections:
   performing-arts:
     output: true
     order:
-      - Harmonica.md
       - Choir.md
       - Concert Band.md
       - ELDDS.md
       - Festive Drums.md
       - Guzheng.md
+      - Harmonica.md
