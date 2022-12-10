@@ -2,5 +2,6 @@ collections:
   performing-arts:
     output: true
     order:
+      - ELDDS.md
       - Choir.md
       - Concert Band.md
