@@ -2,8 +2,8 @@ collections:
   sports:
     output: true
     order:
-      - Taekwondo.md
       - Badminton (Boys,Girls).md
       - Basketball.md
       - Shooting.md
       - Softball (Girls).md
+      - Taekwondo.md
