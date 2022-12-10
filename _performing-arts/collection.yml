@@ -2,10 +2,10 @@ collections:
   performing-arts:
     output: true
     order:
-      - Modern Dance.md
       - Choir.md
       - Concert Band.md
       - ELDDS.md
       - Festive Drums.md
       - Guzheng.md
       - Harmonica.md
+      - Modern Dance.md
