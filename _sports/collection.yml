@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Wushu.md
       - Badminton (Boys,Girls).md
       - Basketball.md
       - Shooting.md
