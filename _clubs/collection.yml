@@ -2,8 +2,8 @@ collections:
   clubs:
     output: true
     order:
-      - SYFC.md
       - Art Club.md
       - Entrepreneur Club.md
       - New Media Club.md
       - Thinker's Society.md
+      - SYFC.md
