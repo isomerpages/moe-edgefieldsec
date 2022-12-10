@@ -51,3 +51,32 @@ Even with Covid-19 restrictions, we leveraged on ICT tools to ensure that E-Asse
 
 To provide exposure to the different art forms, we invited Micappella for a live concert as part of our National Day Celebrations.
 
+![](/images/IMG_2384.jpg)
+
+----
+
+### Illustration with artist Darel Seow
+
+![](/images/Sec%202%20Darel%20Seow_2.jpg)
+
+![](/images/Sec%202%20Darel%20Seow_1.jpg)
+
+Our post examination activity was an opportunity for us to expose our students to different art forms in hopes of inspiring them. Illustrator Darel Seow conducted a lesson with our Secondary 2 students on character illustration and shared his experience as an illustrator.
+
+---
+
+### K-Pop Dance
+
+The Secondary 1 students were engaged in K-Pop dance where they learnt the steps and coordination as they bonded with their peers.
+
+![](/images/PLACEHOLDER_image17.jpg)
+
+----
+
+### Learning Journey to Esplanade
+
+The Secondary 3 students went on a learning journey to watch a performance by The Lorong Boys at the Esplanade this year. They also learnt about theatre etiquette, the history of classical music and the different elements of music.
+
+![](/images/PHOTO-2022-05-24-16-14-29.jpg)
+
+![](/images/PHOTO-2022-05-24-16-15-58.jpg)
