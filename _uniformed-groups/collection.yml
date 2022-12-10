@@ -2,7 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Scouts.md
       - Girl Guides.md
       - NPCC (Sea).md
       - NCDCC.md
+      - Scouts.md
