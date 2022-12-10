@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Festive Drums.md
       - Choir.md
       - Concert Band.md
       - ELDDS.md
