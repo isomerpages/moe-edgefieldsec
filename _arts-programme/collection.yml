@@ -1,0 +1,4 @@
+collections:
+  arts-programme:
+    output: true
+    order: []
