@@ -2,6 +2,6 @@ collections:
   clubs:
     output: true
     order:
-      - New Media Club.md
       - Art Club.md
       - Entrepreneur Club.md
+      - New Media Club.md
