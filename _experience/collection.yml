@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Interactive Timeline.md
       - CCA/.keep
       - CCA/Clubs.md
       - CCA/Performing Arts.md
