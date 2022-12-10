@@ -1,4 +1,5 @@
 collections:
   arts-programme:
     output: true
-    order: []
+    order:
+      - Bringing Arts to the School.md
