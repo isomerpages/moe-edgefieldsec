@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - CCA/Uniformed Groups.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Clubs.md
