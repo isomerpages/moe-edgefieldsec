@@ -2,10 +2,10 @@ collections:
   experience:
     output: true
     order:
-      - Programme/.keep
-      - Interactive Timeline.md
       - CCA/.keep
       - CCA/Clubs.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports.md
+      - Interactive Timeline.md
+      - Programme/.keep
