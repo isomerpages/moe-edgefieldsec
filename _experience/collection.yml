@@ -2,8 +2,8 @@ collections:
   experience:
     output: true
     order:
-      - CCA/Uniformed Groups.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Clubs.md
       - CCA/Performing Arts.md
+      - CCA/Uniformed Groups.md
