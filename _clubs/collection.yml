@@ -2,5 +2,5 @@ collections:
   clubs:
     output: true
     order:
-      - Entrepreneur Club.md
       - Art Club.md
+      - Entrepreneur Club.md
