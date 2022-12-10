@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - CCA/Performing Arts.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Clubs.md
