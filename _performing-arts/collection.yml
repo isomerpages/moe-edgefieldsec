@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Guzheng.md
       - Choir.md
       - Concert Band.md
       - ELDDS.md
