@@ -2,6 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - CCA/Clubs.md
       - CCA/.keep
       - CCA/CCA.md
+      - CCA/Clubs.md
