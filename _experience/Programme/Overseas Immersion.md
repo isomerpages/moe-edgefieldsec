@@ -7,7 +7,7 @@ third_nav_title: Programme
 <img src="/images/Overseas%20Immersion.jpg" 
     style="width:70%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/programme/overseas-immersion).
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/programme/overseas-immersion/2016-2019).
     
 _"Being part of the school twinning programme with Sultan Muhammad Jamalul Alam Secondary School (SMSMJA) was amazing and had a huge impact on me. It has opened my eyes to the many different cultures, traditions of Brunei citizens. SMSMJA’s learning environment for their students was quite an eye-opener for me as although there are quite a few differences, their education system has some similarities to our education system at the same time._ 
     
