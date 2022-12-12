@@ -2,4 +2,5 @@ collections:
   arts-programme:
     output: true
     order:
+      - Forward Ready Arts Curriculum.md
       - Bringing Arts to the School.md
