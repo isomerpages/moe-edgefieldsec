@@ -12,7 +12,7 @@ From a survey conducted after the workshop, students found that sketchnoting can
 <img src="/images/PLACEHOLDER_image31.png" 
     style="width:50%">
 
-<img src="/images/_DSC6704.jpg" 
+<img src="images/_DSC6704.jpg" 
     style="width:70%">
 		
 ----
