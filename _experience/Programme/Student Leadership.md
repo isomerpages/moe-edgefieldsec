@@ -7,7 +7,7 @@ third_nav_title: Programme
 <img src="/images/Student%20Leadership.jpg" 
     style="width:70%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/programme/student-leadership) .
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/programme/student-leadership/student-leadership) .
     
 _"From serving in the Prefectorial Board, I have learnt more about leadership; how to lead my peers and juniors, work in teams, resolve conflicts, and being confident. These soft skills empower me to face future scenarios when working with others, be it within the classroom walls or beyond._
       
