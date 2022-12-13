@@ -1,4 +1,5 @@
 collections:
   together:
     output: true
-    order: []
+    order:
+      - Alumni.md
