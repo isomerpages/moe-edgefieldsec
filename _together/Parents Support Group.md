@@ -6,28 +6,32 @@ description: ""
 <img src="/images/image2.jpg" 
     style="width:70%">
 
-<center> 
-As parents, we play an important role in our children’s development and to optimize their potential. <br> Edgefield Secondary School's Parent Support Group (EFSS PSG) supports both parents and their child in their journey in this school.
+As parents, we play an important role in our children’s development and to optimize their potential. 
+
+Edgefield Secondary School's Parent Support Group (EFSS PSG) supports both parents and their child in their journey in this school. 
 
 ### _Our Mission_
 
-Encourage and support the school in the wellbeing and development of our children. <br> Assist parents in developing the skills they need to prepare their children for the future.
+Encourage and support the school in the wellbeing and development of our children. 
+
+Assist parents in developing the skills they need to prepare their children for the future.
 
 ### _Our Vision_
 
-Work with school management to deepen the scope of collaboration. <br> Building and maintaining closer relationships with all Edgefield parents and PSG members. <br> Act as a feedback channel for parents to communicate with the school.
+Work with school management to deepen the scope of collaboration. 
+
+Building and maintaining closer relationships with all Edgefield parents and PSG members. 
+
+Act as a feedback channel for parents to communicate with the school.
 
 ### _Our Roles_  
 
 We collaborate with the school on projects (e.g. Racial Harmony Day, International Friendship Day etc.) that mold our future leaders with resilience and confidence with the skills they empower.
 	
-</center>
-
 ------
 
 **Message from EFSS PSG Executive Committee (EFSS PSG EXCO)**
   
-<center>
 Dear Parents,
 
 A warm welcome to Edgefield Secondary School!  
@@ -45,12 +49,8 @@ We welcome you and/or your spouse to join our PSG family and volunteer your time
 
 Looking forward to another great year with the PSG community!
 	
-</center>
-
 ----
 
-<center> 
-	
 ### JOIN US NOW!
 
 Please **click the image below**, or fill up the form [here.](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)
@@ -59,13 +59,10 @@ Please **click the image below**, or fill up the form [here.](https://form.gov
     style="width:25%">
 
 Click [here](https://sites.google.com/view/efss-psg/home) to visit our gallery for more information and photos.
-</center>
 
 ----
 	
 **More Information on EFSS PSG**
-
-<center>
 	
 **Our Code of Ethics**
 
