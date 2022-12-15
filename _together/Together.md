@@ -4,7 +4,7 @@ permalink: /together/
 description: ""
 ---
 <img src="/images/Staff.jpg" 
-    style="width:70%">
+    style="width:60%">
 
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/together/staff). 
     
@@ -32,7 +32,7 @@ I hope that Edgefield can create more of such experiences to enable us not just 
 **A Senior Teacher’s Perspective**
 
 <img src="/images/PSG.jpg" 
-    style="width:70%">
+    style="width:60%">
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/together/parents-support-group).
     
@@ -47,7 +47,7 @@ Truly, the people who benefit the most are my children and myself. Many parents 
 **_Stephen John Tunstall (Member of PSG)_**
 
 <img src="/images/Partnership1.jpg" 
-    style="width:70%">
+    style="width:60%">
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/together/partnership).
     
