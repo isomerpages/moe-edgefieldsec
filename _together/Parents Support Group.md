@@ -30,7 +30,7 @@ We collaborate with the school on projects (e.g. Racial Harmony Day, Internation
 	
 ------
 
-**Message from EFSS PSG Executive Committee (EFSS PSG EXCO)**
+### Message from EFSS PSG Executive Committee (EFSS PSG EXCO)
   
 Dear Parents,
 
@@ -62,7 +62,7 @@ Click [here](https://sites.google.com/view/efss-psg/home) to visit our gallery f
 
 ----
 	
-**More Information on EFSS PSG**
+### More Information on EFSS PSG
 	
 **Our Code of Ethics**
 
