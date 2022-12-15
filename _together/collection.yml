@@ -2,7 +2,7 @@ collections:
   together:
     output: true
     order:
-      - Partnership.md
       - Alumni.md
       - Direct School Admission (DSA).md
       - Parents Support Group.md
+      - Partnership.md
