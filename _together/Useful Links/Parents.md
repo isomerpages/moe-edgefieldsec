@@ -9,7 +9,9 @@ Teacher Contact List 2022
   
 [2022 EFSS Calendar](/files/2022%20EFSS%20Calendar%20Parents%2030%20December%202021.pdf)
   
-[2022 CCA Schedule](/files/CCA%20teachers%20and%20schedule%202022_6%20Jan.pdf) | [2022 Nov/Dec Holiday CCA Schedule](/files/CCA%20Schedule%20for%20Nov_Dec%202022.pdf)
+[2022 CCA Schedule](/files/CCA%20teachers%20and%20schedule%202022_6%20Jan.pdf) 
+
+[2022 Nov/Dec Holiday CCA Schedule](/files/CCA%20Schedule%20for%20Nov_Dec%202022.pdf)
   
 [Student Handbook](/files/Student%20Handbook.pdf)
 
