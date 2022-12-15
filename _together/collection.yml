@@ -2,5 +2,6 @@ collections:
   together:
     output: true
     order:
+      - Parents Support Group.md
       - Alumni.md
       - Direct School Admission (DSA).md
