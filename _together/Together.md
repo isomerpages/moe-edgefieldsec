@@ -31,3 +31,34 @@ I hope that Edgefield can create more of such experiences to enable us not just 
 **By Madam How** <Br>
 **A Senior Teacher’s Perspective**
 
+<img src="/images/PSG.jpg" 
+    style="width:70%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/together/parents-support-group).
+    
+I think the great thing I really appreciate is having the opportunity to engage with my kids while they are in school. There are many chances to do things outside the school with our children, but it is quite different to stay in touch them during their teenage years. It is a good way to retain the bond we have with them and also to strengthen that bond. As they go through their own set of challenges during their Secondary school years, I count myself lucky to be able to have this rare opportunity to keep in close touch with my son. My son, Ryan Iskandar Tunstall (1EM, 2018), is also happy to have his daddy at school, joining in various events and activities in Edgefield Secondary.
+    
+While there are other parents’ children that are embarrassed when their parents are around, I am grateful that my children do not feel this way. My wife and I have been involved in our children’s lives and have done this all the way through their schoolings years from Primary School. Our two girls are currently at Seng Kang Primary School and it is definitely a stark change, as there are not as many activities in Secondary Schools.
+    
+This is why Mr Eric Foo (HOD /PE & CCA), Mr Shawn Lye, and I are trying to boost the ‘Dads for Life’ programme as much as we can. We are trying to bring it back to life as we work through the challenges of doing so!
+    
+Truly, the people who benefit the most are my children and myself. Many parents don’t know what they are missing. This opportunity to bond with your child only comes once. My own parents never had the opportunity or time. I hope more parents will take this wonderful opportunity up for themselves in the future!  
+    
+**_Stephen John Tunstall (Member of PSG)_**
+
+<img src="/images/Partnership1.jpg" 
+    style="width:70%">
+		
+For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/together/partnership).
+    
+Working with Edgefield in the last couple of years has surely been a positive experience thus far. Just this year in the first half of the year, we had a few major collaborations which were highly successful. In the midst of the Chinese New Year celebrations, Edgefield students took time out of the usual festivities to give back to the community on the 24th of February. Led by HOD/MT, Mdm Genevieve Tan, the team visited various needy families in Punggol West and distributed close to 80 hampers. The team spent about 3 to 4 hours working hand in hand with a group of ACTIVE AGEING senior volunteers from Punggol West to give out these hampers. The students who were involved had a good time interacting and relating to the ACTIVE AGEING Senior volunteers and gaining knowledge and insights on life from them. It was indeed a meaningful time spent together!  
+      
+We also had two other events that happened on the 10th of March this year. The first was the NORTH-EAST CDC ELDERSURF INTERGEN BOOT CAMP SMARTPHONE WORKSHOP. This collaboration was initiated because the elderly possessed smartphones which they were unfamiliar with and did not know how to manoeuvre effectively. Because of this, the need for them to be taught, helped, and guided arose. The Punggol West ACTIVE AGEING community (under Punggol West Division) partnered up with Edgefield, and ran the ELDERSURF SMART WORKSHOP. Students had to learn to teach elders how to use smart phones and enable them to be more competent in handling smart phones. As much as it was a learning experience for the senior citizens, it was just as much a learning curve for the students as they learnt how to be patience and skilful in passing on knowledge that is second-nature to them. 
+    
+On the same day, the PUNGGOL WEST CC YOUTH EXECUTIVE COMMITTEE was set up where some youths took part in a swearing-in ceremony for the formation of their committee followed by a game of Laser Tag where Pasir Ris-Punggol Grassroots Adviser, Ms Sun Xueling, graced the event. Joining her as part of the witnesses, was a group of Edgefield students, who also took part in the Laser Tag event. It surely was a blast for all youths involved!
+    
+All in all, it’s been a very fruitful partnership with Edgefield Secondary in recent years, and it’s been a joy liaising with Mr Eric Foo, HOD/PE&CCA and HOD/MT, Mdm Genevieve Tan. I look forward to more collaborations in the future that would make experiences meaningful for both Punggol West Division volunteers as well as Edgefield students alike. 
+    
+**_Annette Yang, 2018_** <br>
+**_Senior Constituency Manager_** <br>
+**_Punggol West Constituency Office, People’s Association_**
