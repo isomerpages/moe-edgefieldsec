@@ -2,6 +2,7 @@ collections:
   together:
     output: true
     order:
+      - Useful Links/Students.md
       - Useful Links/.keep
       - Alumni.md
       - Direct School Admission (DSA).md
