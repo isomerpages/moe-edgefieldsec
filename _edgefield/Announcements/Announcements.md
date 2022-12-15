@@ -198,7 +198,7 @@ Mr Chang Ching, whom Chun Mun regards as having played a pivotal role in develop
 		
 In conjunction with the Singapore Kindness Movement, and also to build a spirit of Compassionate Leadership in the school community,   
   
-[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/it-s-edgefield-cares-week-16-20-april-2018)
+[READ MORE](https://staging.d3jwf1tlw34213.amplifyapp.com/edgefield/announcements/its-edgefield-cares-week-16-20-april-2018/)
 
 ----
 
