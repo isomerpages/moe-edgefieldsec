@@ -34,7 +34,7 @@ sections:
       description: '"Change is the very essence of life." - Lee Kuan Yew, Founding
         Prime Minister of Singapore'
       button: LEARN MORE
-      url: /future-ready
+      url: /future-ready/future-ready/
       image: /images/future-ready-crop.png
       alt: Image alt text
   - infopic:
