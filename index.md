@@ -11,7 +11,7 @@ sections:
       subtitle: Collaborative Innovators, Compassionate Leaders
       background: /images/gifmaker (2).gif
       button: Locate US
-      url: /edgefield/locate-us
+      url: /contact-us
       key_highlights:
         - title: "EFSS Signage 123 Open House 2022 "
           description: (19 Nov 2022, 9am -1pm)
