@@ -43,7 +43,7 @@ sections:
         full potential... will unlock the door to personal excellence." -
         Confucius, Chinese Philosopher'
       button: LEARN MORE
-      url: /experience/cca
+      url: /experience/cca/clubs/
       image: /images/experience.png
       alt: Image alt text
   - infopic:
