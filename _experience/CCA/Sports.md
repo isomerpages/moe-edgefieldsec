@@ -94,3 +94,6 @@ Year 3 Euclid, Member, 2020_**
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).
     
 Wushu teaches me important life skills that would really benefit me in the future. One of these skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA training every week, I am able to make it a habit to focus on what I'm doing.This helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
+
+_**Cai Xinyan  
+Year 4 Edison, Captain, 2022**_
