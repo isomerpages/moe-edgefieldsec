@@ -32,6 +32,11 @@ _Accomplishment_
 Ms Andrea Lim <br>
 Mrs Grace Lewis
 
+**Student Leaders**  
+President: Shernice Chan (4EH)  <br>
+Vice-President: Cheng Qijia (4ED)<br>
+Student Conductor: Yip Jiayu, Yvinne (4EC)
+
 **Training Days                        Training Hours** <br>
 Monday                                       4.00 to 6.00 pm  <br>
 Wednesday                               4.00 to 6.00 pm
