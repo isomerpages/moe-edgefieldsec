@@ -37,9 +37,15 @@ Singapore Amazing Flying Machine Competition (SAFMC)<br>
 Mr Koh Guan Hong <br>
 Mdm Norashikin Abd Rashid
 
+**Student Leaders**<br>
+President: Tan Yu Wen Terlyn, 4EH<br>
+Vice-President: Gidon Chia Yao Cong, 4EU<br>
+Administrative Manager: Danish Ismail Bin Fahmi, 4EM<br>
+Logistics Manager: Gavin Lai Zheng Rong, 4ED
+
 **Training Schedule                    Training Time** <br>
-Wednesday                                3.30 - 5.30pm <br>
-Friday                                            2.30 - 4.30pm
+Wednesday                                3.45 - 5.45pm <br>
+Friday                                            2.15 - 4.15pm
 
 **Venue** <br>
 Classroom #03-46
