@@ -39,12 +39,12 @@ Year 3 Elias, Captain, 2020**_
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).
     
-I have learnt a lot during these 3 years in this CCA. I believe the biggest take away for from this CCA is learning that being a leader is not just about talking, giving commands or leading the team. It is more about being able to listen and understand the needs of my juniors, to empathize with them and work with them to make the CCA more fun and enjoyable.  
-  
-These 3 years have been really fun and meaningful. I am really thankful for teachers who help us along the way and am also really grateful for my teammates’ support. Being in this CCA has taught me a lot not just about the sport itself but about my morals and beliefs. Without a doubt, I will continue to give my best in this CCA.  
-  
-**_Max Tan <br>
-Year 3 Einstein, Captain, 2020_**
+In these 4 years in Shooting CCA, I have learnt many life lessons and values, and experienced ups and downs with my CCA mates. As Captain, knowing how to appropriate commands and leading the team is being able to understand and communicate well with my peers and juniors. This bonding has helped to make the CCA more fulfilling and fun.
+
+I am very grateful for my coach, peers and teachers who supported and guided me along the way. Shooting CCA has not just taught me about its sport but also its values and beliefs. It has taught me how to be humble and yet able to display my leadership skills in encouraging and motivating my peers.
+
+_**Charlene Wong Jing Ying**  
+**Year 4 Eisenhower, Captain, 2023**_
 
 <img src="/images/Softball%20(Girls).jpg" 
     style="width:60%">
