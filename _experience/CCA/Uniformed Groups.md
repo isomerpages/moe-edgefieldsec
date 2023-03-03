@@ -35,12 +35,14 @@ Year 3 Everest, Member, 2020_**
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
     
-I believe that my CCA helped me improve my confidence. I was a person who didn't consider myself as a leader. Having the opportunity to be a leader in my CCA has helped me improve in areas that I was weak in, such as addressing large groups.  
+Through NCDCC, I have honed my leadership skills. I have had multiple opportunities to plan and execute various activities such as training, sports, lessons and parades. NCDCC has also given me the confidence to give commands to my unit so that we can all work together to achieve training objectives.  
   
-I have learnt that teamwork is quite an important quality. I am thankful for the support and co-operation of my teammate that have helped me cope with the responsibilities that were given to me. These skills and values that I have improved on have helped me to change the way I tackle a challenge or problem, and this has changed my personality in a good way. The soft skills that I have learnt and the basic fire safety knowledge that I have gained from the CCA will not be forgotten. I am also thankful for my teachers guiding us in our CCA.  
+Being in NCDCC has taught me to become more disciplined. It is reflected in something as simple as keeping still in parades. Not only has it helped me as a student, I also believe that discipline is crucial in an emergency as one needs to have the discipline to follow the commands of the leader to ensure the rescue is efficiently carried out.   
   
-**_Sherman Leong Si Jun  <br>
-Year 3 Elias, Member, 2020_**
+The first aid skills picked up during training could potentially save someone's life. It is important to attend CCA trainings regularly, to refresh what we have learnt. Though training may be tough at times, with discipline, I believe that the unit will overcome challenges together.
+
+**_Adoncia Low Zeng Swan  
+Unit Sergeant Major, 2022_**
 
 <img src="/images/Scouts.jpg" 
     style="width:60%">
