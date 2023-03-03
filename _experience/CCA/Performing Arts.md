@@ -37,16 +37,14 @@ Year 3 Eliot, Member, 2020**_
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
     
-As my first choice of CCA, being in ELDDS has been a very fulfilling and meaningful learning experience for me. ELDDS has given me many opportunities to open up and be comfortable on stage and to be who am I today.  
-  
-As a CCA leader, I was taught to play a key role in guiding the whole CCA . When making decisions or handling situations on the spot, I would have to be display mental and emotional strength for the good of my members.  
-  
-Through this CCA, I have grown to be a better person from the trust and the responsibility given to me by my drama instructors and teachers. Being a leader is not just a role but a way that has built my character and made me more confident and comfortable with myself.  
-  
-I will continue to do my best in the CCA to support my teachers, guide my juniors and grow my CCA more.  
-  
-_**Derrick Lam <br>
-Year 3 Edison, President, 2020**_
+Having been in this CCA for 4 years, I can guarantee that ELDDS is a CCA which allows you to develop skills that will benefit you in future. Not only does it build your confidence, it also trains you to be an efficient, disciplined and adaptable team player.
+
+Through this CCA, you will learn the art of acting and being a character other than yourself, which trains you to step out of your comfort zone and experience new things. The constant feeling of novelty keeps members on their toes, making ELDDS an enjoyable CCA, especially for those who love the thrill and excitement.
+
+Many of our CCA members have grown to become confident and responsible leaders. With ELDDS, you will definitely be able to develop skills and inculcate values that prepares you for the future! 
+
+_**Sherylene Siew  
+Year 4 Eliot, President, 2022**_
 
 <img src="/images/Festive%20Drums.jpg" 
     style="width:60%">
