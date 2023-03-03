@@ -95,9 +95,8 @@ Year 3 Euclid, President, 2020_**
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
         
-As a CCA leader, I have learnt about interpersonal skills like being considerate, understanding, resilient and how to communicate well with team members. I help build stronger bonds among my team members and foster a close relationship with one another which is an important aspect in our CCA. Therefore it is important for a leader to be fun and approachable yet firm to ensure the team members are disciplined.  
-      
-We have improved in being more agile and precise in our dance steps and we enjoy learning choreography from our instructors who know how to inject fun yet are also firm about discipline. The skills learnt will help me be more confident and enable me to communicate better with people in the future. I will continue to contribute as much as I can to my fellow CCA members and teachers.  
-      
-_**Aqilah Qistina <br>
-Year 3 Eliot, President, 2020**_
+Modern dance has been a significant part of my secondary school journey. Not only is it a place for me to develop my interests and passion in dance, it is also where I build strong relationships with my CCA mates from all levels. We have cried and laughed together, and spent tough times together. These years in Modern Dance are an unforgettable and memorable part of my life and I will never forget this experience.
+
+**_Ezann Tan Yi Xin_**<br>
+**_Year 4 Everest, Vice-President, 2022_**
+
