@@ -93,15 +93,4 @@ Year 3 Euclid, Member, 2020_**
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).
     
-What I enjoy about being part of the Wushu team is performing all sorts of different moves and routines. When I get to perform different moves during every training session and when I manage to succeed in performing those moves, I feel a sense of fulfilment. I have learnt to be resilient, disciplined and have learnt how difficulties can be overcome by putting in 100% effort.  
-  
-One of the challenges I face during CCA is that there are moves in Wushu that are personally difficult for me to achieve. One such example is performing the split. While doing the split can be difficult, I make sure to put in 100% effort to work on it at every single training and I would try my best to preserve to achieve my splits and today, I have managed to achieve it.  
-  
-Wushu has also taught me how to be a better student. The values I’ve learnt have benefited me when it comes to my studies. I do not easily give up when I face difficulties in learning and it has also taught me that putting in my best effort in my work will allow me to achieve the result I want.  
-  
-I have also become a better leader. As training and performing the sport requires discipline, over time, I have become more self-disciplined, have better decision-making skills and am a better role model. I make sure that my juniors listen to what the coach is teaching attentively and that they do not play around too much during training.  
-  
-Overall Wushu has really helped me in many aspects of my life and it has taught me to be a better person in the face of many challenges.  
-  
-_**Ryan Hiew <br>
-Year 3 Everest, Captain, 2020**_
+Wushu teaches me important life skills that would really benefit me in the future. One of these skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA training every week, I am able to make it a habit to focus on what I'm doing.This helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
