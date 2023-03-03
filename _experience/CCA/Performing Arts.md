@@ -100,3 +100,7 @@ Modern dance has been a significant part of my secondary school journey. Not onl
 **_Ezann Tan Yi Xin_**<br>
 **_Year 4 Everest, Vice-President, 2022_**
 
+Being a part of this CCA has helped me hone my soft skills. I have also learnt how to be an effective communicator from the given opportunities to interact and empathise with my team mates. These have indubitably supported in the process of forging stronger family-like bonds in our CCA. Joining Modern dance also gives us an exposure to the vast array of dance genres that our instructors guide us through with much dedication.
+
+**Kurma Dhanya  
+    Year 4 Eliot, Vice-President, 2022**
