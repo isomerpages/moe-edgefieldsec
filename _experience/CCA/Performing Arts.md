@@ -9,14 +9,15 @@ third_nav_title: CCA
 		
 For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
-Being a member of the choir has given me an opportunity to challenge myself and face my fears such as stage fright. Although I had past experiences being in the choir, there were still many things about choir yet for me to discover. With the patient guidance from my instructor, teachers and seniors, I have been able to pick up many techniques to improve my singing.  
+Being the choir president has presented me with many opportunities to go past my limits and continue to improve myself. For example, allowing myself to conquer my fear of speaking in front of crowds, through having to lead the choir during warmups and giving debrief at the end of the training. I have also gained much confidence through the process.  
       
-I have gained much confidence through the different opportunities to perform. For example, during the annual Chinese New Year school performance, I slowly overcame stage fright as the choir had to perform in front of the whole school. This has also given me a platform to learn from how I can improve future performances.
+Resilience and teamwork are some of the useful skills that I have grasped by being in this CCA. During choir sessions, when our vocal coach gives us constructive criticism on how to improve, I would take his suggestions and put them in mind, and consequently practise during my free time. This is an element of resilience, never giving up no matter what and to keep trying.  
     
-As a member of the CCA, I really enjoy the opportunities when all the choir members are able to come together and harmonise. Being the President of Choir has given me the experience to organise activities and to learn how to lead by example. I believe that by being both a member and a leader, I've grown to be a better and more understanding person.  
       
-**_Leong Zhun Ling Jodie <br>
-Year 3 Euler, Member, 2020_**
+It is also important to have teamwork as all members will need to know when they have to sing a certain part, and everyone has to know they are in it together. If one person decides to give up halfway, the entire performance would not be ideal. Teamwork also ensures that work gets work done more efficiently and consistently. I am really happy to see the choir coming together and harmonize.
+      
+**_Shernice Chan  
+Year 4 Eisenhower, President, 2023_**
 
 <img src="/images/Concert%20Band.jpg" 
     style="width:60%">
