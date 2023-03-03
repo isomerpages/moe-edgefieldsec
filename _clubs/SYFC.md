@@ -39,7 +39,7 @@ Mdm Norashikin Abd Rashid
 
 **Training Schedule                    Training Time** <br>
 Wednesday                                3.30 - 5.30pm <br>
-Friday                                           2.30 - 4.30pm
+Friday                                            2.30 - 4.30pm
 
 **Venue** <br>
 Classroom #03-46
