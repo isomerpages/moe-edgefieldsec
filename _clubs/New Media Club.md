@@ -40,31 +40,26 @@ _Honourable Mention in the Video Category "What I go to school for"_
 
   
 
-**Canon Photomarathon 2018**
-
-_3rd in Student Category_
-
-_Theme: Solitude_
-
+**Canon Photomarathon 2018**<br>
+_3rd in Student Category_<br>
+_Theme: Solitude_<br>
 Jayden Ong Yi Feng
 
   
 
-**Canon Photomarathon 2017**
-
-_1st in Student Category_
-
-_Theme: Tilt_
-
+**Canon Photomarathon 2017**<br>
+_1st in Student Category_<br>
+_Theme: Tilt_<br>
 Dex Ngiam Chao Yi
 
-**Teachers in Charge** <br>
-Mr Ng Teck Yeong <br>
-Mr Wang Yueming
+**Teachers in Charge** <br> 
+Mr Wang Yueming<br> 
+Mrs Lily Lee<br> 
+Mr Derek Foo
 
 **Training Days                           Training TIme** <br>
 Wednesday                              3.30 - 5.30pm <br>
-Friday                                         2.30 - 4.30pm
+Friday                                                  2.30 - 4.30pm
 
 **Venue** <br>
 Computer Lab 4
