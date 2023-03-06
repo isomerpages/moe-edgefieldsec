@@ -17,7 +17,7 @@ Chingay 2017
 
 **Teachers in Charge** <Br> 
 Mr Alphonsus Liang <br>
-Ms Syahirah
+Mdm Noorazlina Noordin
 
 **Training Days                             Training Time** <br>
 Monday                                      3.30 - 5.30pm <br> 
