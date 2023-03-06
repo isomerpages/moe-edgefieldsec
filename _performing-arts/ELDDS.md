@@ -24,8 +24,8 @@ Ms Ruth Tay<br>
 Ms Vishalini Naidu Ramalingam
 
 **Training Days                        Training Time** <br> 
-Monday                                  3.45 - 5.45pm <br>
-Wednesday                           3.45 - 5.45pm  
+Monday                                  3.30 - 5.30pm <br>
+Wednesday                           3.30 - 5.30pm  
 
 **Venue** <br>
 IT Resource Room 3
