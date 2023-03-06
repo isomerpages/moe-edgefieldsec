@@ -90,7 +90,7 @@ _Silver_
 
 **Teachers in Charge** <br>
 Mr Darren Woo <br>
-Mr Muhd Ammar <br>
+Mr Muhammad 'Ammar Abdul Aziz <br>
 Mr Neo Jun Yang <Br>
 Ms Chew-Lim Chai Hoon Yvonne
 
