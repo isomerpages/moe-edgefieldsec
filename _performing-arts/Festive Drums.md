@@ -15,6 +15,10 @@ Soul Passion Arts Festival 2018 <br>
 Opening Act for Singapore Lion Dance Competition 2018 <br>
 Chingay 2017
 
+**Student Leaders**  
+Chairperson - Liao Xin Hao Ayden (4ES)  
+Vice-Chairpersons - Tan Wen Xuan Jolie (4EV), Faiq Haikal Bin Muhamad Fadli (4EC)
+
 **Teachers in Charge** <Br> 
 Mr Alphonsus Liang <br>
 Mdm Noorazlina Noordin
