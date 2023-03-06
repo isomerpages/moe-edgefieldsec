@@ -21,24 +21,17 @@ _Soon Zhi Yuan (Alroy) (4EU)_ 
 
 North Area Scout Lore Quest 2022 <br>
 Team 1: Bronze <br>
-LIAU ZI HAO - _Silver_ 
-
-KAYDEN ANG HOCK YUNG - _Bronze_ 
-
-FRIONEL WIJOYO PRASETIO - _Bronze_ 
-
+LIAU ZI HAO - _Silver_ <br>
+KAYDEN ANG HOCK YUNG - _Bronze_ <br>
+FRIONEL WIJOYO PRASETIO - _Bronze_ <br>
 LIM JU YUAN - _Bronze_ 
 
   
 
-Team 2: Silver 
-
-KU YU HENG - _Bronze_ 
-
-WONG JIAN WEI - _Silver_ 
-
-JAEDEN PUNG FANG JUN ZHE - _Silver_ 
-
+Team 2: Silver <br>
+KU YU HENG - _Bronze_ <br>
+WONG JIAN WEI - _Silver_ <br>
+JAEDEN PUNG FANG JUN ZHE - _Silver_ <br>
 YEE NGAI FONG - _Gold_
 
 **2021**  <br>
