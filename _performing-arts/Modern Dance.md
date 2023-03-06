@@ -24,6 +24,12 @@ _Accomplishment_
 Ms Sharifah Noraini Aron <Br>
 Ms Yvonne Chung
 
+**Student Leaders**
+
+President: Sherinda Tan Si Ying (4ES)<br>
+Vice-President: Ezann Tan Yi Xin (4EV)<br>
+Vice-President: Kurma Dhanya (4EL)
+
 **Training Days                        Training Time** <br>
 Monday                                  3.30 - 5.30pm <Br>
 Wednesday                           3.30 - 5.30pm
