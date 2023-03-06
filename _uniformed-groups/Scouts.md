@@ -8,7 +8,10 @@ description: ""
 **Description** <br>
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society. Scouts get the chance to engage in outdoor activities and be active in nature as they pick up new skills and develop attitudes through active participation in the activities with their Patrol. Scouts also get to learn progressively by attaining exciting badges, all with the support from adult leaders.
 
-**Highlights / Achievements** <br>
+**Highlights / Achievements** 
+
+
+**2021**  <br>
 Chief Commissioner's Award 2021 <Br>
 _Choo Huei Hong (4EC)_ <br>
 _Lim Jun Hao Marc (4EC)_ <br>
