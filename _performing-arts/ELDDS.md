@@ -20,8 +20,8 @@ _Accomplishment_  
 
 **Teachers in Charge** <br>
 Mdm Nur Shahidah Mohamed Diah <br>
-Mr Brennan Kwa <br>
-Ms Shalini
+Ms Ruth Tay<br>
+Ms Vishalini Naidu Ramalingam
 
 **Training Days                        Training Time** <br> 
 Monday                                  3.45 - 5.45pm <br>
