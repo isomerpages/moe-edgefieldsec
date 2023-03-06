@@ -19,14 +19,24 @@ We adopt a structured approach towards the development of programmes that will e
 (3) Choices - Making the choice to care, serve and impact.
 
 **Highlights / Achievements** <br>
+National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021<br>
+_Gold_
+
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2019 <br>
 _Silver_
 
 **Teachers in Charge:** <br>
-Mr See Qin Kai <Br>
-Mr Guo Xianlun <br>
-Ms Abigail Sim <br>
-Ms Jin XiaoXi
+Mr Guo Xianlun<br>
+Mr Lim Mingxun<br>
+Mr See Qin Kai<br>
+Ms Toh Si Qi
+
+**Student Leaders**
+
+Unit Sergeant Major: Teng Shi Xuan, 4E <br>
+Assistant Sergeant Major (Training): Wan Syafiqah Binte Wan Faisal, 4EC<br>
+Assistant Sergeant Major (Operations): Muhammad Ariel Putra Adam Bin Nasir, 4EL<br>
+Assistant Sergeant Major (Development): Fatimah Binte Amir Naina Mohamed, 4EC
 
 **Training Days                          Training Time** <br>
 Wednesday                            3:30 – 6.00pm <br>
