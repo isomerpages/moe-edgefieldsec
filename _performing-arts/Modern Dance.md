@@ -21,9 +21,8 @@ Singapore Youth Festival 2017 <br>
 _Accomplishment_
 
 **Teachers in Charge** <br>
-Mdm Sharifah <Br>
-Mdm Nurul Huda <Br>
-Mdm Siti Zam Zam
+Ms Sharifah Noraini Aron <Br>
+Ms Yvonne Chung
 
 **Training Days                        Training Time** <br>
 Monday                                  3.30 - 5.30pm <Br>
