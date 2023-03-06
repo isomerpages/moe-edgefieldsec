@@ -10,6 +10,36 @@ The mission of Scouting is to contribute to the education of young people, throu
 
 **Highlights / Achievements** 
 
+**2022** <br>
+Chief Commissioner's Award 2022 <br>
+_Chua Kwee Kiat Frazier (4EM)_ <br>
+_Lye Jun Kang (4EH)_<br>
+_Maverick Lim Jia Min (4EV)_ <br>
+_Soon Zhi Yuan (Alroy) (4EU)_ 
+
+  
+
+North Area Scout Lore Quest 2022 <br>
+Team 1: Bronze <br>
+LIAU ZI HAO - _Silver_ 
+
+KAYDEN ANG HOCK YUNG - _Bronze_ 
+
+FRIONEL WIJOYO PRASETIO - _Bronze_ 
+
+LIM JU YUAN - _Bronze_ 
+
+  
+
+Team 2: Silver 
+
+KU YU HENG - _Bronze_ 
+
+WONG JIAN WEI - _Silver_ 
+
+JAEDEN PUNG FANG JUN ZHE - _Silver_ 
+
+YEE NGAI FONG - _Gold_
 
 **2021**  <br>
 Chief Commissioner's Award 2021 <Br>
