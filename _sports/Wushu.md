@@ -35,7 +35,13 @@ _B Division Boys (International Spear) - Aloysious See Cheng Wee, 3rd_
 
 **Teachers in Charge** <br>
 Mr Alan Teo BH <br>
-Ms Joanne Lee
+Mdm Siti Zamzama'ah Parumah
+
+**Student Leaders** <br>
+Captain: TERRICIA HON XIN YU (3EM)<br>
+Vice Captain: SIM KE XIN, SHAYNA (3EU)<br>
+Lower Sec Captain: YEW YU THENG (2ES)<br>
+Lower Sec Vice Captain: LUONG KAH SHENG JAMES (2EC)
 
 **Training Days                   Training Time** <Br>
 Wednesday                         3.30 - 6.00pm <br>
