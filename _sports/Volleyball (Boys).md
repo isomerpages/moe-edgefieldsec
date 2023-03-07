@@ -14,7 +14,7 @@ _B Division Boys - Top 4 Semi-Finalist_
 
 **Teachers in Charge** <Br>
 Ms Siow Ay Lian <br>
-Mr Tay Guo Kwang
+
 
 **Student Leaders** <br>
 Akif Bin Mohamed Zailan, 3EC (Overall Captain) <br>
