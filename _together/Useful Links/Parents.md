@@ -14,10 +14,10 @@ third_nav_title: Useful Links
   
 [1:1 iPad Learning Environment Handbook](/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf)
 
-[General Routines for iPad 1:1](/files/General%20Routines%20for%20iPad%201_1.pdf)
 
-[Mobile Device Management (MDM) Guide for Y3 & 4 Parents](/files/MDM%20Guide%20for%20Parents.pdf) <br>
-DMA guide for Y2 Parents has been shared via Edgefield Email
+
+[Mobile Device Management (MDM) Guide for Sec4&5 Parents](/files/MDM%20Guide%20for%20Parents.pdf) <br>
+DMA guide for Y2&3 Parents had been shared via Edgefield Email
 
   
 **Cyberwellness**  
