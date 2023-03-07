@@ -54,9 +54,8 @@ Looking forward to another great year with the PSG community!
 ### JOIN US NOW!
 
 Please **click the image below**, or fill up the form [here.](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)
-
-<img src="/images/Icon.jpg" 
-    style="width:25%">
+	
+<p><a href="[https://form.gov.sg/61e8cc0b3d1dc50013b43fc3](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)"><img style="width:25%" src="/images/Icon.jpg"></a></p>
 
 Click [here](https://sites.google.com/view/efss-psg/home) to visit our gallery for more information and photos.
 
