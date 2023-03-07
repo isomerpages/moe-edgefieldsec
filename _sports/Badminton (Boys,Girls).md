@@ -26,8 +26,7 @@ C Division Girls: Top 4 (4th position)
 **Teachers in Charge** <br>
 Mr Chang Ching <Br>
 Mr Patrick Yeo <br>
-Mdm Juliawaty Tje <br>
-Mdm Tan Shi Jing 
+Ms Ho Peishan
 
 **Coaches** <br>
 Mr Tan Ling Teck <br>
