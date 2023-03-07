@@ -15,3 +15,5 @@ third_nav_title: Useful Links
 [EFSS Library Catalogue](https://schoolibrary.moe.edu.sg/edgefieldsec)   
   
 [1:1 iPad Learning Environment Handbook](/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf)
+
+![](/images/iPad%20Daily%20Routine.png)
