@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/crest.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Edgefield
+    collection: edgefield
+  - title: Future Ready
+    collection: future-ready
+  - title: Experience
+    collection: experience
+  - title: Together
+    collection: together

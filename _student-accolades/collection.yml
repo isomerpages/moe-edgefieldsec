@@ -1,0 +1,8 @@
+collections:
+  student-accolades:
+    output: true
+    order:
+      - Design Awards.md
+      - GEM (ALP) Awards.md
+      - Tan Kah Kee Young Inventors' Award.md
+      - Best Illustration Award 2021.md

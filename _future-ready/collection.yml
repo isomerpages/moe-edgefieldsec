@@ -1,0 +1,15 @@
+collections:
+  future-ready:
+    output: true
+    order:
+      - Future Ready.md
+      - Applied Learning Programme.md
+      - Autonomy Supportive Behaviours.md
+      - Compassionate Leaders In Act/.keep
+      - Compassionate Leaders In Act/Compassionate Leaders In Action.md
+      - Compassionate Leaders In Act/VIA@Home.md
+      - Compassionate Leaders In Act/VIA@Community.md
+      - Compassionate Leaders In Act/VIA Projects.md
+      - Learning For Life Programme.md
+      - Research (Evidence based Design).md
+      - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md

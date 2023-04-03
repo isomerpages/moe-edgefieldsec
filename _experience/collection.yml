@@ -1,0 +1,17 @@
+collections:
+  experience:
+    output: true
+    order:
+      - CCA/.keep
+      - CCA/Clubs.md
+      - CCA/Performing Arts.md
+      - CCA/Uniformed Groups.md
+      - CCA/Sports.md
+      - Interactive Timeline.md
+      - Programme/.keep
+      - Programme/Arts Programme.md
+      - Programme/Overseas Immersion.md
+      - Programme/Student Leadership.md
+      - Programme/Character and Citizenship Education.md
+      - Programme/Sexuality Education.md
+      - Full Subject Based Banding (Full SBB).md
