@@ -33,11 +33,13 @@ Edgefield Secondary School
 
 _\*Access these links below for a look at the Full SBB and PDLP experience:_
 
-Full SBB  
-[https://www.facebook.com/moesingapore/videos/585832311896463/](https://www.facebook.com/moesingapore/videos/585832311896463/) <br>
+**Full SBB**
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F585832311896463%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+
 [https://edgefieldsec.moe.edu.sg/experience/full-subject-based-banding-full-sbb](https://edgefieldsec.moe.edu.sg/experience/full-subject-based-banding-full-sbb)  
   
-PDLP  
+**PDLP**
+
 [https://www.todayonline.com/singapore/all-secondary-school-students-own-digital-learning-device-2028-can-pay-using-edusave-moe](https://www.todayonline.com/singapore/all-secondary-school-students-own-digital-learning-device-2028-can-pay-using-edusave-moe)
 
 
