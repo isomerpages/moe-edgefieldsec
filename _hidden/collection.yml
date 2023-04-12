@@ -2,5 +2,6 @@ collections:
   hidden:
     output: true
     order:
+      - Student Leadership.md
       - Alumni.md
       - Arts Programme.md
