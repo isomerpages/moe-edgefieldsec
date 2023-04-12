@@ -1,5 +1,4 @@
 collections:
   arts-programme:
     output: true
-    order:
-      - Arts Festivals.md
+    order: []
