@@ -2,7 +2,6 @@ collections:
   arts-programme:
     output: true
     order:
-      - Bringing Arts to the School.md
       - Forward Ready Arts Curriculum.md
       - Compassionate Leaders Through Arts.md
       - Arts Festivals.md
