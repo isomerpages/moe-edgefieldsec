@@ -2,5 +2,4 @@ collections:
   arts-programme:
     output: true
     order:
-      - Compassionate Leaders Through Arts.md
       - Arts Festivals.md
