@@ -1,5 +1,5 @@
 collections:
-  arts-programme:
+  hidden:
     output: true
     order:
       - Arts Programme.md
