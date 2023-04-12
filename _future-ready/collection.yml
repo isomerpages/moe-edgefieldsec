@@ -2,7 +2,6 @@ collections:
   future-ready:
     output: true
     order:
-      - Future Ready.md
       - Applied Learning Programme.md
       - Autonomy Supportive Behaviours.md
       - Compassionate Leaders In Act/.keep
