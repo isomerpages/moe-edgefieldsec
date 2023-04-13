@@ -22,7 +22,6 @@ HIEW LAP YEIN RYAN 8.52 \[NSG B Division Boys 2nd International Cudgel\] <br>
 HIEW LAP YEIN RYAN 8.48 \[NSG B Division Boys 1st International Broadsword\] <br>
 JEFF TAN BING HUI 8.49 \[NSG B Division Boys 2nd International Cudgel\]
 
-
 **2018**<br>
 14th SSSC National Inter-School Wushu Championships 2018<br>
 _B Division Boys (International Spear) - Aloysious See Cheng Wee, 3rd_
