@@ -4,10 +4,9 @@ permalink: /experience/cca/sports/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Badminton.jpg" 
-    style="width:60%">
+<img src="/images/Badminton.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/badminton-boys-girls).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/badminton-boys-girls).
     
 Each sport is more than a sport - it is an activity that teaches us the many important values of life. Badminton is one of them. Badminton not only teaches us skills in the sport but it helps us grow as a person. As for me, I have learnt the importance of integrity, self discipline, respect and more. By taking training seriously, respecting coaches and teammates, this CCA has benefited me a lot and I would not have become who I am now without it. I believe that both studies and CCA are equally as important. Thus, I have to manage my time there are challenges in managing both the physical training and school workload.  
   
@@ -16,10 +15,9 @@ My father has always told me ‘Take one step at a time, there is no rush.’ Th
 _**Gerard Seah <br>
 Year 2 Boys, Captain, 2020**_
 
-<img src="/images/Basketball.jpg" 
-    style="width:60%">
+<img src="/images/Basketball.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).
     
 Basketball is a sport that requires not only physical presence but also mental tenacity in a player. After being in Edgefield Basketball for 3 years, I have grown to realise that Basketball is not just a game but a reflection of life on the hardwood court.  
   
@@ -34,10 +32,9 @@ Being a part of the Edgefield Basketball team has allowed all of us to gain diff
 _**Goh Jia Rui Ashley <br>
 Year 3 Elias, Captain, 2020**_
 
-<img src="/images/Shooting.jpg" 
-    style="width:60%">
+<img src="/images/Shooting.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).
     
 In these 4 years in Shooting CCA, I have learnt many life lessons and values, and experienced ups and downs with my CCA mates. As Captain, knowing how to appropriate commands and leading the team is being able to understand and communicate well with my peers and juniors. This bonding has helped to make the CCA more fulfilling and fun.
 
@@ -46,22 +43,20 @@ I am very grateful for my coach, peers and teachers who supported and guided me 
 _**Charlene Wong Jing Ying**  
 **Year 4 Eisenhower, Captain, 2023**_
 
-<img src="/images/Softball%20(Girls).jpg" 
-    style="width:60%">
+<img src="/images/Softball%20(Girls).jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).
     
 Softball CCA has taught me many values which can be applied in my life. In this CCA, I have learnt to be more resilient and also to persevere no matter what. Physical training can be tiring as we need to do a lot of strength and stamina training. There are times where I did have thoughts of giving up, however, keeping in mind that I am a Captain, I have to persevere not only for my teammates but for myself as well to set an example for the team. Not only that, I have also learnt the importance of teamwork. Softball is a sport which requires 9 people on the field to play well and get the opposite team's runners out. If we do not have teamwork, it would be hard to accomplish anything. These values are really important and could be used in many areas of life. I am really thankful that the CCA has taught me so many great values that can be inculcated in my life.  
   
 Training is fun with my juniors, seniors, coaches and teachers-in-charge. They make CCA much more fun and enjoyable for me. I am really grateful for all of them. Though some training sessions might be tough, I still have fun. Moreover, not only do learn many values through the CCA, I have also learnt to be a better leader. I remember when I was still a junior in Secondary 1, I was really quiet and I didn't really speak up much. After I was given the opportunity to become the captain, I realised if I didn’t speak up and be the voice that leads the team, I would be letting my team down. This made me step out of my comfort zone and helped me grow as a person. Although being a CCA leader is not easy, I'm glad I got the opportunity to lead and serve as it has helped me grow as a person. With that, I will continue to strive and do my best for the CCA.  
   
 _**Lin Ying Xi  <br>
-Year 3 Eliot, Captain,2020**_
+Year 3 Eliot, Captain, 2020**_
 
-<img src="/images/Taekwondo.jpg" 
-    style="width:60%">
+<img src="/images/Taekwondo.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).
     
 I enjoy being in Taekwondo as I am able to grow in multiple ways such as developing my leadership skills, learning values that help me along the way as I grow older, and developing a sense of camaraderie among my teammates. We learn to look out for one another, celebrate our successes and even work through failures together.  
   
@@ -72,10 +67,9 @@ My aspirations are to win more medals and perform well in competitions and make 
 _**Dylan Tay  <br>
 Year 3 Euclid, Captain, 2020**_
 
-<img src="/images/Volleyball%20(Boys).jpg" 
-    style="width:60%">
+<img src="/images/Volleyball%20(Boys).jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).
     
 Volleyball CCA has helped me improve on my basics in the sport. For example, as a libero, I have to improve my digging skills to receive and defend against opponent attacks. However, as a whole, I have learnt how to play volleyball competitively, ranging from improving my skills to knowing the rules well. This is something I would not have never expected to learn when I joined the CCA in Secondary 1.  
   
@@ -88,12 +82,15 @@ After graduating from Edgefield, I might consider joining a volleyball team in t
 **_Jervezz Tan Yue Jin <br>
 Year 3 Euclid, Member, 2020_**
 
-<img src="/images/Wushu.jpg" 
-    style="width:60%">
+<img src="/images/Wushu.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).
     
-Wushu teaches me important life skills that would really benefit me in the future. One of these skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA training every week, I am able to make it a habit to focus on what I'm doing.This helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
+Wushu teaches me important life skills that would really benefit me in the future. One of those skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA trainings every week, I am able to make it a habit to focus on the thing I'm doing, this helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph the wushu performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
+
+One value that I've learnt from wushu is patience. Improvement in your skills takes time and your skills wouldn't improve drastically overnight. Therefore, I need to be patient and continuously put in 100% effort in each session to make progress and continually improve. Moreover, Wushu has also taught me to be resilient and disciplined, so that I do not lose my courage in the face of difficulties and failures. These values ensure that when I face challenges in my academic studies (not being able to do well in certain subjects) or in my daily life, I do not give up easily and persevere. Beacuse of Wushu, I am able to have more patience towards my family and peers, thus I am able to remain calm when others are getting impatient, bringing less conflict between me and others. 
+
+Concentration is needed every time we carry out a task and with the skill to concentrate and focus well, we will be able to efficiently complete our task, in school or in the workforce. This allows us to perform better in the future. Moreover, the patience developed during the training will allow us to remain calm and collected even when we are unable to accomplish our goals right away. This then helps us to be more efficient since we do not leave difficult tasks aside. Lastly, we will be experiencing many challenges and setbacks in our life but with the development of resilience in Wushu, we will have the determination to strive through the difficult times and not be stopped by the challenges, continuing to work hard towards our goal. 
 
 _**Cai Xinyan  
 Year 4 Edison, Captain, 2022**_
