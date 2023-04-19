@@ -11,7 +11,10 @@ Interested candidates can apply for DSA through the school’s distinctive progr
 3) Applied Learning Programme (ALP): Innovation
 4) Student Leadership: Leadership
 <br>
-<br>• To develop good character and a resilient mindset in our students through TKD<br>• To develop and nurture sporting talents in TKD |
+
+| 1. | TAEKWONDO (TKD) |
+|:---:|---|
+|  | **Student Outcomes**<br>• To develop good character and a resilient mindset in our students through TKD<br>• To develop and nurture sporting talents in TKD |
 |   |**Programmes &amp; Activities for DSA TKD Students**<br>• To support successful DSA candidates in developing their areas of passion, they would join TKD Club as their Co-Curricular Activity (CCA) for the duration of their studies in Edgefield Secondary School.<br>• Selected students from the TKD DSA group will also take on various leadership roles such as LLP ambassadors. The LLP ambassadors will organise and lead school sports events/activities and be the role models of character in our school. |
 | | |
 
