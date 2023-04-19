@@ -1,26 +1,43 @@
 ---
 title: Student Leadership
-permalink: /experience/programme/student-leadership/
+permalink: /experience/programme/student-leadership/student-leadership/
 description: ""
 third_nav_title: Programme
 ---
-<img src="/images/Student%20Leadership.jpg" 
-    style="width:70%">
-		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/programme/student-leadership/student-leadership) .
-    
-_"From serving in the Prefectorial Board, I have learnt more about leadership; how to lead my peers and juniors, work in teams, resolve conflicts, and being confident. These soft skills empower me to face future scenarios when working with others, be it within the classroom walls or beyond._
-      
-_Other than leadership skills, being a student leader has also taught me to have self-discipline, empathy, and responsibility. Throughout my years in the Prefectorial board, I have enjoyed collaborating with other student leaders from CCAs and classes to work on school-based projects and events, harnessing the power of teamwork and cooperation. These opportunities have helped to grow my character and become a more relatable and trustworthy person to my peers._
-      
-_I’ve also learnt the importance of being adaptable as it helps me to respond quickly and be resilient regardless of the challenges I face. I believe these skills and values will empower me for the dynamic and volatile world ahead."_  
-      
-**Sean Koh <br>
-Year 3 Eliot, 2020**  
-      
-_"Over the past three years, the Prefectorial Board has equipped me with not only stronger leadership skills but also important soft skills like effective communication. This platform has provided me with many opportunities to hone my leadership skills and confidence as I step out of my comfort zone These transferable skills allow me to navigate my way in new unfamiliar situations with greater confidence. I have also learnt the importance of values like perseverance and humility, as we pressed on despite the challenges faced while running the events, and remaining humble when we achieved success._
-      
-_I have learnt to inspire a shared vision, enable others to act, and to encourage the heart so that others also can have confidence in me to lead the Board to greater heights. Putting these in action, my team and I organised many student-led events and activities such as our school’s annual book drive, ‘Love the Preloved’, and our online engagement with students, ‘EDGEline’, during the Full Home Based Learning period. I strongly believe that these skills will enable me to continue being not only a capable leader but also a supportive team member in all my future endeavours."_  
-      
-**Noelle Leow <br>
-Year 3 Eliot, 2020**
+The VUCA World of tomorrow is one that is characterised by various contentious issues, and differences across groups of people are becoming increasingly polarised. The leaders of tomorrow will possess qualities different from those of today. Compassion and Empathy are what set great leaders apart.  
+
+Edgefield Secondary School believes in nurturing Compassionate Leaders who will Lead, Care and Inspire. Building on the strong fundamentals of The Leadership Challenge Model, the Edgefield student leadership programme is aligned to the Desired Outcomes of the 21st Century Competencies Framework, and committed to developing values-centric leaders who are grounded in the school values.
+
+![](/images/TKD-Banner-Pic-600x338.jpg)
+
+The IDEAR approach is used in the development of leadership skills in Edgefield students:  
+  
+(I)dentify: All students to identify their personal strengths, areas of improvement and leadership styles.  
+(D)evelopment &amp; (E)xposure: Provision of platform and leadership opportunities for students to hone their leadership skills.  
+(A)chievement &amp; (R)ecognition: To provide avenues to recognise students’ personal leadership growth and development as an individual.  
+  
+The school is committed to developing individuals grounded in strong values such as Compassion, Moral Courage, Sincerity and Honour, and who actively contribute to the community. This is achieved through the provision of level wide leadership modules and Values-In-Action platforms, equipping students with the soft skills to achieve self and peer leadership.  
+  
+Student leaders also learn about building a positive culture through the Appreciative Inquiry approach, the 4D process of ‘Discover, Dream, Design, Deliver’.
+
+<center><strong> INDUCTION OF STUDENTS 2020 </strong></center>
+
+![](/images/IOS1.jpg)
+
+![](/images/IOS2.jpg)
+
+![](/images/IOS3.jpg)
+
+![](/images/IOS4.jpg)
+
+![](/images/IOS5.jpg)
+
+<center> <strong> STUDENT LEADERS' INVESTITURE 2020 </strong></center>
+
+![](/images/SLI1.jpg)
+
+![](/images/SLI2.jpg)
+
+![](/images/SLI3.jpg)
+
+![](/images/SLI4.jpg)

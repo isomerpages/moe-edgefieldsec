@@ -13,9 +13,6 @@ sections:
       button: Locate US
       url: /contact-us
       key_highlights:
-        - title: "EFSS Signage 123 Open House 2022 "
-          description: (19 Nov 2022, 9am -1pm)
-          url: https://openhouse2022.edgefield.edu.sg/
         - title: Full Subject-Based Banding (Full SBB) offered
           description: ""
           url: /experience/full-subject-based-banding-full-sbb
