@@ -6,10 +6,10 @@ description: ""
 Edgefield Secondary School invites Primary 6 students to join the school through the 2023 Direct School Admission – Secondary (DSA-Sec) Exercise.
 
 Interested candidates can apply for DSA through the school’s distinctive programmes and talent areas:<br>
-1) Learning for Life Programme (LLP): Taekwondo
-2) Learning for Life Programme (LLP): Volleyball (Boys only)
-3) Applied Learning Programme (ALP): Innovation
-4) Student Leadership: Leadership
+1) Learning for Life Programme (LLP): Taekwondo<br>
+2) Learning for Life Programme (LLP): Volleyball (Boys only)<br>
+3) Applied Learning Programme (ALP): Innovation<br>
+4) Student Leadership: Leadership<br>
 <br>
 
 | 1. | TAEKWONDO (TKD) |
