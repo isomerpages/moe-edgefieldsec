@@ -36,8 +36,9 @@ Interested candidates can apply for DSA through the school’s distinctive progr
 
 | 4. | LEADERSHIP - Nurturing Compassionate Leaders |
 |:---:|---|
-|| Student Outcomes<br>• Nurturing Compassionate Leaders who are anchored on values and committed to serve the school and community with passion and empathy.
-|| Programmes &amp; Activities for DSA Innovation Students<br>• To support successful DSA candidates in developing their areas of passion, they would have to serve in one of the Student Leadership bodies for the duration of their studies in Edgefield Secondary School.
+|| **Student Outcomes**<br>• Nurturing Compassionate Leaders who are anchored on values and committed to serve the school and community with passion and empathy.
+|| **Selection Criteria**<br>• Demonstrates the values Compassion, Moral Courage, Sincerity and Honour.<br>• Exhibits strong leadership qualities/skills and has held a leadership position in primary school e.g. Class Chairpersons/Monitors, Prefects, CCA leaders/Captains, etc.<br>• Actively volunteers and has made meaningful contributions to their primary schools and the community.<br>• Obtained "Excellent" or "Very Good" for conduct grade in Primary 5 and Primary 6.<br>• Leadership and Character Awards such as the Edusave Award for Achievement, Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA) will be taken into consideration.<br><br>*Please note that meeting all the criteria does not guarantee the student will be shortlisted.*<br><br>Shortlisted candidates will be required to complete/attend in person:
+|| **Programmes &amp; Activities for DSA Innovation Students**<br>• To support successful DSA candidates in developing their areas of passion, they would have to serve in one of the Student Leadership bodies for the duration of their studies in Edgefield Secondary School.
 | | |
 
 
