@@ -37,12 +37,27 @@ Interested candidates can apply for DSA through the school’s distinctive progr
 | 4. | LEADERSHIP - Nurturing Compassionate Leaders |
 |:---:|---|
 || **Student Outcomes**<br>• Nurturing Compassionate Leaders who are anchored on values and committed to serve the school and community with passion and empathy.
-|| **Selection Criteria**<br>• Demonstrates the values Compassion, Moral Courage, Sincerity and Honour.<br>• Exhibits strong leadership qualities/skills and has held a leadership position in primary school e.g. Class Chairpersons/Monitors, Prefects, CCA leaders/Captains, etc.<br>• Actively volunteers and has made meaningful contributions to their primary schools and the community.<br>• Obtained "Excellent" or "Very Good" for conduct grade in Primary 5 and Primary 6.<br>• Leadership and Character Awards such as the Edusave Award for Achievement, Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA) will be taken into consideration.<br><br>*Please note that meeting all the criteria does not guarantee the student will be shortlisted.*<br><br>Shortlisted candidates will be required to complete/attend in person:
+|| **Selection Criteria**<br>• Demonstrates the values Compassion, Moral Courage, Sincerity and Honour.<br>• Exhibits strong leadership qualities/skills and has held a leadership position in primary school e.g. Class Chairpersons/Monitors, Prefects, CCA leaders/Captains, etc.<br>• Actively volunteers and has made meaningful contributions to their primary schools and the community.<br>• Obtained "Excellent" or "Very Good" for conduct grade in Primary 5 and Primary 6.<br>• Leadership and Character Awards such as the Edusave Award for Achievement, Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA) will be taken into consideration.<br><br>*Please note that meeting all the criteria does not guarantee the student will be shortlisted.*<br><br>Shortlisted candidates will be required to complete/attend in person:<br>• A questionnaire to assess candidates' passion and perseverance,<br>• An interview session.
 || **Programmes &amp; Activities for DSA Innovation Students**<br>• To support successful DSA candidates in developing their areas of passion, they would have to serve in one of the Student Leadership bodies for the duration of their studies in Edgefield Secondary School.
 | | |
 
+**APPLICATION PROCESS**<br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+**SELECTION PROCESS**<br>• Shortlisted candidates will be notified latest by **4 July 2023**.<br>• Shortlisted candidates will be required to sit for the required questionnaires, trials, and questionnaires/trials/interviews if they have applied for more than one talent area.<br>• Please note that shortlisted candidates will have to attend separate sessions of questionnaires/trials/interviews if they have applied for more than one talent area.<br>• The questionnaires/trials/interviews for shortlisted candidates will be conducted between **4 July 2023** and **30 August 2023**, at Edgefield Secondary School.<br>• Shortlisted candidates will receive notification of resuls by **11 September 2023**.
+
+<br>
+	
+| KEY DATES (at a glance) ||
+|-|-|
+| DSA-Sec Application Period | **4 May 2023, 11am - 31 May 2023, 3pm** |
+| DSA-Sec Selection Period | **4 July 2023 - 30 August 2023** |
+| Shortlisted Candidates | Shortlisted candidates will be notified by email or by phone latest by **4 July 2023**. |
+| Questionnaire/Trials/Interviews | Shortlisted candidates will be required to sit for questionnaires/trials/interviews between **4 July 2023** and **30 August 2023**.|
+| Release of DSA result | Shortlisted candidates will receive notification of results by **11 September 2023**.
+| Exercise School Preference | Students to indicate their school preferences from **23 to 27 October 2023**
+	
+**ESSENTIAL INFORMATION**<br>
+	1. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.<br>2. Please note that meeting the selection criteria stated above does not guarantee that the student will be shortlisted or given an offer.<br>3. The school’s decision of the DSA-Sec application is final. No appeal or correspondence will be entertained.<br>4. The school reserves the right not to disclose the reasons for the non-selection of applicants.<br>5. Students who are successfully admitted to the school via DSA are expected to honour the commitment to the school and programme, and participate in the activities related to the talent they are selected for, for the duration of the programme they are admitted to.<br>6. Successful DSA-Sec candidates who took PSLE are NOT allowed to participate in the annual Secondary One (S1) Posting Exercise. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.<br> 7. Candidates who are currently NOT studying in MOE mainstream schools are to obtain a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Refer to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).<br>&nbsp;8. Shortlisted International Students are to take and fulfill the requirements of the Admissions Exercise for International Students (AEIS) test.
 
 For further queries, please contact the school at:
 
