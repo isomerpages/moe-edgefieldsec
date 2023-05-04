@@ -36,8 +36,8 @@ Interested candidates can apply for DSA through the school’s distinctive progr
 
 | 4. | LEADERSHIP - Nurturing Compassionate Leaders |
 |:---:|---|
-|   | Student Outcomes<br>• Nurturing Compassionate Leaders who are anchored on values and committed to serve the school and community with passion and empathy.  |
-|  | Programmes &amp; Activities for DSA Innovation Students<br>• To support successful DSA candidates in developing their areas of passion, they would have to serve in one of the Student Leadership bodies for the duration of their studies in Edgefield Secondary School. |
+|| Student Outcomes<br>• Nurturing Compassionate Leaders who are anchored on values and committed to serve the school and community with passion and empathy.
+|| Programmes &amp; Activities for DSA Innovation Students<br>• To support successful DSA candidates in developing their areas of passion, they would have to serve in one of the Student Leadership bodies for the duration of their studies in Edgefield Secondary School.
 | | |
 
 
