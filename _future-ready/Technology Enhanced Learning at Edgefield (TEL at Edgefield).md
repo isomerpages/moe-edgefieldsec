@@ -3,7 +3,7 @@ title: Technology Enhanced Learning at Edgefield (TEL at Edgefield)
 permalink: /future-ready/technology-enhanced-learning-at-edgefield-tel-at-edgefield/
 description: ""
 ---
-At Edgefield Secondary, we are intentional in the design of our curriculum in preparing our children to be ‘future-ready’. Learning experiences center on thinking and learning independently and also develop our children’s 21st century competencies.
+At Edgefield Secondary, we are intentional in the design of our curriculum in preparing our children to be ‘future-ready’. Learning experiences center on thinking and learning independently and also develop our children’s 21st&nbsp;century competencies.
 
 Technology has transformed our lives, evident from how our work and social environments have changed. In tomorrow’s age where emerging technologies such as Artificial Intelligence and machine learning are set to take over many functions and roles controlled by humans today, we must enable our children to harness the capabilities of technology and embrace new opportunities ahead.
 
@@ -11,17 +11,13 @@ To do this, they have to start young, and start right.
 
 Edgefield Secondary’s Technology-Enhanced Learning (TEL) Programme is designed to meet these needs. Our goal is “Quality Learning in the Hands of Every Learner Empowered with Technology”. While our Apple Education Programme equips every student with new media production skills, our 1:1 personalised learning through iPads integrates thinking and learning across our total curriculum, enhancing the learning experience. Digital Sketchnoting makes thinking visible, enabling students to explore and develop ideas, and combines with cloud technology to enable learning anytime, anywhere. Co-construction of knowledge and internet research amplifies and deepens learning, while collaborative apps allow exploration of alternative perspectives and diverse views. This enables metacognitive learning to take place. Through the affordances of technology, learning becomes dynamic and personalised.
 
-**Video on TEL@Edgefield**
-
-</insert video>
-
 **Our Journey on 1:1 Personalised Learning**
 
 ![](/images/Timeline.jpg)
 
 **Our Pedagogical Approach**
 
- **Active Learning Processes** <br>
+&nbsp;**Active Learning Processes** <br>
 Teachers infuse active learning processes as they craft learning experiences to engage students as active participants through these steps:
 
 1.  Activate Learning
@@ -42,7 +38,7 @@ Edgefield leverages the use of technology for enhanced learning in the classroom
 
 ### Apple Education Programme
 
-This programme teaches students ICT skills to enable them to be future ready learners which includes Digital Literacy skills. Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital  skills required to navigate the digital age.
+This programme teaches students ICT skills to enable them to be future ready learners which includes Digital Literacy skills.&nbsp;Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital&nbsp; skills required to navigate the digital age.
 
 ![](/images/pic%201.png)
 
