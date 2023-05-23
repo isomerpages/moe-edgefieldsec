@@ -2,8 +2,8 @@ collections:
   edgefield:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
+      - School Advisory Committee.md
       - Our Story/.keep
       - Our Story/About Edgefield.md
       - Our Story/Mission, Vision, Motto & Core Values.md
