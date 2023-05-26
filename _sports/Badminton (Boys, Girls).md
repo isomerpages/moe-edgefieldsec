@@ -6,6 +6,7 @@ description: ""
 ![](/images/b%20boys%202023%20cropped.jpg)
 ![](/images/badminton%20girls%202023.jpg)
 ![](/images/badminton%202023.jpg)
+![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)
 ![](/images/badminton%20trophies%202023.jpg)
 **Description** <br>
 Badminton CCA hopes to nurture and groom students with remarkable sportsmanship, integrity, perseverance and passion for the game.
