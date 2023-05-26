@@ -4,7 +4,7 @@ permalink: /together/useful-links/parents/
 description: ""
 third_nav_title: Useful Links
 ---
-[CCA Schedule 2023](/files/CCA%20teachers%20and%20schedule%202023_6%20Jan.pdf)
+[CCA Schedule 2023](/files/CCA%20teachers%20and%20schedule%202023_6%20Jan.pdf) / [June CCA Schedule 2023](/files/june%20hols%20cca%20schedule.pdf)
   
 [School Calendar 2023](/files/2023%20EFSS%20Calendar%20Parents.pdf)
 
