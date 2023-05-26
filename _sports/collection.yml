@@ -2,7 +2,7 @@ collections:
   sports:
     output: true
     order:
-      - Badminton (Boys,Girls).md
+      - Badminton (Boys, Girls).md
       - Basketball.md
       - Shooting.md
       - Softball (Girls).md
