@@ -7,7 +7,9 @@ description: ""
 ![](/images/badminton%20girls%202023.jpg)
 ![](/images/badminton%202023.jpg)
 ![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)
-![](/images/badminton%20trophies%202023.jpg)
+![](/images/badminton%20trophies%202023.jpg) 
+More photos on [Instagram](https://www.instagram.com/edgefield_sec_badminton/?r=nametag)<br>
+
 **Description** <br>
 Badminton CCA hopes to nurture and groom students with remarkable sportsmanship, integrity, perseverance and passion for the game.
 
@@ -39,9 +41,9 @@ Ms Ho Peishan
 Mr Tan Ling Teck <br>
 Mr Chang Ching
 
-**Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Training Time** <br>
+**Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 Wednesday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.30 – 6.00pm <br>
-Friday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;      2.30 – 6.00pm
+Friday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 6.00pm
 
 **Venue** <br>
 School Hall (3 courts for boys / 3 courts for girls)
