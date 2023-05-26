@@ -3,13 +3,6 @@ title: Badminton (Boys, Girls)
 permalink: /experience/cca/sports/badminton-boys-girls/
 description: ""
 ---
-![](/images/website%20photo%20edit%201.jpg)
-
-![](/images/Badmin%20Trophies%20Combined%202022.jpg)
-
-![](/images/c%20girls%202022%202%20edited.bmp)
-
-![](/images/IMG-20220427-WA0015%20boys%20nsg%202022.jpg)
 
 **Description** <br>
 Badminton CCA hopes to nurture and groom students with remarkable sportsmanship, integrity, perseverance and passion for the game.
