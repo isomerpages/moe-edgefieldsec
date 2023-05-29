@@ -3,47 +3,39 @@ title: School Advisory Committee
 permalink: /edgefield/sac/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac%20chairperson.png"></th>
-    <th class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac%20depchair.png"></th>
-    <th class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/mr-lee.png"></th>
+    <th><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac%20chairperson.png"></th>
+    <th><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac%20depchair.png"></th>
+    <th><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/mr-lee.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Ram Dharmara</span><br>Chairperson</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Jayren Teo</span><br>Deputy Chairperson</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Secretary</td>
+    <td>Mr Ram Dharmara<br>Chairperson</td>
+    <td>Mr Jayren Teo<br>Deputy Chairperson</td>
+    <td>Mr Lee Peck Ping<br>Secretary</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m1.png"></td>
-    <td class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m2.png"></td>
-    <td class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m3.png"></td>
+    <td><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m1.png"></td>
+    <td><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m2.png"></td>
+    <td><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m3.png"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Ms Ng Ying</span><br>Member</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Ethan Chong Yih Tng</span><br>Member</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Trivina Kang</span><br>Member</td>
+    <td>Ms Ng Ying<br>Member</td>
+    <td>Dr Ethan Chong Yih Tng<br>Member</td>
+    <td>Dr Trivina Kang<br>Member</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m4.png"></td>
-    <td class="tg-0lax"><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m5.png"></td>
-    <td class="tg-0lax"> </td>
+    <td><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m4.png"></td>
+    <td><img height="264" width="264" alt="Image" src="https://www.edgefieldsec.moe.edu.sg/images/sac-m5.png"></td>
+    <td> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Elizabeth Koh</span><br>Member</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Ms Audrey Lau Lee Kian</span><br>Member</td>
-    <td class="tg-0lax"> </td>
+    <td>Dr Elizabeth Koh<br>Member</td>
+    <td>Ms Audrey Lau Lee Kian<br>Member</td>
+    <td> </td>
   </tr>
 </tbody>
 </table>
