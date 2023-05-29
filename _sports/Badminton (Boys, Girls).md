@@ -3,11 +3,11 @@ title: Badminton (Boys, Girls)
 permalink: /experience/cca/sports/badminton-boys-girls/
 description: ""
 ---
-![](/images/b%20boys%202023%20cropped.jpg)
-![](/images/badminton%20girls%202023.jpg)
-![](/images/badminton%202023.jpg)
-![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)
-![](/images/badminton%20trophies%202023.jpg) 
+![](/images/b%20boys%202023%20cropped.jpg)<br>
+![](/images/badminton%20girls%202023.jpg)<br>
+![](/images/badminton%202023.jpg)<br>
+![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)<br>
+![](/images/badminton%20trophies%202023.jpg) <br>
 More photos on [Instagram](https://www.instagram.com/edgefield_sec_badminton/?r=nametag)<br>
 
 **Description** <br>
@@ -19,8 +19,7 @@ Through various competitions such as the National School Games, students will ga
 National School Games (North Zone) 2023 <br>
 B Division Boys: Top 4 (3rd position)<br>
 B Division Girls: Quarter Finals<br>
-C Division Boys: Pending<br>
-C Division Girls: Pending<br>
+C Division Girls: Top 4 (4th Position)<br>
 
 National School Games (North Zone) 2022<br>
 B Division Boys: Top 4 (3rd position)<br>

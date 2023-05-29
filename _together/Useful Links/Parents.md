@@ -18,7 +18,7 @@ third_nav_title: Useful Links
 [1:1 iPad Learning Environment Handbook](/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf)
 
 [Mobile Device Management (MDM) Guide for Sec4&amp;5 Parents](/files/MDM%20Guide%20for%20Parents.pdf) <br>
-DMA guide for Y2&amp;3 Parents had been shared via Edgefield Email
+DMA guide for Y1, Y2 &amp; Y3 Parents had been shared via Edgefield Email
 
   
 **Cyberwellness**  
