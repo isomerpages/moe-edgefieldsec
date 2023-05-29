@@ -16,9 +16,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><img width="264" src="/images/sac%20chairperson.png"></th>
-    <th class="tg-0lax"><img width="264" src="/images/sac%20depchair.png"></th>
-    <th class="tg-0lax"><img width="264" src="/images/mr-lee.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/sac%20chairperson.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/sac%20depchair.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/mr-lee.png"></th>
   </tr>
 </thead>
 <tbody>
@@ -28,9 +28,9 @@ description: ""
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Secretary</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img width="264" src="/images/sac-m1.png"></td>
-    <td class="tg-0lax"><img width="264" src="/images/sac-m2.png"></td>
-    <td class="tg-0lax"><img width="264" src="/images/sac-m3.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m1.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m2.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m3.png"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Ms Ng Ying</span><br>Member</td>
@@ -38,8 +38,8 @@ description: ""
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Trivina Kang</span><br>Member</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img width="264" src="/images/sac-m4.png"></td>
-    <td class="tg-0lax"><img width="264" src="/images/sac-m5.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m4.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m5.png"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
