@@ -16,9 +16,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="width: 33%" class="tg-0lax"><img style="width: 264" src="/images/sac%20chairperson.png"></th>
-    <th style="width: 33%" class="tg-0lax"><img style="width: 264" src="/images/sac%20depchair.png"></th>
-    <th style="width: 33%" class="tg-0lax"><img style="width: 264" src="/images/mr-lee.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/sac%20chairperson.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/sac%20depchair.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/mr-lee.png"></th>
   </tr>
 </thead>
 <tbody>
