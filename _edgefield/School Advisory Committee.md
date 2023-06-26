@@ -25,7 +25,7 @@ description: ""
   <tr>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Ram Dharmara</span><br>Chairperson</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Jayren Teo</span><br>Deputy Chairperson</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Secretary</td>
+    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Honorary Secretary</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m1.png"></td>
