@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - School Canteen.md
       - Student Leadership.md
       - Alumni.md
       - Arts Programme.md

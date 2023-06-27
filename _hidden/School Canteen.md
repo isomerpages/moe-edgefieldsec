@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /edgefield/school-canteen/
+permalink: /hidden/school-canteen/
 description: ""
 ---
 <h3>School Canteen Advertisement</h3>
