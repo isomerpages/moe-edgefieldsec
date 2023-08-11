@@ -19,6 +19,7 @@ Through various competitions such as the National School Games, students will ga
 National School Games (North Zone) 2023 <br>
 B Division Boys: Top 4 (3rd position)<br>
 B Division Girls: Quarter Finals<br>
+C Division Boys: Participation<br>
 C Division Girls: Top 4 (4th Position)<br>
 
 National School Games (North Zone) 2022<br>
@@ -26,6 +27,12 @@ B Division Boys: Top 4 (3rd position)<br>
 B Division Girls: Quarter Finals<br>
 C Division Boys: Quarter Finals<br>
 C Division Girls: Top 4 (4th position)<br>
+
+Pesta Sukan 2023<br>
+U17 Boy's Singles<br>
+Keith Yeo (Rd of 16)<br>
+U15 Girl's Singles<br>
+Saphire Yap<br>
 
 Alpha Age Group Series 2022<br>
 U17 Boy's Singles<br>
