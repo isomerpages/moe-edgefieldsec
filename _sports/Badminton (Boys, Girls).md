@@ -15,18 +15,19 @@ Badminton CCA hopes to nurture and groom students with remarkable sportsmanship,
 
 Through various competitions such as the National School Games, students will gain greater exposure and hone their badminton skills and techniques. 
 
-**Highlights / Achievements** <br>
-National School Games (North Zone) 2023 <br>
-B Division Boys: Top 4 (3rd position)<br>
-B Division Girls: Quarter Finals<br>
-C Division Boys: Participation<br>
-C Division Girls: Top 4 (4th Position)<br>
+**Highlights / Achievements**
+<h5> National School Games (North Zone)</h5>
 
-National School Games (North Zone) 2022<br>
-B Division Boys: Top 4 (3rd position)<br>
-B Division Girls: Quarter Finals<br>
-C Division Boys: Quarter Finals<br>
-C Division Girls: Top 4 (4th position)<br>
+| Year | Division | Position |
+|--|--------| -------- |
+| 2023 | B Boys| Top 4 (3rd)|
+||B Girls|Quarter Finals|
+||C Boys|Participation|
+||C Girls|Top 4 (4th)|
+2022|B Boys|Top 4 (3rd)|
+||B Girls|Quarter Finals
+||C Boys|Quarter Finals
+||C Girls|Top 4 (4th)
 
 Pesta Sukan 2023<br>
 U17 Boy's Singles<br>
