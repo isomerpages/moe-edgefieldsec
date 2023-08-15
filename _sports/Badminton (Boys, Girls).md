@@ -16,7 +16,8 @@ Badminton CCA hopes to nurture and groom students with remarkable sportsmanship,
 Through various competitions such as the National School Games, students will gain greater exposure and hone their badminton skills and techniques. 
 
 **Highlights / Achievements**
-<h5> National School Games (North Zone)</h5>
+
+<b>National School Games (North Zone)</b>
 
 | Year | Division | Position |
 |--|--------| -------- |
@@ -29,13 +30,13 @@ Through various competitions such as the National School Games, students will ga
 ||C Boys|Quarter Finals
 ||C Girls|Top 4 (4th)
 
-Pesta Sukan 2023<br>
+<b>Pesta Sukan 2023</b><br>
 U17 Boy's Singles<br>
 Keith Yeo (Rd of 16)<br>
 U15 Girl's Singles<br>
 Saphire Yap<br>
 
-Alpha Age Group Series 2022<br>
+<b>Alpha Age Group Series 2022</b><br>
 U17 Boy's Singles<br>
 Chong Yuxuan (Quarter-Finalist)<br>
 
