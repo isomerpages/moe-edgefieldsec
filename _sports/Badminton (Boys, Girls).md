@@ -34,7 +34,7 @@ Through various competitions such as the National School Games, students will ga
 U17 Boy's Singles<br>
 Keith Yeo (Rd of 16)<br>
 U15 Girl's Singles<br>
-Saphire Yap<br>
+Saphire Yap (Semi-Final)<br>
 
 <b>Alpha Age Group Series 2022</b><br>
 U17 Boy's Singles<br>
