@@ -8,7 +8,7 @@ description: ""
 ![](/images/badminton%202023.jpg)<br>
 ![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)<br>
 ![](/images/badminton%20trophies%202023.jpg) <br>
-More photos on [Instagram](https://www.instagram.com/edgefield_sec_badminton/?r=nametag)<br>
+More photos on [Instagram](https://www.instagram.com/edgefield_sec_badminton/?r=nametag) and [Youtube](https://youtu.be/Vd-81zmtEvs?feature=shared)<br>
 
 **Description** <br>
 Badminton CCA hopes to nurture and groom students with remarkable sportsmanship, integrity, perseverance and passion for the game.
@@ -34,7 +34,7 @@ Through various competitions such as the National School Games, students will ga
 U17 Boy's Singles<br>
 Keith Yeo (Rd of 16)<br>
 U15 Girl's Singles<br>
-Saphire Yap<br>
+Saphire Yap (Semi-Final)<br>
 
 <b>Alpha Age Group Series 2022</b><br>
 U17 Boy's Singles<br>
