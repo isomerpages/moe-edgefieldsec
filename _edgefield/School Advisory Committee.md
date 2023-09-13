@@ -28,7 +28,7 @@ description: ""
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Honorary Secretary</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m1.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-.png"></td>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m2.png"></td>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m3.png"></td>
   </tr>
