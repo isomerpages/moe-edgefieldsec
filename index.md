@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Edgefield Secondary School
       subtitle: Collaborative Innovators, Compassionate Leaders
-      background: /images/gifmaker (2).gif
+      background: /images/banner2.gif
       button: Locate US
       url: /contact-us
       key_highlights:
@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: TOGETHER
-      description: ' "Education is not a filling of a pail, but the lighting of a
+      description: '"Education is not a filling of a pail, but the lighting of a
         fire." - William Butler Yeats, Irish poet'
       button: LEARN MORE
       url: /together
