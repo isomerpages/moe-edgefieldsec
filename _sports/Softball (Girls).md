@@ -12,15 +12,15 @@ Softball CCA hopes to cultivate a “Respectful Mind” and “Disciplined Mind�
 National School Games Softball <br>
 _Championships 2020_  
 
-National School Games Softball <br>
+National School Games Softball&nbsp;<br>
 _Championships 2019_
 
 U17 Singapore Recreation Club Carnival 2019
 
-National School Games Softball <bR>
+National School Games Softball <br>
 _Championships 2018_
 
-National Inter-School Softball <br>
+National Inter-School Softball&nbsp;<br>
 _Championships 2017_
 
 U17 Kallang Open 2017
@@ -31,12 +31,16 @@ U14 Singapore Recreation Club Carnival 2017
 
 **Teachers in Charge** <br>
 Mdm Han Khim Yuan <br>
-Ms Cherie Chiang <bR>
+Ms Cherie Chiang <br>
 Ms Fiona Goh
 
-**Training Days                         Training Time** <br>
-Wednesday                           3.30 - 6.00pm <br>
-Friday                                      3.00 - 6.00pm
+**Student Leaders**<br>
+Captain : ELENOIS DWAINE SALINAS SIAPNO (4EV)<br>
+Vice-Captain : NORDYANA D'LAILA BINTE MOHAMMAD HADI (4EV)
+
+**Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Training Time** <br>
+Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 - 6.00pm <br>
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.00 - 6.00pm
 
 **Venue** <br>
 School Field
