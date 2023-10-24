@@ -85,7 +85,7 @@ Lower Secondary Vice Captain, Volleyball, 2023**_<br>
 
 <img src="/images/Wushu.jpg" style="width:60%">
 		
-**or more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).**
+**For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).**
     
 Wushu teaches me important life skills that would really benefit me in the future. One of those skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA trainings every week, I am able to make it a habit to focus on the thing I'm doing, this helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph the wushu performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
 
