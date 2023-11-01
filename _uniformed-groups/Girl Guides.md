@@ -56,11 +56,12 @@ _2nd Company – Silver_
 Mdm Azyan Liyana <br>
 Mdm Koo Sin Yee&nbsp;<br>
 Ms Puteri Sukma Wee <br>
-Ms Saw Xueting
+Ms Saw Xueting<br>
+Ms Siti Azriah
 
 **Student Leaders** <br>
-Company Leader: Ruth Ang En Qi (3EM) <br>
-Assistant Company Leader: Nyra Sofina Binte Nahar (3EL), Neo Rui Xin Aleathea (3EV)
+Company Leader: Nurqiyana Bte Abdullah (3EH) <br>
+Assistant Company Leader: Low Xin Ying, Amber (3EV)
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;4.00 - 6.00pm <br>
