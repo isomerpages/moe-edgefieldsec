@@ -16,7 +16,6 @@ description: ""
 Respect, Resilience, Excellence. As important as winning is to us, we strongly believe that at the heart of Taekwondo are a set of values - lifelong teachings that we wish and hope to impart to each and every one of our students. Our aim for every student is to continually strive to improve themselves every day - to be the best version of themselves.
 
 **Highlights / Achievements** <br>
-**
 
 **National School Games Taekwondo Championships 2023**<br>
 _**Poomsae**_
