@@ -3,13 +3,11 @@ title: Entrepreneur Club
 permalink: /experience/cca/clubs/entrepreneur-club/
 description: ""
 ---
-<img src="/images/1entre.png" 
-    style="width:50%">
-<img src="/images/2entre.png" 
-    style="width:60%">
+<img src="/images/1entre.png" style="width:50%">
+<img src="/images/2entre.png" style="width:60%">
 		
 **Description** <br>
-The Entrepreneur Club (E-Club) guides its members how to be responsible, committed and creative in their decision-making for the CCA. Students each undergo unique and hands-on experiences. 
+The Entrepreneur Club (E-Club) guides its members how to be responsible, committed and creative in their decision-making for the CCA. Students each undergo unique and hands-on experiences.&nbsp;
 
 Students will learn basic business skills such as accounting, financial planning, business proposal writing, business presentation, making a sales pitch and business marketing. Professional trainers are also engaged to run workshops and courses, sharing invaluable experiences that add value to students' learning.
 
@@ -24,23 +22,22 @@ Creathon 2021 <br>
 Ngee Ann Polytechnic EntrepreNow 2022 <br>
 Business opportunities within and outside of school
 
-**Teachers In Charge** <br>
+**Teachers In Charge**&nbsp;<br>
 Mr Peter Ong (Advisor) <br>
-Ms Nur Wahyuni Binte Mohamed <br>
-Ms Lu Zhufeng <br>
+Ms Nurashikin <br>
 Mr Jimmy Lim
 
 **Student Leaders** <br>
-Pearlyn (Chief Executive Officer) <br>
-Ee Tong (Chief Finance Officer) <br>
-Hongjian (Chief Operating Officer) <br>
-Jedi (Chief Event Manager) <br>
-Nicole (Chief Human Resource)
+Cayden Phoon Zeng Yu, 3EH (Chief Executive Officer) <br>
+Yong Xuan An, 3EL (Chief Finance Officer) <br>
+Gideon Tan Zhe-Jun, 3ED (Chief Operating Officer) <br>
+Chin Ze Kai, Kaede, 3ED (Chief Event Manager) <br>
+Ng Xin Zhe, Shane, 3EL (Chief Human Resource)
 
-**Training Days                            Training Time** <br>
-Wednesday                              4.00 - 6.00pm <br>
-Friday                                        2.00 – 4.00pm
+**Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Training Time** <br>
+Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;4.00 - 6.00pm&nbsp;<br>
+Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;2.00 – 4.00pm
 
-**Venue** <br>
+**Venue**&nbsp;<br>
 The Edge (Student Hub) <br>
 Level 4
