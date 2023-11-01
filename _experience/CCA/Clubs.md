@@ -21,14 +21,12 @@ Year 3 Everest, President, 2023**_
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/entrepreneur-club).
     
-Ever since I joined the Entrepreneurship Club (E-Club), there has not been a day when I stopped learning. My CCA members and I participate in various competitions to learn about entrepreneurship. We learn how to pitch our ideas in front of an audience, work with people and apply business marketing skills in specific scenarios.  
-  
-In this CCA, we learn many different values like perseverance towards our main goal, having a vision to guide us and exercising bravery in pursuing opportunities. There are many things that I enjoy in this journey, but my favourite is definitely interacting with my fellow CCA members as we venture into learning new areas. All that I have learnt would benefit my future whether in society, at home and at work. Being in this CCA has taught me how to better communicate with the people around me. It has also broadened my creativity for creating new solutions to problems occurring in the world we live in.  
-  
-I'd certainly want to join a course similar to E-Club in the future and would love to see myself as a young entrepreneur! 
+"As an active member of the Entrepreneur Club (E-Club) CCA, my experience has been profoundly transformative.&nbsp;
 
-_**Lee Ee Qian,  <br>
-Year 3 Emerson, President, 2020**_
+E-Club has taught me the essence of entrepreneurship, leadership, and collaboration, fostering a resilient entrepreneurial mindset. These skills have not only enriched my personal ventures but have also contributed to a culture of creativity within the E- club. I've also come to understand the power of effective teamwork, communication, and problem-solving through my interactions with fellow members. E-Club has been instrumental in showcasing the impact of mentorship and support in nurturing our entrepreneurial goals, empowering us to drive innovation and ambition within our school community."
+
+_**Cayden Phoon,<br>
+Year 3 Eisenhower, President, 2023**_
 
 <img src="/images/New%20Media%20Club.jpg" style="width:60%">
 		
@@ -44,19 +42,6 @@ The photography and videography technical skills as well as the AV management sk
 
 _**Jasmine Lim Hui Min <br>
 Year 3 Everest, Vice President, 2020**_
-
-<img src="/images/Thinker's%20Society.jpg" style="width:60%">
-		
-For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/thinkers-society).
-    
-In the Thinkers’ Society, I enjoy working with people, despite sometimes having differing personalities and viewpoints, we strive to complete a common goal together. This allows me to expand my thinking and be more open-minded.  
-  
-I have also developed values such as commitment and leadership. Despite a busy schedule across the year, I have learnt how to stay committed to both my CCA and studies to ensure that I strike a good balance between the two. As President of the CCA, I have learnt how to motivate my members to give their best especially when they feel discouraged from setbacks.  
-  
-I have become more adaptable when faced with new situations because I was spurred to step out of my comfort zone on many occasions. Such skills and values will greatly benefit me when I encounter obstacles in my future education and workplace.  
-  
-**_Alisa Goh Cai Xuan  <br>
-Year 3 Einstein, President, 2020_**
 
 <img src="/images/SYFC.jpg" style="width:60%">
 		
