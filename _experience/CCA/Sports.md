@@ -4,22 +4,20 @@ permalink: /experience/cca/sports/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Badminton.jpg" style="width:60%">
-		
+![](/images/badminton-1.png)
+<h5>Badminton</h5>
+
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/badminton-boys-girls).**
 
 “I enjoy being in a sports CCA because it allows me to learn many important values which we can apply in the future. Everyone in the Badminton Team has a common interest thus we connect well and create a friendly and conducive environment for our training. Furthermore, going through hardships with each other helps form a sense of camaraderie. We would look out for each other, have fun together, and develop our badminton skills together. Finally, during the annual National School Games (NSG), our skills and nerves are put to the test, as we represent Edgefield to compete with many other schools, under pressure and facing different opponents. We need to learn how to keep a cool head in order to play out our best. During the NSG, our team encouraged each other to persevere, and we ultimately clinched 3rd place in the North Zone. This was a reflection of our commitment, perseverance and unity as a team!”
-
-  
 
 _**Chong Yu Xuan<br>
 Year 4 Euclid, 2023<br>
 Captain, Badminton, 2022-2023<br>
 3rd Place, National School Games (NSG) Singapore Schools Sports Council’s (SSSC) Badminton North B Division Boys Finals 2023**_
 
-<br>
-
-<img src="/images/Basketball.jpg" style="width:60%">
+![](/images/basketball-1.png)
+<h5>Basketball</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).**
     
@@ -36,7 +34,8 @@ Being a part of the Edgefield Basketball team has allowed all of us to gain diff
 _**Goh Jia Rui Ashley <br>
 Year 3 Elias, Captain, 2020**_
 
-<img src="/images/Shooting.jpg" style="width:60%">
+![](/images/shooting-1.jpg)
+<h5>Shooting</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
     
