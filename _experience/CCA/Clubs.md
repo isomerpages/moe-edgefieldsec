@@ -4,7 +4,7 @@ permalink: /experience/cca/clubs/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Art%20Club.jpg" style="width:60%">
+![](/images/art%20club-1.png)
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/art-club).
         
@@ -17,7 +17,7 @@ Being in the Art Club has made me realise that I have a strong passion for art. 
 _**Kotra Rishita<br>
 Year 3 Everest, President, 2023**_
 
-<img src="/images/Entreprenuer%20Club.jpg" style="width:60%">
+![](/images/eclub-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/entrepreneur-club).
     
