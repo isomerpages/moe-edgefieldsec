@@ -55,7 +55,8 @@ In Year Two, I requested to join the SYFC Special Interest Group (SIG) to learn 
         
 Being a CCA leader made me&nbsp;realise&nbsp;that apart from leading my peers in weekly sessions, I also need to exemplify the crucial qualities of determination and staying focused. It has certainly been a roller coaster ride but I will constantly look for ways to improve myself so that I can be a better leader.&nbsp;
         
-**_Adrian Song Yue En, 3EA, Chairperson, 2016-2018_**
+**_Adrian Song Yue En
+<br>3EA, Chairperson, 2016-2018_**
 
 ![](/images/robotics-1.png)
 		
