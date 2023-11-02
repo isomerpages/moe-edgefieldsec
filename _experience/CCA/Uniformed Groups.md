@@ -4,7 +4,8 @@ permalink: /experience/cca/uniformed-groups/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Girl%20Guides.jpg" style="width:60%">
+![](/images/guides-1.jpg)
+<h5>Girl Guides</h5>
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/girl-guides).
     
