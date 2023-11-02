@@ -28,7 +28,7 @@ E-Club has taught me the essence of entrepreneurship, leadership, and collaborat
 _**Cayden Phoon,<br>
 Year 3 Eisenhower, President, 2023**_
 
-<img src="/images/New%20Media%20Club.jpg" style="width:60%">
+![](/images/new%20media%20club-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/new-media-club).
     
