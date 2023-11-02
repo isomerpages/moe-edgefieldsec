@@ -31,8 +31,9 @@ Cadets in NPCC(Sea) learn about working in a team and develop leadership qualiti
 Year 4 Euler, 2022<br>
 Vice-Chairperson (Law Enforcement), 2022**
 
-<img src="/images/NCDCC.jpg" style="width:60%">
-		
+![](/images/ncdcc-1.png)
+<h5>NCDCC</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
     
 Through NCDCC, I have honed my leadership skills. I have had multiple opportunities to plan and execute various activities such as training, sports, lessons and parades. NCDCC has also given me the confidence to give commands to my unit so that we can all work together to achieve training objectives.  
@@ -44,8 +45,9 @@ The first aid skills picked up during training could potentially save someone's 
 **_Adoncia Low Zeng Swan  
 Unit Sergeant Major, 2022_**
 
-<img src="/images/Scouts.jpg" style="width:60%">
-		
+![](/images/scouts-1.png)
+<h5>Scouts</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/scouts).
     
 My experience in Scouts has been a fun and memorable one. Over the past few years, I’ve not only learnt values such as leadership and teamwork but also forged many memories through camps and exchange programmes.&nbsp;
