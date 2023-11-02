@@ -58,7 +58,7 @@ Every performance is precious to me as we have watched each other grow from bein
 **_Daseryn Lui <br>
 Year 3 Einstein, Member, 2020_**
 
-<img src="/images/Guzheng.jpg" style="width:60%">
+![](/images/guzheng-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
         
@@ -71,7 +71,7 @@ I really enjoy the moments when all the sections of the CCA are able to synchron
 **Ng Wenyu <br>
 Year 3 Eliot, Vice President, 2020**_
 
-<img src="/images/Harmonica.jpg" style="width:60%">
+![](/images/harmonica-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
@@ -84,7 +84,7 @@ The skills and values I learn in the CCA will definitely be applicable to my ter
 **_Nur Khairunnisa Binte Mohamed Khir <br>
 Year 3 Euclid, President, 2020_**
 
-<img src="/images/Modern%20Dance.jpg" style="width:60%">
+![](/images/modern%20dance-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
         
@@ -95,5 +95,5 @@ Modern dance has been a significant part of my secondary school journey. Not onl
 
 Being a part of this CCA has helped me hone my soft skills. I have also learnt how to be an effective communicator from the given opportunities to interact and empathise with my team mates. These have indubitably supported in the process of forging stronger family-like bonds in our CCA. Joining Modern dance also gives us an exposure to the vast array of dance genres that our instructors guide us through with much dedication.
 
-**Kurma Dhanya  
-    Year 4 Eliot, Vice-President, 2022**
+**_Kurma Dhanya  
+    Year 4 Eliot, Vice-President, 2022_**
