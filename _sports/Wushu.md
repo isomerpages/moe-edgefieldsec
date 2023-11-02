@@ -16,6 +16,11 @@ The trainings are designed to nurture students’ moral values and mental toughn
 
 <h4>Highlights / Achievements</h4>
 
+**2023**<br>
+CLAY LIM SHI KAI 8.31 \[NSG B Division Boys 1st International Spear\]<br>
+TERRICIA HON XIN YU 8.39 \[NSG B Division Girls 1st International Sword\]<br>
+YEW YU THENG 8.21 \[NSG C Division Girls 1st International Sword\]
+
 **2022**<br>
 TERRICIA HON XIN YU 8.63 \[NSG C Division Girls 1st International Sword\]<br>
 LIEW YAO KANG NIGEL 8.60 \[NSG B Boys 1st International Nanquan\]

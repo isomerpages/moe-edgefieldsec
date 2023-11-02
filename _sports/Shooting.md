@@ -11,10 +11,15 @@ Shooting is a CCA that requires mental toughness, strong upper body and core str
 Shooting CCA hopes to cultivate a “Disciplined Mind” in the students through the learning of proper shooting techniques and training.
 
 **Highlights / Achievements** <br>
-Nanyang Technological University Invitational Shoot 2017 <br>
+_**National Schools Games (NSG) Shooting Championships B Division 2023**_<br>
+Chua Jia Li Amelyn<br>
+Year 3 Edison, 2023<br>
+9th Placing, 10-metre Air Pistol Women<br>
+
+_**Nanyang Technological University Invitational Shoot 2017**_<br>
 _B Division Girls – 3rd Position (Individual)_
 
-Nanyang Technological University Invitational Shoot 2015 <br>
+_**Nanyang Technological University Invitational Shoot 2015**_ <br>
 _B Division Girls – 1st Position (Individual)_
 
 **Teachers in Charge** <br>
@@ -28,10 +33,10 @@ Captain: Charlene Wong Jing Ying (4EH)
 Vice-Captain: Sun Lee (4ES)  
 Vice-Captain: Dayang Huong Zhe Zheng (4ES)
 
-**Training Days                            Training Time** <br>
-Wednesday                               3.30 - 5.30pm <br>
-Thursday                                    3.30 - 5.30pm <br>
-Friday                                          2.00 - 4.00pm  
+**Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
+Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;3.30 - 5.30pm <br>
+Thursday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 3.30 - 5.30pm <br>
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.00 - 4.00pm  
   
 **Venue** <br>
 Air Rifle Range

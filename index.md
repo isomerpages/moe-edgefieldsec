@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Edgefield Secondary School
-      subtitle: Collaborative Innovators, Compassionate Leaders
       background: /images/banner2.gif
-      button: Locate US
       url: /contact-us
       key_highlights:
         - title: Full Subject-Based Banding (Full SBB) offered
