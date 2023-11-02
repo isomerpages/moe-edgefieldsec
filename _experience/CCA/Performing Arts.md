@@ -68,8 +68,8 @@ Being a member of Guzheng CCA has given me an opportunity to learn more about te
       
 I really enjoy the moments when all the sections of the CCA are able to synchronise and create beautiful melodies. I treasure the opportunity to be the Vice President of the Guzheng CCA. It is therefore my responsibility to care for other members and it has helped me to become a better leader.  
       
-**Ng Wenyu <br>
-Year 3 Eliot, Vice President, 2020**_
+**_Ng Wenyu <br>
+Year 3 Eliot, Vice President, 2020_**
 
 ![](/images/harmonica-1.png)
 		
