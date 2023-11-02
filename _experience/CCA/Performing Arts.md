@@ -4,10 +4,9 @@ permalink: /experience/cca/performing-arts/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Choir.jpg" 
-    style="width:60%">
+![](/images/choir-1.png)
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
 Being the choir president has presented me with many opportunities to go past my limits and continue to improve myself. For example, allowing myself to conquer my fear of speaking in front of crowds, through having to lead the choir during warmups and giving debrief at the end of the training. I have also gained much confidence through the process.  
       
@@ -19,10 +18,9 @@ It is also important to have teamwork as all members will need to know when they
 **_Shernice Chan  
 Year 4 Eisenhower, President, 2023_**
 
-<img src="/images/Concert%20Band.jpg" 
-    style="width:60%">
+![](/images/band-1.png)
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
     
 I have learnt many skills from being in the Concert Band. These skills include playing a new instrument and having a deeper understanding of music.  
   
@@ -32,10 +30,9 @@ I have definitely enjoyed making new friends in the Band. The teachers and condu
 _**Jin Zixuan, David  <br>
 Year 3 Eliot, Member, 2020**_
 
-<img src="/images/ELDDS.jpg" 
-    style="width:60%">
+<img src="/images/ELDDS.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
     
 Having been in this CCA for 4 years, I can guarantee that ELDDS is a CCA which allows you to develop skills that will benefit you in future. Not only does it build your confidence, it also trains you to be an efficient, disciplined and adaptable team player.
 
@@ -46,10 +43,9 @@ Many of our CCA members have grown to become confident and responsible leaders. 
 _**Sherylene Siew  
 Year 4 Eliot, President, 2022**_
 
-<img src="/images/Festive%20Drums.jpg" 
-    style="width:60%">
+<img src="/images/Festive%20Drums.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
     
 I joined Festive Drums without much knowledge but as time passed, my interest for this CCA grew stronger as I started to enjoy every moment, realising it was alright to make mistakes so long as I learnt from them and improved. This love for drumming grew in me while I gained more experience on my drumming journey. Every second has been precious and enjoyable and whenever CCA sessions come to an end, I am always looking forward to the next session.  
   
@@ -62,10 +58,9 @@ Every performance is precious to me as we have watched each other grow from bein
 **_Daseryn Lui <br>
 Year 3 Einstein, Member, 2020_**
 
-<img src="/images/Guzheng.jpg" 
-    style="width:60%">
+<img src="/images/Guzheng.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
         
 Guzheng CCA taught me how to express my emotion through music. Each piece of music has its own background story. By playing the Guzheng in different pitches and tones, it allows me to express different emotions and to communicate with the audience through music.  
       
@@ -76,10 +71,9 @@ I really enjoy the moments when all the sections of the CCA are able to synchron
 **Ng Wenyu <br>
 Year 3 Eliot, Vice President, 2020**_
 
-<img src="/images/Harmonica.jpg" 
-    style="width:60%">
+<img src="/images/Harmonica.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
 Joining the Harmonica CCA has helped me learn how to read number scores. Prior to joining the CCA, I could only read the 6 line music scores. I can now read number scores easily. This is an important skill that I can bring with me after secondary school.  
   
@@ -90,10 +84,9 @@ The skills and values I learn in the CCA will definitely be applicable to my ter
 **_Nur Khairunnisa Binte Mohamed Khir <br>
 Year 3 Euclid, President, 2020_**
 
-<img src="/images/Modern%20Dance.jpg" 
-    style="width:60%">
+<img src="/images/Modern%20Dance.jpg" style="width:60%">
 		
-For more details, please click [here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
+For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
         
 Modern dance has been a significant part of my secondary school journey. Not only is it a place for me to develop my interests and passion in dance, it is also where I build strong relationships with my CCA mates from all levels. We have cried and laughed together, and spent tough times together. These years in Modern Dance are an unforgettable and memorable part of my life and I will never forget this experience.
 
