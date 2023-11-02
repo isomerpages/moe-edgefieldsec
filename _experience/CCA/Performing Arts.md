@@ -30,7 +30,7 @@ I have definitely enjoyed making new friends in the Band. The teachers and condu
 _**Jin Zixuan, David  <br>
 Year 3 Eliot, Member, 2020**_
 
-<img src="/images/ELDDS.jpg" style="width:60%">
+![](/images/drama-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
     
@@ -43,7 +43,7 @@ Many of our CCA members have grown to become confident and responsible leaders. 
 _**Sherylene Siew  
 Year 4 Eliot, President, 2022**_
 
-<img src="/images/Festive%20Drums.jpg" style="width:60%">
+![](/images/festive%20drums-1.png)
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
     
