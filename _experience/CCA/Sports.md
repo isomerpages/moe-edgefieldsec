@@ -46,8 +46,9 @@ I am very grateful for my coach, peers and teachers who supported and guided me 
 _**Charlene Wong Jing Ying**  
 **Year 4 Eisenhower, Captain, 2023**_
 
-<img src="/images/Softball%20(Girls).jpg" style="width:60%">
-		
+![](/images/softball-1.png)
+<h5>Softball</h5>
+
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).**
 
 “Softball is a wonderful sport which requires a lot of teamwork and communication. Physical training is required in order for us to be fit to play the sport. Sometimes, I have thoughts of giving up and doing my physical training halfheartedly, however, as the captain, I have to discipline myself and set the example for my team. Softball has taught me to always persevere and to push myself beyond my limits. The game of Softball is unpredictable and as my coach always says, “the ball is round” anything can happen during the match so we need to fight hard until the last moment. As a pitcher and captain, I have grown to be mentally tougher in this CCA. The thing I truly love about this CCA is the people. My CCA mates are like family. We always support each and every member of the team. We have this saying, “all for one, one for all”. The bond and connection between my teammates is essential in order to accomplish anything on the field. I am also very grateful for my coach and teachers-in-charge. They have given me a tremendous amount of advice which I will carry on throughout my life.”
@@ -57,7 +58,8 @@ Year 4 Everest, 2023<br>
 Captain, Softball, 2022-2023**_
 <br>
 
-<img src="/images/Taekwondo.jpg" style="width:60%">
+![](/images/taekwondo-0.png)
+<h5>Taekwondo</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
 
@@ -70,8 +72,9 @@ Year 4 Emerson, 2023<br>
 Captain, Taekwondo, 2022-2023**_<br>
 
 
-<img src="/images/Volleyball%20(Boys).jpg" style="width:60%">
-		
+![](/images/volleyball-1.png)
+<h5>Volleyball</h5>
+
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).**
 
 “Volleyball has helped me become&nbsp; mentally and physically stronger. Besides drills such as spiking, receiving, setting and service, we also cultivate values such as&nbsp; resilience, integrity, respect, sportsmanship and enthusiasm. Resilience will help us in being mentally tougher and not giving up easily. Integrity gives us the courage to own up and be honest. We respect our opponents by not being arrogant and this makes us develop sportsmanship. Whenever we lose a match, we learn from our mistakes and we find ways to improve together as a team.&nbsp;
@@ -82,7 +85,8 @@ _**Caspian Tan Yen Feng<br>
 Year 2 Emerson, 2023<br>
 Lower Secondary Vice Captain, Volleyball, 2023**_<br>
 
-<img src="/images/Wushu.jpg" style="width:60%">
+![](/images/wushu-1.png)
+<h5>Wushu</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).**
     
