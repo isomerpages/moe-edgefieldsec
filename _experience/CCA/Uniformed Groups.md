@@ -18,8 +18,9 @@ As a Company Leader, I am forced to see things from a wider perspective and over
 _**Ng Si Min  <br>
 Year 4 Eisenhower, Member, 2022**_
 
-<img src="/images/NPCC%20(Sea).jpg" style="width:60%">
-		
+![](/images/npcc-1.png)
+<h5>NPCC (Sea)</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/npcc-sea).
 
 “NPCC (Sea) provides opportunities for cadets to participate in a variety of new and interesting activities. Cadets acquire leadership qualities where they learn how to teach drills and lead their CCA. As a cadet, I have observed my Cadet Leaders teaching drills and making sure that all cadets understand how to execute these drills. When I stepped up into the EXCO, I had the chance to not only teach the cadets, but to train the Cadet Leaders to teach effectively.&nbsp;
