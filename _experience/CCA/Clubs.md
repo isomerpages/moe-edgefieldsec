@@ -5,6 +5,7 @@ description: ""
 third_nav_title: CCA
 ---
 ![](/images/art%20club-1.png)
+<h5>Art Club</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/art-club).
         
@@ -18,7 +19,8 @@ _**Kotra Rishita<br>
 Year 3 Everest, President, 2023**_
 
 ![](/images/eclub-1.png)
-		
+<h5>Entrepreneur Club</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/entrepreneur-club).
     
 "As an active member of the Entrepreneur Club (E-Club) CCA, my experience has been profoundly transformative.&nbsp;
@@ -29,7 +31,8 @@ _**Cayden Phoon,<br>
 Year 3 Eisenhower, President, 2023**_
 
 ![](/images/new%20media%20club-1.png)
-		
+<h5>New Media Club</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/new-media-club).
     
 New Media Club enables us to learn both technical and soft skills required in Audio Visual management. Learning the ins and outs of managing an event requires us to be proficient in operating the various equipment and in communicating well with each other. The CCA also gives us plenty of opportunities to partake in school events to ensure that the event runs smoothly.  
@@ -44,7 +47,8 @@ _**Jasmine Lim Hui Min <br>
 Year 3 Everest, Vice President, 2020**_
 
 ![](/images/syfc-1.png)
-		
+<h5>Singapore Youth Flying Club</h5>
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/syfc).
         
 I have always loved aeroplanes and everything about aviation. When I was younger, I was always either googling or reading articles to better my knowledge on planes. Placing SYFC as my first choice for my CCA was definitely a no-brainer.
@@ -59,6 +63,7 @@ Being a CCA leader made me&nbsp;realise&nbsp;that apart from leading my peers in
 <br>3EA, Chairperson, 2016-2018_**
 
 ![](/images/robotics-1.png)
+<h5>Robotics Club</h5>
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/robotics-club).
     
