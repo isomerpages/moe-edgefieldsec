@@ -10,7 +10,7 @@ Volleyball instills within its members an acute awareness of effective teamwork.
 
 **Highlights / Achievements** <br>
 National School Games North Zone Volleyball Championship 2023 <br>
-_B Division Boys - Top 4 Semi-Finalist_<br>
+_B Division Boys - Top 4 Finalist_<br>
 _C Division Boys - Top 3 (3rd Place)_
 
 **Teachers in Charge** <br>
