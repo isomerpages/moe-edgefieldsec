@@ -8,17 +8,17 @@ Festive Drums CCA hopes to cultivate a “Synthesizing Mind” and “Discipline
 It is not solely on acquiring the correct rhythm, it is also about coordination and teamwork.  
 Through drumming, we hope to instil the values of respect, harmony and responsibility towards one another.  
 
-**Highlights / Achievements** <br>
+**Highlights / Achievements** <br><br>
 **2023**<br>
 Punggol Shore Spring  Festival 2023<br>
 Racial Harmony Day 2023 Celebration @ One Punggol<br>
-Artasfest 2023<br>
+Artasfest 2023<br><br>
 **2019**<br>
-Good Neighbour Award Ceremony 2019 <br>
+Good Neighbour Award Ceremony 2019 <br><br>
 **2018**<br>
 Singapore Youth Festival Concert 2018 <br>
 Soul Passion Arts Festival 2018 <br>
-Opening Act for Singapore Lion Dance Competition 2018 <br>
+Opening Act for Singapore Lion Dance Competition 2018 <br><br>
 **2017**<br>
 Chingay 2017
 
