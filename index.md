@@ -55,4 +55,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/efss
       alt: Image alt text
+      image: /images/1efss_askgov.png
 ---
