@@ -48,4 +48,11 @@ sections:
       url: /together
       image: /images/together.png
       alt: Image alt text
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have a Question?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/efss
+      alt: Image alt text
 ---
