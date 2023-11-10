@@ -2,7 +2,7 @@
 title: Compassionate Leaders In Action
 permalink: /future-ready/compassionate-leaders-in-action/compassionate-leaders-in-action/
 description: ""
-third_nav_title: Compassionate Leaders In Act
+third_nav_title: CLIA
 ---
 The Compassionate Leaders in Action (CLIA) programme seeks to develop students to be knowledgeable in matters close to their heart and also, to be passionately courageous in making a difference to their community.  
   
