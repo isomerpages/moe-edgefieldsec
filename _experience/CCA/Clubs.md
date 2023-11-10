@@ -3,6 +3,7 @@ title: Clubs
 permalink: /experience/cca/clubs/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ![](/images/art%20club-1.png)
 <h5>Art Club</h5>
@@ -51,16 +52,14 @@ Year 3 Everest, Vice President, 2020**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/syfc).
         
-I have always loved aeroplanes and everything about aviation. When I was younger, I was always either googling or reading articles to better my knowledge on planes. Placing SYFC as my first choice for my CCA was definitely a no-brainer.
-        
-During the CCA interview in Year 1, I expressed about my love for all things aviation. I was elated when I found out that my application to join SYFC was approved. This is where the passion really started to become a reality as I was able to learn hands-on about building model airplanes.  
-          
-In Year Two, I requested to join the SYFC Special Interest Group (SIG) to learn more advanced aeromodelling skills. This was when I&nbsp;learnt&nbsp;to build and fly even more complex model airplanes. With the extra set of skills that I picked up from SIG, I began to have more confidence in my abilities as an aeromodeller. After having spent so much time researching on the best airplane designs, it was very satisfying to see my completed model airplanes fly well for competitions.&nbsp;&nbsp;
-        
-Being a CCA leader made me&nbsp;realise&nbsp;that apart from leading my peers in weekly sessions, I also need to exemplify the crucial qualities of determination and staying focused. It has certainly been a roller coaster ride but I will constantly look for ways to improve myself so that I can be a better leader.&nbsp;
-        
-**_Adrian Song Yue En
-<br>3EA, Chairperson, 2016-2018_**
+Over the course of my school life in SYFC, I have been given the opportunity to interact with students who share my passion for aviation. CCA sessions include building our knowledge in aviation, hands-on activities to train our skills in building gliders, and also flying drones. Another activity I love doing in my CCA would also be learning new flight simulator skills and also flying via a circuit pattern in the flight simulator application that we use each CCA session. I also appreciate being able to learn more about aerodynamics. Participating in the annual Singapore Amazing Flying Machine Competition enabled me to apply flight theory in designing gliders.
+
+The provision of opportunities to work with my peers and learn more about aeromodelling from them makes me enjoy being part of the CCA.
+
+Being a CCA leader gives me opportunities to lead and share my knowledge and skills with my CCA mates. It has also cultivated a sense of perseverance and responsibility as a student leader. Even though there have been many ups and downs in my leadership journey, I would always reflect and take these opportunities for me to grow as a leader, and streng then the CCA.
+
+**_Koh Shao Kai
+<br>Chairperson of SYFC 2023-2024_**
 
 ![](/images/robotics-1.png)
 <h5>Robotics Club</h5>
