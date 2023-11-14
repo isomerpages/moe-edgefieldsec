@@ -61,3 +61,15 @@ The event goes beyond being just a carnival; it's a celebration of shared values
 
 #### View the ARTasFEST 2023 action here:
 [https://for.edu.sg/atf2023](https://for.edu.sg/atf2023)
+
+![](https://lh7-us.googleusercontent.com/G-isvQmOXNwLNTzGGYwv5pWmlsINW_LG0xjSPscBj63gbJAKTR6OZIpsYwU3Uy-Gy48D1vdHA3Gw7obNYlq0KzRGfpV81HBZYDkfevBt_3VdopJqBeL_FRaiTdHUGc3WygcMuLkQ6ppPlFGPZhDMsP0MUF_WW4daACYjpKGzChOugVa_T_etBUIjYlebQA)
+
+![](https://lh7-us.googleusercontent.com/inVbRfoTI1kxxXhtUrTxhIBgHRE38yksyIFz9p_nm3fuMBhITIxFmUlxM7NlFWcCZ4HuFM35DrdyrabqJDeC78Dg63o8wdARXthFrkHCkBuJl-wgdYa0zlK_rfw5gH0rdsZNBTGnWJkV02V5hSWHLS9sLI145oods8TV6QlowsmzmD0lY3YKxm73WnCaSQ)
+
+![](https://lh7-us.googleusercontent.com/lYSkK3XUJ6vhSz83XCGjWGLK_JBVzUuYgW7xxvsUbUoDHyDli91A83h_vbVG3MRzrJngzIIONPuDhkDPCAarC2GgQ1EMuEusnUMNWBHq_MFL9tDA0UxI_6f8WywvjK3ly9UHldcjcaLoW_taZFIX-W9yw6bdLonflBxOfHOZrnn937vHPPwO9I6CwLl8CA)
+
+![](https://lh7-us.googleusercontent.com/O7jadOdROHtf2y56P65L3K9n3AyU_iVihu5TxfGDJ0mo8dpYqG_ZBaaM6cDHOdbibUNzINwQA8dCNrrECOcJ3vkywPJQKGj4l2pbIkSi-ztjb1w0uG1dozrf1vLer-f03h2d3_CtdkqBSAgbnOjKtOoIuexkWXMGVpjBEvgY0zyclydHGGZHgETFXe1B_w)
+
+![](https://lh7-us.googleusercontent.com/g5lRjrKcMmWlxZ-x_5A8D9v2392aSjiYrYWlvKpAIo213KVdJ1KEtULZmjGopUpp2pR9xRzukPNTGszE5FeK7pOGocKpm5kYbrMwP2y1GjRsfbd2r59KB--tngmhlU0VKLeY6_J8FOeL9YCMaXW5y8ntf8E7RN1Qtlay3O_gm0vHf-ViVzgcPjNtdwv7SA)
+
+![](https://lh7-us.googleusercontent.com/Y3L_mW7oa5gheEmwY237hs7nFAri6dQ9MjlHTgeKGtPOo48wHWWTEF9HEYOOfnF0VZC-YB8pTle2dpY8l8RZyfwoff3Hb06FLxwJ-I96-bBxbimcLrITWPukzLJanDQsQ_6O1ABB7WyBlcVFGH74JL0fpe2wHZ4nerGOU9GlPh4rzsuN6wwqrKrULnbuXg)
