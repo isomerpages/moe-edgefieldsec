@@ -36,7 +36,7 @@ See students in action here: [https://youtu.be/z6u-6RUxtIs](https://youtu.be/z6u
 
 Are there skills you think you can never pick up in school? Well, maybe not at Edgefield!
 
-From honing skills and competencies in business management and marketing, to advanced life skills such as alertness-to-opportunity and bouncing back from failures, Edgefield’s Applied Learning Programme, “Growing the Edgefield&nbsp; Mindset” (G.E.M), equips you with advanced problem-solving skills to become an Entre/Intrapreneur! Leveraging on the skills and competencies developed through the Future Ready Programme , you will be exposed to various authentic platforms to solve real-world problems and benefit the community using a multi disciplinary approach.
+From honing skills and competencies in business management and marketing, to advanced life skills such as alertness-to-opportunity and bouncing back from failures, Edgefield’s Applied Learning Programme, “Growing the Edgefield&nbsp; Mindset” (G.E.M), equips you with advanced problem-solving skills to become an Entre/Intrapreneur! Leveraging on the skills and competencies developed through the Future Ready Programme, you will be exposed to various authentic platforms to solve real-world problems and benefit the community using a multi disciplinary approach.
 
 G.E.M culminates in ARTasFEST, a milestone carnival attracting more than 5000 participants! Design your own Escape Room, collaborate with entrepreneurs, run your own pop-up store, concoct your favourite drinks, host Instagram marketing campaigns, acquire deep learning and then find yourself suffering from ARTasFEST withdrawal symptoms!
 
@@ -44,14 +44,16 @@ View the action here: <br>
 [https://youtu.be/tK1GxvZ14TQ](https://youtu.be/tK1GxvZ14TQ) <br>
 [https://youtu.be/kCtQEuBYv58](https://youtu.be/kCtQEuBYv58)
 
-### Virtual ARTasFEST 2021
+### ARTasFEST 2023
 
-Surmounting the challenges from COVID-19, under the innovative conceptualization of our Student Organising Committee, ARTasFEST has moved entirely online in 2021! The theme for this special edition of Virtual ARTasFEST is ‘Reshaping Boundaries, Redefining Limits’, which encompasses our students’ spirit of adaptability and resilience to showcase their entrepreneurial mindset and future-readiness in the new normal. In addition, our students can contribute to the community through partnerships with beneficiaries, deepening their empathy and awareness of social causes.
+ARTasFEST 2023 is a vibrant, student-led platform at Edgefield Secondary School. It enhances 21st Century Competencies and underlines the significance of student-led initiatives. Held once every two years, this unique event is a fusion of a school carnival and a live outdoor concert, showcasing the talents and creativity of our students and alumni.
 
-Please visit the ARTasFest Website by scanning the QR code or visit the website @&nbsp;[https://artasfest.edgefield.sg/](https://artasfest.edgefield.sg/)
+ARTasFEST 2023 was held on Aug 11, 2023. The event featured a variety of food stalls, student-led game booths, live performances, and collaborations with local entrepreneurs. Each class was tasked with planning, organising, and operating a booth, providing students with an opportunity to develop their leadership, teamwork, and problem-solving skills. 
 
-<img src="/images/Pic%2004.png" style="width:70%">
+Themed "Together We Strive, Together We Thrive," ARTasFEST 2023 represents a unifying and collaborative effort at Edgefield Secondary School. There is also an added significance to the theme as the event provides a platform for Edgefield students and alumni to reconnect after years of physical separation due to the pandemic.
 
-You can also check out our live Instagram updates @efss\_artasfest
+What makes ARTasFEST unique is its affordability and inclusivity. It's a school-based carnival that brings the Punggol community together. This year, the event signified our dedication to giving back to the community through an enjoyable and cost-effective celebration. As the sun sets, ARTasFEST comes alive with vibrant neon lights, symbolizing our school's heart for the community.
 
-<img src="/images/Pic%2005.png" style="width:70%">
+The event goes beyond being just a carnival; it's a celebration of shared values and unity. ARTasFEST is an embodiment of the spirit of togetherness and resilience, showcasing the collective strength of Edgefielders in striving for a brighter future.
+
+You can also check out our live Instagram updates @[@efss_artasfest](instagram.com/efss_artasfest)
