@@ -10,11 +10,11 @@ From honing skills and competencies in critical and inventive thinking skills, c
   
 The G.E.M programme has been thoughtfully designed after taking into consideration the insights and perspectives of future trends taken from both global and local sources of intelligence such as the Strategy Group in the Prime Minister's Office, World Economic Forum, and Institute of Policy Studies (Singapore).
 
-![]replace
+![](/images/ALP_1.PNG)
 
-![]replace
+![](/images/ALP_2.PNG)
 
-![]replace
+![](/images/ALP_3.PNG)
 
 ### Future Ready Programme&nbsp;  
 
