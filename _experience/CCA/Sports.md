@@ -3,8 +3,9 @@ title: Sports
 permalink: /experience/cca/sports/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-![](/images/badminton-1.png)
+![](/images/badminton_1.png)
 <h5>Badminton</h5>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/badminton-boys-girls).**
