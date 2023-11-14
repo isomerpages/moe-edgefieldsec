@@ -56,4 +56,8 @@ What makes ARTasFEST unique is its affordability and inclusivity. It's a school-
 
 The event goes beyond being just a carnival; it's a celebration of shared values and unity. ARTasFEST is an embodiment of the spirit of togetherness and resilience, showcasing the collective strength of Edgefielders in striving for a brighter future.
 
-You can also check out our live Instagram updates [@efss_artasfest](instagram.com/efss_artasfest)
+**You can also check out our live Instagram updates of the event**
+[@efss_artasfest](instagram.com/efss_artasfest)
+
+#### View the ARTasFEST 2023 action here:
+[https://for.edu.sg/atf2023](https://for.edu.sg/atf2023)
