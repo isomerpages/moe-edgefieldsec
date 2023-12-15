@@ -4,12 +4,12 @@ title: Edgefield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Dear students taking the N Level Exams 2023, Please be informed
-  that the N Level Results will be released on 18 Dec 2023, Monday. <br>|
-  Reporting Time: 1.30pm (to be seated) | Reporting Venue:  Hall (4NA) / AVA
-  Room (4NT) | Attire:  Full school uniform | Grooming: As per usual school
-  standards: No coloured hair (for all) and no long hair (for boys). Boys to be
-  clean shaven. | More details have been emailed to you on 15 December 2023."
+notification: "Dear students taking the N Level Exams 2023, please be informed
+  that the N Level Results will be released on 18 Dec 2023, Monday. | Reporting
+  Time: 1.30pm (to be seated) | Reporting Venue:  Hall (4NA) / AVA Room (4NT) |
+  Attire:  Full school uniform | Grooming: As per usual school standards: No
+  coloured hair (for all) and no long hair (for boys). Boys to be clean shaven.
+  | More details have been emailed to you on 15 December 2023."
 sections:
   - hero:
       background: /images/banner2.gif
