@@ -4,10 +4,11 @@ title: Edgefield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Secondary One Registration Website:
+notification: 'Secondary One Registration Website:
   https://sec1reg.edgefield.edu.sg/getting-started | Students taking N Level
   this year can find details on N Level Result Announcement in their school
-  email."
+  email. <a target="_blank"
+  href="https://sec1reg.edgefield.edu.sg/getting-started">Link</a>'
 sections:
   - hero:
       background: /images/banner2.gif
