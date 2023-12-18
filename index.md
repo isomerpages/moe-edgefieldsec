@@ -4,10 +4,7 @@ title: Edgefield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Secondary One Registration Website:
-  https://sec1reg.edgefield.edu.sg/getting-started | Students taking N Level
-  this year can find details on N Level Result Announcement in their school
-  email."
+notification: ""
 sections:
   - hero:
       background: /images/banner2.gif
@@ -19,6 +16,16 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Secondary One Registration for 2024
+          date: 15 December 2023
+          announcement: 2024 Secondary One parents, please click on this link below for
+            the Secondary One Registration Exercise.
+          link_text: https://sec1reg.edgefield.edu.sg/getting-started
+          link_url: https://sec1reg.edgefield.edu.sg/getting-started
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
