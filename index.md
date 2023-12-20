@@ -24,7 +24,7 @@ sections:
           date: 15 December 2023
           announcement: Dear 2024 Secondary One Parents, the Secondary One Registration
             Exercise will commence on 21 Dec 2023, 8am - 12pm. <br><br>Please
-            click on the link below to access our registration portal.
+            click on the link below to find out more.
           link_text: https://sec1reg.edgefield.edu.sg/getting-started
           link_url: https://sec1reg.edgefield.edu.sg/getting-started
   - infopic:
