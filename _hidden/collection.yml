@@ -1,9 +1,0 @@
-collections:
-  hidden:
-    output: true
-    order:
-      - Together.md
-      - School Canteen.md
-      - Student Leadership.md
-      - Alumni.md
-      - Arts Programme.md
