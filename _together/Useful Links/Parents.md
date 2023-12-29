@@ -3,14 +3,8 @@ title: Parents
 permalink: /together/useful-links/parents/
 description: ""
 third_nav_title: Useful Links
+variant: markdown
 ---
-[CCA Schedule 2023](/files/CCA%20teachers%20and%20schedule%202023_6%20Jan.pdf)
-  
-[School Calendar 2023](/files/2023%20EFSS%20Calendar%20Parents.pdf)
-
-**Teacher Contact List**<br>
-[Y1](/files/teacher%20contact%20list%20semester%20one%202023%20-%20year%201%20contact%20list.pdf) / [Y2](/files/teacher%20contact%20list%20semester%20one%202023%20-%20year%202%20contact%20list.pdf) / [Y3](/files/teacher%20contact%20list%20semester%20one%202023%20-%20year%203%20contact%20list.pdf) / [Y4](/files/teacher%20contact%20list%20semester%20one%202023%20-%20year%204%20contact%20list.pdf) / [Y5](/files/teacher%20contact%20list%20semester%20one%202023%20-%20year%205%20contact%20list.pdf) 
-
 [Parent Support Group (PSG)](https://staging.d3jwf1tlw34213.amplifyapp.com/together/parents-support-group)
   
 [Parents Portal](https://parents.edgefield.sg/)  

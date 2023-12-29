@@ -2,7 +2,6 @@ collections:
   together:
     output: true
     order:
-      - Together.md
       - Direct School Admission (DSA).md
       - Parents Support Group.md
       - Partnership.md
