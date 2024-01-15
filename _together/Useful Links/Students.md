@@ -3,18 +3,6 @@ title: Students
 permalink: /together/useful-links/students/
 description: ""
 third_nav_title: Useful Links
-variant: markdown
+variant: tiptap
 ---
-[CCA Teachers &amp; Schedule 2024](/files/CCA_teachers_and_schedule_2024_5_Jan.pdf)
-
-[Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
-  
-[Education and Career Guide](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)  
-  
-[EFSS Library Catalogue](https://schoolibrary.moe.edu.sg/edgefieldsec)&nbsp;  
-  
-[1:1 iPad Learning Environment Handbook](/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf)
-
-<h4>iPad Daily Routine</h4>
-
-![](/images/iPad%20Daily%20Routine.png)
+<p><a href="/files/CCA_teachers_and_schedule_2024_5_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers &amp; Schedule 2024</a></p><p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a></p><p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guide</a></p><p><a href="https://schoolibrary.moe.edu.sg/edgefieldsec" rel="noopener noreferrer nofollow" target="_blank">EFSS Library Catalogue</a>&nbsp;</p><p><a href="/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">1:1 iPad Learning Environment Handbook</a></p><h4>iPad Daily Routine</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad%20Daily%20Routine.png"></div><p></p>
