@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
+[CCA Teachers &amp; Schedule 2024](/files/CCA_teachers_and_schedule_2024_5_Jan.pdf)
+
 [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
   
 [Education and Career Guide](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)  
