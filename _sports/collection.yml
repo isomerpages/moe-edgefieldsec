@@ -1,0 +1,11 @@
+collections:
+  sports:
+    output: true
+    order:
+      - Badminton (Boys, Girls).md
+      - Basketball.md
+      - Shooting.md
+      - Softball (Girls).md
+      - Taekwondo.md
+      - Volleyball (Boys).md
+      - Wushu.md

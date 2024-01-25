@@ -1,0 +1,9 @@
+collections:
+  clubs:
+    output: true
+    order:
+      - Art Club.md
+      - Entrepreneur Club.md
+      - New Media Club.md
+      - SYFC.md
+      - Robotics Club.md
