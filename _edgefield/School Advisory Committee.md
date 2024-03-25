@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /edgefield/sac/
 description: ""
+variant: markdown
 ---
 <h2>School Advisory Committee Members</h2><br><br>
 
@@ -18,14 +19,14 @@ description: ""
   <tr>
     <th class="tg-0lax"><img style="width: 264" src="/images/sac%20chairperson.png"></th>
     <th class="tg-0lax"><img style="width: 264" src="/images/sac%20depchair.png"></th>
-    <th class="tg-0lax"><img style="width: 264" src="/images/mr-lee.png"></th>
+    <th class="tg-0lax"><img style="width: 264" src="/images/Simon_Foo_Jung_Hin.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Ram Dharmara</span><br>Chairperson</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Jayren Teo</span><br>Deputy Chairperson</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Lee Peck Ping</span><br>Honorary Secretary</td>
+    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Simon Foo Jung Hin</span><br>Honorary Secretary</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m1.png"></td>
