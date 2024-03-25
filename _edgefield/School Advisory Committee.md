@@ -31,22 +31,22 @@ variant: markdown
   <tr>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m1.png"></td>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m2.png"></td>
-    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m3.png"></td>
+    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m4.png"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Ms Ng Ying</span><br>Member</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Ethan Chong Yih Tng</span><br>Member</td>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Trivina Kang</span><br>Member</td>
+    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Elizabeth Koh</span><br>Member</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img style="width: 264" src="/images/sac-m4.png"></td>
     <td class="tg-0lax"><img style="width: 264" src="/images/sac-m5.png"></td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Dr Elizabeth Koh</span><br>Member</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Ms Audrey Lau Lee Kian</span><br>Member</td>
-    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
