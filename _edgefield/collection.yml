@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - Event Timeline.md
       - Principal's Message.md
       - School Advisory Committee.md
       - Our Story/.keep
@@ -12,6 +11,7 @@ collections:
       - Our Story/School Song.md
       - Open House 2023.md
       - 360 School Virtual Tour.md
+      - Event Timeline.md
       - 10th Anniversary.md
       - School Prospectus.md
       - Edgefield Mascots.md
