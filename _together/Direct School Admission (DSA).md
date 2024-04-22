@@ -52,7 +52,7 @@ programmes and talent areas:
 <p>1.</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sports</p>
+<p>SPORTS</p>
 <ul>
 <li>
 <p>Taekwondo (Boys and Girls)</p>
@@ -80,7 +80,7 @@ programmes and talent areas:
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong>
+<p><strong>Student Outcomes</strong> 
 <br>• To develop good character and a resilient mindset in our students through
 sport.
 <br>• To develop and nurture sporting talents in selected sport.</p>
@@ -91,7 +91,7 @@ sport.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes &amp; Activities for DSA Students</strong>
+<p><strong>Programmes &amp; Activities for DSA Students</strong> 
 <br>• To support successful DSA candidates in developing their areas of passion,
 they would join DSA Sport CCA as their Co-Curricular Activity (CCA) for
 the duration of their studies in Edgefield Secondary School.
@@ -107,7 +107,7 @@ in our school.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3.</p>
+<p>2.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>INNOVATION - Growing the Edgefield Mindset</p>
@@ -118,7 +118,7 @@ in our school.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong>
+<p><strong>Student Outcomes</strong> 
 <br>• Nurturing Collaborative Innovators with capabilities to better prepare
 them for the future.</p>
 </td>
@@ -128,7 +128,7 @@ them for the future.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong>
+<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong> 
 <br>• To support successful DSA candidates in developing their areas of passion,
 they would take the lead in innovation related projects/competitions for
 the duration of their studies in Edgefield Secondary School.</p>
@@ -140,7 +140,7 @@ the duration of their studies in Edgefield Secondary School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>4.</p>
+<p>3.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>STUDENT LEADERSHIP - Nurturing Compassionate Leaders</p>
@@ -151,7 +151,7 @@ the duration of their studies in Edgefield Secondary School.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong>
+<p><strong>Student Outcomes</strong> 
 <br>• Nurturing Compassionate Leaders who are anchored on values and committed
 to serve the school and community with passion and empathy.</p>
 </td>
@@ -161,7 +161,7 @@ to serve the school and community with passion and empathy.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong>
+<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong> 
 <br>• To support successful DSA candidates in developing their areas of passion,
 they would have to serve in one of the Student Leadership bodies for the
 duration of their studies in Edgefield Secondary School.</p>
