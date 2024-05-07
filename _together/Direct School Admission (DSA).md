@@ -45,6 +45,8 @@ programmes and talent areas:
 </li>
 </ol>
 <p></p>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,7 +73,7 @@ programmes and talent areas:
 <p>Basketball (Boys and Girls)</p>
 </li>
 <li>
-<p>Softball (Boys and Girls)</p>
+<p>Softball (Girls only)</p>
 </li>
 <li>
 <p>Wushu (Boys and Girls)</p>
@@ -85,10 +87,17 @@ programmes and talent areas:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong> 
-<br>• To develop good character and a resilient mindset in our students through
-sport.
-<br>• To develop and nurture sporting talents in selected sport.</p>
+<p><strong>Student Outcomes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop good character and a resilient mindset in our students through
+sport.</p>
+</li>
+<li>
+<p>To develop and nurture sporting talents in selected sport.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
