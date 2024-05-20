@@ -23,7 +23,7 @@ sections:
         - title: New Announcement
           date: 20 May 2024
           announcement: The CCA Schedule for June Holidays 2024 have been uploaded under
-            Experience > Useful Links > Students.
+            Together > Useful Links > Students.
           link_text: ""
           link_url: ""
   - infopic:
