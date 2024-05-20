@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><a href="/files/2024_EFSS_Calendar__Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar 2024</a>
 </p>
-<p><strong>[New]</strong>  <a href="/files/CCA_March_Term_Break_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March Holidays CCA Schedule</a>
+<p><strong>[New]</strong>  <a href="/files/CCA_schedule_June_Holidays_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holidays 2024 CCA Schedule</a>
 </p>
 <p><a href="/files/CCA_teachers_and_schedule_2024_5_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers &amp; Schedule 2024</a>
 </p>
