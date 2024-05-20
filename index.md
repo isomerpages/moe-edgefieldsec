@@ -19,6 +19,13 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 20 May 2024
+          announcement: The CCA Schedule for June Holidays 2024 have been uploaded under
+            Together > Useful Links > Students.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
