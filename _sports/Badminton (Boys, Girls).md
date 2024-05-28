@@ -2,56 +2,201 @@
 title: Badminton (Boys, Girls)
 permalink: /experience/cca/sports/badminton-boys-girls/
 description: ""
+variant: tiptap
 ---
-![](/images/b%20boys%202023%20cropped.jpg)<br>
-![](/images/badminton%20girls%202023.jpg)<br>
-![](/images/badminton%202023.jpg)<br>
-![](/images/b%20boys%20yuxuan%202023%20cropped.jpg)<br>
-![](/images/badminton%20trophies%202023.jpg) <br>
-More photos on [Instagram](https://www.instagram.com/edgefield_sec_badminton/?r=nametag) and [Youtube](https://youtu.be/Vd-81zmtEvs?feature=shared)<br>
-
-**Description** <br>
-Badminton CCA hopes to nurture and groom students with remarkable sportsmanship, integrity, perseverance and passion for the game.
-
-Through various competitions such as the National School Games, students will gain greater exposure and hone their badminton skills and techniques. 
-
-**Highlights / Achievements**
-
-<b>National School Games (North Zone)</b>
-
-| Year | Division | Position |
-|--|--------| -------- |
-| 2023 | B Boys| Top 4 (3rd)|
-||B Girls|Quarter Finals|
-||C Boys|Participation|
-||C Girls|Top 4 (4th)|
-2022|B Boys|Top 4 (3rd)|
-||B Girls|Quarter Finals
-||C Boys|Quarter Finals
-||C Girls|Top 4 (4th)
-
-<b>Pesta Sukan 2023</b><br>
-U17 Boy's Singles<br>
-Keith Yeo (Rd of 16)<br>
-U15 Girl's Singles<br>
-Saphire Yap (Semi-Final)<br>
-
-<b>Alpha Age Group Series 2022</b><br>
-U17 Boy's Singles<br>
-Chong Yuxuan (Quarter-Finalist)<br>
-
-**Teachers in Charge** <br>
-Mr Chang Ching <br>
-Mr Patrick Yeo <br>
-Ms Ho Peishan
-
-**Coaches** <br>
-Mr Tan Ling Teck <br>
-Mr Chang Ching
-
-**Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
-Wednesday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.30 – 6.00pm <br>
-Friday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 6.00pm
-
-**Venue** <br>
-School Hall (3 courts for boys / 3 courts for girls)
+<p>More photos on <a href="https://www.instagram.com/edgefield_sec_badminton/?r=nametag" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
+<a href="https://youtu.be/Vd-81zmtEvs?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Youtube</a>
+</p>
+<p><strong>Description</strong> 
+<br>Badminton CCA hopes to nurture and groom students with remarkable sportsmanship,
+integrity, perseverance and passion for the game. Through various competitions
+such as the National School Games, students will gain greater exposure
+and hone their badminton skills and techniques.</p>
+<p>&nbsp;</p>
+<p>Our training has realistic coach to player ratio and our DSA trial takes
+place in July annually.&nbsp;</p>
+<p><strong>Highlights / Achievements</strong>
+</p>
+<p><strong>National School Games</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Division</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>&nbsp; in North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Round 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>&nbsp; in North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>&nbsp; in North Zone</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pesta Sukan 2023</strong>
+<br>U17 Boy's Singles
+<br>Keith Yeo (Rd of 16)
+<br>U15 Girl's Singles
+<br>Saphire Yap (Semi-Final)
+<br>
+</p>
+<p><strong>Alpha Age Group Series 2022</strong>
+<br>U17 Boy's Singles
+<br>Chong Yuxuan (Quarter-Finalist)
+<br>
+</p>
+<p><strong>Teachers in Charge</strong> 
+<br>Mr Chang Ching
+<br>Mr Patrick Yeo
+<br>Mdm Nurashikin</p>
+<p><strong>Coaches</strong> 
+<br>Mr Tan Ling Teck
+<br>Mr Chang Ching</p>
+<p><strong>Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time</strong> 
+<br>Wednesday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.30 – 6.00pm
+<br>Friday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 6.00pm</p>
+<p>School Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split
+sessions by gender</p>
+<p><strong>Venue</strong> 
+<br>School Hall (3 courts for boys / 3 courts for girls)</p>
