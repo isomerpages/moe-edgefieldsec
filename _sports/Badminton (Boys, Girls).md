@@ -4,6 +4,7 @@ permalink: /experience/cca/sports/badminton-boys-girls/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <p>More photos on <a href="https://www.instagram.com/edgefield_sec_badminton/?r=nametag" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
 <a href="https://youtu.be/Vd-81zmtEvs?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Youtube</a>
 </p>
@@ -171,14 +172,17 @@ place in July annually.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Pesta Sukan 2023</strong>
+<p><strong>East Badminton Academy 2023</strong> 
+<br>U15 Boy's Doubles
+<br>Jayden Lim (Runner Up)</p>
+<p><strong>Pesta Sukan 2023</strong> 
 <br>U17 Boy's Singles
 <br>Keith Yeo (Rd of 16)
 <br>U15 Girl's Singles
 <br>Saphire Yap (Semi-Final)
 <br>
 </p>
-<p><strong>Alpha Age Group Series 2022</strong>
+<p><strong>Alpha Age Group Series 2022</strong> 
 <br>U17 Boy's Singles
 <br>Chong Yuxuan (Quarter-Finalist)
 <br>
