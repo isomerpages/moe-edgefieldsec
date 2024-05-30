@@ -28,7 +28,6 @@ variant: markdown
 integrity, perseverance and passion for the game. Through various competitions
 such as the National School Games, students will gain greater exposure
 and hone their badminton skills and techniques.</p>
-<p>&nbsp;</p>
 <p>Our training has realistic coach to player ratio and our DSA trial takes
 place in July annually.&nbsp;</p>
 <p><strong>Highlights / Achievements</strong>
