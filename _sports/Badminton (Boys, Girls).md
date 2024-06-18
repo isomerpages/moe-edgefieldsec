@@ -2,9 +2,12 @@
 title: Badminton (Boys, Girls)
 permalink: /experience/cca/sports/badminton-boys-girls/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0195_edited__1___1___1__min.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Sch_Website_2024__1_.png">
 </div>
