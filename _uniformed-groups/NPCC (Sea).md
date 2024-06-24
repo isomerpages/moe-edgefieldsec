@@ -60,18 +60,19 @@ _Bronze Award_
 ASP (NPCC) Arman Alluwie <br>
 ASP (NPCC) Neo Chee Keong&nbsp;<br>
 INSP (NPCC) Tan Yen Lin&nbsp;<br>
-INSP (NPCC) Louisa Tan <br>
-INSP (NPCC) Kenny Cheong
+INSP (NPCC) Kenny Cheong<br>
+Ms Jewelle Woo
 
 **Student Leaders in Charge** <br>
-Unit Chairperson: Wong Jia Yee (3ES)<br>
-Vice-Chairperson (Projects and Activities): Faith Tang Sze Ya (3EC) <br>
-Vice-Chairperson (Training): Julian Lim (3ES)<br>
-Vice-Chairperson (Unit Development and Leadership): Teo Kah Siong Damien (3ES)
+Unit Chairperson: Ng Jing Rui<br>
+Vice-Chairperson (Projects and Activities): Joshua Teoh <br>
+Vice-Chairperson (Training): Chua Yao An<br>
+Vice-Chairperson (Unit Development and Leadership): Yemima Putri Cheng
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Wednesdays&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;4.00 - 6.00pm <br>
 Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2.30 – 5.30pm
 
 **Venue** <br>
-NPCC room
+NPCC room<br>
+*some activities organized by Area/HQ may fall outside of Wednesdays and Fridays
