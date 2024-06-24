@@ -332,8 +332,15 @@ Under 52kg</p>
 <p>*All Poomsae &amp; Kyorugi events for 'C' Division cancelled due to COVID-19.</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Nah Jiajun Jeffrey
-<br>Ms Chen Yantong</p>
-<p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Training Time</strong> 
+<br>Ms Chen Yantong<br>
+Mdm Teo Lee Loo</p>
+<p><strong>Student Leaders</strong><br>
+	Captain: Michael Gabriel Suhendra (3EV)<br>
+	Vice-Captain (Training/Poomsae): Locanas Frances Maria Gabilan (3ED)<br>
+	Vice-Captain (Training/Kyorugi): Declan Darrell Joan (3EV)<br>
+	Vice-Captain (Admin): Miki Yap Jia Min (3EL)<br>
+	Vice-Captain (Welfare): Natalyn Lim Wei En (3ED)
+</p><p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Training Time</strong> 
 <br>Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.45 - 6.00pm
