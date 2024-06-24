@@ -63,7 +63,11 @@ Ms Puteri Sukma Wee
 
 **Student Leaders** <br>
 Company Leader: Mea Goh Yun Ning, 3ED <br>
-Assistant Company Leader: Joelle Goh Jia Ni, 3EL
+Assistant Company Leader: Joelle Goh Jia Ni, 3EL<br>
+Senior Patrol Leader: Allison Cheng Min Rui, 3EV <br>
+Senior Patrol Leader: Ng Nuan Jing Crystal, 3EH<br>
+Senior Patrol Leader: Nisriina Binte Imran, 3ES<br>
+
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;4.00 - 6.00pm <br>
