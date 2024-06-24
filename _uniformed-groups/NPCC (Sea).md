@@ -4,6 +4,8 @@ permalink: /experience/cca/uniformed-groups/npcc-sea/
 description: ""
 variant: markdown
 ---
+
+![](/images/IMG_0005.jpg)<br>
 **Description** <br>
 Edgefield NPCC (Sea) is dedicated to fostering self-directed learners and compassionate leaders through our partnership with NPCC. Our mission is to promote safety and serve the community, contributing to a safe and resilient Singapore. We focus on developing individuals who can adapt to changing conditions and possess the social-emotional skills necessary for success. <br><br>Our vision is to be a leading CCA of choice, nurturing innovative problem-solvers and empathetic leaders who actively contribute to making Singapore a safe place. We aim to inspire our members to make meaningful contributions to society by aligning with the school's goal of producing collaborative innovators and compassionate leaders. <br><br>The values we uphold in NPCC include resilience, integrity, service, and excellence. We encourage our members to adapt and thrive in the face of challenges, act with honesty and moral courage, commit to community service, and strive for excellence in all their endeavors. While we strive towards these ideals, we understand that growth is a continuous process, and we are committed to supporting our members in their journey towards these values.
 
