@@ -40,12 +40,12 @@ Year 3 Elias, Captain, 2020**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
     
-In these 4 years in Shooting CCA, I have learnt many life lessons and values, and experienced ups and downs with my CCA mates. As Captain, knowing how to appropriate commands and leading the team is being able to understand and communicate well with my peers and juniors. This bonding has helped to make the CCA more fulfilling and fun.
+During my four years in the Shooting CCA, the journey has been filled with numerous life lessons and values that have shaped who I am today. As Captain, this role has taught me the importance of giving appropriate commands and leading the team effectively.
 
-I am very grateful for my coach, peers and teachers who supported and guided me along the way. Shooting CCA has not just taught me about its sport but also its values and beliefs. It has taught me how to be humble and yet able to display my leadership skills in encouraging and motivating my peers.
+The strong bonds formed with my CCA mates have made the experience exceptionally fulfilling and enjoyable. I am incredibly grateful to my coach, peers, and teachers for their unwavering support and guidance throughout my journey. Overall, my time in the Shooting CCA has been transformative, providing me with lifelong skills and memories that I will cherish forever.
 
-_**Charlene Wong Jing Ying**  
-**Year 4 Eisenhower, Captain, 2023**_
+_**Amelyn Chua Jia Li**  
+**Year 4 Edison, Captain, 2024**_
 
 ![](/images/softball-1.png)
 <h5>Softball</h5>
