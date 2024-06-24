@@ -332,7 +332,7 @@ Under 52kg</p>
 <p>*All Poomsae &amp; Kyorugi events for 'C' Division cancelled due to COVID-19.</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Nah Jiajun Jeffrey
-<br>Ms Jasmine Lim</p>
+<br>Ms Chen Yantong</p>
 <p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Training Time</strong> 
 <br>Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
