@@ -38,14 +38,14 @@ Year 4 Einstein, Unit Chairperson, 2023**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
     
-Through NCDCC, I have honed my leadership skills. I have had multiple opportunities to plan and execute various activities such as training, sports, lessons and parades. NCDCC has also given me the confidence to give commands to my unit so that we can all work together to achieve training objectives.  
+As an NCDCC leader, I have witnessed firsthand the profound impact this CCA has on our cadets. Through rigorous training in first aid, fire safety, and emergency response, our members gain invaluable practical skills that are crucial in real-world situations. 
   
-Being in NCDCC has taught me to become more disciplined. It is reflected in something as simple as keeping still in parades. Not only has it helped me as a student, I also believe that discipline is crucial in an emergency as one needs to have the discipline to follow the commands of the leader to ensure the rescue is efficiently carried out.&nbsp;  
+The values we instill—Noble, Caring, Disciplined, Courageous, Commited—are foundational for their personal growth. The cadets take pride in their ability to help others, fostering a strong sense of community spirit. They also enjoy the camaraderie and the hands-on nature of our activities, such as learning the CPR and useful first aid skills, which keep them engaged and motivated.
   
-The first aid skills picked up during training could potentially save someone's life. It is important to attend CCA trainings regularly, to refresh what we have learnt. Though training may be tough at times, with discipline, I believe that the unit will overcome challenges together.
+These experiences not only prepare them for potential careers in healthcare or emergency services but also ensure they are well-rounded individuals ready to face future challenges with confidence and compassion.
 
-**_Adoncia Low Zeng Swan  
-Unit Sergeant Major, 2022_**
+**_Ng Jun Wei Jovan  
+Unit Sergeant Major, 2024_**
 
 ![](/images/scouts-1.png)
 <h5>Scouts</h5>
