@@ -3,6 +3,7 @@ title: Performing Arts
 permalink: /experience/cca/performing-arts/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ![](/images/choir-1.png)
 <h5>Choir</h5>
@@ -95,12 +96,12 @@ Year 3 Euclid, President, 2020_**
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
         
-Modern dance has been a significant part of my secondary school journey. Not only is it a place for me to develop my interests and passion in dance, it is also where I build strong relationships with my CCA mates from all levels. We have cried and laughed together, and spent tough times together. These years in Modern Dance are an unforgettable and memorable part of my life and I will never forget this experience.
+CCA has helped me in many different aspects one of them is learning how to communicate well with others. The skill communication have helped me not only become a better person but also help me lead the CCA well. Communication is key in our CCA, without it, we will not be able to get where we are today. Communicating with others also helped me realise that sometimes there is more than just 1 correct answer. We should learn how to put ourselves in other people’s shoes to see where they are coming from. This has also made me realise my dancers strong points and weak points. Some, I believe have great potential to be better and improved. These can be obtained by making effort to understand my dance members and build strong relationship with them. Therefore, having good communication is the most meaningful skill I have acquired through this CCA.
 
-**_Ezann Tan Yi Xin_**<br>
-**_Year 4 Everest, Vice-President, 2022_**
+**_Cassandra Chew Kai Xin_**<br>
+**_Year 3 Emerson, President, 2024_**
 
-Being a part of this CCA has helped me hone my soft skills. I have also learnt how to be an effective communicator from the given opportunities to interact and empathise with my team mates. These have indubitably supported in the process of forging stronger family-like bonds in our CCA. Joining Modern dance also gives us an exposure to the vast array of dance genres that our instructors guide us through with much dedication.
+I have learnt how to have self-discipline, relience, collaborating with others as we work together towards a common goal. I personally really love dancing and being able to dance along side my juniors and seniors have never made me happier to attend my CCA! Seeing how everyone works hard together to put up a spectacular performance really fills me with satisfaction. Not only that, I have also learned how to have the self-determination and self-discipline to improve on myself so that i can work even better with my peers!
 
-**_Kurma Dhanya  
-    Year 4 Eliot, Vice-President, 2022_**
+**_Ho Si Xuan Alexis  
+    Year 3 Eisenhower, Vice-President, 2024_**
