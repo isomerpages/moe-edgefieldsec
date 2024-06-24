@@ -2,6 +2,7 @@
 title: Entrepreneur Club
 permalink: /experience/cca/clubs/entrepreneur-club/
 description: ""
+variant: markdown
 ---
 <img src="/images/1entre.png" style="width:50%">
 <img src="/images/2entre.png" style="width:60%">
@@ -15,7 +16,10 @@ The E-Club teaches its students the reality of business management, of the strug
 
 **Highlights / Achievements** <br>
 Participation in: <br>
-Youth Innovation Challenge <br>
+Raffles Business Symposium 2024. On-going competition till Aug.
+<br>Social Innovation Hackathon 2024. On-going competition till May.
+<br>Social Innovation Hackathon 2023 (Final) in June. One out of 3 team qualified for the Final
+<br>Youth Innovation Challenge <br>
 Creathon 2021 <br>
 2021 Inter-School Culinary Competition @ SHATEC <br>
 #startathon Junior 2021 <br>
@@ -28,15 +32,15 @@ Ms Nurashikin <br>
 Mr Jimmy Lim
 
 **Student Leaders** <br>
-Cayden Phoon Zeng Yu, 3EH (Chief Executive Officer) <br>
-Yong Xuan An, 3EL (Chief Finance Officer) <br>
-Gideon Tan Zhe-Jun, 3ED (Chief Operating Officer) <br>
-Chin Ze Kai, Kaede, 3ED (Chief Event Manager) <br>
-Ng Xin Zhe, Shane, 3EL (Chief Human Resource)
+3EC Iffah Syafiqah Binte Abdul Razak - Chief Executive Officer (CEO)<br>
+3ES Trixie Gale Tura Figuracion  - Chief Finance Officer (CFO)<br>
+3EU Ilhan Qhairie Bin Muhamad Nizam - Chief Operating Officer (COO) <br>
+3ED Megan Chua Ke Xuan -  Chief People Officer (CPO) <br>
+3ED Law Yi Ying Keryn - Chief Event Manager (CEM)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Training Time** <br>
-Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;4.00 - 6.00pm&nbsp;<br>
-Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;2.00 – 4.00pm
+Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Online Session&nbsp;<br>
+Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;2.00 – 4.00pm
 
 **Venue**&nbsp;<br>
 The Edge (Student Hub) <br>
