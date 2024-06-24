@@ -321,13 +321,15 @@ Under 52kg</p>
 <br><strong><em>Poomsae</em></strong>
 <br>'C' Division Girls - 1st
 <br>'C' Division Boys - 2nd
-<br>'B' Division Girls - 1st&nbsp;
+<br>'B' Division Girls - 1st</p>
+<p>*All Kyorugi events cancelled due to COVID-19.
 <br>
 </p>
 <p><strong>National School Games Taekwondo Championships 2021</strong>
 <br><strong><em>Poomsae</em></strong>
 <br>'B' Division Girls - 1st
 <br>'B' Division Boys - 2nd</p>
+<p>*All Kyorugi events cancelled due to COVID-19.</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Nah Jiajun Jeffrey
 <br>Ms Jasmine Lim</p>
