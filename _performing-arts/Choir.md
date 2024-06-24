@@ -2,6 +2,7 @@
 title: Choir
 permalink: /experience/cca/performing-arts/choir/
 description: ""
+variant: markdown
 ---
 **Description** <br>
 Choir CCA offers students the opportunity to sing different kinds of music. Students get to be around others who share their interest in music.&nbsp;
@@ -36,9 +37,9 @@ Ms Andrea Lim <br>
 Mrs Grace Lewis
 
 **Student Leaders**  
-President: Shernice Chan (4EH)  <br>
-Vice-President: Cheng Qijia (4ED)<br>
-Student Conductor: Yip Jiayu, Yvinne (4EC)
+President: Sim En Qi Mabel (3ED)  <br>
+Vice-President: Koh Zhe Hui, Ashley (3EL)<br>
+Student Conductor: Lim Jia Yi (Lin Jiayi) (3EM)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Hours** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4.00 to 6.00 pm  <br>
