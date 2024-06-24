@@ -17,13 +17,12 @@ and awareness of art around them.</p>
 <p><strong>Highlights / Achievements</strong>
 </p>
 <p><strong><em>Singapore Youth Festival 2024 Art Exhibition</em></strong>
-</p>
-<p>Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte
-(2ED)</p>
-<p>ViaRT Award 2023:</p>
-<p>The Most Creative Award (Third Prize)- Jaelyn Goh, Dandree Lim, Ong Sim
-Rui</p>
-<p>Best Sustainable Message Award (Third Prize) - Chia Yu Xuan Cheyenne and
+<br>Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte
+(2ED)
+<br>ViaRT Award 2023:
+<br>The Most Creative Award (Third Prize)&nbsp;- Jaelyn Goh, Dandree Lim, Ong Sim
+Rui
+<br>Best Sustainable Message Award (Third Prize)&nbsp;- Chia Yu Xuan Cheyenne and
 Shannon Tan Xuan En</p>
 <p><strong><em>School contributions</em></strong>
 <br>Chinese New Year Festive Cards and WhatsApp sticker designs&nbsp;
@@ -42,10 +41,8 @@ Museum
 </p>
 <p></p>
 <p><strong>Student Leaders</strong> 
-</p>
-<p>Arman Reno, (3EL)</p>
-<p>Putri Indraqasih, (3EU)
-<br>
+<br>Arman Reno, (3EL)
+<br>Putri Indraqasih, (3EU)
 </p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Shahidah
