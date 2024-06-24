@@ -21,10 +21,7 @@ We adopt a structured approach towards the development of programmes that will e
 (3) Choices - Making the choice to care, serve and impact.
 
 **Highlights / Achievements** <br>
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2022<br>
-_Gold_
-
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021<br>
+National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
 
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2019 <br>
@@ -38,10 +35,10 @@ Ms Toh Si Qi
 
 **Student Leaders**
 
-Unit Sergeant Major: Teng Shi Xuan, 4E <br>
-Assistant Sergeant Major (Training): Wan Syafiqah Binte Wan Faisal, 4EC<br>
-Assistant Sergeant Major (Operations): Muhammad Ariel Putra Adam Bin Nasir, 4EL<br>
-Assistant Sergeant Major (Development): Fatimah Binte Amir Naina Mohamed, 4EC
+Unit Sergeant Major: Ng Jun Wei Jovan, 3EH <br>
+Assistant Sergeant Major (Training): Muhammad Mika Haziq Putra Azhar, 3EV<br>
+Assistant Sergeant Major (Operations): Xander Ong, 3EH<br>
+Assistant Sergeant Major (Development): Wong Qing En Darbie, 3EL
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;3:30 – 6.00pm <br>
