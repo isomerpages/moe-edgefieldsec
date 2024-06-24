@@ -2,8 +2,10 @@
 title: NCDCC
 permalink: /experience/cca/uniformed-groups/ncdcc/
 description: ""
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6VhUML1mTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=geB3NOulVFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Description** <br>
 National Civil Defence Corps (NCDCC) is a recognised member of the National Uniformed Group. Students will acquire important life-saving skills such as CPR and AED, and be empowered to be active and concerned citizens advocating life-saving skills. Through close partnership with the SCDF, students will have opportunities to visit Civil Defence Academy, Home Team Academy and fire stations.&nbsp;
