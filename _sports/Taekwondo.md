@@ -329,7 +329,7 @@ Under 52kg</p>
 <br><strong><em>Poomsae</em></strong>
 <br>'B' Division Girls - 1st
 <br>'B' Division Boys - 2nd</p>
-<p>*All Kyorugi events cancelled due to COVID-19.</p>
+<p>*All Poomsae &amp; Kyorugi events for 'C' Division cancelled due to COVID-19.</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Nah Jiajun Jeffrey
 <br>Ms Jasmine Lim</p>
