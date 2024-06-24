@@ -3,6 +3,7 @@ title: Uniformed Groups
 permalink: /experience/cca/uniformed-groups/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ![](/images/guides-1.jpg)
 <h5>Girl Guides</h5>
@@ -23,13 +24,14 @@ Year 4 Eisenhower, Member, 2022**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/npcc-sea).
 
-“NPCC (Sea) provides opportunities for cadets to participate in a variety of new and interesting activities. Cadets acquire leadership qualities where they learn how to teach drills and lead their CCA. As a cadet, I have observed my Cadet Leaders teaching drills and making sure that all cadets understand how to execute these drills. When I stepped up into the EXCO, I had the chance to not only teach the cadets, but to train the Cadet Leaders to teach effectively.&nbsp;
+NPCC has significantly enhanced my problem-solving skills by exposing me to real-world challenges, such as adapting to sudden plan changes and addressing emergencies, allowing me to quickly find effective solutions and maintain a positive mindset.
 
-Cadets in NPCC(Sea) learn about working in a team and develop leadership qualities that are highly beneficial for our future. As we continue to either pursue higher studies or work there would be instances where we would have to work in teams and learn how to effectively contribute to the team. Moreover, cadets are also exposed to the importance of Singapore's maritime industry and the different types of maritime jobs. We also learn about the Singapore Police Force. We also get to go on industry visits and learn about the growth of Singapore's maritime industry and why Singapore's Maritime Industry is critical to Singapore.Other exciting visits include the Raffles Lighthouse and the PCG Brani Base to learn about Sea Survival.”
+Through NPCC, I have learned the values of discipline, leadership, and service to the community. What I enjoy most is the camaraderie and the sense of accomplishment that comes from working together to overcome challenges and achieve our goals.
+
+The skills and values I've gained from NPCC, such as effective time management, adaptability, and a strong sense of discipline, will be invaluable in my future endeavors, helping me to navigate challenges, prioritize tasks, and stay committed to my goals.
       
-**Sivakumar Roshini Devi<br>
-Year 4 Euler, 2022<br>
-Vice-Chairperson (Law Enforcement), 2022**
+_**Wong Jia Yee<br>
+Year 4 Einstein, Unit Chairperson, 2023**_
 
 ![](/images/ncdcc-1.png)
 <h5>NCDCC</h5>
