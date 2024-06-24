@@ -9,11 +9,11 @@ Edgefield NPCC (Sea) is dedicated to fostering self-directed learners and compas
 
 **Highlights / Achievements** <br>
 SPF-NPCC Badge 2024<br>
-Julian Lim (Lin Zhengyuan) (4ES)<br>
+_Julian Lim (Lin Zhengyuan) (4ES)<br>
 Wong Jia Yee (4ES)<br>
-Faith Tang Sze Ya (4EC)<br><br>
+Faith Tang Sze Ya (4EC)<br><br>_
 Unit Overall Proficiency Award (UOPA) 2023<br>
-Gold Award<br><br>
+_Gold Award_<br><br>
 SPF-NPCC Badge 2023<br>
 _Sivakumar Roshini Devi (4EU)_
 _Tay Zhi Cheng (4ED)_
