@@ -47,7 +47,8 @@ The strong bonds formed with my CCA mates have made the experience exceptionally
 _**Amelyn Chua Jia Li**  
 **Year 4 Edison, Captain, 2024**_
 
-![](/images/softball-1.png)
+
+![](/images/Softball_B_division.jpg)
 <h5>Softball</h5>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).**
