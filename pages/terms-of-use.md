@@ -36,7 +36,8 @@ are owned by, licensed to or controlled by Edgefield Secondary School.</p>
 <h4><strong>Privacy Policy</strong></h4>
 </li>
 <li>
-<p>Click here to review this Web Site Privacy Statement.</p>
+<p>Click <a href="https://staging-lite.d3sl5gjt92kmju.amplifyapp.com/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 <p></p>
 <h4><strong>Restrictions on Use of Materials</strong></h4>
 </li>
