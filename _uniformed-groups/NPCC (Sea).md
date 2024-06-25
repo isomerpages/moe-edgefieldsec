@@ -2,17 +2,19 @@
 title: NPCC (Sea)
 permalink: /experience/cca/uniformed-groups/npcc-sea/
 description: ""
+variant: markdown
 ---
+![](/images/IMG_0005.jpg)<br>
 **Description** <br>
-NPCC SEA hopes to develop its Cadets into Caring and Responsible Citizens and mould the Builders of a Safe &amp; Secure home.
-
-Through the CCA, we hope to to ensure students’ growth by exposing them to a challenging environment, which, in turn will imbibe them with leadership qualities, strong character and civic, social and moral values.
-
-We hope to enlighten students on the role of the Singapore Police Force and the Police Coast Guard, helping to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.&nbsp;
-
-We also wish to build a culture where students will learn to treat fellow cadets with respect, courtesy and tact, teaching them to extend the same care and concern to others; and through its identification with the Singapore Police Force and Police Coast Guard, teach students to adopt their tradition of high standards of performance, commitment, duty and service, to seek to excel and to face challenges.
+Edgefield NPCC (Sea) is dedicated to fostering self-directed learners and compassionate leaders through our partnership with NPCC. Our mission is to promote safety and serve the community, contributing to a safe and resilient Singapore. We focus on developing individuals who can adapt to changing conditions and possess the social-emotional skills necessary for success. <br><br>Our vision is to be a leading CCA of choice, nurturing innovative problem-solvers and empathetic leaders who actively contribute to making Singapore a safe place. We aim to inspire our members to make meaningful contributions to society by aligning with the school's goal of producing collaborative innovators and compassionate leaders. <br><br>The values we uphold in NPCC include resilience, integrity, service, and excellence. We encourage our members to adapt and thrive in the face of challenges, act with honesty and moral courage, commit to community service, and strive for excellence in all their endeavors. While we strive towards these ideals, we understand that growth is a continuous process, and we are committed to supporting our members in their journey towards these values.
 
 **Highlights / Achievements** <br>
+SPF-NPCC Badge 2024<br>
+_Julian Lim (Lin Zhengyuan) (4ES)<br>
+Wong Jia Yee (4ES)<br>
+Faith Tang Sze Ya (4EC)<br><br>_
+Unit Overall Proficiency Award (UOPA) 2023<br>
+_Gold Award_<br><br>
 SPF-NPCC Badge 2023<br>
 _Sivakumar Roshini Devi (4EU)_
 _Tay Zhi Cheng (4ED)_
@@ -59,18 +61,19 @@ _Bronze Award_
 ASP (NPCC) Arman Alluwie <br>
 ASP (NPCC) Neo Chee Keong&nbsp;<br>
 INSP (NPCC) Tan Yen Lin&nbsp;<br>
-INSP (NPCC) Louisa Tan <br>
-INSP (NPCC) Kenny Cheong
+INSP (NPCC) Kenny Cheong<br>
+Ms Jewelle Woo
 
 **Student Leaders in Charge** <br>
-Unit Chairperson: Wong Jia Yee (3ES)<br>
-Vice-Chairperson (Projects and Activities): Faith Tang Sze Ya (3EC) <br>
-Vice-Chairperson (Training): Julian Lim (3ES)<br>
-Vice-Chairperson (Unit Development and Leadership): Teo Kah Siong Damien (3ES)
+Unit Chairperson: Ng Jing Rui<br>
+Vice-Chairperson (Projects and Activities): Joshua Teoh <br>
+Vice-Chairperson (Training): Chua Yao An<br>
+Vice-Chairperson (Unit Development and Leadership): Yemima Putri Cheng
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Wednesdays&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;4.00 - 6.00pm <br>
 Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2.30 – 5.30pm
 
 **Venue** <br>
-NPCC room
+NPCC room<br>
+*some activities organized by Area/HQ may fall outside of Wednesdays and Fridays

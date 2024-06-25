@@ -2,6 +2,7 @@
 title: Girl Guides
 permalink: /experience/cca/uniformed-groups/girl-guides/
 description: ""
+variant: markdown
 ---
 ![](/images/2015-CCA-GIRLGUIDES.jpg)
 
@@ -9,16 +10,18 @@ description: ""
 Edgefield Girl Guides aims to provide girls with opportunities for self-training in the development of character and opportunities to discover and develop their strengths, skills and their fullest potential through various activities. These are done through a comprehensive 5-Point Programme, in hopes to develop and empower them to become responsible citizens of the world.&nbsp;
 
 **Highlights / Achievements** <br>
+2024 North Division Day - Art Competition (The World After Climate Change) - 1st Place<br> Mea Goh Yun Ning, 3ED<br> Janelle Alegria Lim Hwee Woon, 3EM<br><br>
+2023 Puan Noor Aishah (PNA) Award - 1st Company Gold Award<br><br>
 2023 North Division Outdoor Challenge<br>
-_2nd Placing - Wide Game (in collaboration with Seng Kang Pri)_<br>
-KOH JING WEN, KAYLEE 3ES<br>
-BRENDA LIM 3EH<br>
-ELISHA MYLA HO 1EL
+2nd Placing - Wide Game (in collaboration with Seng Kang Pri)_<br>
+Koh Jing Wen, Kaylee, 3ES<br>
+Brenda Lim, 3EH<br>
+Elisha Myla Ho, 1EL<br>
 
 2023 North Division Outdoor Challenge<br>
 _3rd Placing - How to Pack a Camping Bag (in collaboration with Nan Chiau Pri)_<br>
-MEA GOH YUN NING 2ED<br>
-NUR ANIQAH ATHIRAH BINTE MUZAMMIL 3EL
+Mea Goh Yun Ning, 2ED<br>
+Nur Aniqah Athirah Binte Muzammil, 3EL
 
 2022 Puan Noor Aishah (PNA) Award<br>
 _1st Company - Gold Award_
@@ -55,13 +58,16 @@ _2nd Company – Silver_
 **Teachers in Charge** <br>
 Mdm Azyan Liyana <br>
 Mdm Koo Sin Yee&nbsp;<br>
-Ms Puteri Sukma Wee <br>
-Ms Saw Xueting<br>
-Ms Siti Azriah
+Ms Saw Xueting <br>
+Ms Puteri Sukma Wee
 
 **Student Leaders** <br>
-Company Leader: Nurqiyana Bte Abdullah (3EH) <br>
-Assistant Company Leader: Low Xin Ying, Amber (3EV)
+Company Leader: Mea Goh Yun Ning, 3ED <br>
+Assistant Company Leader: Joelle Goh Jia Ni, 3EL<br>
+Senior Patrol Leader: Allison Cheng Min Rui, 3EV <br>
+Senior Patrol Leader: Ng Nuan Jing Crystal, 3EH<br>
+Senior Patrol Leader: Nisriina Binte Imran, 3ES<br>
+
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;4.00 - 6.00pm <br>

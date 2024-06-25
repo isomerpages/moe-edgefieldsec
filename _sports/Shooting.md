@@ -2,6 +2,7 @@
 title: Shooting
 permalink: /experience/cca/sports/shooting/
 description: ""
+variant: markdown
 ---
 ![](/images/shooting.jpg)
 
@@ -24,14 +25,14 @@ _B Division Girls – 1st Position (Individual)_
 
 **Teachers in Charge** <br>
 Mr Winston Chew <br>
-Mr Chong Yee Ming <br>
-Ms Rachel Jacob <br>
+Mdm Juliawaty Tje<br>
 Mdm Andi Khairulnnisa Mohd Yusof
 
 **Student Leaders** <br>
-Captain: Charlene Wong Jing Ying (4EH)  
-Vice-Captain: Sun Lee (4ES)  
-Vice-Captain: Dayang Huong Zhe Zheng (4ES)
+Captain: Vernise Lim En Rui (3EH)  
+Vice-Captain: Chua Jen Lyn (3EL)
+Vice-Captain: Yeoh Lee Heng Ernest (3EM)
+CCA-PSL: Kara Ong Si Xuan (3EH)
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;3.30 - 5.30pm <br>

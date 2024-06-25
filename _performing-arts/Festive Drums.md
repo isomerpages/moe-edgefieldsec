@@ -2,6 +2,7 @@
 title: Festive Drums
 permalink: /experience/cca/performing-arts/festive-drums/
 description: ""
+variant: markdown
 ---
 **Description** <br>
 Festive Drums CCA hopes to cultivate a “Synthesizing Mind” and “Disciplined Mind” in the students through drumming.  
@@ -9,6 +10,8 @@ It is not solely on acquiring the correct rhythm, it is also about coordination 
 Through drumming, we hope to instil the values of respect, harmony and responsibility towards one another.  
 
 **Highlights / Achievements** <br><br>
+**2024**<br>
+World Down Syndrome Day Concert @ One Punggol<br><br>
 **2023**<br>
 Punggol Shore Spring  Festival 2023<br>
 Racial Harmony Day 2023 Celebration @ One Punggol<br>
@@ -23,8 +26,8 @@ Opening Act for Singapore Lion Dance Competition 2018 <br><br>
 Chingay 2017
 
 **Student Leaders**  
-Chairperson - Liao Xin Hao Ayden (4ES)  
-Vice-Chairpersons - Tan Wen Xuan Jolie (4EV), Faiq Haikal Bin Muhamad Fadli (4EC)
+Chairperson - Ryan Chia (XIe Boshen), 3EL  
+Vice-Chairpersons - Goh En Yu Kayla, 3EL
 
 **Teachers in Charge** <br> 
 Mr Alphonsus Liang <br>

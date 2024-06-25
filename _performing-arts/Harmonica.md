@@ -2,6 +2,7 @@
 title: Harmonica
 permalink: /experience/cca/performing-arts/harmonica/
 description: ""
+variant: markdown
 ---
 ![](/images/image1.jpg)
 
@@ -30,12 +31,12 @@ Singapore Youth Festival 2017 <br>
 _Accomplishment_
 
 **Student Leaders** <br>
-President: Saminah Maira Shah Nazari <br>
-Vice-President: Ng Jing Xun Ryan  
+President: Xavier Loh, 3EM  <br>
+Vice-President: Megan Low, 3EL 
 
 **Teachers in Charge** <br>
-Mdm Serene Lim <br>
-Ms Aidah
+Mrs Serene Ng  <br>
+Mdm Yeo Ai Peng
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 – 5.30pm <br>

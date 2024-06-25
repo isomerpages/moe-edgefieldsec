@@ -2,6 +2,7 @@
 title: Concert Band
 permalink: /experience/cca/performing-arts/concert-band/
 description: ""
+variant: markdown
 ---
 ![](/images/2016-CCA-CONCERTBAND-1.jpg)
 
@@ -29,9 +30,23 @@ Singapore Youth Festival 2017 <br>
 _Accomplishment_
 
 **Teachers in Charge** <br>
-Mr Jermain Cho&nbsp;<br>
+Mr Neo Jun Yang<br>
 Ms Joanna Neo&nbsp;<br>
-Mr Seow Tzer Yeun
+
+**Student Leaders**<br>
+President: Tan Raphael Rhys Reynaldo (3EU)<br>
+Student Conductor: Song Xirui (3EL)<br>
+Sectional Leader (Percussion): Ghwee Kai Xuan, Zoel (3EM)<br>
+Sectional Leader (Trumpet) / CCA PSL: Destinee Pan Xuanhui (3ES)<br>
+Sectional Leader (Flutes): Kayla Ng Qian Yu (3ES)<br>
+Sectional Leader (Tuba): Jade Tan Xin Yi (3EH)<br>
+Sectional Leader (Euphoniums) / Librarian: Alexander Maximus Mateo Koh (3EV)<br>
+Librarian: Adam Bin Mohamed Sahlan (3ES)<br>
+Quarter Master: Eng Ren Hao (Huang Renhao) (3EU)<br>
+Quarter Mistress: Lai Kit Wan (3EU)<br>
+Welfare IC: Mohamad Akif Angel Bin Mohamad Yusof (3EC)<br>
+Welfare 2IC: Rizq Mirrza Bin Muhammad Rahim (3EC)
+
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Wednesdays&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;4.00 - 6.00pm <br>

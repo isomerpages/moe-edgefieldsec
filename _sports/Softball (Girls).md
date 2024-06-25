@@ -2,6 +2,7 @@
 title: Softball (Girls)
 permalink: /experience/cca/sports/softball-girls/
 description: ""
+variant: markdown
 ---
 ![](/images/Softball.jpg)
 
@@ -21,15 +22,16 @@ U17 Singapore Recreation Club Carnival 2019
 
 **Teachers in Charge** <br>
 Mdm Han Khim Yuan <br>
-Ms Joanne Lee
+Ms Por Yuling
 
 **Student Leaders**<br>
-Elenois Dwaine Salinas Siapno, 4EV (Captain)<br>
-Nordyana D'laila Binte Mohammad Hadi 4EV (Vice-Captain)
+Maheerah Binte Mohammed Zulkifli, 3EU (Captain)<br>
+Foo Fang Ying, 3EC (Vice-Captain)
+
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Training Time** <br>
-Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6.00pm <br>
-Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.00 - 6.00pm
+Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.30 - 6.00pm <br>
+Thursday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 3.00 - 6.00pm
 
 **Venue** <br>
 School Field

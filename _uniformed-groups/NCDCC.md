@@ -2,8 +2,10 @@
 title: NCDCC
 permalink: /experience/cca/uniformed-groups/ncdcc/
 description: ""
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6VhUML1mTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=geB3NOulVFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Description** <br>
 National Civil Defence Corps (NCDCC) is a recognised member of the National Uniformed Group. Students will acquire important life-saving skills such as CPR and AED, and be empowered to be active and concerned citizens advocating life-saving skills. Through close partnership with the SCDF, students will have opportunities to visit Civil Defence Academy, Home Team Academy and fire stations.&nbsp;
@@ -19,10 +21,7 @@ We adopt a structured approach towards the development of programmes that will e
 (3) Choices - Making the choice to care, serve and impact.
 
 **Highlights / Achievements** <br>
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2022<br>
-_Gold_
-
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021<br>
+National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
 
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2019 <br>
@@ -36,10 +35,10 @@ Ms Toh Si Qi
 
 **Student Leaders**
 
-Unit Sergeant Major: Teng Shi Xuan, 4E <br>
-Assistant Sergeant Major (Training): Wan Syafiqah Binte Wan Faisal, 4EC<br>
-Assistant Sergeant Major (Operations): Muhammad Ariel Putra Adam Bin Nasir, 4EL<br>
-Assistant Sergeant Major (Development): Fatimah Binte Amir Naina Mohamed, 4EC
+Unit Sergeant Major: Ng Jun Wei Jovan, 3EH <br>
+Assistant Sergeant Major (Training): Muhammad Mika Haziq Putra Azhar, 3EV<br>
+Assistant Sergeant Major (Operations): Xander Ong, 3EH<br>
+Assistant Sergeant Major (Development): Wong Qing En Darbie, 3EL
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;3:30 – 6.00pm <br>
