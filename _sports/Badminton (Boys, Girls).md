@@ -7,25 +7,25 @@ variant: markdown
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Sch_Website_2024__1_.png">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0468.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20240528_024719541.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0188_min.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0195_edited__1___1___1__min.png">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kai_en__photo_too_dark_and_needs_cropping_.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pesta_sukan_saphire_vs_kx.png">
-</div>
+</div><br>
 <p>More photos on <a href="https://www.instagram.com/edgefield_sec_badminton/?r=nametag" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
 <a href="https://youtu.be/Vd-81zmtEvs?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Youtube</a>
 </p>
