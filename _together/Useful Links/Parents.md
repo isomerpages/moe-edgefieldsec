@@ -8,8 +8,8 @@ variant: tiptap
 <p><a href="/files/2024_EFSS_Calendar__Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar 2024</a>
 </p>
 <p>Teacher Contact List 2024
-<br><a href="/files/Y1_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> |
-<a href="/files/Y2_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a>| <a href="/files/Y3_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> |
+<br><a href="/files/Teacher_Contact_List_2024___Year_1_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> |
+<a href="/files/Teacher_Contact_List_2024___Year_2_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a>| <a href="/files/Y3_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> |
 <a href="/files/Y4_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 4</a>| <a href="/files/Y5_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5</a>
 </p>
 <p><strong>[New] </strong><a href="/files/CCA_schedule_June_Holidays_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holidays 2024 CCA Schedule </a>
