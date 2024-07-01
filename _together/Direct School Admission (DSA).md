@@ -519,7 +519,7 @@ For more details, please refer to MOE website – <a href="http://www.moe.gov.sg
 </p>
 <ul>
 <li>
-<p>Shortlisted candidates will be notified latest by <strong>1 July 2024</strong>.</p>
+<p>Shortlisted candidates will be notified latest by <strong>4 July 2024</strong>.</p>
 </li>
 <li>
 <p>Shortlisted candidates will be required to sit for the required questionnaires,
@@ -572,7 +572,7 @@ Edgefield Secondary School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be notified by email latest by 1 <strong>July 2024</strong>.</p>
+<p>Shortlisted candidates will be notified by email latest by <strong>4 July 2024</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -600,8 +600,7 @@ interviews between <strong>2 July 2024</strong> and <strong>30 August 2024</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students to indicate their school preferences from <strong>21 to 25 October 2024</strong>
-</p>
+<p>Students to indicate their school preferences from <strong>21 </strong>to<strong> 25 October 2024</strong>.</p>
 </td>
 </tr>
 </tbody>
@@ -641,6 +640,6 @@ the school will conduct placement tests to assess the course suitability
 of the applicants.</p>
 <hr>
 <p>For further queries, please contact the school at:</p>
-<p>DSA-Sec Coordinator: Mr Eric Foo (HOD/PE &amp; CCA)
+<p>DSA-Sec Coordinator: Mdm Chan Jin Fen (HOD/PE &amp; CCA)
 <br>Tel: 68839511
 <br>Email: dsa@edgefield.edu.sg</p>
