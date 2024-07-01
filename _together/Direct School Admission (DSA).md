@@ -582,7 +582,7 @@ Edgefield Secondary School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be required to sit for questionnaires/ trials/
-interviews between <strong>2 July 2024</strong> and <strong>30 August 2024</strong>.</p>
+interviews between <strong>8 July 2024</strong> and <strong>30 August 2024</strong>.</p>
 </td>
 </tr>
 <tr>
