@@ -533,7 +533,7 @@ one talent area.</p>
 </li>
 <li>
 <p>The questionnaires/ trials/ interviews for shortlisted candidates will
-be conducted between&nbsp;<strong>2 July 2024</strong> and <strong>30 August 2024</strong> at
+be conducted between&nbsp;<strong>8 July 2024</strong> and <strong>30 August 2024</strong> at
 Edgefield Secondary School.</p>
 </li>
 </ul>
@@ -562,7 +562,7 @@ Edgefield Secondary School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 July 2024 – 30 August 2024</strong>
+<p><strong>8 July 2024 – 30 August 2024</strong>
 </p>
 </td>
 </tr>
