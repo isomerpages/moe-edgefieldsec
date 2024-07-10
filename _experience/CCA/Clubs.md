@@ -65,13 +65,13 @@ Being a CCA leader gives me opportunities to lead and share my knowledge and ski
 <h5>Robotics Club</h5>
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/robotics-club).
-    
-Being in Robotics, I have improved in my coding skills, especially in python. Our CCA has exposed me to different kinds of coding languages and provided coding courses that have helped me understand how coding works and the various ways I can apply these skills to real-world situations.  
-When I was in primary school, I had no experience in leadership and was not very sociable. However, after joining Robotics, my teachers and friends have created opportunities to help me grow and develop leadership and strengthen my social relationship. This is where I get to interact with my friends and hone my communication skills.  
+
+My journey in the Robotics Club has been an enlightening one. It has exposed me to a diverse range of skills and knowledge to an extent that I had never experienced beforehand. Through coding and robot design, I have learnt the essence of both teamwork and the beauty of friendship. In challenging times, I had received enormous support from both teachers and friends, pushing me to cross the boundaries of my thinking and refining my problem-solving skills in every challenge I faced. <br><br>
+From a young age, I had very limited experience to exercise my leadership and independent thinking skills since opportunities were few and far between. However, the open and inclusive environment in the Robotics Club has provided me with the perfect platform to hone these qualities, allowing me to forge strong relationships with both teachers and members.
+<br><br>
+Robotics as a discipline is truly enjoyable as it creates a sense of freedom and supports experimentation. Learning through trial and error, I have received much support every step of the way in my learning process. Even when faced with failure, I have learnt that it is just a stepping stone to success.
+<br><br>
+Above all, the Robotics Club has taught me the qualities of being a caring person. We always support each other when in need and the club is like my second family. Reflecting on my journey here, I appreciate the unique blend of education and bonding it offers the most. Over the years, I have gained greater interest in the field of robotics and I look forward to pursuing a career in a related field. I am committed to upholding the values of compassion and respect I have learnt in the CCA and I will continue to share with others my experiences in this extraordinary community as my journey continues.
   
-One thing I really enjoy being in Robotics is the trust from my teachers in learning through experimenting. We are able to express ourselves freely and learn from any challenges we face together in a team. The friendly environment in Robotics helps all of us to support each other and it is almost like my second family. The friendship I have with my friends and teachers makes my journey in Robotics memorable.  
-  
-The skills and values inculcated to me have made me more interested in the world of technology, and I would be interested in pursuing a closely related career. Robotics has certainly taught me to have a growth mindset and that anything is possible. I will always carry this belief in me no matter what I do.  
-  
-_**Lim Jing Siong Orlando <br>
-Year 3 Euclid, Member, 2020**_
+_**Dave Lee Zheng Feng<br>
+Year 4 Euclid, President, 2024**_
