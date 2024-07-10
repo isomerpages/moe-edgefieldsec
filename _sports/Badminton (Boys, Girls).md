@@ -35,7 +35,18 @@ integrity, perseverance and passion for the game. Through various competitions
 such as the National School Games, students will gain greater exposure
 and hone their badminton skills and techniques.</p>
 <p>Our training has realistic coach to player ratio and our DSA trial takes
-place in July annually.&nbsp;</p>
+place in July annually.<br><br>
+<strong>DSA Trial Requirements</strong><br>
+	<strong>1. Lobbing</strong><br>
+	&nbsp;&nbsp;&nbsp;To hit shuttlecocks to opponent's rear court<br>
+	<strong>2. Dropshots</strong><br>
+	&nbsp;&nbsp;&nbsp;To hit shuttlecocks to opponent's front court<br>
+	<strong>3. Netting</strong><br>
+	&nbsp;&nbsp;&nbsp;To gently send the shuttlecock over the net<br>
+	<strong>4. Lifting</strong><br>
+	&nbsp;&nbsp;&nbsp;To lift incoming shuttlecocks to opponent's rear court<br>
+	<strong>5. Tactical awareness in gameplay</strong>
+</p>
 <p><strong>Highlights / Achievements</strong>
 </p>
 <p><strong>National School Games</strong>
