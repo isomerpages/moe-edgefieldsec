@@ -34,7 +34,8 @@ Mr Ng Teck Yeong<br>
 <br>
 **Student Leaders**<br>
 President: Catrina Lee Wen Hui (3EM)<br>
-Vice-President: Mohamed Rifath S/O Mohamed Maideen<br><br>
+Vice-President: Mohamed Rifath S/O Mohamed Maideen<br>
+CCA Peer Support Leaders: Lakksh Vishal (3EM), Neo Ee Tong (3EV)<br><br>
 **Training Schedule&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>
 Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.00pm
