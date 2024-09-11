@@ -626,15 +626,10 @@ for, for the duration of the programme they are admitted to.</p>
 to participate in the annual Secondary One (S1) Posting Exercise. However,
 if they are eligible for third language and/or course options, they may
 enter these options during the S1 Option Submission period.</p>
-<p>7.&nbsp; &nbsp; Candidates who are currently <strong><u>NOT</u></strong> studying
-in MOE mainstream schools are to obtain a Registration Number (RGxxxxxxx)
-before they can apply through the DSA-Sec Portal. Refer to MOE website
-at: <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
-<p>8.&nbsp; &nbsp; Shortlisted International Students are to take and fulfill
+<p>7.&nbsp; &nbsp; Shortlisted International Students are to take and fulfill
 the requirements of the Admissions Exercise for International Students
 (AEIS) test.</p>
-<p>9.&nbsp; &nbsp; For successful applicants <strong>not </strong>studying
+<p>8.&nbsp; &nbsp; For successful applicants <strong>not </strong>studying
 in MOE mainstream primary schools and <strong>not </strong>taking the PSLE,
 the school will conduct placement tests to assess the course suitability
 of the applicants.</p>
