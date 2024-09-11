@@ -2,6 +2,7 @@
 title: Research (Evidence based Design)
 permalink: /future-ready/research-evidence-based-design/
 description: ""
+variant: markdown
 ---
 ### Description of how research is used to improve school programmes and processes
 
@@ -67,11 +68,11 @@ Guided by our Pursuit of Happiness framework, the CCE curriculum and student wel
 
 ### Sketchnoting
 
-Edgefield Secondary started with Sketchnoting since 2017 during the Secondary 1 Level Camp where students were introduced to the fundamentals of Sketchnoting. Sketchnoting, according to research, allows a person to retain information better and longer when there is an accompanying visual text (Medina, 2008).  
+Since 2017, Edgefield Secondary has embraced Sketchnoting as a powerful tool for learning, starting with our Secondary 1 Level Camp. During the camp, students are introduced to the fundamentals of Sketchnoting—a method that combines visual elements with text to enhance comprehension and memory. Research shows that people retain information better and for longer periods when it is accompanied by visuals (Medina, 2008). 
 
-Besides the use of the Mike Rhodes Sketchnote Handbook to craft lessons for the Level Camp workshop, a survey was also conducted at the end of the level camps to improve the workshop further. Students went through rigorous practices about the fundamentals of Sketchnoting during the workshop. Later in 2018, Sketchnoting@EFSS also branched out with Sketchnoting newsletters and further resources for students. 
+Drawing inspiration from The Sketchnote Handbook by Mike Rohde, we have designed a series of engaging lessons for our students. The workshops include rigorous practice sessions that focus on mastering the basics of Sketchnoting, which students then apply as a dynamic method of note-taking across their subjects.
 
-We seek to develop our students’ potential and interest to learn and take ownership of their learning through Sketchnoting.
+By integrating Sketchnoting into their learning process, we aim to cultivate our students’ curiosity, foster their creativity, and empower them to take ownership of their learning journey.
 
 ----
 
