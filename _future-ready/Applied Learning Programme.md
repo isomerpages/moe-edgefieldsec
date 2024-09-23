@@ -8,11 +8,11 @@ The Applied Learning Programme (ALP) of the school, G.E.M "Growing the Edgefield
   
 From honing skills and competencies in critical and inventive thinking skills, collaborative skills, to advanced life skills such as alertness-to-opportunity, to bouncing back from failures, G.E.M equips our students with advanced problem-solving skills to become Entre/Intrapreneur in line with the school’s vision of nurturing “Collaborative Innovators, Compassionate Leaders”.&nbsp;&nbsp;&nbsp;  
   
-The G.E.M programme has been thoughtfully designed after taking into consideration the insights and perspectives of future trends taken from both global and local sources of intelligence such as the Strategy Group in the Prime Minister's Office, World Economic Forum, and Institute of Policy Studies (Singapore).
+The thoughtful design of the G.E.M. programme draws upon the insights and perspectives of future trends taken from both local and global sources of intelligence, including the Strategy Group in the Prime Minister's Office, World Economic Forum, and Institute of Policy Studies (Singapore). 
 
 ![](/images/ALP_1.PNG)
 
-![](/images/ALP_2.PNG)
+![](/images/ALP_Capture.png)
 
 ![](/images/ALP_3.PNG)
 
@@ -30,7 +30,7 @@ Besides being ‘exam-smart’ and ‘book-smart’, an Edgefielder is also ‘s
 
 ![](/images/Pic%2003.png)
 
-See students in action here: [https://youtu.be/z6u-6RUxtIs](https://youtu.be/z6u-6RUxtIs)&nbsp;
+See students in action here: [https://youtu.be/GDBLiK5snMY](https://youtu.be/GDBLiK5snMY)
 
 ### Growing the Edgefield Mindset
 
