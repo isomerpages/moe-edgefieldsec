@@ -71,10 +71,15 @@ not at Edgefield!</p>
 to advanced life skills such as alertness-to-opportunity and bouncing back
 from failures, Edgefield’s Applied Learning Programme, “Growing the Edgefield&nbsp;
 Mindset” (G.E.M), equips you with advanced problem-solving skills to become
-an Entre/Intrapreneur! Leveraging on the skills and competencies developed
-through the Future Ready Programme, you will be exposed to various authentic
-platforms to solve real-world problems and benefit the community using
-a multi disciplinary approach.</p>
+an Entre/Intrapreneur! Put the skills and competencies developed through
+the Future Ready Programme to good use, solving real-world problems and
+benefiting the community using a multi disciplinary approach. For example,
+learn about the challenges faced by the visually impaired during an FRP
+learning journey, draw inspiration, and use the Content Creator and Game
+Design modules to produce engaging videos and exciting games. Bring it
+all together in a fundraising campaign that raises awareness and generates
+support for the visually impaired!</p>
+<p></p>
 <p>G.E.M culminates in ARTasFEST, a milestone carnival attracting more than
 5000 participants! Design your own Escape Room, collaborate with entrepreneurs,
 run your own pop-up store, concoct your favourite drinks, host Instagram
@@ -110,7 +115,7 @@ the community.</p>
 values and unity. ARTasFEST is an embodiment of the spirit of togetherness
 and resilience, showcasing the collective strength of Edgefielders in striving
 for a brighter future.</p>
-<p><strong>You can also check out our live Instagram updates of the event</strong>
+<p><strong>You can also check out our live Instagram updates of the event </strong>
 <a href="instagram.com/efss_artasfest" rel="noopener noreferrer nofollow" target="_blank">@efss_artasfest</a>
 </p>
 <h4>View the ARTasFEST 2023 action here:</h4>
