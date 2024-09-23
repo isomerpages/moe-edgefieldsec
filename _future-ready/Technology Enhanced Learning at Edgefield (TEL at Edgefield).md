@@ -2,6 +2,7 @@
 title: Technology Enhanced Learning at Edgefield (TEL at Edgefield)
 permalink: /future-ready/technology-enhanced-learning-at-edgefield-tel-at-edgefield/
 description: ""
+variant: markdown
 ---
 At Edgefield Secondary, we are intentional in the design of our curriculum in preparing our children to be ‘future-ready’. Learning experiences center on thinking and learning independently and also develop our children’s 21st&nbsp;century competencies.
 
@@ -36,10 +37,10 @@ Edgefield leverages the use of technology for enhanced learning in the classroom
 
 -----
 
-### Apple Education Programme
+### Digital Literacy Programme
 
-This programme teaches students ICT skills to enable them to be future ready learners which includes Digital Literacy skills.&nbsp;Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital&nbsp; skills required to navigate the digital age.
-
-![](/images/pic%201.png)
-
-![](/images/pic%202.png)
+Our **Digital Literacy Programme** equips all Secondary One students with essential digital skills, including filming and video editing, empowering them to become content creators and share their insights with the world.  
+  
+Students also explore their creativity through tools like **Canva**, where they map out the ‘low and high points’ of their Edgefield journey to present to their parents during the Student-Led Conference.  
+  
+With elective modules like ‘Coding using Swift Playgrounds’, students can dive into their interests while learning the language of the future.

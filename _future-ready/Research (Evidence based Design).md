@@ -2,6 +2,7 @@
 title: Research (Evidence based Design)
 permalink: /future-ready/research-evidence-based-design/
 description: ""
+variant: markdown
 ---
 ### Description of how research is used to improve school programmes and processes
 
@@ -67,18 +68,21 @@ Guided by our Pursuit of Happiness framework, the CCE curriculum and student wel
 
 ### Sketchnoting
 
-Edgefield Secondary started with Sketchnoting since 2017 during the Secondary 1 Level Camp where students were introduced to the fundamentals of Sketchnoting. Sketchnoting, according to research, allows a person to retain information better and longer when there is an accompanying visual text (Medina, 2008).  
+Since 2017, Edgefield Secondary has embraced Sketchnoting as a powerful tool for learning, starting with our Secondary 1 Level Camp. During the camp, students are introduced to the fundamentals of Sketchnoting—a method that combines visual elements with text to enhance comprehension and memory. Research shows that people retain information better and for longer periods when it is accompanied by visuals (Medina, 2008). 
 
-Besides the use of the Mike Rhodes Sketchnote Handbook to craft lessons for the Level Camp workshop, a survey was also conducted at the end of the level camps to improve the workshop further. Students went through rigorous practices about the fundamentals of Sketchnoting during the workshop. Later in 2018, Sketchnoting@EFSS also branched out with Sketchnoting newsletters and further resources for students. 
+Drawing inspiration from The Sketchnote Handbook by Mike Rohde, we have designed a series of engaging lessons for our students. The workshops include rigorous practice sessions that focus on mastering the basics of Sketchnoting, which students then apply as a dynamic method of note-taking across their subjects.
 
-We seek to develop our students’ potential and interest to learn and take ownership of their learning through Sketchnoting.
+By integrating Sketchnoting into their learning process, we aim to cultivate our students’ curiosity, foster their creativity, and empower them to take ownership of their learning journey.
 
 ----
 
 ### Potential Development Programme
 
-In Edgefield Secondary, we develop our students’ diverse interests, aptitudes, abilities, and passions. Edgefield’s programmes go beyond school learning to push our students to greater heights. These activities help our students discover the limits of their potential. On top of that, collaborations with external partners help to polish their potential. National competitions are an added platform to showcase their talents and abilities while learning from their counterparts in various schools. 
+In Edgefield Secondary School, we believe that every student is a rough diamond, full of potential, curiosity, and an innate desire to explore the world around them. Much like rough diamonds, each Edgefielder requires the skilled craftsmanship of dedicated educators to help them realize their individual potential.
+We acknowledge that every student’s journey is different, and while not everyone will reach the same endpoint, we are committed to ensuring that every graduate leaves with a deeper understanding of their strengths and a readiness to contribute to society in their own unique way.
 
-A school-wide potential development framework that encompasses both academic and non-academic domains has been put in place, with the intent of providing every student with a well-rounded experience through their exposure to five developmental domains: Cognitive, Character and Leadership, Community and Citizenship, the Arts, and Sports and Health. 
+Our school takes a holistic and tiered approach to developing students across five key domains: Cognitive Development, Character and Leadership, Community and Citizenship, Arts and Aesthetics, and Sports and Health. This approach allows us to cater to the diverse interests, strengths, and passions of each Edgefielder.
 
-This framework draws upon Dr. Donald Treffinger’s Level of Service model (Treffinger, Young, Nassab, Selby, & Wittig, 2008), and each domain is structured into four levels, ranging from broad based to being interest and aptitude specific. We seek to identify and develop the potential in each child, as developing talent over an extended period of time is vital for success in the 21st Century.
+This framework is adapted from Dr. Donald Treffinger’s Level of Service model (Treffinger, Young, Nassab, Selby, & Wittig, 2008), and each domain is structured into four levels, ranging from broad based to being interest and aptitude specific. We seek to identify and develop the potential in each child, as developing talent over an extended period of time is vital for success in the 21st Century.
+
+Through this structured, tiered approach, we ensure that every Edgefielder takes ownership of their development, discovering new strengths and honing their unique talents. Ultimately, our goal is for every student to graduate with a well-rounded understanding of their capabilities, ready to contribute meaningfully to the community and the world around them.
