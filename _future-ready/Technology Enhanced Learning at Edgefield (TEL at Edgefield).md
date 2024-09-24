@@ -12,28 +12,24 @@ To do this, they have to start young, and start right.
 
 Edgefield Secondary’s Technology-Enhanced Learning (TEL) Programme is designed to meet these needs. Our goal is “Quality Learning in the Hands of Every Learner Empowered with Technology”. While our Apple Education Programme equips every student with new media production skills, our 1:1 personalised learning through iPads integrates thinking and learning across our total curriculum, enhancing the learning experience. Digital Sketchnoting makes thinking visible, enabling students to explore and develop ideas, and combines with cloud technology to enable learning anytime, anywhere. Co-construction of knowledge and internet research amplifies and deepens learning, while collaborative apps allow exploration of alternative perspectives and diverse views. This enables metacognitive learning to take place. Through the affordances of technology, learning becomes dynamic and personalised.
 
-**Our Journey on 1:1 Personalised Learning**
+### Our Journey on 1:1 Personalised Learning
 
 ![](/images/Timeline.jpg)
 
-**Our Pedagogical Approach**
+### Our Pedagogical Approach
 
-&nbsp;**Active Learning Processes** <br>
+**Active Learning Processes**  
 Teachers infuse active learning processes as they craft learning experiences to engage students as active participants through these steps:
-
-1.  Activate Learning
-2.  Promote Thinking and Discussion
-3.  Facilitate Demonstration of Learning
-4.  Monitor and Provide Feedback
-
-**SAMR (Substitution, Augmentation, Modification, Redefinition) Model** <br>
-The SAMR Model enables teachers to effectively assess how they incorporate technology into their instruction. It encourages teachers to redefine student experiences and transform intervention strategies.  
-
-**Differentiated Instruction** <br>
+<ul>Activate Learning</ul>  
+<ul> Promote Thinking and Discussion  </ul>
+<ul> Facilitate Demonstration of Learning </ul>
+<ul> Monitor and Provide Feedback </ul>
+  
+**Replacement-Amplification-Transformation Model**  
+The Replacement-Amplification-Transformation model guides teachers to assess how they use technology to impact their teaching practices.&nbsp;This strengthens teachers’ quality of technology integration in their classroom practice by enabling them to think deeply about the role of technology in supporting students’ learning. The levels of technology used will differ in terms of the purpose and complexity of integrating technology into teaching.  
+  
+**Differentiated Instruction**  
 Teachers employ Differentiated Instruction and consider students’ learning preferences and levels of readiness, before designing a lesson. Teachers scaffold students’ learning and stretch their zone of proximal development, thereby encouraging and advancing their individual learning.
-
-**Learning Experience** <br>
-Edgefield leverages the use of technology for enhanced learning in the classroom, enabling greater interactivity and engagement. Technology in class supports creative writing and collaboration, flipped classrooms and personalised students’ learning.
 
 -----
 
