@@ -4,4 +4,5 @@ permalink: /edgefield/open-house/
 description: ""
 variant: tiptap
 ---
-[Click here](https://openhouse2023.edgefield.edu.sg/)
+<p><a href="https://openhouse.edgefield.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
