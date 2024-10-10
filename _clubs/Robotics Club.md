@@ -19,19 +19,26 @@ Through these activities, students enhance technical skills and develop essentia
 **2023 IDE Series Robotics Category**<br>
 <em>8th placing</em>
 
+**Drone Odyssey 2024**<br>
+<em>1st Runner Up – Champion Award (For Category B1)<br>
+2nd Place – Best Knowledge Award (For Category B1)<br>
+3rd Place – Best Knowledge Award (For Category B1)<br>
+3rd Place – Best Strategy Award (For Category B1)</em>
+	
+	
 **Drone Odyssey 2023**<br>
 <em>2nd Runner Up (For Category B1)<br>
 Best Team Spirit Award<br>
 Individual Judge's Award</em>
 
-**National Robotics Competition (NRC) 2023**
+**National Robotics Competition (NRC) 2023, 2024**
 
 **Hack@Code 2023**<br>
 <em>2nd Place for Robot Performance</em>
 
 **Teachers In Charge** <br>
 Mr Ng Teck Yeong<br>
-<br>
+Mr Edward Gan<br><br>
 **Student Leaders**<br>
 President: Catrina Lee Wen Hui (3EM)<br>
 Vice-President: Mohamed Rifath S/O Mohamed Maideen<br>
