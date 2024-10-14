@@ -159,8 +159,9 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <li>
 <p>Ang Siang Jun (1EH) – C Div Boys Poomsae Blue 3</p>
 </li>
+	<li>
 	<p>Ashden Lee Kai Jie (1EH) – C Div Boys Poomsae Red 1</p>
-	
+	</li>
 <li>
 	<p>Leong Wei Feng Braydon (2ED) – C Div Boys Poomsae Black 2</p>
 	</li>
@@ -209,7 +210,7 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <p>Lee Jia Hao Joshua (3EV), Ryan Chia (Xie Boshen) (3EL), Ang Hock Yung
 Kayden (3EM) – B Div Boys Poomsae Blue 4</p>
 </li>
-<br><em><strong>Poomsae (Individual)</strong></em>
+<br><em><strong>Kyorugi</strong></em>
 <li>
 <p>Rei Ng (1EL) – C Div Girls Kyorugi Poom Belt Under 46kg</p>
 </li>
