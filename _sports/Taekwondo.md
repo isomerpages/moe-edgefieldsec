@@ -96,19 +96,25 @@ Kaili Kylie (1EU) – C Div Girls Poomsae White 9</p>
 </li>
 <li>
 <p>Rayhan Azraqi Bin Mas Effendi (2ED), Lee Yu Heng (2EM), Muhammad Danial
-Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5 Team</p>
+Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 </li>
 <li>
+<p>Bryan Tay Zhang Yi (2EV), Zayne Teo Kai Xiang (2EM), Ngo Chang Yan Corwin (1ES) – C Div Boys Poomsae Black 2</p>
+	</li>
+<li>
+<p>Leong Wei Feng Braydon (2ED), Shaw Kai Jun Jaeden (1ED), Chiang Yu Heng (2ED) – C Div Boys Poomsae Black 3</p>
+	</li>
+<li>
 <p>Leong Yuan Wen Anya (3EU), Sriniithi D/O Ganasan (3EU), Lai Kit Wan (3EU)
-– B Div Girls Poomsae Red 2 Team</p>
+– B Div Girls Poomsae Red 2</p>
 </li>
 <li>
 <p>Ho Teng Xuan, Jeryn (3ES), Ng Zi Ying (3EH), Tan Yi Xuan, Nicole (4EL)
-- B Div Girls Poomsae Black 3 Team</p>
+- B Div Girls Poomsae Black 3</p>
 </li>
 <li>
 <p>Luong Kah Sheng, James (3EC), Koh Heng Shuo Russell (3EH), Lim Siang Le
-(3ED) – B Div Boys Poomsae Blue 3 Team</p>
+(3ED) – B Div Boys Poomsae Blue 3</p>
 </li>
 <li>
 <p>Faith Seah (2EU) – C Div Girls Kyorugi Red Belt Under 46kg</p>
