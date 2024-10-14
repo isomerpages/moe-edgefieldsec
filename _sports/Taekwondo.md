@@ -140,7 +140,7 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <p>Foo Xuan Rong Jayer (3EL) – B Div Boys Kyorugi Poom Belt Under 44kg</p>
 </li>
 </ul>
-<p><strong>Silver Medalists</strong>
+<p><strong>Silver Medalists (44 Medals)</strong>
 </p>
 <ul data-tight="true" class="tight">
 	<em><strong>Poomsae (Individual)</strong></em>
@@ -174,7 +174,7 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <p>Sriniithi D/O Ganasan (3EU) – B Div Girls Poomsae Red 2 Individual</p>
 </li>
 <li>
-	<p>1.  Lim Poh Kiat Darren (1EL) – B Div Boys Poomsae Yellow 8</p>
+	<p>Lim Poh Kiat Darren (1EL) – B Div Boys Poomsae Yellow 8</p>
 	</li><br>
 	<em><strong>Poomsae (Team)</strong></em>
 <li>
@@ -195,20 +195,21 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 </li>
 <li>
 <p>Matthew Koh (2EV), Ang Siang Jun (1EH), Abdullah Umar Bin Mohammad Shalleh
-(2EL) – C Div Boys Poomsae Blue 3 Team</p>
+(2EL) – C Div Boys Poomsae Blue 3</p>
 </li>
 <li>
 <p>Miki Yap Jia Min (3EL), Neo Zhen, Trinh (3EM), Natalyn Lim Wei En (3ED)
-– B Div Girls Poomsae Red 1 Team</p>
+– B Div Girls Poomsae Red 1</p>
 </li>
 <li>
 <p>Locanas Francesca Maria Gabilan (3ED), Tan Jia Ju (4ED), Wong Le Xuan
-(4EU) – B Div Girls Poomsae Black 1 Team</p>
+(4EU) – B Div Girls Poomsae Black 1</p>
 </li>
 <li>
 <p>Lee Jia Hao Joshua (3EV), Ryan Chia (Xie Boshen) (3EL), Ang Hock Yung
-Kayden (3EM) – B Div Boys Poomsae Blue 4 Team</p>
+Kayden (3EM) – B Div Boys Poomsae Blue 4</p>
 </li>
+<br><em><strong>Poomsae (Individual)</strong></em>
 <li>
 <p>Rei Ng (1EL) – C Div Girls Kyorugi Poom Belt Under 46kg</p>
 </li>
@@ -225,6 +226,9 @@ Under 60kg</p>
 <li>
 <p>Declan Darrell Joan (3EV) – B Div Boys Kyorugi Poom Belt Under 68kg</p>
 </li>
+	<li>
+		<p>Mohamed Amirul Hakimi Bin Mohamed Shahrel (4EH) – B Div Boys Kyorugi Red Belt Under 68kg</p>
+	</li>
 </ul>
 <p><strong>Bronze Medalists</strong>
 </p>
