@@ -41,52 +41,58 @@ themselves every day - to be the best version of themselves.</p>
 <br>‘C’ Division Boys - Overall Champion
 <br>‘B’ Division Girls - Overall Champion
 <br>‘B’ Division Boys - Overall Runner Up</p>
-<p><strong>Gold Medalists</strong>
+<p><strong>Gold Medalists (50 Medals)</strong><br><br>
+	<em><strong>Poomsae (Individual)</strong></em>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Letichel Yeo Ning (2EH) – C Div Girls Poomsae Yellow 8 Individual</p>
+	<li>
+<p>Tan Xin Jie Germaine (1ES) – C Div Girls Poomsae Black 3</p>
+</li><li>
+<p>Faith Seah (2EU) – C Div Girls Poomsae Red 1</p>
 </li>
 <li>
-<p>Maisha Umaiza Ahmad Faizal (2EV) – C Div Girls Poomsae Yellow 7 Individual</p>
+<p>Letichel Yeo Ning (2EH) – C Div Girls Poomsae Yellow 8 </p>
 </li>
 <li>
-<p>Ashton Goh Guan Feng (2EU) – C Div Boys Poomsae Green 5 Individual</p>
+<p>Maisha Umaiza Ahmad Faizal (2EV) – C Div Girls Poomsae Yellow 7</p>
 </li>
 <li>
-<p>Nazheera Binte Hisham (3EM) – B Div Girls Poomsae Green 5 Individual</p>
+<p>Ashton Goh Guan Feng (2EU) – C Div Boys Poomsae Green 5 </p>
 </li>
 <li>
-<p>Lai Kit Wan (3EU) – B Div Girls Poomsae Blue 4 Individual</p>
+<p>Nazheera Binte Hisham (3EM) – B Div Girls Poomsae Green 5 </p>
 </li>
 <li>
-<p>Kaher Jeeya (3EV) – B Div Girls Poomsae Blue 3 Individual</p>
+<p>Lai Kit Wan (3EU) – B Div Girls Poomsae Blue 4</p>
 </li>
 <li>
-<p>Koh Heng Shuo Russell (3EH) – B Div Boys Poomsae Green 5 Individual</p>
+<p>Kaher Jeeya (3EV) – B Div Girls Poomsae Blue 3</p>
 </li>
 <li>
-<p>Javen Tan Zi Heng (4EU) – B Div Boys Poomsae Black 1 Individual</p>
+<p>Koh Heng Shuo Russell (3EH) – B Div Boys Poomsae Green 5</p>
 </li>
+<li>
+<p>Javen Tan Zi Heng (4EU) – B Div Boys Poomsae Black 1</p>
+</li><br>
+	<em><strong>Poomsae (Team)</strong></em>
 <li>
 <p>Jamie Isabelle Meer Tongol (1EU), Beatrice Emma Ling Zhi Le (1ED), Wong
-Kaili Kylie (1EU) – C Div Girls Poomsae White 9 Team</p>
+Kaili Kylie (1EU) – C Div Girls Poomsae White 9</p>
 </li>
 <li>
 <p>Amy Zhang Qiyun (1EH), Letichel Yeo Ning (2EH), Giam Ya En Kellis (1EL)
-– C Div Girls Poomsae Yellow 8 Team</p>
+– C Div Girls Poomsae Yellow 8</p>
 </li>
 <li>
-<p>Peh Su Qing (2EL), Nur Madinah Binte Salam (2EH), Ong Sim Rui (2ES) –
-C Div Girls Poomsae Blue 4 Team</p>
-</li>
+<p>Peh Su Qing (2EL), Nur Madinah Binte Salam (2EH), Ong Sim Rui (2ES) – C Div Girls Poomsae Blue 4</p>
+	</li>
 <li>
 <p>Ian Toh Kin Hern (1EU), Lee Jia Le Jasper (1EC), Ng Wee Siong Darius (1EC)
 – C Div Boys Poomsae Yellow 8 Team</p>
 </li>
 <li>
 <p>Ethan Tan Yong An (2EU), Teo Chun Hao Javier (2EH), Koh Tian Rui (2ES)
-– C Div Boys Poomsae Green 6 Team</p>
+– C Div Boys Poomsae Green 6</p>
 </li>
 <li>
 <p>Rayhan Azraqi Bin Mas Effendi (2ED), Lee Yu Heng (2EM), Muhammad Danial
