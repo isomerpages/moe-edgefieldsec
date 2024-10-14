@@ -188,12 +188,10 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 	<p>Tan Xin Jie Germaine (1ES), Yap Hsuen (2ES), Angelique Isabel Jackson (1EU) – C Div Girls Poomsae Black 3</p>
 	</li>
 <li>
-<p>Hiah Hong Kai, Aidan (1ES), Kiew Yu Cheng (1ES), Anas Mikael Bin Mohamad
-Hazlan (1ES) – C Div Boys Poomsae White 9 Team</p>
+<p>Hiah Hong Kai, Aidan (1ES), Kiew Yu Cheng (1ES), Anas Mikael Bin Mohamad Hazlan (1ES) – C Div Boys Poomsae White 9</p>
 </li>
 <li>
-<p>Koen Tey (2EH), Jovann Goh Yi Xian (2ES), Ethan Lim (2ES) – C Div Boys
-Poomsae Yellow 7 Team</p>
+<p>Koen Tey (2EH), Jovann Goh Yi Xian (2ES), Ethan Lim (2ES) – C Div Boys Poomsae Yellow 7</p>
 </li>
 <li>
 <p>Matthew Koh (2EV), Ang Siang Jun (1EH), Abdullah Umar Bin Mohammad Shalleh
