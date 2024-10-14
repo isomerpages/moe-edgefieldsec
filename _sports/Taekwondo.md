@@ -115,13 +115,13 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <li>
 <p>Luong Kah Sheng, James (3EC), Koh Heng Shuo Russell (3EH), Lim Siang Le
 (3ED) – B Div Boys Poomsae Blue 3</p>
-</li>
+</li><br>
+	<em><strong>Kyorugi</strong></em>
 <li>
 <p>Faith Seah (2EU) – C Div Girls Kyorugi Red Belt Under 46kg</p>
 </li>
 <li>
-<p>Jordan Lucas Wong Ruei Jie (2EH) – C Div Boys Kyorugi Poom Belt Under
-38kg</p>
+<p>Jordan Lucas Wong Ruei Jie (2EH) – C Div Boys Kyorugi Poom Belt Under 38kg</p>
 </li>
 <li>
 <p>Leau Jun How, Matthias (2EL) – C Div Boys Kyorugi Poom Belt Under 46kg</p>
@@ -143,32 +143,50 @@ Bin Razaleigh (2ED) – C Div Boys Poomsae Green 5</p>
 <p><strong>Silver Medalists</strong>
 </p>
 <ul data-tight="true" class="tight">
+	<em><strong>Poomsae (Individual)</strong></em>
 <li>
-<p>Giam Ya En Kellis (1EL) – C Div Girls Poomsae Yellow 8 Individual</p>
+<p>Giam Ya En Kellis (1EL) – C Div Girls Poomsae Yellow 8</p>
 </li>
 <li>
-<p>Ferlyn Tan En Xin (1EM) – C Div Girls Poomsae Red 2 Individual</p>
+<p>Ferlyn Tan En Xin (1EM) – C Div Girls Poomsae Red 2</p>
 </li>
 <li>
-<p>Lee Yu Heng (2EM) – C Div Boys Poomsae Green 5 Individual</p>
+	<p>Lam Ying Xin, Givonne (1EV) – C Div Girls Poomsae Black 1</p>
+	</li>
+<li>
+<p>Lee Yu Heng (2EM) – C Div Boys Poomsae Green 5</p>
 </li>
 <li>
-<p>Ang Siang Jun (1EH) – C Div Boys Poomsae Blue 3 Individual</p>
+<p>Ang Siang Jun (1EH) – C Div Boys Poomsae Blue 3</p>
+</li>
+	<p>Ashden Lee Kai Jie (1EH) – C Div Boys Poomsae Red 1</p>
+	
+<li>
+	<p>Leong Wei Feng Braydon (2ED) – C Div Boys Poomsae Black 2</p>
+	</li>
+<li>
+<p>Ng Sze Ree Desiree (Huang Sirui) (3ED) – B Div Girls Poomsae Blue 4</p>
 </li>
 <li>
-<p>Ng Sze Ree Desiree (Huang Sirui) (3ED) – B Div Girls Poomsae Blue 4 Individual</p>
+	<p>Batrisyia Binte Muhammad Faizal Leong (3ES) – B Div Girls Poomsae Green 5</p>
 </li>
 <li>
 <p>Sriniithi D/O Ganasan (3EU) – B Div Girls Poomsae Red 2 Individual</p>
 </li>
 <li>
-<p>Meredith Liaw Wen Xuan (2EL), Trinity Choy Zhi Xi (2EL), Alicia Teng Jia
-Min (2ES) – C Div Girls Poomsae Yellow 7 Team</p>
+	<p>1.  Lim Poh Kiat Darren (1EL) – B Div Boys Poomsae Yellow 8</p>
+	</li><br>
+	<em><strong>Poomsae (Team)</strong></em>
+<li>
+<p>Meredith Liaw Wen Xuan (2EL), Trinity Choy Zhi Xi (2EL), Alicia Teng Jia Min (2ES) – C Div Girls Poomsae Yellow 7</p>
 </li>
 <li>
 <p>Gelicia Gan Shan Ting (2EC), Goh Ai Ling (2EC), Luanne Liang Kaixin (2EC)
-– C Div Girls Poomsae Green 5 Team</p>
+– C Div Girls Poomsae Green 5</p>
 </li>
+<li>
+	<p>Tan Xin Jie Germaine (1ES), Yap Hsuen (2ES), Angelique Isabel Jackson (1EU) – C Div Girls Poomsae Black 3</p>
+	</li>
 <li>
 <p>Hiah Hong Kai, Aidan (1ES), Kiew Yu Cheng (1ES), Anas Mikael Bin Mohamad
 Hazlan (1ES) – C Div Boys Poomsae White 9 Team</p>
