@@ -230,74 +230,78 @@ Under 60kg</p>
 		<p>Mohamed Amirul Hakimi Bin Mohamed Shahrel (4EH) – B Div Boys Kyorugi Red Belt Under 68kg</p>
 	</li>
 </ul>
-<p><strong>Bronze Medalists</strong>
+<p><strong>Bronze Medalists (45 Medals)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jamie Isabelle Meer Tongol (1EU) – C Div Girls Poomsae White 9 Individual</p>
+<p>Jamie Isabelle Meer Tongol (1EU) – C Div Girls Poomsae White 9</p>
 </li>
 <li>
-<p>Amy Zhang Qiyun (1EH) – C Div Girls Poomsae Yellow 8 Individual</p>
+<p>Amy Zhang Qiyun (1EH) – C Div Girls Poomsae Yellow 8</p>
 </li>
 <li>
-<p>Meredith Liaw Wen Xuan (2EL) – C Div Girls Poomsae Yellow 7 Individual</p>
+<p>Meredith Liaw Wen Xuan (2EL) – C Div Girls Poomsae Yellow 7</p>
 </li>
 <li>
-<p>Ang Qian Ling (2EH) – C Div Girls Poomsae Green 6 Individual</p>
+<p>Ang Qian Ling (2EH) – C Div Girls Poomsae Green 6</p>
 </li>
 <li>
-<p>Gwendolyn Chong (2EU) – C Div Girls Poomsae Blue 3 Individual</p>
+<p>Gwendolyn Chong (2EU) – C Div Girls Poomsae Blue 3</p>
 </li>
 <li>
-<p>Ian Toh Kin Hern (1EU) – C Div Boys Poomsae Yellow 8 Individual</p>
+	<p>Kristen Audrey Lim Zhi Xuan (1EH) – C Div Girls Poomsae Black 1</p>
+	</li>
+<li>
+	<p>Yap Hsuen (2ES) – C Div Girls Poomsae Black 3</p>
+	</li>
+<li>
+<p>Ian Toh Kin Hern (1EU) – C Div Boys Poomsae Yellow 8</p>
 </li>
 <li>
-<p>Ng Wee Siong Darius (1EC) – C Div Boys Poomsae Yellow 8 Individual</p>
+<p>Ng Wee Siong Darius (1EC) – C Div Boys Poomsae Yellow 8</p>
 </li>
 <li>
-<p>Jovann Goh Yi Xian (2ES) – C Div Boys Poomsae Yellow 7 Individual</p>
+<p>Jovann Goh Yi Xian (2ES) – C Div Boys Poomsae Yellow 7</p>
 </li>
 <li>
-<p>Batrisyia Binte Muhammad Faizal Leong (3ES) – B Div Girls Poomsae Green
-5 Individual</p>
+<p>Shaw Kai Jun Jaeden (1ED) – C Div Boys Poomsae Black 3</p>
 </li>
 <li>
-<p>Wan Xin Yi (3ES) – B Div Girls Poomsae Blue 4 Individual</p>
+<p>Wan Xin Yi (3ES) – B Div Girls Poomsae Blue 4</p>
 </li>
 <li>
-<p>Locanas Francesca Maria Gabilan (3ED) – B Div Girls Poomsae Black 1 Individual</p>
+<p>Locanas Francesca Maria Gabilan (3ED) – B Div Girls Poomsae Black 1</p>
 </li>
 <li>
-<p>Ryan Chia (Xie Boshen) (3EL) – B Div Boys Poomsae Blue 4 Individual</p>
-</li>
+<p>Ryan Chia (Xie Boshen) (3EL) – B Div Boys Poomsae Blue 4 </p>
+</li><br>
+	<em><strong>Poomsae (Team)</strong></em>
 <li>
 <p>Maisha Umaiza Ahmad Faizal (2EV), Jouvyka Huang Xuerui (2EH), Ang Qian
-Ling (2EH) – C Div Girls Poomsae Green 6 Team</p>
+Ling (2EH) – C Div Girls Poomsae Green 6</p>
 </li>
 <li>
 <p>Gwendolyn Chong (2EU), Ang Mika (1ED), Kayle Teng Yi Xuan (1EH) – C Div
-Girls Poomsae Blue 3 Team</p>
+Girls Poomsae Blue 3</p>
 </li>
 <li>
 <p>Kaher Jeeya (3EV), Ameri Naito (3ED), Erika Fitrina Binte Azrin (3EU)
-– B Div Girls Poomsae Blue 3 Team</p>
+– B Div Girls Poomsae Blue 3</p>
 </li>
 <li>
 <p>Tan Mei Yi (4EL), Neo Rui Shan Amanda (4ED), Larissa Tan Qian Ling (4EU)
-– C Div Girls Poomsae Black 2 Team</p>
+– C Div Girls Poomsae Black 2</p>
 </li>
 <li>
-<p>Mao Yu Xiang (3EM), Chua Yao An (3EM), Tam Hong Jin Nigel (3EH) – B Div
-Boys Poomsae Red 2 Team</p>
+<p>Mao Yu Xiang (3EM), Chua Yao An (3EM), Tam Hong Jin Nigel (3EH) – B Div Boys Poomsae Red 2</p>
 </li>
 <li>
-<p>Javen Tan Zi Heng (4EU), Raufdanial Bin Muhammad Faizal Leong (4ES), Bee
-Zi Feng (3EM) – B Div Boys Poomsae Black 1 Team</p>
+<p>Javen Tan Zi Heng (4EU), Raufdanial Bin Muhammad Faizal Leong (4ES), Bee Zi Feng (3EM) – B Div Boys Poomsae Black 1</p>
 </li>
 <li>
-<p>Julian Teo Jun Ang (Zhang Jun'Ang) (4EU), Yau Teng Hao James (4ED), Kaemon
-Tay Yu Xuan (4EM) – B Div Boys Poomsae Black 2 Team</p>
-</li>
+<p>Julian Teo Jun Ang (Zhang Jun'Ang) (4EU), Yau Teng Hao James (4ED), Kaemon Tay Yu Xuan (4EM) – B Div Boys Poomsae Black 2</p>
+</li><br>
+	<em><strong>Kyorugi</strong></em>
 <li>
 <p>Tan Xin Jie Germaine (1ES) – C Div Girls Poom Belt Under 42kg</p>
 </li>
@@ -323,15 +327,10 @@ Tay Yu Xuan (4EM) – B Div Boys Poomsae Black 2 Team</p>
 <p>Pang Ji Kai Janson (4EL) – B Div Boys Red Belt Under 48kg</p>
 </li>
 <li>
-<p>Mohamed Amirul Hakimi Bin Mohamed Shahrel (4EH) – B Div Boys Red Belt
-Under 52kg</p>
-</li>
-<li>
 <p>Michael Gabriel Suhendra (3EV) – B Div Boys Poom Belt Under 56kg</p>
 </li>
 <li>
-<p>Lee Teng Hong Clarence (Li Dingfeng) (3ES) – B Div Boys Poom Belt Under
-60kg</p>
+<p>Lee Teng Hong Clarence (Li Dingfeng) (3ES) – B Div Boys Poom Belt Under 60kg</p>
 </li>
 <li>
 <p>Nigel Teng (4EV) – B Div Boys Poom Belt Under 64kg</p>
