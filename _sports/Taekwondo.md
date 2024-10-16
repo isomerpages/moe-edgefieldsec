@@ -75,7 +75,6 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Javen Tan Zi Heng (4EU) – B Div Boys Poomsae Black 1</p>
 	</li></ul>
-<br>
 <p><em><strong>Poomsae (Team)</strong></em></p>
 <ul data-tight="true" class="tight">
 	<li>
@@ -111,7 +110,6 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Luong Kah Sheng, James (3EC), Koh Heng Shuo Russell (3EH), Lim Siang Le (3ED) – B Div Boys Poomsae Blue 3</p>
 	</li></ul>
-<br>
 <em><strong>Kyorugi</strong></em>
 <ul data-tight="true" class="tight">
 	<li>
