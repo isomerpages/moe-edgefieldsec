@@ -169,7 +169,6 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Lim Poh Kiat Darren (1EL) – B Div Boys Poomsae Yellow 8</p>
 	</li></ul>
-<br>
 <em><strong>Poomsae (Team)</strong></em>
 <ul data-tight="true" class="tight">
 	<li>
@@ -199,7 +198,6 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Lee Jia Hao Joshua (3EV), Ryan Chia (Xie Boshen) (3EL), Ang Hock Yung Kayden (3EM) – B Div Boys Poomsae Blue 4</p>
 	</li></ul>
-<br>
 <em><strong>Kyorugi</strong></em>
 <ul data-tight="true" class="tight">
 	<li>
@@ -288,7 +286,6 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Julian Teo Jun Ang (Zhang Jun'Ang) (4EU), Yau Teng Hao James (4ED), Kaemon Tay Yu Xuan (4EM) – B Div Boys Poomsae Black 2</p>
 	</li></ul>
-<br>
 <em><strong>Kyorugi</strong></em>
 <ul data-tight="true" class="tight">
 	<li>
