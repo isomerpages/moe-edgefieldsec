@@ -36,7 +36,7 @@ students. Our aim for every student is to continually strive to improve
 themselves every day - to be the best version of themselves.</p>
 <p><strong>Highlights / Achievements</strong> 
 <br><strong>National School Games Taekwondo Championships 2024<br><em>Combined Poomsae &amp; Kyorugi</em></strong>
-<br><em>(42 Gold, 35 Silver, 45 Bronze)</em>
+<br><em>(50 Gold, 44 Silver, 46 Bronze)</em>
 <br>‘C’ Division Girls - Overall Champion
 <br>‘C’ Division Boys - Overall Champion
 <br>‘B’ Division Girls - Overall Champion
@@ -218,7 +218,7 @@ themselves every day - to be the best version of themselves.</p>
 	<li>
 		<p>Mohamed Amirul Hakimi Bin Mohamed Shahrel (4EH) – B Div Boys Kyorugi Red Belt Under 68kg</p>
 	</li></ul>
-<p><strong>Bronze Medalists (45 Medals)</strong></p>
+<p><strong>Bronze Medalists (46 Medals)</strong></p>
 <em><strong>Poomsae (Individual)</strong></em>
 <ul data-tight="true" class="tight">
 	<li>
