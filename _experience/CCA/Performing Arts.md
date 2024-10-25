@@ -15,20 +15,19 @@ Being part of the choir has been an incredibly rewarding journey. Participating 
 The teamwork and camaraderie within the choir were equally important. Bonding through fun games during trainings helped us build strong relationships, which proved essential during times of intense preparation. In a recent competition, our collective effort led to notable improvements, showing the power of working together. Overall, my time in the choir has not only helped me grow as a leader but has also strengthened my skills in resilience, teamwork, and communication, while providing lasting friendships and cherished memories.
 
 **_Sim En Qi Mabel<br>
-Year3 Edison, President, 2024_**
+Year 3 Edison, President, 2024_**
 
 ![](/images/band-1.png)
 <h5>Concert Band</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
     
-I have learnt many skills from being in the Concert Band. These skills include playing a new instrument and having a deeper understanding of music.  
+Being part of the Concert Band CCA has been a rewarding experience both musically and personally. The band has provided me with the opportunity to learn new instruments and deepen my appreciation for music. The discipline required for consistent practice has taught me values like perseverance and patience.
+
+Additionally, the friendships I've formed with fellow band members have made rehearsals more enjoyable, and collaborating to perfect performances has strengthened our teamwork. I've learned to step out of my comfort zone and perform with confidence, which has positively impacted other areas of my life as well. Overall, my time in the band has been unforgettable, and I am eager to continue pursuing music in the future.
   
-Being in the Band has taught me important values like responsibility and teamwork as I would not be able to play a nice piece of music without other members of the band. I have also learnt to be confident, especially when performing.  
-I have definitely enjoyed making new friends in the Band. The teachers and conductors are very patient and friendly. The people in Band definitely help to make each practice fun and enjoyable. I would most definitely consider joining a band again in the future or even pursue my passion for music and learn music at a higher level.  
-  
-_**Jin Zixuan, David  <br>
-Year 3 Eliot, Member, 2020**_
+_**Tan Raphael Rhys Reynaldo<br>
+Year 3 Euler, President, 2024**_
 
 ![](/images/drama-1.png)
 <h5>ELDDS</h5>
