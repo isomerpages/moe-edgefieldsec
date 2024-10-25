@@ -59,15 +59,24 @@ Year 3 Eliot, Vice-Chairperson, 2024_**
 <h5>Guzheng</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
-        
-Guzheng CCA taught me how to express my emotion through music. Each piece of music has its own background story. By playing the Guzheng in different pitches and tones, it allows me to express different emotions and to communicate with the audience through music.  
-      
-Being a member of Guzheng CCA has given me an opportunity to learn more about teamwork. It requires all members to work together, listen to different sections in order to give our best performance to the audience. This value has had helped me in various school projects as I know the importance of working with my teammates.  
-      
-I really enjoy the moments when all the sections of the CCA are able to synchronise and create beautiful melodies. I treasure the opportunity to be the Vice President of the Guzheng CCA. It is therefore my responsibility to care for other members and it has helped me to become a better leader.  
-      
-**_Ng Wenyu <br>
-Year 3 Eliot, Vice President, 2020_**
+
+As the president of the Guzheng Ensemble my journey has been both rewarding and enriching. Leading a group of talented guzheng players has provided me with invaluable lessons in leadership, teamwork, and resilience. One of the most fulfilling aspects of this role has been witnessing our members’ growth, not only in their musical skills but also in their confidence to perform before an audience.
+
+This leadership experience has also underscored the importance of discipline and time management. Balancing my academic responsibilities with CCA commitments has taught me to prioritise tasks and stay organised. Through this, I have gained a deeper appreciation for hard work and perseverance, as our consistent efforts led to improved performances and a stronger sense of unity within the team.
+
+The most memorable moments have been performing together, especially during major events like our annual Open House. The harmony we create as a team reflects not only our musical abilities but also the strong bond we’ve formed over time. As President, I am proud of how far we’ve come and look forward to seeing the continued success of our Guzheng Ensemble in the future.
+
+**_Keryn Chua Yun Jia<br>
+Year 3 Eisenhower, President, 2024
+
+As the vice president of the Guzheng Ensemble, our journey has been one of growth, learning, and a deepening connection to music. Together, we’ve faced challenges—from mastering difficult pieces to balancing schoolwork with practice—but each obstacle has only strengthened our bond.
+
+Performing at various events, both within school and beyond, has been incredibly rewarding. Each performance reflects hours of dedication, teamwork, and the excitement of bringing beautiful music to life. Along this journey, we’ve grown not just as musicians but as a cohesive team, supporting each other through both successes and setbacks.
+
+Our experience isn’t just about mastering the Guzheng; it’s about sharing our passion for music with others and learning valuable lessons in leadership, discipline, and collaboration. The friendships we’ve built and the skills we’ve gained make this journey truly unforgettable, and we look forward to continuing to grow together.
+
+**_Lee Xuan Nuo, Gwen<br>
+Year 3 Einstein, Vice-President, 2024**_
 
 ![](/images/harmonica-1.png)
 <h5>Harmonica</h5>
