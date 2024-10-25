@@ -34,30 +34,26 @@ Year 3 Euler, President, 2024**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
     
-Having been in this CCA for 4 years, I can guarantee that ELDDS is a CCA which allows you to develop skills that will benefit you in future. Not only does it build your confidence, it also trains you to be an efficient, disciplined and adaptable team player.
+Being in ELDDS since Sec 1 has been an enriching experience. It has allowed me to attend and be a part of many performances over the years, such as watching the ‘I And You’ play by Lauren Gunderson at Gateway Theatre, performing in the Singapore Youth Festival (SYF) and participating in the school’s annual National Day celebration.
 
-Through this CCA, you will learn the art of acting and being a character other than yourself, which trains you to step out of your comfort zone and experience new things. The constant feeling of novelty keeps members on their toes, making ELDDS an enjoyable CCA, especially for those who love the thrill and excitement.
+What I love the most about ELDDS is that it provides members with the opportunity to for creative expression and collaboration. I also get to participate in games that train me in important theatrical skills, as well as foster camaraderie among my peers. Through ELDDS, I have developed various competencies, such as public speaking, leadership skills, and empathy. As a whole, ELDDS has helped me to improve my intrapersonal and interpersonal skills, as well as allow me to experience and appreciate the beauty of theatre, which has helped me to shape who I am today.
 
-Many of our CCA members have grown to become confident and responsible leaders. With ELDDS, you will definitely be able to develop skills and inculcate values that prepares you for the future! 
-
-_**Sherylene Siew  
-Year 4 Eliot, President, 2022**_
+_**Yap Kah Heng (Ye Jiaheng)<br>
+Year 4 Eliot, Vice-Chairperson (Welfare), 2024**_
 
 ![](/images/festive%20drums-1.png)
 <h5>Festive Drums</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
     
-I joined Festive Drums without much knowledge but as time passed, my interest for this CCA grew stronger as I started to enjoy every moment, realising it was alright to make mistakes so long as I learnt from them and improved. This love for drumming grew in me while I gained more experience on my drumming journey. Every second has been precious and enjoyable and whenever CCA sessions come to an end, I am always looking forward to the next session.  
+Before joining Festive Drums, I had no knowledge of this CCA at all. However as the years passed, I grew a deep fondness for this CCA and enjoyed every single moment of this CCA. Festive Drums helped me meet new friends and experiment with new things. 
+
+Throughout the three years in this CCA, I have learned to appreciate the time I spent with this CCA, with my peers and juniors. I have learned many values like teamwork and perseverance, which are life long values and will remain rooted in me for a long time. 
+
+Performing in front of a big audience not only in school but also at outside venues made me step out of my comfort zone and face my fears. From our first performance to our last, I felt that all members have actually grown emotionally, from being anxious and worried to being confident and excited. I look forward to making more memories with all my peers!
   
-I enjoy every moment I with my juniors and seniors and am really glad that they are a part of my journey. I really appreciate that I was given a chance to lead. It helped me grow further, not just in terms of values but also in terms of the ability to bond with my CCA members more.  
-  
-I do not regret selecting Festive Drums as one of my choices. This CCA has taught me teamwork, perseverance, responsibility and many other values. Over time, drumming has turned into a passion for me and it has never stopped growing. Our instructor is also always looking out for us, giving us feedback and helping us in many ways like teaching us different tactics in memorizing scores and refining the way we hold our drum sticks.  
-  
-Every performance is precious to me as we have watched each other grow from being anxious before the performance to developing confidence and achieving the sense of satisfaction after each performance. We have built a passionate team with strong synchronization and I’m really glad to be in this CCA.  
-  
-**_Daseryn Lui <br>
-Year 3 Einstein, Member, 2020_**
+**_Goh En Yu Kayla<br>
+Year 3 Eliot, Vice-Chairperson, 2024_**
 
 ![](/images/guzheng-1.png)
 <h5>Guzheng</h5>
