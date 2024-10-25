@@ -10,15 +10,12 @@ variant: markdown
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
-Being the choir president has presented me with many opportunities to go past my limits and continue to improve myself. For example, allowing myself to conquer my fear of speaking in front of crowds, through having to lead the choir during warmups and giving debrief at the end of the training. I have also gained much confidence through the process.  
-      
-Resilience and teamwork are some of the useful skills that I have grasped by being in this CCA. During choir sessions, when our vocal coach gives us constructive criticism on how to improve, I would take his suggestions and put them in mind, and consequently practise during my free time. This is an element of resilience, never giving up no matter what and to keep trying.  
-    
-      
-It is also important to have teamwork as all members will need to know when they have to sing a certain part, and everyone has to know they are in it together. If one person decides to give up halfway, the entire performance would not be ideal. Teamwork also ensures that work gets work done more efficiently and consistently. I am really happy to see the choir coming together and harmonize.
-      
-**_Shernice Chan  
-Year 4 Eisenhower, President, 2023_**
+Being part of the choir has been an incredibly rewarding journey. Participating in competitions taught me the level of dedication and hard work required to excel, while performing at a hospital for the elderly was a particularly memorable experience. It was fulfilling to connect with and uplift others through our music. Serving as choir president also came with responsibilities that significantly contributed to my personal growth. Leading warm-ups and delivering debriefs helped me develop my public speaking skills, and managing the group during rehearsals, like ensuring everyone stayed focused, strengthened my leadership and organizational abilities. Though initially daunting, these tasks ultimately boosted my confidence in addressing large groups and keeping the team on track.
+
+The teamwork and camaraderie within the choir were equally important. Bonding through fun games during trainings helped us build strong relationships, which proved essential during times of intense preparation. In a recent competition, our collective effort led to notable improvements, showing the power of working together. Overall, my time in the choir has not only helped me grow as a leader but has also strengthened my skills in resilience, teamwork, and communication, while providing lasting friendships and cherished memories.
+
+**_Sim En Qi Mabel<br>
+Year3 Edison, President, 2024_**
 
 ![](/images/band-1.png)
 <h5>Concert Band</h5>
