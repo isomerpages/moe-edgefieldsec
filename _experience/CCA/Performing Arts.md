@@ -67,7 +67,7 @@ This leadership experience has also underscored the importance of discipline and
 The most memorable moments have been performing together, especially during major events like our annual Open House. The harmony we create as a team reflects not only our musical abilities but also the strong bond we’ve formed over time. As President, I am proud of how far we’ve come and look forward to seeing the continued success of our Guzheng Ensemble in the future.
 
 **_Keryn Chua Yun Jia<br>
-Year 3 Eisenhower, President, 2024
+Year 3 Eisenhower, President, 2024_**
 
 As the vice president of the Guzheng Ensemble, our journey has been one of growth, learning, and a deepening connection to music. Together, we’ve faced challenges—from mastering difficult pieces to balancing schoolwork with practice—but each obstacle has only strengthened our bond.
 
@@ -75,7 +75,7 @@ Performing at various events, both within school and beyond, has been incredibly
 
 Our experience isn’t just about mastering the Guzheng; it’s about sharing our passion for music with others and learning valuable lessons in leadership, discipline, and collaboration. The friendships we’ve built and the skills we’ve gained make this journey truly unforgettable, and we look forward to continuing to grow together.
 
-**_Lee Xuan Nuo, Gwen<br>
+_**Lee Xuan Nuo, Gwen<br>
 Year 3 Einstein, Vice-President, 2024**_
 
 ![](/images/harmonica-1.png)
