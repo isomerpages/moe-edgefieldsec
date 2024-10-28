@@ -21,19 +21,19 @@ Captain, Badminton, 2022-2023<br>
 <h5>Basketball</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).**
-    
-Basketball is a sport that requires not only physical presence but also mental tenacity in a player. After being in Edgefield Basketball for 3 years, I have grown to realise that Basketball is not just a game but a reflection of life on the hardwood court.  
-  
-Here in Edgefield Basketball, the teachers and coach work closely with all of us to ensure that we meet and achieve the different objectives set out for us. We learn about teamwork, communication, decision making, respect, self-discipline and tenacity.  
-  
-Being a Captain, I have learnt the value of responsibility and leadership. Through my teachers’ and coach’s advice, I have learnt to deal with difficult situations especially during competitions and have also learnt to manage my team’s motivation and attitude during training. I have learnt that I need to have a very good grasp of my time as it is divided between my academics and training.  
-  
-For the Girl’s Team, we beat many odds to reach the Top 4 in the Inter-Schools South Zone Basketball Tournament in 2019. While it was a pity this year’s competition was disrupted due to the pandemic, we have learnt not to give up and be adaptable. Instead, we have been focusing on training for next year’s competition where we know we can get back stronger, fitter and more prepared than ever.  
-  
-Being a part of the Edgefield Basketball team has allowed all of us to gain different life experiences that we can confidently bring forward to any aspect of our lives. People call basketball a sport but to all of us at Edgefield Basketball Team, it is our passion.  
-  
-_**Goh Jia Rui Ashley <br>
-Year 3 Elias, Captain, 2020**_
+
+Basketball has been a pivotal part of my life since I first played in primary school. Joining the school team as captain of the girls’ basketball team in secondary school was a significant step for me. It provided a platform to develop my skills, build friendships, and learn valuable life lessons.
+
+Practices were intense and often challenging, instilling discipline and perseverance in all of us, thanks to the support of my coach, teachers, and seniors. As captain, I focused not only on improving my own game but also on encouraging my teammates. Through countless drills and scrimmages, I honed my shooting, passing, and defensive strategies, gaining confidence with each session.
+
+One of the most memorable moments was our championship game in the 2023 C Division. The atmosphere was electric, with our seniors and the boys' basketball team cheering us on. Despite the pressure, I felt a deep sense of unity with my teammates, each of us focused on a common goal. The exhilaration of that game remains one of my proudest achievements. Even though we lost, making it to the finals demonstrated that our efforts paid off, but we still had room for improvement.
+
+Beyond the physical aspects of the game, basketball taught me about resilience. We faced many losses, but each defeat was an opportunity to learn and grow. The camaraderie I built with my teammates transformed into lasting friendships, creating a support system that extended beyond the court.
+
+My basketball experience in secondary school has shaped who I am today. It has taught me about leadership, teamwork, perseverance, and the joy of pursuing a passion. I am grateful for the memories and lessons learned, which I will carry with me long after my school days.
+
+_**Quek Lianne Caunca <br>
+Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 
 ![](/images/shooting-1.jpg)
 <h5>Shooting</h5>
