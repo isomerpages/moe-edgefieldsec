@@ -84,13 +84,18 @@ Captain, Taekwondo, 2022-2023**_<br>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).**
 
-“Volleyball has helped me become&nbsp; mentally and physically stronger. Besides drills such as spiking, receiving, setting and service, we also cultivate values such as&nbsp; resilience, integrity, respect, sportsmanship and enthusiasm. Resilience will help us in being mentally tougher and not giving up easily. Integrity gives us the courage to own up and be honest. We respect our opponents by not being arrogant and this makes us develop sportsmanship. Whenever we lose a match, we learn from our mistakes and we find ways to improve together as a team.&nbsp;
+Volleyball is the single best sport for fostering holistic development, covering every dimension, from the physical aspects of explosive power, stamina, and reaction time, to the mental qualities of mindset, work ethic, and values.&nbsp;
 
-I enjoy volleyball as it is a team sport and it teaches us to work together. The skills I’ve learned have helped me to be fitter, more&nbsp; agile and focused in my PE lessons. The values that I picked up from Volleyball have certainly helped me value everyone in a team and appreciate their different strengths and skill levels. It takes everyone to make a TEAM in Volleyball!”
+My journey as part of Edgefield Secondary School's volleyball team has been instrumental in shaping who I am today. There are lessons that simply cannot be taught by pen and paper. Instead, these lessons have become ingrained in me through the invaluable experiences I've been through in this CCA.
 
-_**Caspian Tan Yen Feng<br>
-Year 2 Emerson, 2023<br>
-Lower Secondary Vice Captain, Volleyball, 2023**_<br>
+Volleyball has taught me that setbacks and losses are not failures, but stepping stones on the path to success. I’ve learned to stay focused, bounce back from mistakes, and maintain a positive attitude, even in the face of adversity. Through this sport, I’ve adopted unwavering self-discipline, which has extended beyond the court to my personal and academic life. Juggling both volleyball and my studies has demanded solid time management and high stress tolerance from me, which I am utterly grateful for.
+
+What stands out to me is the strength of teamwork. Volleyball has shown me that for a team to succeed, every member must contribute their best. This understanding has brought my teammates and me closer together. We uplift each other by encouraging one another to remain steadfast and determined both on and off the court, creating a positive cycle of growth and achievement.
+
+If you’re looking for a CCA that pushes your limits and fosters growth in every aspect of your life, come join us. Feel the energy as “EDGEFIELD! ACE! ACE! ACE!!” echoes throughout the school every Monday and Thursday!
+
+_**Achyut Pradhan<br>
+Year 3 Emerson, Captain, 2024**_
 
 ![](/images/wushu-1.png)
 <h5>Wushu</h5>
