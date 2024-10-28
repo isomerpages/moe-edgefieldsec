@@ -2,13 +2,28 @@
 title: Scouts
 permalink: /experience/cca/uniformed-groups/scouts/
 description: ""
+variant: markdown
 ---
 ![](/images/2015-CCA-BOYSCOUTS.jpg)
 
 **Description** <br>
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society. Scouts get the chance to engage in outdoor activities and be active in nature as they pick up new skills and develop attitudes through active participation in the activities with their Patrol. Scouts also get to learn progressively by attaining exciting badges, all with the support from adult leaders.
 
-**Highlights / Achievements** 
+**Highlights / Achievements** <br><br>
+**2024**<br>
+Chief Commissioner's Award 2024 - _Pinnacle Award for Scout Section_
+| Name | Class |
+| -------- | -------- |
+| Wong Jian Wei| Year 4 Euler |
+| Alburo Gene Pablo Desuyo | Year 4 Emerson |
+|Ng Zung How | Year 4 Eisenhower |
+| Isaac Yong Chi Xuan | Year 4 Edison |
+| Jayden Lee Fung Jip | Year 4 Einstein |
+| Ku Yu Heng | Year 4 Einstein |
+| Teo Wen Jie Jayden | Year 4 Everest |
+| Teh Li Wei Christopher | Year 4 Edison |
+| Bharaath S/O Mohan Annamalai | Year 4 Edison |
+
 
 **2023**<br>
 Chief Commissioner's Award 2023<br>
