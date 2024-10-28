@@ -111,14 +111,13 @@ _Silver_
 
 **Teachers in Charge** <br>
 Mr Darren Woo&nbsp;<br>
-Mr Muhammad 'Ammar Abdul Aziz&nbsp;<br>
-Mr Neo Jun Yang <br>
-Ms Chew-Lim Chai Hoon Yvonne
+Ms Chew-Lim Chai Hoon Yvonne<br>
+Ms Siti Azriah
 
 **Student Leaders** <br>
-Troop Leader: Lim Ju Yuan (3EC) <br>
-Troop 2IC: Mohammad Rayfan Ryqhal Bin Mohammad Rizal (3EC) <br>
-Quartermasters: Benson Saputra (3EL), Wee Sheng Yang (3ED), Heng Wee Meng Malcolm (3EV)  
+Troop Leader: Tristan Hoh Hon Ryui (3EM) <br>
+Troop 2IC: Loh Cheng Xi (3ES)<br>
+Quartermasters: Tan Yunze Ethan (3EC)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6pm <br>
