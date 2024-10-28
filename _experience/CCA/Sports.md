@@ -53,11 +53,16 @@ _**Amelyn Chua Jia Li**
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).**
 
-“Softball is a wonderful sport which requires a lot of teamwork and communication. Physical training is required in order for us to be fit to play the sport. Sometimes, I have thoughts of giving up and doing my physical training halfheartedly, however, as the captain, I have to discipline myself and set the example for my team. Softball has taught me to always persevere and to push myself beyond my limits. The game of Softball is unpredictable and as my coach always says, “the ball is round” anything can happen during the match so we need to fight hard until the last moment. As a pitcher and captain, I have grown to be mentally tougher in this CCA. The thing I truly love about this CCA is the people. My CCA mates are like family. We always support each and every member of the team. We have this saying, “all for one, one for all”. The bond and connection between my teammates is essential in order to accomplish anything on the field. I am also very grateful for my coach and teachers-in-charge. They have given me a tremendous amount of advice which I will carry on throughout my life.”
+Softball is definitely a tough sport. As the captain of the team, I’ve learned that training under the hot sun can be challenging, testing our physical and mental limits. The game has many rules, and it takes time to get the hang of them, but once you do, it’s incredibly fun.
 
-_**Elenois Dwaine Salinas Siapno<br>
-Year 4 Everest, 2023<br>
-Captain, Softball, 2022-2023**_
+My teammates play a crucial role in this journey. Their support and camaraderie create an environment where we can push each other to improve. We celebrate our victories together and learn from our losses, fostering a strong team spirit.
+
+Throughout this experience, I’ve gained valuable life lessons. I’ve learned the importance of teamwork, discipline, and determination. There were times when I felt like giving up, but as the Captain of the CCA, I realised I needed to push through—not just for myself, but to set a positive example for my teammates.
+
+Being part of this team has not only enhanced my softball skills but also taught me about leadership and the value of hard work. I am proud to lead such an incredible group, and I look forward to what we can achieve together!
+
+_**Maheerah Binte Mohammed Zulkifli<br>
+Year 3 Euler, Captain, 2024**_
 <br>
 
 ![](/images/taekwondo-0.png)
