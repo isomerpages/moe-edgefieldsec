@@ -83,14 +83,16 @@ Year 3 Einstein, Vice-President, 2024**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
-Joining the Harmonica CCA has helped me learn how to read number scores. Prior to joining the CCA, I could only read the 6 line music scores. I can now read number scores easily. This is an important skill that I can bring with me after secondary school.  
+Ever since we joined the Harmonica CCA, we have learnt how to play a new instrument and appreciated the diverse genres of music. From rousing pop music to melodious classical tunes, we take delight in the joyous performances of these beautiful music pieces with every member of the band.&nbsp;Even if one does not have any musical background, it is not too hard to master the harmonica!&nbsp;
+
+Being CCA leaders has also taught us many valuable lessons. From leading the juniors, especially at areas they are struggling with, to inspiring teamwork in the band, not only do we hone our leadership skills, we are also humbled&nbsp;by what we can learn from other members. In our growth&nbsp;and development as a leader, we have grown to be confident and empathetic, becoming better versions of ourselves.&nbsp; Beyond the CCA, the&nbsp;values of resilience and perseverance are also applied in our classroom learning, helping us stay focused on our goals and improving our performances.&nbsp;
+
+Through the many practices and performances, we have created deeper bonds within the band as we encourage and support one another along this journey of music making. Harmonica CCA has certainly brought us closer together despite our diverse backgrounds and personalities, helping us to better appreciate the beauty in diversity.
   
-I have learnt values such as responsibility and patience from this being in the harmonica band. I have to take responsibility for learning new songs so that I am able to play the songs during performances. I have also learnt to be patient when teaching my juniors and members in my section when learning new songs. I enjoy learning to play songs as it is very fun to be able to play a song together with the whole band! I think that performing as a band is the most enjoyable thing to do in the CCA.  
-  
-The skills and values I learn in the CCA will definitely be applicable to my tertiary education and maybe even the workforce. I would have to be responsible in my work and be able to collaborate well with my future colleagues.  
-  
-**_Nur Khairunnisa Binte Mohamed Khir <br>
-Year 3 Euclid, President, 2020_**
+**_Xavier Loh Yuan Cheng,<br>
+Year 3 Emerson, President, 2024_**
+<br>and **_Megan Low Mei Chen,<br>
+Year 3 Euclid, Vice-President, 2024_**
 
 ![](/images/modern%20dance-1.png)
 <h5>Modern Dance</h5>
