@@ -35,13 +35,15 @@ Mr Wong Ban Heng William<br>
 Mr Tay Guo Kwang
 
 **Student Leaders** <br>
-**_Boys_** <br>
-Captain: Chai Kwan Yew (3EH)<br>
-Vice-Captain: Ihsan Bin Isnor (3ED), Tye Zheng Yao (3EH)
-
 **_Girls_** <br>
-Captain: Woo Jia En (3EU)<br>
-Vice-Captain: Low Sze Hui Kozane (3EC), Putri Nur Imelda Binte Mustakin (3EH)
+Captain: Quek Lianne Caunca (3EH)<br>
+Vice-Captain: Tan Xi En (3EM), Wan Xin Yi (3EM)<br>
+Quarter-mistress: Erika Fitrina Binte Azrin (3EU)<br>
+CCA Peer Support Leader: Chen Jing Han (3EL)
+
+**_Boys_** <br>
+Captain: Jovann Cher Rui Heng (3LU)<br>
+Vice-Captain: Lai Kit Yeung (3EL)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 **_Boys_** <br>
