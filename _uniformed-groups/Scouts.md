@@ -11,6 +11,9 @@ The mission of Scouting is to contribute to the education of young people, throu
 
 **Highlights / Achievements** <br><br>
 **2024**<br>
+Baden- Powell Award 2024 - _Pinnacle Award for Rover Scout Section_<br>
+_Goh Kah Meng (Class of 2014)_
+
 Chief Commissioner's Award 2024 - _Pinnacle Award for Scout Section_
 | Name | Class |
 | -------- | -------- |
@@ -23,7 +26,6 @@ Chief Commissioner's Award 2024 - _Pinnacle Award for Scout Section_
 | Teo Wen Jie Jayden | Year 4 Everest |
 | Teh Li Wei Christopher | Year 4 Edison |
 | Bharaath S/O Mohan Annamalai | Year 4 Edison |
-
 
 **2023**<br>
 Chief Commissioner's Award 2023<br>
