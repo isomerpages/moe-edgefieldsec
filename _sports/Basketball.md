@@ -2,11 +2,19 @@
 title: Basketball
 permalink: /experience/cca/sports/basketball/
 description: ""
+variant: markdown
 ---
 **Description** <br>
-Basketball builds up a child physically and mentally. It requires commitment and self-discipline and these values are essential for cognitive development. The CCA hopes to cultivate resilience, perseverance and the spirit of sportsmanship and importance of teamwork in the students through the training and competitions.
+
+_"Basketball is more than a game; it's a test of heart, mind, and teamwork."_
+
+As a Co-Curricular Activity (CCA), basketball aims to not only strengthen students physically but also nurture their mental fortitude. Through regular training and competitions, we instill values of commitment, self-discipline, and resilience, shaping students to persevere in the face of challenges. The CCA strives to cultivate the spirit of sportsmanship and teamwork, while also emphasizing the pursuit of excellence. We believe that winning goes beyond trophies—it's about the relentless pursuit of growth, both as individuals and as a team.
 
 **Highlights / Achievements** <br>
+_**National School Games Basketball Championships 2024**_<br>
+C Division Girls - League 2<br>
+C Division Boys - League 3
+
 _**National School Games North Zone Basketball Championships 2023**_<br>
 C Division Girls – 2nd
 C Division Boys - 2nd Round
