@@ -12,7 +12,7 @@ variant: tiptap
 <a href="/files/Teacher_Contact_List_2024___Year_2_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a>| <a href="/files/Y3_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> |
 <a href="/files/Y4_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 4</a>| <a href="/files/Y5_Teacher_Contact_List_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5</a>
 </p>
-<p><strong>[New] </strong><a href="/files/CCA_schedule_June_Holidays_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holidays 2024 CCA Schedule </a>
+<p><strong>[New] </strong><a href="/files/CCA_Schedule_Nov___Dec_2024.pdf" rel="noopener nofollow" target="_blank">Nov/Dec CCA Schedule 2024</a>
 <br>
 <br><a href="/files/CCA_teachers_and_schedule_2024_5_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers &amp; Schedule 2024</a>
 </p>

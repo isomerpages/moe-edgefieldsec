@@ -4,6 +4,8 @@ permalink: /experience/cca/performing-arts/choir/
 description: ""
 variant: markdown
 ---
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcL_tISJYz2ZRdRIdj-_6nERgNwVIJ7VJDWC9ibC6caOKKkG_ZOSm_I73Sf6Em_hx69GxTOW289504LeYeZxVqzynNCv8LrS0682hqGXBunrm1eodXP91Z42UxuziPZfnAp8Fyvxwn2ERLFEq1cFe0zyyN76XWfzknsA64OopCWi20JCE1AsOM?key=S5886BJ85TqlgpkF19UzWg)
+
 **Description** <br>
 Choir CCA offers students the opportunity to sing different kinds of music. Students get to be around others who share their interest in music.&nbsp;
 
@@ -18,6 +20,9 @@ Students will discover how to listen carefully and they will be able to monitor 
 Students are able to work on their ear and social skills. Performance anxiety will also be reduced by singing with a group.
 
 **Highlights / Achievements** <br>
+Singapore International Choral Festival 2024<br>
+_Silver_
+
 Singapore Youth Festival 2023<br>
 _Commendation_
 

@@ -10,86 +10,89 @@ variant: markdown
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
-Being the choir president has presented me with many opportunities to go past my limits and continue to improve myself. For example, allowing myself to conquer my fear of speaking in front of crowds, through having to lead the choir during warmups and giving debrief at the end of the training. I have also gained much confidence through the process.  
-      
-Resilience and teamwork are some of the useful skills that I have grasped by being in this CCA. During choir sessions, when our vocal coach gives us constructive criticism on how to improve, I would take his suggestions and put them in mind, and consequently practise during my free time. This is an element of resilience, never giving up no matter what and to keep trying.  
-    
-      
-It is also important to have teamwork as all members will need to know when they have to sing a certain part, and everyone has to know they are in it together. If one person decides to give up halfway, the entire performance would not be ideal. Teamwork also ensures that work gets work done more efficiently and consistently. I am really happy to see the choir coming together and harmonize.
-      
-**_Shernice Chan  
-Year 4 Eisenhower, President, 2023_**
+Being part of the choir has been an incredibly rewarding journey. Participating in competitions taught me the level of dedication and hard work required to excel, while performing at a hospital for the elderly was a particularly memorable experience. It was fulfilling to connect with and uplift others through our music. Serving as choir president also came with responsibilities that significantly contributed to my personal growth. Leading warm-ups and delivering debriefs helped me develop my public speaking skills, and managing the group during rehearsals, like ensuring everyone stayed focused, strengthened my leadership and organizational abilities. Though initially daunting, these tasks ultimately boosted my confidence in addressing large groups and keeping the team on track.
+
+The teamwork and camaraderie within the choir were equally important. Bonding through fun games during trainings helped us build strong relationships, which proved essential during times of intense preparation. In a recent competition, our collective effort led to notable improvements, showing the power of working together. Overall, my time in the choir has not only helped me grow as a leader but has also strengthened my skills in resilience, teamwork, and communication, while providing lasting friendships and cherished memories.
+
+**_Sim En Qi Mabel<br>
+Year 3 Edison, President, 2024_**
 
 ![](/images/band-1.png)
 <h5>Concert Band</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
     
-I have learnt many skills from being in the Concert Band. These skills include playing a new instrument and having a deeper understanding of music.  
+Being part of the Concert Band CCA has been a rewarding experience both musically and personally. The band has provided me with the opportunity to learn new instruments and deepen my appreciation for music. The discipline required for consistent practice has taught me values like perseverance and patience.
+
+Additionally, the friendships I've formed with fellow band members have made rehearsals more enjoyable, and collaborating to perfect performances has strengthened our teamwork. I've learned to step out of my comfort zone and perform with confidence, which has positively impacted other areas of my life as well. Overall, my time in the band has been unforgettable, and I am eager to continue pursuing music in the future.
   
-Being in the Band has taught me important values like responsibility and teamwork as I would not be able to play a nice piece of music without other members of the band. I have also learnt to be confident, especially when performing.  
-I have definitely enjoyed making new friends in the Band. The teachers and conductors are very patient and friendly. The people in Band definitely help to make each practice fun and enjoyable. I would most definitely consider joining a band again in the future or even pursue my passion for music and learn music at a higher level.  
-  
-_**Jin Zixuan, David  <br>
-Year 3 Eliot, Member, 2020**_
+_**Tan Raphael Rhys Reynaldo<br>
+Year 3 Euler, President, 2024**_
 
 ![](/images/drama-1.png)
 <h5>ELDDS</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
     
-Having been in this CCA for 4 years, I can guarantee that ELDDS is a CCA which allows you to develop skills that will benefit you in future. Not only does it build your confidence, it also trains you to be an efficient, disciplined and adaptable team player.
+Being in ELDDS since Sec 1 has been an enriching experience. It has allowed me to attend and be a part of many performances over the years, such as watching the ‘I And You’ play by Lauren Gunderson at Gateway Theatre, performing in the Singapore Youth Festival (SYF) and participating in the school’s annual National Day celebration.
 
-Through this CCA, you will learn the art of acting and being a character other than yourself, which trains you to step out of your comfort zone and experience new things. The constant feeling of novelty keeps members on their toes, making ELDDS an enjoyable CCA, especially for those who love the thrill and excitement.
+What I love the most about ELDDS is that it provides members with the opportunity to for creative expression and collaboration. I also get to participate in games that train me in important theatrical skills, as well as foster camaraderie among my peers. Through ELDDS, I have developed various competencies, such as public speaking, leadership skills, and empathy. As a whole, ELDDS has helped me to improve my intrapersonal and interpersonal skills, as well as allow me to experience and appreciate the beauty of theatre, which has helped me to shape who I am today.
 
-Many of our CCA members have grown to become confident and responsible leaders. With ELDDS, you will definitely be able to develop skills and inculcate values that prepares you for the future! 
-
-_**Sherylene Siew  
-Year 4 Eliot, President, 2022**_
+_**Yap Kah Heng (Ye Jiaheng)<br>
+Year 4 Eliot, Vice-Chairperson (Welfare), 2024**_
 
 ![](/images/festive%20drums-1.png)
 <h5>Festive Drums</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
     
-I joined Festive Drums without much knowledge but as time passed, my interest for this CCA grew stronger as I started to enjoy every moment, realising it was alright to make mistakes so long as I learnt from them and improved. This love for drumming grew in me while I gained more experience on my drumming journey. Every second has been precious and enjoyable and whenever CCA sessions come to an end, I am always looking forward to the next session.  
+Before joining Festive Drums, I had no knowledge of this CCA at all. However as the years passed, I grew a deep fondness for this CCA and enjoyed every single moment of this CCA. Festive Drums helped me meet new friends and experiment with new things. 
+
+Throughout the three years in this CCA, I have learned to appreciate the time I spent with this CCA, with my peers and juniors. I have learned many values like teamwork and perseverance, which are life long values and will remain rooted in me for a long time. 
+
+Performing in front of a big audience not only in school but also at outside venues made me step out of my comfort zone and face my fears. From our first performance to our last, I felt that all members have actually grown emotionally, from being anxious and worried to being confident and excited. I look forward to making more memories with all my peers!
   
-I enjoy every moment I with my juniors and seniors and am really glad that they are a part of my journey. I really appreciate that I was given a chance to lead. It helped me grow further, not just in terms of values but also in terms of the ability to bond with my CCA members more.  
-  
-I do not regret selecting Festive Drums as one of my choices. This CCA has taught me teamwork, perseverance, responsibility and many other values. Over time, drumming has turned into a passion for me and it has never stopped growing. Our instructor is also always looking out for us, giving us feedback and helping us in many ways like teaching us different tactics in memorizing scores and refining the way we hold our drum sticks.  
-  
-Every performance is precious to me as we have watched each other grow from being anxious before the performance to developing confidence and achieving the sense of satisfaction after each performance. We have built a passionate team with strong synchronization and I’m really glad to be in this CCA.  
-  
-**_Daseryn Lui <br>
-Year 3 Einstein, Member, 2020_**
+**_Goh En Yu Kayla<br>
+Year 3 Eliot, Vice-Chairperson, 2024_**
 
 ![](/images/guzheng-1.png)
 <h5>Guzheng</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
-        
-Guzheng CCA taught me how to express my emotion through music. Each piece of music has its own background story. By playing the Guzheng in different pitches and tones, it allows me to express different emotions and to communicate with the audience through music.  
-      
-Being a member of Guzheng CCA has given me an opportunity to learn more about teamwork. It requires all members to work together, listen to different sections in order to give our best performance to the audience. This value has had helped me in various school projects as I know the importance of working with my teammates.  
-      
-I really enjoy the moments when all the sections of the CCA are able to synchronise and create beautiful melodies. I treasure the opportunity to be the Vice President of the Guzheng CCA. It is therefore my responsibility to care for other members and it has helped me to become a better leader.  
-      
-**_Ng Wenyu <br>
-Year 3 Eliot, Vice President, 2020_**
+
+As the president of the Guzheng Ensemble my journey has been both rewarding and enriching. Leading a group of talented guzheng players has provided me with invaluable lessons in leadership, teamwork, and resilience. One of the most fulfilling aspects of this role has been witnessing our members’ growth, not only in their musical skills but also in their confidence to perform before an audience.
+
+This leadership experience has also underscored the importance of discipline and time management. Balancing my academic responsibilities with CCA commitments has taught me to prioritise tasks and stay organised. Through this, I have gained a deeper appreciation for hard work and perseverance, as our consistent efforts led to improved performances and a stronger sense of unity within the team.
+
+The most memorable moments have been performing together, especially during major events like our annual Open House. The harmony we create as a team reflects not only our musical abilities but also the strong bond we’ve formed over time. As President, I am proud of how far we’ve come and look forward to seeing the continued success of our Guzheng Ensemble in the future.
+
+**_Keryn Chua Yun Jia<br>
+Year 3 Eisenhower, President, 2024_**
+
+As the vice president of the Guzheng Ensemble, our journey has been one of growth, learning, and a deepening connection to music. Together, we’ve faced challenges—from mastering difficult pieces to balancing schoolwork with practice—but each obstacle has only strengthened our bond.
+
+Performing at various events, both within school and beyond, has been incredibly rewarding. Each performance reflects hours of dedication, teamwork, and the excitement of bringing beautiful music to life. Along this journey, we’ve grown not just as musicians but as a cohesive team, supporting each other through both successes and setbacks.
+
+Our experience isn’t just about mastering the Guzheng; it’s about sharing our passion for music with others and learning valuable lessons in leadership, discipline, and collaboration. The friendships we’ve built and the skills we’ve gained make this journey truly unforgettable, and we look forward to continuing to grow together.
+
+_**Lee Xuan Nuo, Gwen<br>
+Year 3 Einstein, Vice-President, 2024**_
 
 ![](/images/harmonica-1.png)
 <h5>Harmonica</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
-Joining the Harmonica CCA has helped me learn how to read number scores. Prior to joining the CCA, I could only read the 6 line music scores. I can now read number scores easily. This is an important skill that I can bring with me after secondary school.  
+Ever since we joined the Harmonica CCA, we have learnt how to play a new instrument and appreciated the diverse genres of music. From rousing pop music to melodious classical tunes, we take delight in the joyous performances of these beautiful music pieces with every member of the band.&nbsp;Even if one does not have any musical background, it is not too hard to master the harmonica!&nbsp;
+
+Being CCA leaders has also taught us many valuable lessons. From leading the juniors, especially at areas they are struggling with, to inspiring teamwork in the band, not only do we hone our leadership skills, we are also humbled&nbsp;by what we can learn from other members. In our growth&nbsp;and development as a leader, we have grown to be confident and empathetic, becoming better versions of ourselves.&nbsp; Beyond the CCA, the&nbsp;values of resilience and perseverance are also applied in our classroom learning, helping us stay focused on our goals and improving our performances.&nbsp;
+
+Through the many practices and performances, we have created deeper bonds within the band as we encourage and support one another along this journey of music making. Harmonica CCA has certainly brought us closer together despite our diverse backgrounds and personalities, helping us to better appreciate the beauty in diversity.
   
-I have learnt values such as responsibility and patience from this being in the harmonica band. I have to take responsibility for learning new songs so that I am able to play the songs during performances. I have also learnt to be patient when teaching my juniors and members in my section when learning new songs. I enjoy learning to play songs as it is very fun to be able to play a song together with the whole band! I think that performing as a band is the most enjoyable thing to do in the CCA.  
-  
-The skills and values I learn in the CCA will definitely be applicable to my tertiary education and maybe even the workforce. I would have to be responsible in my work and be able to collaborate well with my future colleagues.  
-  
-**_Nur Khairunnisa Binte Mohamed Khir <br>
-Year 3 Euclid, President, 2020_**
+**_Xavier Loh Yuan Cheng,<br>
+Year 3 Emerson, President, 2024_**
+<br>and **_Megan Low Mei Chen,<br>
+Year 3 Euclid, Vice-President, 2024_**
 
 ![](/images/modern%20dance-1.png)
 <h5>Modern Dance</h5>

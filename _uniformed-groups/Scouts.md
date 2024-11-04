@@ -2,13 +2,30 @@
 title: Scouts
 permalink: /experience/cca/uniformed-groups/scouts/
 description: ""
+variant: markdown
 ---
 ![](/images/2015-CCA-BOYSCOUTS.jpg)
 
 **Description** <br>
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society. Scouts get the chance to engage in outdoor activities and be active in nature as they pick up new skills and develop attitudes through active participation in the activities with their Patrol. Scouts also get to learn progressively by attaining exciting badges, all with the support from adult leaders.
 
-**Highlights / Achievements** 
+**Highlights / Achievements** <br><br>
+**2024**<br>
+Baden- Powell Award 2024 - _Pinnacle Award for Rover Scout Section_<br>
+_Goh Kah Meng (Class of 2014)_
+
+Chief Commissioner's Award 2024 - _Pinnacle Award for Scout Section_
+| Name | Class |
+| -------- | -------- |
+| Wong Jian Wei| Year 4 Euler |
+| Alburo Gene Pablo Desuyo | Year 4 Emerson |
+|Ng Zung How | Year 4 Eisenhower |
+| Isaac Yong Chi Xuan | Year 4 Edison |
+| Jayden Lee Fung Jip | Year 4 Einstein |
+| Ku Yu Heng | Year 4 Einstein |
+| Teo Wen Jie Jayden | Year 4 Everest |
+| Teh Li Wei Christopher | Year 4 Edison |
+| Bharaath S/O Mohan Annamalai | Year 4 Edison |
 
 **2023**<br>
 Chief Commissioner's Award 2023<br>
@@ -94,14 +111,13 @@ _Silver_
 
 **Teachers in Charge** <br>
 Mr Darren Woo&nbsp;<br>
-Mr Muhammad 'Ammar Abdul Aziz&nbsp;<br>
-Mr Neo Jun Yang <br>
-Ms Chew-Lim Chai Hoon Yvonne
+Ms Chew-Lim Chai Hoon Yvonne<br>
+Ms Siti Azriah
 
 **Student Leaders** <br>
-Troop Leader: Lim Ju Yuan (3EC) <br>
-Troop 2IC: Mohammad Rayfan Ryqhal Bin Mohammad Rizal (3EC) <br>
-Quartermasters: Benson Saputra (3EL), Wee Sheng Yang (3ED), Heng Wee Meng Malcolm (3EV)  
+Troop Leader: Tristan Hoh Hon Ryui (3EM) <br>
+Troop 2IC: Loh Cheng Xi (3ES)<br>
+Quartermasters: Tan Yunze Ethan (3EC)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6pm <br>

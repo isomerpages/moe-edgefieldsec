@@ -21,19 +21,19 @@ Captain, Badminton, 2022-2023<br>
 <h5>Basketball</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).**
-    
-Basketball is a sport that requires not only physical presence but also mental tenacity in a player. After being in Edgefield Basketball for 3 years, I have grown to realise that Basketball is not just a game but a reflection of life on the hardwood court.  
-  
-Here in Edgefield Basketball, the teachers and coach work closely with all of us to ensure that we meet and achieve the different objectives set out for us. We learn about teamwork, communication, decision making, respect, self-discipline and tenacity.  
-  
-Being a Captain, I have learnt the value of responsibility and leadership. Through my teachers’ and coach’s advice, I have learnt to deal with difficult situations especially during competitions and have also learnt to manage my team’s motivation and attitude during training. I have learnt that I need to have a very good grasp of my time as it is divided between my academics and training.  
-  
-For the Girl’s Team, we beat many odds to reach the Top 4 in the Inter-Schools South Zone Basketball Tournament in 2019. While it was a pity this year’s competition was disrupted due to the pandemic, we have learnt not to give up and be adaptable. Instead, we have been focusing on training for next year’s competition where we know we can get back stronger, fitter and more prepared than ever.  
-  
-Being a part of the Edgefield Basketball team has allowed all of us to gain different life experiences that we can confidently bring forward to any aspect of our lives. People call basketball a sport but to all of us at Edgefield Basketball Team, it is our passion.  
-  
-_**Goh Jia Rui Ashley <br>
-Year 3 Elias, Captain, 2020**_
+
+Basketball has been a pivotal part of my life since I first played in primary school. Joining the school team as captain of the girls’ basketball team in secondary school was a significant step for me. It provided a platform to develop my skills, build friendships, and learn valuable life lessons.
+
+Practices were intense and often challenging, instilling discipline and perseverance in all of us, thanks to the support of my coach, teachers, and seniors. As captain, I focused not only on improving my own game but also on encouraging my teammates. Through countless drills and scrimmages, I honed my shooting, passing, and defensive strategies, gaining confidence with each session.
+
+One of the most memorable moments was our championship game in the 2023 C Division. The atmosphere was electric, with our seniors and the boys' basketball team cheering us on. Despite the pressure, I felt a deep sense of unity with my teammates, each of us focused on a common goal. The exhilaration of that game remains one of my proudest achievements. Even though we lost, making it to the finals demonstrated that our efforts paid off, but we still had room for improvement.
+
+Beyond the physical aspects of the game, basketball taught me about resilience. We faced many losses, but each defeat was an opportunity to learn and grow. The camaraderie I built with my teammates transformed into lasting friendships, creating a support system that extended beyond the court.
+
+My basketball experience in secondary school has shaped who I am today. It has taught me about leadership, teamwork, perseverance, and the joy of pursuing a passion. I am grateful for the memories and lessons learned, which I will carry with me long after my school days.
+
+_**Quek Lianne Caunca <br>
+Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 
 ![](/images/shooting-1.jpg)
 <h5>Shooting</h5>
@@ -53,11 +53,16 @@ _**Amelyn Chua Jia Li**
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/softball-girls).**
 
-“Softball is a wonderful sport which requires a lot of teamwork and communication. Physical training is required in order for us to be fit to play the sport. Sometimes, I have thoughts of giving up and doing my physical training halfheartedly, however, as the captain, I have to discipline myself and set the example for my team. Softball has taught me to always persevere and to push myself beyond my limits. The game of Softball is unpredictable and as my coach always says, “the ball is round” anything can happen during the match so we need to fight hard until the last moment. As a pitcher and captain, I have grown to be mentally tougher in this CCA. The thing I truly love about this CCA is the people. My CCA mates are like family. We always support each and every member of the team. We have this saying, “all for one, one for all”. The bond and connection between my teammates is essential in order to accomplish anything on the field. I am also very grateful for my coach and teachers-in-charge. They have given me a tremendous amount of advice which I will carry on throughout my life.”
+Softball is definitely a tough sport. As the captain of the team, I’ve learned that training under the hot sun can be challenging, testing our physical and mental limits. The game has many rules, and it takes time to get the hang of them, but once you do, it’s incredibly fun.
 
-_**Elenois Dwaine Salinas Siapno<br>
-Year 4 Everest, 2023<br>
-Captain, Softball, 2022-2023**_
+My teammates play a crucial role in this journey. Their support and camaraderie create an environment where we can push each other to improve. We celebrate our victories together and learn from our losses, fostering a strong team spirit.
+
+Throughout this experience, I’ve gained valuable life lessons. I’ve learned the importance of teamwork, discipline, and determination. There were times when I felt like giving up, but as the Captain of the CCA, I realised I needed to push through—not just for myself, but to set a positive example for my teammates.
+
+Being part of this team has not only enhanced my softball skills but also taught me about leadership and the value of hard work. I am proud to lead such an incredible group, and I look forward to what we can achieve together!
+
+_**Maheerah Binte Mohammed Zulkifli<br>
+Year 3 Euler, Captain, 2024**_
 <br>
 
 ![](/images/taekwondo-0.png)
@@ -79,13 +84,18 @@ Captain, Taekwondo, 2022-2023**_<br>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).**
 
-“Volleyball has helped me become&nbsp; mentally and physically stronger. Besides drills such as spiking, receiving, setting and service, we also cultivate values such as&nbsp; resilience, integrity, respect, sportsmanship and enthusiasm. Resilience will help us in being mentally tougher and not giving up easily. Integrity gives us the courage to own up and be honest. We respect our opponents by not being arrogant and this makes us develop sportsmanship. Whenever we lose a match, we learn from our mistakes and we find ways to improve together as a team.&nbsp;
+Volleyball is the single best sport for fostering holistic development, covering every dimension, from the physical aspects of explosive power, stamina, and reaction time, to the mental qualities of mindset, work ethic, and values.&nbsp;
 
-I enjoy volleyball as it is a team sport and it teaches us to work together. The skills I’ve learned have helped me to be fitter, more&nbsp; agile and focused in my PE lessons. The values that I picked up from Volleyball have certainly helped me value everyone in a team and appreciate their different strengths and skill levels. It takes everyone to make a TEAM in Volleyball!”
+My journey as part of Edgefield Secondary School's volleyball team has been instrumental in shaping who I am today. There are lessons that simply cannot be taught by pen and paper. Instead, these lessons have become ingrained in me through the invaluable experiences I've been through in this CCA.
 
-_**Caspian Tan Yen Feng<br>
-Year 2 Emerson, 2023<br>
-Lower Secondary Vice Captain, Volleyball, 2023**_<br>
+Volleyball has taught me that setbacks and losses are not failures, but stepping stones on the path to success. I’ve learned to stay focused, bounce back from mistakes, and maintain a positive attitude, even in the face of adversity. Through this sport, I’ve adopted unwavering self-discipline, which has extended beyond the court to my personal and academic life. Juggling both volleyball and my studies has demanded solid time management and high stress tolerance from me, which I am utterly grateful for.
+
+What stands out to me is the strength of teamwork. Volleyball has shown me that for a team to succeed, every member must contribute their best. This understanding has brought my teammates and me closer together. We uplift each other by encouraging one another to remain steadfast and determined both on and off the court, creating a positive cycle of growth and achievement.
+
+If you’re looking for a CCA that pushes your limits and fosters growth in every aspect of your life, come join us. Feel the energy as “EDGEFIELD! ACE! ACE! ACE!!” echoes throughout the school every Monday and Thursday!
+
+_**Achyut Pradhan<br>
+Year 3 Emerson, Captain, 2024**_
 
 ![](/images/wushu-1.png)
 <h5>Wushu</h5>
