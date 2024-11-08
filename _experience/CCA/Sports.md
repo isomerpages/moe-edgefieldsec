@@ -70,13 +70,12 @@ Year 3 Euler, Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
 
-"Taekwondo CCA has contributed to incredible growth not only to myself but to my team. Leading this team has been an honour and a privilege as I witness everyone’s continual dedication and growth. The National School Games competition was a testament to our team's hard work and preparation. We faced formidable opponents, but our team remained focused and displayed exceptional skills and techniques.
+The Taekwondo CCA equipped me with technical skills through experienced instructors, focusing on physical conditioning in a safe environment. Beyond sports, it taught discipline and resilience, preparing me for the National Team. Taekwondo empowered me with confidence and self-defense skills, enabling success in local and international competitions. It emphasized character development, discipline, respect, and self-control. The mental and physical strength gained continues to propel me towards new goals in both sports and life.
 
-I am immensely proud of every member of the team. Their unwavering commitment to training, resilience, and strong team spirit drove our success. Together, we pushed our limits and achieved remarkable results.I would like to thank the school for the support and encouragement in uplifting our team's spirits throughout the competition.”
-
-_**Chew Yee Jing<br>
-Year 4 Emerson, 2023<br>
-Captain, Taekwondo, 2022-2023**_<br>
+_**Tan Xin Jie Germaine<br>
+Year 1, 2024<br>
+Member of the Singapore Taekwondo National Team<br>
+Recipient of the ⁠2024 SSSC Best Sportsgirl Award (Taekwondo)**_<br>
 
 
 ![](/images/volleyball-1.png)
