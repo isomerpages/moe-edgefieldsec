@@ -70,13 +70,12 @@ Year 3 Euler, Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
 
-"Taekwondo CCA has contributed to incredible growth not only to myself but to my team. Leading this team has been an honour and a privilege as I witness everyone’s continual dedication and growth. The National School Games competition was a testament to our team's hard work and preparation. We faced formidable opponents, but our team remained focused and displayed exceptional skills and techniques.
+The Taekwondo CCA equipped me with technical skills through experienced instructors, focusing on physical conditioning in a safe environment. Beyond sports, it taught discipline and resilience, preparing me for the National Team. Taekwondo empowered me with confidence and self-defense skills, enabling success in local and international competitions. It emphasized character development, discipline, respect, and self-control. The mental and physical strength gained continues to propel me towards new goals in both sports and life.
 
-I am immensely proud of every member of the team. Their unwavering commitment to training, resilience, and strong team spirit drove our success. Together, we pushed our limits and achieved remarkable results.I would like to thank the school for the support and encouragement in uplifting our team's spirits throughout the competition.”
-
-_**Chew Yee Jing<br>
-Year 4 Emerson, 2023<br>
-Captain, Taekwondo, 2022-2023**_<br>
+_**Tan Xin Jie Germaine<br>
+Year 1, 2024<br>
+Member of the Singapore Taekwondo National Team<br>
+Recipient of the ⁠2024 SSSC Best Sportsgirl Award (Taekwondo)**_<br>
 
 
 ![](/images/volleyball-1.png)
@@ -102,11 +101,23 @@ Year 3 Emerson, Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).**
     
-Wushu teaches me important life skills that would really benefit me in the future. One of those skills is the ability to concentrate fully on the current thing that I'm doing. When learning a move or routine, I'll need to put all my attention to it so as to learn and remember the details of the moves and routines. Over the course of the CCA trainings every week, I am able to make it a habit to focus on the thing I'm doing, this helps me to deal with external distractions better. Wushu also inspires our imagination as we will have to choreograph the wushu performances that are put up during festivals. The need to think and combine different basic moves smoothly really improves our creativity.
+Wushu is a traditional Chinese martial art that requires athleticism, discipline, and perseverance. Wushu is not only about physical strength but also mental focus and flexibility. Through rigorous training, students learn unique combination of speed, power, and grace.<br><br>
+As a member of the Wushu Club, I have grown in various aspects — not only in my physical abilities but also in my character. Regular training has strengthened my stamina, agility, and coordination. The performances that we prepare for showcases our skills and build team spirit, as we support each other to perfect each movement.<br><br>
+As a captain of the Wushu CCA, it not only pushes myself to work harder but also motivates others to their success. Throughout competitions and performances, my passion for Wushu grew with the help of my teammates. Wushu help me find myself and friendships that have unbreakable bonds. Being the captain made me recognise and cherish everyone in the team.<br><br>
+One of the most rewarding aspects of being part of Wushu is the confidence I’ve developed. Mastering new routines and competing in showcases has taught me resilience and perseverance. I’ve learned to push past my limits and embrace challenges, knowing that every effort brings improvement. Wushu has become a journey of my personal growth, and each practice is an opportunity to learn and become a stronger, more disciplined version of myself.
 
-One value that I've learnt from wushu is patience. Improvement in your skills takes time and your skills wouldn't improve drastically overnight. Therefore, I need to be patient and continuously put in 100% effort in each session to make progress and continually improve. Moreover, Wushu has also taught me to be resilient and disciplined, so that I do not lose my courage in the face of difficulties and failures. These values ensure that when I face challenges in my academic studies (not being able to do well in certain subjects) or in my daily life, I do not give up easily and persevere. Beacuse of Wushu, I am able to have more patience towards my family and peers, thus I am able to remain calm when others are getting impatient, bringing less conflict between me and others. 
 
-Concentration is needed every time we carry out a task and with the skill to concentrate and focus well, we will be able to efficiently complete our task, in school or in the workforce. This allows us to perform better in the future. Moreover, the patience developed during the training will allow us to remain calm and collected even when we are unable to accomplish our goals right away. This then helps us to be more efficient since we do not leave difficult tasks aside. Lastly, we will be experiencing many challenges and setbacks in our life but with the development of resilience in Wushu, we will have the determination to strive through the difficult times and not be stopped by the challenges, continuing to work hard towards our goal. 
+_**Yew Yu Theng<br>
+Year 3 Einstein, Captain, 2024**_
+<br>
 
-_**Cai Xinyan  
-Year 4 Edison, Captain, 2022**_
+Wushu, often described as a modern form of traditional Chinese martial arts, is a sport that emphasizes fluid and dynamic movement, combining physical prowess, discipline, and artistic expression. It includes a variety of forms and weapons routines, requiring practitioners to master agility, flexibility, power, and balance. Wushu routines are carefully choreographed, blending elements of combat techniques with an emphasis on performance and aesthetics.
+
+As a vice captain of the Wushu CCA (Co-Curricular Activity), I've had the privilege of growing and developing alongside a dedicated team of athletes. One of my most rewarding experiences has been leading training sessions, where I've learned to motivate and inspire my teammates, fostering a sense of unity and shared purpose. Helping to organize events, like school performances such as Open house and Chinese New Year performances or National School Games competitions, it has also taught me invaluable lessons about teamwork, planning, and the importance of clear communication.
+
+Through this role, I have grown significantly in both my personal and leadership capacities. Managing the responsibilities of vice captain has pushed me to be more confident and decisive, and I've developed a stronger sense of accountability—not just for my own progress but also for the team's well-being. I've also learned how to balance the demands of training with academic commitments, developing resilience and effective time management.
+
+The skills I've honed in Wushu include discipline, as mastering intricate routines requires consistent practice and focus. My physical abilities, like strength and flexibility, have also improved through rigorous training. Perhaps most importantly, I've gained a deeper appreciation for the values of perseverance and humility. In Wushu, there's always room to improve, which keeps me striving for excellence while remaining open to learning from others.
+
+_**Luong Kah Sheng, James<br>
+Year 3 Euclid, Vice-Captain, 2024**_
