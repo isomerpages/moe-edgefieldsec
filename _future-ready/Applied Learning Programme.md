@@ -23,7 +23,7 @@ World Economic Forum, and Institute of Policy Studies (Singapore).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Capture.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_3.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_4.png">
 </div>
 <h3>Future Ready Programme&nbsp;</h3>
 <p>An earthquake hits. Mayhem breaks out. There is news of missing people
@@ -79,12 +79,14 @@ learning journey, draw inspiration, and use the Content Creator and Game
 Design modules to produce engaging videos and exciting games. Bring it
 all together in a fundraising campaign that raises awareness and generates
 support for the visually impaired!</p>
-<p></p>
 <p>G.E.M culminates in ARTasFEST, a milestone carnival attracting more than
 5000 participants! Design your own Escape Room, collaborate with entrepreneurs,
 run your own pop-up store, concoct your favourite drinks, host Instagram
 marketing campaigns, acquire deep learning and then find yourself suffering
 from ARTasFEST withdrawal symptoms!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_6.png">
+</div>
 <p>View the action here:
 <br><a href="https://youtu.be/tK1GxvZ14TQ" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/tK1GxvZ14TQ</a> 
 <br><a href="https://youtu.be/kCtQEuBYv58" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/kCtQEuBYv58</a>
