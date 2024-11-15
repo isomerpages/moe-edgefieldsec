@@ -16,6 +16,12 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
+        - title: Open House Website
+          description: ""
+          url: https://openhouse.edgefield.edu.sg/
+        - title: Open House Activities
+          description: on 16 Nov 2024(9am-1pm)
+          url: https://www.instagram.com/p/DCTCYXBBHog/?igsh=MWw5ajVvb3Z6eW8zZg==
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
