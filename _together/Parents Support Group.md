@@ -2,9 +2,9 @@
 title: Parents Support Group
 permalink: /together/parents-support-group/
 description: ""
+variant: markdown
 ---
-<img src="/images/image2.jpg" 
-    style="width:70%">
+
 
 As parents, we play an important role in our children’s development and to optimize their potential. 
 
@@ -36,24 +36,28 @@ Dear Parents,
 
 A warm welcome to Edgefield Secondary School!  
 
-EFSS PSG started out in 2014 when the school first took its baby steps to become what it is today. <br> We strongly believe that parents' involvement in their child's growing years by building a strong parent-child relationship, is a significant factor in a child's emotional and cognitive development.
+Edgefield Secondary School’s Parent Support Group was established with the aim of supporting both parents and students at EFSS. Our tagline, "Connecting Hearts,
+Empowering Futures," reflects our commitment to fostering meaningful connections and empowering the future of our school community.
 
 Here is a look at how the PSG partners with the school:
 
 1) Organise talks on various parenting issues,
-2) Participate in bonding activities for our children,
-3) Organise festive activities in school to create more awareness on the different cultures and their importance,
-4) Participate in other school initiatives and/or collaborations.
+2) Participates in bonding activities for our children,
+3) Hosts festive activities to raise awareness of different cultures and their significance,
+4) Engages in other school initiatives and/or collaborations.
 
-We welcome you and/or your spouse to join our PSG family and volunteer your time and expertise!
+We warmly invite you and your spouse to join our PSG family! Experience the fun, connect with fellow parents and your child, and share your time and expertise through volunteering.
 
 Looking forward to another great year with the PSG community!
+
+EFSS PSG Executive Committee
+
 	
 ----
 
 ### JOIN US NOW!
 
-Please **click the image below**, or fill up the form [here.](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)
+Please&nbsp;**click the image below**, or fill up the form&nbsp;[here.](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)
 	
 <p><a href="[https://form.gov.sg/61e8cc0b3d1dc50013b43fc3](https://form.gov.sg/61e8cc0b3d1dc50013b43fc3)"><img style="width:25%" src="/images/Icon.jpg"></a></p>
 
