@@ -10,9 +10,6 @@ sections:
       background: /images/Website_Banner.gif
       url: /contact-us
       key_highlights:
-        - title: Full Subject-Based Banding (Full SBB) offered
-          description: ""
-          url: /experience/full-subject-based-banding-full-sbb
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
@@ -20,8 +17,20 @@ sections:
           description: ""
           url: https://openhouse.edgefield.edu.sg/
         - title: Open House Activities
-          description: on 16 Nov 2024(9am-1pm)
+          description: on 16 Nov 2024 (9am - 1pm)
           url: https://www.instagram.com/p/DCTCYXBBHog/?igsh=MWw5ajVvb3Z6eW8zZg==
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Temporary Closure on 20 November 2024
+          date: 20 November 2024
+          announcement: The school will be having scheduled power shutdown from 1.30pm
+            onwards on 20 November 2024. Normal operations will resume on 21
+            November 2024.   If there are any queries, please email us at
+            edgefield_ss@moe.edu.sg. Thank you.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
