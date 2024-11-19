@@ -4,10 +4,7 @@ title: Edgefield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: The school will be having scheduled power shutdown from 1.30pm
-  onwards on 20 November 2024. Normal operations will resume on 21 November
-  2024. If there are any queries, please email at edgefield_ss@moe.edu.sg. Thank
-  you.
+notification: ""
 sections:
   - hero:
       background: /images/Website_Banner.gif
