@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Full Subject-Based Banding (FULL SBB) Offered
           description: ""
-          url: ""
+          url: /experience/full-subject-based-banding-full-sbb/
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
