@@ -80,7 +80,7 @@ in Schools Programme (HMSP) guidelines.</p>
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2__Canteen_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">EFSS Canteen Stall Application Form</a>
+<p><a href="/files/2__Canteen_Stall_Application_Form__1_.pdf" rel="noopener nofollow" target="_blank">EFSS Canteen Stall Application Form</a>
 </p>
 </li>
 </ul>
