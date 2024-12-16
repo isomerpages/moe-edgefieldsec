@@ -22,17 +22,6 @@ sections:
         - title: Open House Activities
           description: on 16 Nov 2024 (9am - 1pm)
           url: https://www.instagram.com/p/DCTCYXBBHog/?igsh=MWw5ajVvb3Z6eW8zZg==
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: School Canteen Stall Opening
-          date: 02 December 2024
-          announcement: We are taking applications for a Beverages, Cut Fruits and Snacks
-            stall for our School Canteen. Interested applicants may click the
-            link below for requirements & details.
-          link_text: Learn More
-          link_url: /school-canteen-advertisement/
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
