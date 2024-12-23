@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Useful Links
 variant: tiptap
 ---
-<p><a href="/files/2024_EFSS_Calendar__Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar 2024</a>
-</p>
-<p><strong>[New]</strong>  <a href="/files/CCA_Schedule_Nov___Dec_2024.pdf" rel="noopener nofollow" target="_blank">Nov/Dec CCA Schedule 2024</a>
-</p>
-<p><a href="/files/CCA_teachers_and_schedule_2024_5_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers &amp; Schedule 2024</a>
-</p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guide</a>
