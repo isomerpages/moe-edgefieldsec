@@ -25,7 +25,7 @@ sections:
       announcement_items:
         - title: Secondary 1 Registration 2025
           date: 18 December 2024
-          announcement: Registration for Edgefield Secondary School's Secondary 1 2025
+          announcement: Registrations for Edgefield Secondary School's Secondary 1 2025
             Cohort are now open. Click the link below to register.
           link_text: Registration for Secondary 1 2025 Cohort >>>
           link_url: https://sec1reg.edgefield.edu.sg/getting-started
