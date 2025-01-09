@@ -16,18 +16,15 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-        - title: Open House Website
-          description: ""
-          url: https://openhouse.edgefield.edu.sg/
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Secondary 1 Registration 2025
-          date: 18 December 2024
-          announcement: Registrations for Edgefield Secondary School's Secondary 1 2025
-            Cohort are now open. Click the link below to register.
-          link_text: Registration for Secondary 1 2025 Cohort >>>
+        - title: GCE O-Level Results
+          date: 10 January 2025
+          announcement: Release of GCE O-Level Results - 10 Jan 2025 (Friday). Click the
+            link below to know more.
+          link_text: GCE O-Level Results >>>
           link_url: https://sec1reg.edgefield.edu.sg/getting-started
   - infopic:
       title: EDGEFIELD
