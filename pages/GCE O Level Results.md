@@ -38,7 +38,3 @@ from the school.&nbsp;Proxies are required to produce the relevant documents
 school for the O-Level result release day.</p>
 <p>
 <br>&nbsp;We wish you all the best for your O-Level&nbsp;results.</p>
-<p></p>
-<p>Thank you!</p>
-<p>Regards</p>
-<p>Sio Ling</p>
