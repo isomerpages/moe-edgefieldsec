@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Useful Links
 variant: tiptap
 ---
+<p><a href="/files/Term_1_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 1 School Calendar</a>
+</p>
 <p><a href="https://staging.d3jwf1tlw34213.amplifyapp.com/together/parents-support-group" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group (PSG)</a>
 </p>
 <p><a href="https://parents.edgefield.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Parents Portal</a>
