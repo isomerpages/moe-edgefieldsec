@@ -27,7 +27,10 @@ no long hair (for boys). Boys to be clean shaven.</p>
 certificates. For those who are unable to collect your results and/or certificates
 in person, you may appoint a proxy to collect these documents on your behalf
 from the school.&nbsp;Proxies are required to produce the relevant documents
-(proxy form and NRIC) for the school’s verification when collecting the&nbsp;results.<strong>&nbsp;Please use the below link to download the form which needs to be filled in and brought along by proxies.&nbsp;</strong>
+(proxy form and NRIC) for the school’s verification when collecting the&nbsp;results.<strong>&nbsp;Please </strong>
+<a href="/files/proxy_form_updated.pdf" rel="noopener nofollow" target="_blank">use this link</a><strong> to download the form which needs to be filled in and brought along by proxies.&nbsp;</strong>
+</p>
+<p>
 <br>
 <br>Up to 2 parents/family members/relatives per student can be allowed in
 school for the O-Level result release day.</p>
