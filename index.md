@@ -25,7 +25,7 @@ sections:
           announcement: Release of GCE O-Level Results - 10 Jan 2025 (Friday). Click the
             link below to know more.
           link_text: GCE O-Level Results >>>
-          link_url: https://sec1reg.edgefield.edu.sg/getting-started
+          link_url: https://edgefieldsec.moe.edu.sg/gce-o-level-results/
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
