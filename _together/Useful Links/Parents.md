@@ -7,6 +7,12 @@ variant: tiptap
 ---
 <p><a href="/files/Term_1_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 1 School Calendar</a>
 </p>
+<p><strong>Teachers Contact List 2025</strong>
+</p>
+<p><a href="/files/Teacher_Contact_List_2025___Year_1_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> |
+<a href="/files/Teacher_Contact_List_2025___Year_2_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a>| <a href="/files/Teacher_Contact_List_2025___Year_3_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> |
+<a href="/files/Teacher_Contact_List_2025___Year_4_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 4</a>| <a href="/files/Teacher_Contact_List_2025___Year_5_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5</a>
+</p>
 <p><a href="https://staging.d3jwf1tlw34213.amplifyapp.com/together/parents-support-group" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group (PSG)</a>
 </p>
 <p><a href="https://parents.edgefield.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Parents Portal</a>
