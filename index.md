@@ -16,16 +16,6 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: GCE O-Level Results
-          date: 10 January 2025
-          announcement: Release of GCE O-Level Results - 10 Jan 2025 (Friday). Click the
-            link below to know more.
-          link_text: GCE O-Level Results >>>
-          link_url: https://edgefieldsec.moe.edu.sg/gce-o-level-results/
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
