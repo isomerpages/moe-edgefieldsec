@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p><a href="/files/Term_1_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 1 School Calendar</a>
 </p>
-<p>Teachers Contact List 2025</p>
-<p><a href="/files/Teacher_Contact_List_2025___Year_1_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> |
+<p><strong>Teachers Contact List 2025</strong>
+</p>
+<p> <a href="/files/Teacher_Contact_List_2025___Year_1_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> |
 <a href="/files/Teacher_Contact_List_2025___Year_2_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a>| <a href="/files/Teacher_Contact_List_2025___Year_3_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> |
 <a href="/files/Teacher_Contact_List_2025___Year_4_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 4</a>| <a href="/files/Teacher_Contact_List_2025___Year_5_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5</a>
 </p>
