@@ -19,8 +19,7 @@ variant: tiptap
 </p>
 <p><a href="/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">1:1 iPad Learning Environment Handbook</a>
 </p>
-<p><a href="/files/MDM%20Guide%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Device Management (MDM) Guide for Sec4&amp;5 Parents</a> 
-<br>(DMA guide for Y1, Y2 &amp; Y3 Parents had been shared via Edgefield Email)</p>
+<p></p>
 <p><strong>Cyberwellness</strong>
 </p>
 <ul data-tight="true" class="tight">
