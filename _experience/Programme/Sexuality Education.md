@@ -562,7 +562,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -642,7 +642,7 @@ values-based viewpoints (e.g: respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
