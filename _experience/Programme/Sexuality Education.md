@@ -720,12 +720,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable&nbsp;<a href="https://drive.google.com/file/d/1LPYgNqXTe7Tv3xWJ0d_fwj-Ew22gMJ1p/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 26/01/2024.</p>
+The completed form is to be submitted by 26/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable&nbsp;<a href="https://drive.google.com/file/d/1LPYgNqXTe7Tv3xWJ0d_fwj-Ew22gMJ1p/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 26/01/2024.</p>
+The completed form is to be submitted by 26/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school by email
 at <a href="mailto:edgefield_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">edgefield_ss@moe.edu.sg</a>.
 You may also call the General Office at +65 6883 9511 for discussion or
