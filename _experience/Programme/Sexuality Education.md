@@ -42,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of Edgefield Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Edgefield Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
@@ -81,7 +81,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
 <hr>
-<h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</strong></h4>
+<h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -660,7 +660,7 @@ as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family. Abstinence and upholding family
 values are the key messages.</p>
-<h4><strong>At Edgefield Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong></h4>
+<h4><strong>At Edgefield Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
