@@ -24,7 +24,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Ram Dharmara</span><br>Chairperson</td>
+    <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Ram Dharmaraj</span><br>Chairperson</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Jayren Teo</span><br>Deputy Chairperson</td>
     <td class="tg-0lax"><span style="font-weight:600;color:#484848">Mr Simon Foo Jung Hin</span><br>Honorary Secretary</td>
   </tr>
