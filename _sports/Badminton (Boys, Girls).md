@@ -271,43 +271,11 @@ place in July annually.
 </table>
 <p><strong>2024 JKTech-KSA Challenge</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;U17Boy's</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Doubles Jayden Lim (Runner Up)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>East Badminton Academy 2023</strong> 
+<p>&nbsp;U17Boy's Doubles Jayden Lim (Runner Up)</p>
+<p><strong>East Badminton Academy 2023</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>U15 Boy's Doubles</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Jayden Lim (Runner Up)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Pesta Sukan 2023</strong> 
+<p>U15 Boy's Doubles Jayden Lim (Runner Up)</p>
+<p><strong>Pesta Sukan 2023</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
