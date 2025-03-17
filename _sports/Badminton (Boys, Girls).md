@@ -277,31 +277,8 @@ place in July annually.
 <p>U15 Boy's Doubles Jayden Lim (Runner Up)</p>
 <p><strong>Pesta Sukan 2023</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>U17 Boy's Singles</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Keith Yeo (Rd of 16)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>U15 Girl's Singles</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Saphire Yap (Semi-Final)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>U17 Boy's Singles Keith Yeo (Rd of 16)</p>
+<p>U15 Girl's Singles Saphire Yap (Semi-Final)</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Chang Ching
 <br>Mr Patrick Yeo
