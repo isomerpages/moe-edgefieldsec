@@ -271,7 +271,9 @@ place in July annually.
 </table>
 <p><strong>2024 JKTech-KSA Challenge</strong>
 </p>
-<p>&nbsp;U17Boy's Doubles Jayden Lim (Runner Up)</p>
+<blockquote>
+<p>U17Boy's Doubles Jayden Lim (Runner Up)</p>
+</blockquote>
 <p><strong>East Badminton Academy 2023</strong>
 </p>
 <p>U15 Boy's Doubles Jayden Lim (Runner Up)</p>
