@@ -218,7 +218,7 @@ T-Test, vertical jump etc.; and</p>
 <p>Demonstrate specific Badminton skills such as</p>
 <ul>
 <li>
-<p>lob,</p>
+<p>lobbing,</p>
 </li>
 <li>
 <p>drop shots,</p>
@@ -227,7 +227,7 @@ T-Test, vertical jump etc.; and</p>
 <p>net shots,</p>
 </li>
 <li>
-<p>smash</p>
+<p>smashing</p>
 </li>
 </ul>
 </li>
