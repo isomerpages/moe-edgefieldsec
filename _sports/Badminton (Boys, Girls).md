@@ -27,7 +27,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0195_edited__1___1___1__min.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_B_Division_Girls_Singles.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
