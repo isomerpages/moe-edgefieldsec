@@ -202,7 +202,7 @@ place in July annually.
 <p>C Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Round 1</p>
+<p>Round One</p>
 </td>
 </tr>
 <tr>
