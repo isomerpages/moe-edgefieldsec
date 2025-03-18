@@ -98,7 +98,7 @@ place in July annually.
 <p>B Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zonal Top 4(2nd)</p>
+<p>Zonal Top 4 (2nd)</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ place in July annually.
 <p>C Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zonal Top 4 (4<sup>th</sup>)</p>
+<p>Zonal Top 4 (4th)</p>
 </td>
 </tr>
 </tbody>
