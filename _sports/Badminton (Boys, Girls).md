@@ -5,12 +5,17 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Sch_Website_2024__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_Badminton_Girls_2_Runner_Up.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0468.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Badminton.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Badminton.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -312,9 +317,9 @@ place in July annually.
 <br>Mr Chang Ching</p>
 <p><strong>Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time</strong> 
 <br>Wednesday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.30 – 6.00pm
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.30 – 6.15 pm
 <br>Friday&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 6.00pm</p>
+&nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 5.30 pm</p>
 <p>School Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split
 sessions by gender</p>
