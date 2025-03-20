@@ -283,7 +283,7 @@ place in July annually.
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>U17 Boy's Doubles Jayden Lim (Runner Up)</p>
+<p>U17 Boy's Doubles Jayden Lim (3rd Place)</p>
 </td>
 </tr>
 <tr>
