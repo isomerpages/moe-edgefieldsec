@@ -4,31 +4,15 @@ permalink: /edgefield/principals-message/
 description: ""
 variant: markdown
 ---
-Established in 2011, Edgefield Secondary School has embarked on an inspiring journey of
-growth and development in its commitment to providing a holistic education to its students.
-Under the dedicated leadership of Mr. Lee Peck Ping, who served as the principal from 2017 to
-2023, the school has consistently striven to deliver exceptional learning experiences tailored to
-meet the diverse needs of every Edgefield student. We express our heartfelt appreciation to
-Mr. Lee for his invaluable contributions and extend our warmest wishes for his continued
-success in his future endeavors.<br><br>
-I am truly honoured to have been entrusted with the stewardship of Edgefield Secondary
-School, a dynamic institution with an unwavering focus on preparing students for a rapidly
-evolving future. It is a privilege to build upon the legacy established by those who have
-wholeheartedly dedicated themselves to the school's growth.<br><br>
-Our vision "**Collaborative Innovators, Compassionate Leaders**" epitomises our commitment to
-nurturing students who are not only well-equipped with the skills and knowledge needed for
-future success but are also driven by compassion and empathy as they serve Singapore. Our
-mission "**Growing Minds, Glowing Hearts**" reflects our deep-seated ethos of developing self-
-directed learners who can adapt effectively to changing conditions. At Edgefield, we place a
-strong emphasis on cultivating Social-Emotional (SE) skills, which are vital for students' success
-in developing positive learning dispositions that will enable them to continually adapt and
-thrive in the future.<br><br>
-In our relentless pursuit of excellence, Edgefield will continue to leverage innovative pedagogy
-and digital technology to enhance learning. However, we understand that we cannot walk this
-path alone. We wholeheartedly invite our valued parents, partners, and stakeholders to join us
-in shaping the future of Edgefield Secondary School. Together, we will empower our students
-with the skills and values they need to become Future Ready Thinkers and Compassionate
-Leaders who are prepared to embrace the challenges and opportunities of tomorrow.
+At Edgefield Secondary School, we are a community built on care, trust, and a shared belief in the potential of every student. It is a privilege to lead a school that embraces learning beyond the classroom and fosters a nurturing environment for both minds and hearts.
+
+Our vision of ***Collaborative Innovators***, ***Compassionate Leaders*** continues to guide all that we do. We are committed to developing young individuals who are not only equipped with knowledge and skills but who also embody empathy and a sense of purpose in serving others.
+
+Through our mission of ***Growing Minds***, ***Glowing Hearts,*** we foster confident, self-directed learners with the courage to embrace challenges and the resilience to adapt in an ever-changing world. We also place great emphasis on building character and values, nurturing students who will thrive both in school and beyond.
+
+Edgefield is a place where every child is valued and supported to develop their fullest potential. This is made possible through the dedication of our caring teachers, the encouragement of families, and the strength of our partnerships with the community. Together, we create a safe and nurturing environment where students can discover their passions, grow their strengths, and contribute meaningfully to society.
+
+I warmly invite all parents and partners to continue this meaningful journey with us. With your trust and support, we will empower every Edgefielder to become a Collaborative Innovator and Compassionate Leader.
 
 Mr Simon Foo<br>
 Principal<br>
