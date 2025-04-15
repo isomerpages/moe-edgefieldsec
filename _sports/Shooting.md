@@ -25,8 +25,8 @@ _B Division Girls – 1st Position (Individual)_
 
 **Teachers in Charge** <br>
 Mr Winston Chew <br>
-Mdm Juliawaty Tje<br>
-Mdm Andi Khairulnnisa Mohd Yusof
+Mdm Andi Khairulnnisa Mohd Yusof<br>
+Mdm Toh Anggy
 
 **Student Leaders** <br>
 Captain: Vernise Lim En Rui (3EH)  
