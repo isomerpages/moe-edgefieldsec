@@ -29,10 +29,9 @@ Mdm Andi Khairulnnisa Mohd Yusof<br>
 Mdm Toh Anggy
 
 **Student Leaders** <br>
-Captain: Vernise Lim En Rui (3EH)  
-Vice-Captain: Chua Jen Lyn (3EL)
-Vice-Captain: Yeoh Lee Heng Ernest (3EM)
-CCA-PSL: Kara Ong Si Xuan (3EH)
+Captain: SENTHILKUMAR HARESH (3EU)<br>  Vice-Captain:  ALICIA TENG JIA MIN (3ES)<br>
+Vice-Captain:  KARA LIM YIXUAN (3ES)<br>
+CCA-PSL: NG HONG HAO LUCAS (3ED)
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;3.30 - 5.30pm <br>
