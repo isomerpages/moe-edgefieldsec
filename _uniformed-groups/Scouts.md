@@ -111,17 +111,16 @@ _Silver_
 
 **Teachers in Charge** <br>
 Mr Darren Woo&nbsp;<br>
-Ms Chew-Lim Chai Hoon Yvonne<br>
+Ms Nur Aisha <br>
 Ms Siti Azriah
 
 **Student Leaders** <br>
-Troop Leader: Tristan Hoh Hon Ryui (3EM) <br>
-Troop 2IC: Loh Cheng Xi (3ES)<br>
-Quartermasters: Tan Yunze Ethan (3EC)
+Troop Leader: Kayden Lim Cheng Kiat (3EV)  <br>
+Troop 2IC: Sim Ming Yen (3EU) <br>
+Quartermasters: Hafiy Hilman Bin Nasrul Hijaz (3EU)
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
-Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6pm <br>
-Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.30 - 5.30pm  
+Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.30 - 6.00pm  
   
 **Venue** <br>
 Scouts Den
