@@ -22,7 +22,7 @@ Soul Arts Festival 2018&nbsp;
 Singapore Youth Festival 2017 <br>
 _Accomplishment_&nbsp;&nbsp;
 
-**Officers** <br>
+**Student Leaders** <br>
 President: JOLYN TAN XIN LING 3EC &nbsp;<br>
 Vice President: PEH SU QING 3EL<br>
 
