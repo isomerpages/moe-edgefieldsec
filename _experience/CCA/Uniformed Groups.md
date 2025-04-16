@@ -18,7 +18,7 @@ I have learnt the importance of having discipline and compassionate leadership i
 _**Low Xin Ying, Amber<br>
 Year 4 Everest, Assistant Company Leader, 2023**_<br>
 
-![](/images/npcc-1.png)
+![](/images/mwp_highres.jpg)<br>
 <h5>NPCC (Sea)</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/npcc-sea).
