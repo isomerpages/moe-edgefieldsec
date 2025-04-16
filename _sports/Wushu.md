@@ -50,7 +50,6 @@ in school and beyond.</p>
 <p>The following students performed well in their respective events during
 the National School Games.</p>
 <p><strong><u>2024</u></strong>
-<br>
 <br>TERRICIA HON XIN YU 8.45 [1st International Sword]
 <br>TERRICIA HON XIN YU 8.41 [2nd International Spear]
 <br>PANG ER TAI 8.38 [1st International Nanquan]
@@ -80,13 +79,13 @@ the National School Games.</p>
 <br><em>B Division Boys (International Spear) - Aloysious See Cheng Wee, 3rd</em>
 </p>
 <p><strong>Teachers in Charge</strong> 
-<br>Mr Alan Teo BH
+<br>Mr Toh Siong Keong
 <br>Mdm Siti Zamzama'ah Parumah</p>
 <p><strong>Student Leaders</strong> 
 <br>Captain: ETHAN TAN YONG AN, 3 Euler
 <br>Vice-Captain: CHIA EN XUAN JOLYNNA, 3 Everest
-<br>Lower Sec Captain: YEW YU THENG (2ES)
-<br>Lower Sec Vice Captain: LUONG KAH SHENG JAMES (2EC)</p>
+<br>
+</p>
 <p><strong>Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time</strong> 
 <br>Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.45 - 6.15pm
