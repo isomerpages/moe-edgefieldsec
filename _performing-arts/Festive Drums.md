@@ -26,8 +26,8 @@ Opening Act for Singapore Lion Dance Competition 2018 <br><br>
 Chingay 2017
 
 **Student Leaders**  
-Chairperson - Ryan Chia (XIe Boshen), 3EL  
-Vice-Chairpersons - Goh En Yu Kayla, 3EL
+Chairperson - Karis Tee Ting En, 3EH  
+Vice-Chairpersons - Seah Zhi Ying, 3 EV
 
 **Teachers in Charge** <br> 
 Mr Alphonsus Liang <br>

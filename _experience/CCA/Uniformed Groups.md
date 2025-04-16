@@ -18,19 +18,19 @@ I have learnt the importance of having discipline and compassionate leadership i
 _**Low Xin Ying, Amber<br>
 Year 4 Everest, Assistant Company Leader, 2023**_<br>
 
-![](/images/npcc-1.png)
+![](/images/mwp_highres.jpg)<br>
 <h5>NPCC (Sea)</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/npcc-sea).
 
-NPCC has significantly enhanced my problem-solving skills by exposing me to real-world challenges, such as adapting to sudden plan changes and addressing emergencies, allowing me to quickly find effective solutions and maintain a positive mindset.
+My journey in NPCC (Sea) has equipped me with essential skills in leadership, time management, and project coordination. From leading the CSSP project to planning large-scale events like the National Day Observance Ceremony, I’ve learned to delegate tasks, plan ahead, and adapt to challenges—often while balancing heavy academic loads. These real-world experiences sharpened my ability to solve problems, lead with confidence, and work effectively under pressure.
 
-Through NPCC, I have learned the values of discipline, leadership, and service to the community. What I enjoy most is the camaraderie and the sense of accomplishment that comes from working together to overcome challenges and achieve our goals.
+NPCC has shaped my character by instilling resilience, integrity, service, and excellence. What I enjoy most is the camaraderie built through shared goals and the meaningful bonds formed with fellow cadets and leaders. Stepping out of my comfort zone—like leading school-wide events and guiding others—taught me to lead with compassion, take responsibility, and appreciate the power of teamwork.
 
-The skills and values I've gained from NPCC, such as effective time management, adaptability, and a strong sense of discipline, will be invaluable in my future endeavors, helping me to navigate challenges, prioritize tasks, and stay committed to my goals.
+The values and experiences I’ve gained through NPCC will stay with me well beyond my time in school. Whether it’s in higher education, future careers, or contributing to society, I know that the skills of adaptability, collaboration, and leadership will guide me. NPCC has given me more than just CCA memories—it has prepared me to be a confident, compassionate leader ready to face future challenges.
       
-_**Wong Jia Yee<br>
-Year 4 Einstein, Unit Chairperson, 2023**_
+_**Ng Jing Rui<br>
+Year 4 Euclid, Unit Chairperson, 2025**_
 
 ![](/images/ncdcc-1.png)
 <h5>NCDCC</h5>

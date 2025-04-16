@@ -23,23 +23,21 @@ _B Division Boys - Top 4 Finalist_<br>
 _C Division Boys - Top 3 (3rd Place)_
 
 **Teachers in Charge** <br>
-Ms Siow Ay Lian&nbsp;<br>
-Ms Tan Shi Jing Ayla
+Mrs Angella Khiu Overall IC<br>
+Mr Brennan Kwa 2IC<br>
+Ms Ayla Tan<br>
+
 
 **Student Leaders** <br>
 _Upper Secondary_<br>
-Captain: Achyut Pradhan (3EM)<br>
-Vice Captain: Tan Yan Feng Caspian (3EM)<br>
-Peer Support Leader: Tham Yu Hung Ryan (3EC)<br>
-Peer Support Leader: Lee Jia Hao Joshua (3EV)<br><br>
-_Lower Secondary_<br>
-Captain: Ng Kuan Jie Ethan (2EM)<br>
-Vice Captain: Kenneth Tan Jia Le (2EM)<br>
-Vice Captain: Yu Jiaheng Daylon (2EH)
+Captain: Ng Kuan Jie Ethan 3EM )<br>
+Vice Captain: Kenneth Tan Jia Le 3EM<br>
+Vice Captain: Yu Jiaheng Daylon 3EH
+
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
-Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.30 - 6.30pm <br>
-Thursday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6.30pm
+Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.30 - 6.15pm <br>
+Thursday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2.00 - 5.45pm
 
 **Venue** <br>
 Indoor Sports Hall (ISH)
