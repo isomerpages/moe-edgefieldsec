@@ -13,55 +13,41 @@ SPF-NPCC Badge 2025<br>
 Ng Jing Rui (4EC)<br>
 Yemima Putri Cheng (4ED)
 
-
+Unit Overall Proficiency Award (UOPA) 2024
+<br>
 SPF-NPCC Badge 2024<br>
 _Julian Lim (Lin Zhengyuan) (4ES)<br>
 Wong Jia Yee (4ES)<br>
 Faith Tang Sze Ya (4EC)<br><br>_
-
-SPF-NPCC Badge 2023<br>
-_Sivakumar Roshini Devi (4EU)_
-_Tay Zhi Cheng (4ED)_
-
-SPF-NPCC Badge 2022 <br>
-_Wong Yen Hin (4EH)_ <br>
-_Lim Shi Hong (4EU)_
-
-SPF- NPCC Badge 2021 <br>
-_Yong Min Ru Kriscilla (4EV)_
-
-SPF-NPCC Badge 2020 <br>
-_Chin Ngee An (4EL)_ <br>
-_Seow Khee Shean (4EU)_
-
-SPF-NPCC Badge 2019 <br>
-_Adam Khoo Junhao (4EV)_
-
-SPF- NPCC Badge 2017 <br>
-_Habeebullah (4EC)_<br><br>
-Unit Overall Proficiency Award (UOPA) 2024
-<br>
 Unit Overall Proficiency Award (UOPA) 2023<br>
 _Gold Award_<br>
-
+SPF-NPCC Badge 2023<br>
+_Sivakumar Roshini Devi (4EU)_
+_Tay Zhi Cheng (4ED)_<br><br>
 Unit Overall Proficiency Award (UOPA) 2022 <br>
 _Gold Award_
-
+SPF-NPCC Badge 2022 <br>
+_Wong Yen Hin (4EH)_ <br>
+_Lim Shi Hong (4EU)_ <br><br>
 Unit Overall Proficiency Award (UOPA) 2021 <br>
-_Gold Award_
-
+_Gold Award_<br>&lt;
+SPF- NPCC Badge 2021 <br>
+_Yong Min Ru Kriscilla (4EV)_<br><br>
+SPF-NPCC Badge 2020 <br>
+_Chin Ngee An (4EL)_ <br>
+_Seow Khee Shean (4EU)_<br><br>
 Unit Overall Proficiency Award (UOPA) 2019 <br>
 _Gold Award_
-
+SPF-NPCC Badge 2019 <br>
+_Adam Khoo Junhao (4EV)_<br><br>
 Unit Overall Proficiency Award (UOPA) 2018 <br>
-_Gold Award_
-
+_Gold Award_<br><br>
 Unit Overall Proficiency Award (UOPA) 2017 <br>
 _Gold Award_
-
+SPF- NPCC Badge 2017 <br>
+_Habeebullah (4EC)_<br><br>
 Unit Overall Proficiency Award (UOPA) 2016 <br>
-_Gold Award_
-
+_Gold Award_<br><br>
 Unit Overall Proficiency Award (UOPA) 2015 <br>
 _Bronze Award_
 
