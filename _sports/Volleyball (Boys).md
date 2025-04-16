@@ -30,14 +30,10 @@ Ms Ayla Tan<br>
 
 **Student Leaders** <br>
 _Upper Secondary_<br>
-Captain: Achyut Pradhan (3EM)<br>
-Vice Captain: Tan Yan Feng Caspian (3EM)<br>
-Peer Support Leader: Tham Yu Hung Ryan (3EC)<br>
-Peer Support Leader: Lee Jia Hao Joshua (3EV)<br><br>
-_Lower Secondary_<br>
-Captain: Ng Kuan Jie Ethan (2EM)<br>
-Vice Captain: Kenneth Tan Jia Le (2EM)<br>
-Vice Captain: Yu Jiaheng Daylon (2EH)
+Captain: Ng Kuan Jie Ethan 3EM )<br>
+Vice Captain: Kenneth Tan Jia Le 3EM<br>
+Vice Captain: Yu Jiaheng Daylon 3EH
+
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.30 - 6.15pm <br>
