@@ -40,11 +40,10 @@ Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
     
-During my four years in the Shooting CCA, the journey has been filled with numerous life lessons and values that have shaped who I am today. As Captain, this role has taught me the importance of giving appropriate commands and leading the team effectively.
+Shooting is undoubtedly a unique and exciting sport, challenging both our mentality and physical abilities as a sportsman. Through an abundance of eventful experiences in this CCA. I have formed numerous bonds with my teammates through our shared hardships and successes. As Captain, this role has helped me develop a disciplined and intuitive mindset, and taught me to lead my team with efficiency and harmony.
 
-The strong bonds formed with my CCA mates have made the experience exceptionally fulfilling and enjoyable. I am incredibly grateful to my coach, peers, and teachers for their unwavering support and guidance throughout my journey. Overall, my time in the Shooting CCA has been transformative, providing me with lifelong skills and memories that I will cherish forever.
-
-_**Amelyn Chua Jia Li**  
+Overall, my experience in Shooting CCA has given me an opportunity to discover a different skill set that transformed me to be who I am today, providing me with much cherished knowledge and memories.<br>
+_**Vernise Lim En Rui **  
 **Year 4 Edison, Captain, 2024**_
 
 
