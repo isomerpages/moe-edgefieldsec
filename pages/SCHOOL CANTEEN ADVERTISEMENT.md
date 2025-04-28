@@ -92,7 +92,8 @@ via email or to the School’s General</p>
 <p>Bus Number: 62 and 82 (5 mins walking distance)</p>
 </li>
 </ul>
-<p>Interested Applicants must meet the following criteria:</p>
+<p><strong>Interested Applicants must meet the following criteria:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder
