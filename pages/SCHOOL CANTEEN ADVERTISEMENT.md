@@ -41,12 +41,9 @@ description: ""
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>EFSS Canteen Stall Application Form EFSS Canteen Application Form.pdf</p>
-</li>
-</ul>
-<p>2. Attach the following documents together with the <a href="https://drive.google.com/file/d/1GJTnv_DU7cW87rOjgZ7MnnD5DCh7BcDL/view?usp=sharing" rel="noopener nofollow" target="_blank">Application Form</a>:</p>
+<p><a href="/files/canteen_stall_application_form.pdf" rel="noopener nofollow" target="_blank">EFSS Canteen Stall Application Form EFSS Canteen Application Form</a>
+</p>
+<p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
