@@ -63,7 +63,8 @@ sections:
       announcement_items:
         - title: Stall 5 Advertisement
           date: 30 April 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: Edgefield Secondary School is seeking dedicated and innovative
+            canteen vendors to join our vibrant school community!
+          link_text: Stall Advertisement
+          link_url: https://edgefieldsec.moe.edu.sg/school-canteen-advertisement/
 ---
