@@ -26,10 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
-<p>Economical</p>
-<p>Mixed Rice</p>
-<p>(Non-Halal)</p>
+<p>Chinese Economical Mixed Rice (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 May 2025</p>
@@ -43,8 +40,7 @@ description: ""
 <p><strong>Application Procedure:</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General</p>
-<p>Office.</p>
+a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>EFSS Canteen Stall Application Form EFSS Canteen Application Form.pdf</p>
