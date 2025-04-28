@@ -61,8 +61,8 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 28 April 2025
+        - title: Stall 5 Advertisement
+          date: 30 April 2025
           announcement: Announcement content
           link_text: ""
           link_url: ""
