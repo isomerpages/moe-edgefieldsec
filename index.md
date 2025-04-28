@@ -56,4 +56,14 @@ sections:
       url: https://ask.gov.sg/efss
       alt: Image alt text
       image: /images/1efss_askgov.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 28 April 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
