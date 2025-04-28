@@ -48,6 +48,16 @@ sections:
       url: /together
       image: /images/together.png
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Canteen Advertisement
+          date: 28 April 2025
+          announcement: Edgefield Secondary School is seeking dedicated and innovative
+            canteen vendors to join our vibrant school community!
+          link_text: Click here
+          link_url: https://edgefieldsec.moe.edu.sg/school-canteen-advertisement/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
@@ -56,15 +66,4 @@ sections:
       url: https://ask.gov.sg/efss
       alt: Image alt text
       image: /images/1efss_askgov.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Canteen Advertisement
-          date: 28 April 2025
-          announcement: Edgefield Secondary School is seeking dedicated and innovative
-            canteen vendors to join our vibrant school community!
-          link_text: Click here
-          link_url: https://edgefieldsec.moe.edu.sg/school-canteen-advertisement/
 ---
