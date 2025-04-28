@@ -57,7 +57,7 @@ sections:
           announcement: Edgefield Secondary School is seeking dedicated and innovative
             canteen vendors to join our vibrant school community!
           link_text: Click here
-          link_url: https://edgefieldsec.moe.edu.sg/school-canteen-advertisement/
+          link_url: /school-canteen-advertisement
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
