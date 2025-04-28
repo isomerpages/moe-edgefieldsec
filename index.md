@@ -61,10 +61,10 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: Stall 5 Advertisement
-          date: 30 April 2025
+        - title: Canteen Advertisement
+          date: 28 April 2025
           announcement: Edgefield Secondary School is seeking dedicated and innovative
             canteen vendors to join our vibrant school community!
-          link_text: Stall Advertisement
+          link_text: Click here
           link_url: https://edgefieldsec.moe.edu.sg/school-canteen-advertisement/
 ---
