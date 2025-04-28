@@ -41,7 +41,7 @@ description: ""
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="/files/canteen_stall_application_form.pdf" rel="noopener nofollow" target="_blank"> EFSS Canteen Stall Application Form </a>
+<p><a href="/files/canteen_stall_application_form.pdf" rel="noopener nofollow" target="_blank">EFSS Canteen Stall Application Form</a>
 </p>
 <p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
