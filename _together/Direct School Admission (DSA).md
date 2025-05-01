@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2><strong>Direct School Admission – Secondary (DSA-SEC) Exercise</strong></h2>
 <p>Edgefield Secondary School invites Primary 6 students to join the school
-through the 2024 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
+through the 2025 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
 <p>Interested candidates can apply for DSA through the school’s distinctive
 programmes and talent areas:
 <br>
@@ -512,7 +512,7 @@ duration of their studies in Edgefield Secondary School.</p>
 <p><strong>APPLICATION PROCESS</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
+The application will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.
 For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>SELECTION PROCESS</strong>
@@ -533,11 +533,11 @@ one talent area.</p>
 </li>
 <li>
 <p>The questionnaires/ trials/ interviews for shortlisted candidates will
-be conducted between&nbsp;<strong>8 July 2024</strong> and <strong>30 August 2024</strong> at
+be conducted between&nbsp;<strong>9 July 2025</strong> and <strong>30 August 2025</strong> at
 Edgefield Secondary School.</p>
 </li>
 </ul>
-<p>All candidates will receive notification of results by <strong>10 September 2024</strong>.</p>
+<p>All candidates will receive notification of results by <strong>4 September 2025</strong>.</p>
 <p><strong>KEY DATES</strong>
 </p>
 <table style="minWidth: 50px">
@@ -552,7 +552,7 @@ Edgefield Secondary School.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>
+<p><strong>7 May 2025, 11am to 3 Jun 2024, 3pm</strong>
 </p>
 </th>
 </tr>
@@ -562,7 +562,7 @@ Edgefield Secondary School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 July 2024 – 30 August 2024</strong>
+<p><strong>30 June 2025 – 4 September 2025</strong>
 </p>
 </td>
 </tr>
@@ -572,7 +572,7 @@ Edgefield Secondary School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be notified by email latest by <strong>4 July 2024</strong>.</p>
+<p>Shortlisted candidates will be notified by email latest by <strong>4 July 2025</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -582,16 +582,16 @@ Edgefield Secondary School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be required to sit for questionnaires/ trials/
-interviews between <strong>8 July 2024</strong> and <strong>30 August 2024</strong>.</p>
+interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</strong>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Release of DSA result</strong>
+<p><strong>Selection Outcome</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted candidates will receive notification of results by <strong>10 September 2024</strong>.</p>
+<p>All candidates will receive notification of results by <strong>4 September 2025</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +600,7 @@ interviews between <strong>8 July 2024</strong> and <strong>30 August 2024</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students to indicate their school preferences from <strong>21 </strong>to<strong> 25 October 2024</strong>.</p>
+<p>Students to indicate their school preferences from <strong>27 </strong>to<strong> 31 October 2024</strong>.</p>
 </td>
 </tr>
 </tbody>
