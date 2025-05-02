@@ -520,7 +520,7 @@ For more details, please refer to MOE website – <a href="http://www.moe.gov.sg
 </p>
 <ul>
 <li>
-<p>Shortlisted candidates will be notified latest by <strong>4 July 2024</strong>.</p>
+<p>Shortlisted candidates will be notified latest by <strong>4 July 2025</strong>.</p>
 </li>
 <li>
 <p>Shortlisted candidates will be required to sit for the required questionnaires,
