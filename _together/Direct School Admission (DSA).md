@@ -4,6 +4,7 @@ permalink: /together/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
+<h2><strong>1. <u>Published DSA categories and criteria on School Website</u></strong></h2>
 <h2><strong>Direct School Admission – Secondary (DSA-SEC) Exercise</strong></h2>
 <p>Edgefield Secondary School invites Primary 6 students to join the school
 through the 2025 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
