@@ -4,7 +4,6 @@ permalink: /together/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h2><strong>1. <u>Published DSA categories and criteria on School Website</u></strong></h2>
 <h2><strong>Direct School Admission – Secondary (DSA-SEC) Exercise</strong></h2>
 <p>Edgefield Secondary School invites Primary 6 students to join the school
 through the 2025 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
@@ -120,30 +119,18 @@ and grit.</p>
 Primary 6.</p>
 </li>
 <li>
-<p>Candidates with participation and achievements in selected sports including
-National School Game competition and/or international competition, will
-be considered more favourably.</p>
-</li>
-<li>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p>Candidates with or without prior experience may apply. The school will
+assess applicants based on the selection criteria, which may include assessing
+the potential of the candidates.</p>
+<p></p>
 </li>
 </ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted.</em>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p><strong>Shortlisted candidates will be required to attend in person:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>A sports trial specific to the selected sport; and</strong>
-</p>
-</li>
-<li>
-<p><strong>An in-person interview session.</strong>
-</p>
-</li>
-</ul>
+<p></p>
+<p>All candidates will be required to attend the sports trial specific to
+the selected sport. Only shortlisted candidates from the sports trial will
+be informed to attend an interview.</p>
 </td>
 </tr>
 <tr>
@@ -216,21 +203,8 @@ T-Test, vertical jump etc.; and</p>
 </p>
 <ul>
 <li>
-<p>Demonstrate specific Badminton skills such as</p>
-<ul>
-<li>
-<p>lobbing,</p>
-</li>
-<li>
-<p>drop shots,</p>
-</li>
-<li>
-<p>net shots,</p>
-</li>
-<li>
-<p>smashing</p>
-</li>
-</ul>
+<p>Demonstrate specific Badminton skills such as lobbing, drop shots, net
+shots and smashing</p>
 </li>
 <li>
 <p>Demonstrate proficient shuttlecock control.</p>
@@ -303,14 +277,19 @@ Tests, Agility T-Test, Illinois Agility, etc.; and</p>
 </li>
 <li>
 <p>Wushu specific requirement</p>
-<ul>
-<li>
-<p>Demonstrate a National School Games wushu individual events’ formulated
-routine in Quanshu, short weapon or long weapon.</p>
 </li>
 <li>
+<p>Demonstrate one of the following routines:</p>
+<ul>
+<li>
+<p>A Wushu Individual Event Formulated Routine in Quanshu, short weapon or
+long weapon.</p>
+</li>
+</ul>
+<ul>
+<li>
 <p>For students without Wushu background, they will be required to demonstrate
-a predetermined abbreviated Quanshu routine.</p>
+a predetermined Quanshu routine.</p>
 </li>
 </ul>
 </li>
@@ -399,7 +378,7 @@ in their primary schools or has similar experiences in other platforms.</p>
 will be taken into consideration.</p>
 </li>
 </ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted.</em>&nbsp;</p>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>&nbsp;</p>
 <p><strong>Shortlisted candidates will be required to attend in person:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -463,8 +442,8 @@ to serve the school and community with passion and empathy.</p>
 </li>
 <li>
 <p>Exhibits strong leadership qualities/skills and has held a leadership
-position in primary school e.g. Class Chairpersons/Monitors, Prefects,
-CCA leaders/Captains, etc.</p>
+position in primary school e.g. Prefects, CCA leaders/Captains, Peer Support
+Leaders, etc.</p>
 </li>
 <li>
 <p>Actively volunteers and has made meaningful contributions to their primary
@@ -480,17 +459,17 @@ Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA)
 will be taken into consideration.</p>
 </li>
 </ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted.</em>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p>&nbsp;<strong>Shortlisted candidates will be required to complete/attend in person:</strong>
+<p><strong>Shortlisted candidates will be required to complete/attend in person:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>A questionnaire to assess candidates’ passion and perseverance,</strong>
+<p><strong>A group task; and</strong>
 </p>
 </li>
 <li>
-<p><strong>An interview session.</strong>
+<p><strong>A group interview session.</strong>
 </p>
 </li>
 </ul>
@@ -534,7 +513,7 @@ one talent area.</p>
 </li>
 <li>
 <p>The questionnaires/ trials/ interviews for shortlisted candidates will
-be conducted between&nbsp;<strong>9 July 2025</strong> and <strong>30 August 2025</strong> at
+be conducted between&nbsp;<strong>9 July 2025</strong> and <strong>15 August 2025</strong> at
 Edgefield Secondary School.</p>
 </li>
 </ul>
@@ -553,7 +532,7 @@ Edgefield Secondary School.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>7 May 2025, 11am to 3 Jun 2024, 3pm</strong>
+<p><strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>
 </p>
 </th>
 </tr>
