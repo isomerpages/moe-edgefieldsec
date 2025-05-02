@@ -4,7 +4,6 @@ permalink: /together/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h2><strong>1. <u>Published DSA categories and criteria on School Website</u></strong></h2>
 <h2><strong>Direct School Admission – Secondary (DSA-SEC) Exercise</strong></h2>
 <p>Edgefield Secondary School invites Primary 6 students to join the school
 through the 2025 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
@@ -120,30 +119,18 @@ and grit.</p>
 Primary 6.</p>
 </li>
 <li>
-<p>Candidates with participation and achievements in selected sports including
-National School Game competition and/or international competition, will
-be considered more favourably.</p>
-</li>
-<li>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p>Candidates with or without prior experience may apply. The school will
+assess applicants based on the selection criteria, which may include assessing
+the potential of the candidates.</p>
+<p></p>
 </li>
 </ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted.</em>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p><strong>Shortlisted candidates will be required to attend in person:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>A sports trial specific to the selected sport; and</strong>
-</p>
-</li>
-<li>
-<p><strong>An in-person interview session.</strong>
-</p>
-</li>
-</ul>
+<p></p>
+<p>All candidates will be required to attend the sports trial specific to
+the selected sport. Only shortlisted candidates from the sports trial will
+be informed to attend an interview.</p>
 </td>
 </tr>
 <tr>
