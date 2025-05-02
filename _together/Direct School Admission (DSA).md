@@ -601,7 +601,7 @@ interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students to indicate their school preferences from <strong>27 </strong>to<strong> 31 October 2024</strong>.</p>
+<p>Students to indicate their school preferences from <strong>27 </strong>to<strong> 31 October 2025</strong>.</p>
 </td>
 </tr>
 </tbody>
