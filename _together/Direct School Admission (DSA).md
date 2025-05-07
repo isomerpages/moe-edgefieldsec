@@ -571,7 +571,7 @@ interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All candidates will receive notification of results by <strong>4 September 2025</strong>.</p>
+<p>All candidates will receive notification of results by <strong>25 August 2025 to 4 September 2025</strong>.</p>
 </td>
 </tr>
 <tr>
