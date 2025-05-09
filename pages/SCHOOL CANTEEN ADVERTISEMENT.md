@@ -80,8 +80,6 @@ via email or to the School’s General</p>
 <p>Contact Person:<strong> </strong>Nur Afiqa <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> /
 Betty Loh <a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_moi_tee@schools.gov.sg</u></a>
 </p>
-<p></p>
-<p></p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
@@ -123,7 +121,6 @@ during the school term.&nbsp;The stall may be required to operate during
 school holidays if required by the school.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Applicants should preferably fulfill the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
