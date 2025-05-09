@@ -68,7 +68,7 @@ a hardcopy from the School’s General Office.</p>
 </ul>
 <p>3. Submit the completed application form and documents by closing date
 via email or to the School’s General</p>
-<p>Office by 9 May 2025 (Friday), 12pm.</p>
+<p>Office by 19 May 2025 (Friday), 12pm.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 36 Punggol Field, Singapore 828814</p>
@@ -77,13 +77,10 @@ via email or to the School’s General</p>
 <p>Contact No.: 6883 9511</p>
 </li>
 <li>
-<p>Email: <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> /
-<a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_moi_tee@schools.gov.sg</u>
-</a>
+<p>Contact Person:<strong> </strong>Nur Afiqa <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> /
+Betty Loh <a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_moi_tee@schools.gov.sg</u></a>
 </p>
-</li>
-<li>
-<p>Contact Person: Nur Afiqa / Betty Loh</p>
+<p></p>
 <p></p>
 </li>
 </ul>
@@ -109,14 +106,10 @@ and stall assistant(s).</p>
 consultation with the school.</p>
 </li>
 <li>
-<p>Able to provide drinks, cut-fruits and snacks that meets the health/nutritional
-standards set by the Health</p>
-<p></p>
+<p>Able to provide cooked food (Chinese noodle dishes) that meets the health/nutritional
+standards set by the Health Promotion Board (HPB) under the “Healthy Meals
+in Schools Programme (HMSP)” guidelines (see link).</p>
 </li>
-</ul>
-<p><strong>Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
 </li>
@@ -125,19 +118,18 @@ standards set by the Health</p>
 </li>
 <li>
 <p>Stallholder must be in personal attendance at the stall during canteen
-operating hours. The canteen operates</p>
+operating hours. The canteen operates from Mondays to Fridays, 7am to 4pm
+during the school term.&nbsp;The stall may be required to operate during
+school holidays if required by the school.</p>
 </li>
 </ul>
-<p>from Mondays to Fridays, 7am to 4pm during the school term.&nbsp;The stall
-may be required to operate during</p>
-<p>school holidays if required by the school.</p>
 <p></p>
 <p><strong>Applicants should preferably fulfill the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess valid WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Successful applicant and stall assistant(s) must possess valid WSQ Food
+Safety Course Level 1 Certificate.</p>
 </li>
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
