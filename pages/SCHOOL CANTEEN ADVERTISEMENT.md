@@ -67,8 +67,7 @@ a hardcopy from the School’s General Office.</p>
 </li>
 </ul>
 <p>3. Submit the completed application form and documents by closing date
-via email or to the School’s General</p>
-<p>Office by 19 May 2025 (Friday), 12pm.</p>
+via email or to the School’s General Office by 19 May 2025 (Friday), 12pm.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 36 Punggol Field, Singapore 828814</p>
@@ -104,9 +103,10 @@ and stall assistant(s).</p>
 consultation with the school.</p>
 </li>
 <li>
-<p>Able to provide cooked food (Chinese noodle dishes) that meets the health/nutritional
-standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see link).</p>
+<p>Able to provide cooked food (Chinese Mixed Rice / Chinese noodle dishes)
+that meets the health/nutritional standards set by the Health Promotion
+Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
+(see link).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
