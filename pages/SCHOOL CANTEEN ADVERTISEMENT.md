@@ -29,10 +29,21 @@ description: ""
 <p>Chinese Economical Mixed Rice (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 May 2025</p>
+<p>19 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Chinese Economical Mixed Rice (Non-Halal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Noodle Dishes (Non-Halal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -66,12 +77,13 @@ via email or to the School’s General</p>
 <p>Contact No.: 6883 9511</p>
 </li>
 <li>
-<p>Email: <a href="mailto:nur.amirah@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.amirah@edgefield.edu.sg</a> /
-<a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a>
+<p>Email: <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> /
+<a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_moi_tee@schools.gov.sg</u>
+</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Nur Amirah / Nur Afiqa</p>
+<p>Contact Person: Nur Afiqa / Betty Loh</p>
 <p></p>
 </li>
 </ul>
