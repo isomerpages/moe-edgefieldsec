@@ -43,7 +43,7 @@ description: ""
 <p>19 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To provide Chinese Noodle Dishes (Non-Halal)</p>
 </td>
 </tr>
 </tbody>
