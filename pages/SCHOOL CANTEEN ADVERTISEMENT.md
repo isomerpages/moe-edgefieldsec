@@ -76,8 +76,8 @@ via email or to the School’s General Office by 19 May 2025 (Friday), 12pm.</p>
 <p>Contact No.: 6883 9511</p>
 </li>
 <li>
-<p>Contact Person:<strong> </strong>Nur Afiqa <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> /
-Betty Loh <a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_moi_tee@edgefield.edu.sg</u></a>
+<p>Contact Person:<strong> </strong>Nur Afiqa <a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> Betty
+Loh <a href="mailto:loh_moi_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>betty.loh@edgefield.edu.sg</u></a>
 </p>
 </li>
 </ul>
