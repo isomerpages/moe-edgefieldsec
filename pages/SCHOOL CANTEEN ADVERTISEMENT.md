@@ -103,7 +103,8 @@ via email or to the School’s General Office by 19 May 2025 (Friday), 12pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>betty.loh@edgefield.edu.sg</p>
+<p><a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">betty.loh@edgefield.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
