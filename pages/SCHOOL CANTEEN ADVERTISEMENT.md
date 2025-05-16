@@ -76,7 +76,7 @@ via email or to the School’s General Office by 19 May 2025 (Friday), 12pm.</p>
 <p>Contact No.: 6883 9511</p>
 </li>
 </ul>
-<p><strong>Contact Person: </strong>
+<p><strong>Contact Person:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -90,7 +90,7 @@ via email or to the School’s General Office by 19 May 2025 (Friday), 12pm.</p>
 <p>Nur Afiqa</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a> 
+<p><a href="mailto:nur.afiqa.abdul.razak@edgefield.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur.afiqa.abdul.razak@edgefield.edu.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
