@@ -48,16 +48,6 @@ sections:
       url: /together
       image: /images/together.png
       alt: Image alt text
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Canteen Advertisement
-          date: 28 April 2025
-          announcement: Edgefield Secondary School is seeking dedicated and innovative
-            canteen vendors to join our vibrant school community!
-          link_text: Click here
-          link_url: /school-canteen-advertisement
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
