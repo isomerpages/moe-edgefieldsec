@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Useful Links
 variant: tiptap
 ---
-<p></p>
+<p><a href="/files/2025___Term_4_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 4 School Calendar</a>
+</p>
+<p><a href="/files/2025___Term_3_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 3 School Calendar</a>
+</p>
 <p><a href="/files/2025___Term_2_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 2 School Calendar</a>
 </p>
 <p><a href="/files/Term_1_Calendar___for_parents.pdf" rel="noopener nofollow" target="_blank">Term 1 School Calendar</a>
