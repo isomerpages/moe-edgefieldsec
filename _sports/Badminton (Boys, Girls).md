@@ -114,7 +114,7 @@ place in July annually.
 <p>C Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 3</p>
+<p>League 2</p>
 </td>
 </tr>
 <tr>
