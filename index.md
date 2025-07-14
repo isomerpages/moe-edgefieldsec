@@ -17,7 +17,7 @@ sections:
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
   - infopic:
-      title: ABOUT EDGEFIELD
+      title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
       button: LEARN MORE
       url: /edgefield/principals-message
