@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Y3 Subject Combination.md
       - IP Videos Introducing each IP programme.md
