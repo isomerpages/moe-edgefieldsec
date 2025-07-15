@@ -1,5 +1,5 @@
 collections:
-  together:
+  for-parents:
     output: true
     order:
       - Full Subject Based Banding (Full SBB).md
