@@ -1,5 +1,5 @@
 collections:
-  experience:
+  for-students:
     output: true
     order:
       - CCA/.keep
