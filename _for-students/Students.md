@@ -4,6 +4,8 @@ permalink: /together/useful-links/students/
 description: ""
 variant: tiptap
 ---
+<p><a href="" rel="noopener nofollow" target="_blank">EFSS Digital Planner</a>
+</p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guide</a>
