@@ -4,7 +4,6 @@ collections:
     order:
       - Students.md
       - CCA/.keep
-      - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports.md
       - Programme/.keep
