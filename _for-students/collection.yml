@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students.md
-      - CCA/.keep
       - Programme/.keep
       - Programme/Bringing Arts to the School.md
       - Programme/Forward Ready Arts Curriculum.md
