@@ -1,7 +1,9 @@
 logo: /images/crest.jpg
 links:
-  - title: Edgefield
+  - title: About Edgefield
     collection: edgefield
+  - title: CURRICULUM
+    collection: curriculum
   - title: Future Ready
     collection: future-ready
   - title: Experience
