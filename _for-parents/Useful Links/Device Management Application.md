@@ -60,7 +60,7 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Reduce distractions from learning through control of applications </em></strong>
+<p><strong><em>Reduce distractions from learning through control of applications</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
