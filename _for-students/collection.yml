@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Student.md
       - Students.md
       - Programme/.keep
       - Programme/Bringing Arts to the School.md
