@@ -2,7 +2,6 @@ collections:
   future-ready:
     output: true
     order:
-      - Student Leadership.md
       - Applied Learning Programme.md
       - Learning For Life Programme.md
       - CLIA/.keep
@@ -12,4 +11,5 @@ collections:
       - CLIA/VIA Projects.md
       - Autonomy Supportive Behaviours.md
       - Research (Evidence based Design).md
+      - Student Leadership.md
       - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md
