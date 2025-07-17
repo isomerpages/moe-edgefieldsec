@@ -2,7 +2,6 @@ collections:
   edgefield:
     output: true
     order:
-      - Have a question.md
       - Principal's Message.md
       - School Advisory Committee.md
       - Our Story/.keep
@@ -14,4 +13,5 @@ collections:
       - Interactive Timeline.md
       - School Prospectus.md
       - Edgefield Mascots.md
+      - Have a question.md
       - Locate Us.md
