@@ -2,8 +2,8 @@ collections:
   experience:
     output: true
     order:
-      - Overseas Immersion.md
       - 360 School Virtual Tour.md
-      - Interactive Timeline.md
       - Edgefield Mascots.md
+      - Interactive Timeline.md
+      - Overseas Immersion.md
       - School Prospectus.md
