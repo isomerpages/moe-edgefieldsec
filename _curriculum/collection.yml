@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - IP Videos.md
-      - Y3 Subject Combination.md
-      - CCE/Character and Citizenship Education.md
-      - CCE/.keep
       - CCA/.keep
       - CCA/Clubs.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - IP Videos.md
+      - Y3 Subject Combination.md
