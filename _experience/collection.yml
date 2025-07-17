@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - School Prospectus.md
       - Edgefield Mascots.md
       - 360 School Virtual Tour.md
