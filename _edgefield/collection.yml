@@ -2,6 +2,7 @@ collections:
   edgefield:
     output: true
     order:
+      - Have a question.md
       - Principal's Message.md
       - School Advisory Committee.md
       - Our Story/.keep
