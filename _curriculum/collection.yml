@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA/MOE LEAPS Framework.md
       - CCA/.keep
       - CCA/Clubs.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports.md
+      - CCA/MOE LEAPS Framework.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - IP Videos.md
