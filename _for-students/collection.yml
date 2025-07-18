@@ -2,8 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Useful Links.md
-      - Social Media.md
       - EFSS Digital Planner.md
       - Students.md
       - Programme/.keep
@@ -12,3 +10,5 @@ collections:
       - Programme/Compassionate Leaders Through Arts.md
       - Programme/Arts Festivals.md
       - Programme/Sexuality Education.md
+      - Social Media.md
+      - Useful Links.md
