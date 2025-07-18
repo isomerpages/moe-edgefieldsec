@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Student Learning Space (SLS).md
       - EFSS Digital Planner.md
       - Students.md
       - Programme/.keep
@@ -11,5 +10,6 @@ collections:
       - Programme/Compassionate Leaders Through Arts.md
       - Programme/Arts Festivals.md
       - Programme/Sexuality Education.md
+      - Student Learning Space (SLS).md
       - Social Media.md
       - Useful Links.md
