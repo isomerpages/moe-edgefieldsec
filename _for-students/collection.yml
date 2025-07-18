@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Social Media.md
       - EFSS Digital Planner.md
       - Students.md
       - Programme/.keep
