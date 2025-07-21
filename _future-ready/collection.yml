@@ -2,6 +2,7 @@ collections:
   future-ready:
     output: true
     order:
+      - Potential Development.md
       - Applied Learning Programme.md
       - CLIA/.keep
       - CLIA/Compassionate Leaders In Action.md
