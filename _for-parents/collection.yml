@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Full Subject Based Banding(Full SBB).md
       - Direct School Admission (DSA).md
       - Full Subject Based Banding (Full SBB).md
       - Parents Support Group.md
