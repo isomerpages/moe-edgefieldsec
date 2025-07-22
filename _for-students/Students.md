@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <p><a href="" rel="noopener nofollow" target="_blank">EFSS Digital Planner</a>
 </p>
-<p></p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guide</a>
 </p>
 <p><a href="https://schoolibrary.moe.edu.sg/edgefieldsec" rel="noopener noreferrer nofollow" target="_blank">EFSS Library Catalogue</a>&nbsp;</p>
