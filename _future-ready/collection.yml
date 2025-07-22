@@ -2,15 +2,15 @@ collections:
   future-ready:
     output: true
     order:
-      - Potential Development.md
       - Applied Learning Programme.md
       - CLIA/.keep
       - CLIA/Compassionate Leaders In Action.md
       - CLIA/VIA@Home.md
       - CLIA/VIA@Community.md
       - CLIA/VIA Projects.md
-      - Learning For Life Programme.md
       - Autonomy Supportive Behaviours.md
       - Research (Evidence based Design).md
+      - Learning For Life Programme.md
       - Student Leadership.md
+      - Potential Development.md
       - Technology Enhanced Learning at Edgefield (TEL at Edgefield).md
