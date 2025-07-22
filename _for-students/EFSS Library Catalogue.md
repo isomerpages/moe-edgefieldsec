@@ -4,4 +4,5 @@ permalink: /efss-library-catalogue/
 variant: tiptap
 description: ""
 ---
-<p>EFSS Library Catalogue</p>
+<p><a href="https://schoolibrary.moe.edu.sg/edgefieldsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">OPAC (EFSS Library Catalogue)</a>
+</p>
