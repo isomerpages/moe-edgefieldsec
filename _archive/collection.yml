@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Full Subject Based Banding (Full SBB).md
       - Students.md
       - Research (Evidence based Design).md
       - Autonomy Supportive Behaviours.md
