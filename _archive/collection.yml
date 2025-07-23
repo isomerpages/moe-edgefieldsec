@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Edgefield Mascots.md
       - Bringing Arts to the School.md
       - Programme/Arts Festivals.md
       - Programme/Compassionate Leaders Through Arts.md
