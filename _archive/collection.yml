@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Bringing Arts to the School.md
       - Programme/.keep
       - Partnership.md
       - Full Subject Based Banding (Full SBB).md
