@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
-      - Post Secondary Applications.md
       - EFSS Digital Planner.md
       - EFSS Library Catalogue.md
+      - Post Secondary Applications.md
       - Student Learning Space (SLS).md
       - Social Media.md
       - Sexuality Education.md
