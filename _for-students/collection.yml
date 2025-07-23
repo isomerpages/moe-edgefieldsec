@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Sexuality Education.md
       - EFSS Digital Planner.md
       - EFSS Library Catalogue.md
       - Programme/.keep
