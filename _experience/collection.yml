@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Good Stories.md
       - 360 School Virtual Tour.md
       - Edgefield Mascots.md
       - Interactive Timeline.md
