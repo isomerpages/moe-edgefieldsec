@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Secondary 1 Registration.md
       - Direct School Admission (DSA).md
       - Full Subject Based Banding (Full SBB).md
       - Parents Support Group.md
+      - Secondary 1 Registration.md
       - Partnership.md
       - Useful Links/.keep
       - Useful Links/Parents.md
