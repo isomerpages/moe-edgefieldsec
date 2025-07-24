@@ -21,6 +21,7 @@ may not be demonstrated at the O-Level examinations.</p>
 admissions exercise that allows students to apply for and receive conditional
 offers for admission to polytechnics prior to receiving their O-Level examination
 results.</p>
+<p></p>
 <p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
 <p></p>
