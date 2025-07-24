@@ -11,6 +11,7 @@ description: ""
 apply to a DSA school before taking the GCE O-Level examinations. Students
 can apply based on talent in sports, CCAs and specific academic areas that
 may not be demonstrated at the O-Level examinations.</p>
+<p></p>
 <p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
 </p>
 <p></p>
@@ -32,6 +33,7 @@ results.</p>
 an aptitude-based admissions exercise that allows students to apply and
 receive conditional offers for admission to ITE before receiving their
 O-Level or N-Level examinations results.</p>
+<p></p>
 <p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/ite-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/ite-eae</a>
 </p>
 <p></p>
