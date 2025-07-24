@@ -20,7 +20,6 @@ may not be demonstrated at the O-Level examinations. Link: <a href="https://www.
 admissions exercise that allows students to apply for and receive conditional
 offers for admission to polytechnics prior to receiving their O-Level examination
 results.</p>
-<p></p>
 <p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
 <p></p>
@@ -54,5 +53,5 @@ to sit for the O-Level examinations or undergo a Nitec programme. Student
 successfully complete the course with the minimum required Grade Point
 Average (GPA) will be guaranteed a place in a polytechnic diploma course
 mapped to the Higher Nitec course.</p>
-<p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dpp</a>
+<p>Link: <a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dp</a>
 </p>
