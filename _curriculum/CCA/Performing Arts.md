@@ -81,6 +81,8 @@ Year 3 Einstein, Vice-President, 2024**_
 ![](/images/harmonica-1.png)
 <h5>Harmonica</h5>
 
+No more intake this year 
+
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
 Ever since we joined the Harmonica CCA, we have learnt how to play a new instrument and appreciated the diverse genres of music. From rousing pop music to melodious classical tunes, we take delight in the joyous performances of these beautiful music pieces with every member of the band.&nbsp;Even if one does not have any musical background, it is not too hard to master the harmonica!&nbsp;
