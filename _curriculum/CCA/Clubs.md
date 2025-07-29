@@ -15,18 +15,6 @@ Being part of the Art Club CCA has been a truly enriching experience. It has all
 _**Sri Putri Indraqasih Binte Jamal<br>
 Vice-President, 2024**_
 
-![](/images/eclub-1.png)
-<h5>Entrepreneur Club</h5>
-
-For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/entrepreneur-club).
-    
-"As an active member of the Entrepreneur Club (E-Club) CCA, my experience has been profoundly transformative.&nbsp;
-
-E-Club has taught me the essence of entrepreneurship, leadership, and collaboration, fostering a resilient entrepreneurial mindset. These skills have not only enriched my personal ventures but have also contributed to a culture of creativity within the E- club. I've also come to understand the power of effective teamwork, communication, and problem-solving through my interactions with fellow members. E-Club has been instrumental in showcasing the impact of mentorship and support in nurturing our entrepreneurial goals, empowering us to drive innovation and ambition within our school community."
-
-_**Cayden Phoon,<br>
-Year 3 Eisenhower, President, 2023**_
-
 ![](/images/new%20media%20club-1.png)
 <h5>New Media Club</h5>
 
