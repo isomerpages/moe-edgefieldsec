@@ -81,7 +81,7 @@ Year 3 Einstein, Vice-President, 2024**_
 ![](/images/harmonica-1.png)
 <h5>Harmonica</h5>
 
-No more intake this year 
+_**This CCA is not offered to Year 1 students from 2025 onwards**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
