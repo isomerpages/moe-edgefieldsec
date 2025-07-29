@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Entrepreneur Club.md
       - Edgefield Mascots.md
       - Bringing Arts to the School.md
       - Programme/Arts Festivals.md
