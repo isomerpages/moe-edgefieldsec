@@ -1,0 +1,10 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - EFSS Digital Planner.md
+      - OPAC (EFSS Library Catalogue).md
+      - Post Secondary Applications.md
+      - Student Learning Space (SLS).md
+      - Social Media.md
+      - Useful Links.md

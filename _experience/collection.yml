@@ -2,19 +2,8 @@ collections:
   experience:
     output: true
     order:
-      - CCA/.keep
-      - CCA/Clubs.md
-      - CCA/Performing Arts.md
-      - CCA/Uniformed Groups.md
-      - CCA/Sports.md
+      - Edgefield in the News.md
+      - 360 School Virtual Tour.md
+      - Good Stories.md
       - Interactive Timeline.md
-      - Programme/.keep
-      - Programme/Bringing Arts to the School.md
-      - Programme/Forward Ready Arts Curriculum.md
-      - Programme/Compassionate Leaders Through Arts.md
-      - Programme/Arts Festivals.md
-      - Programme/Overseas Immersion.md
-      - Programme/Character and Citizenship Education.md
-      - Programme/Student Leadership.md
-      - Programme/Sexuality Education.md
-      - Full Subject Based Banding (Full SBB).md
+      - School Prospectus.md

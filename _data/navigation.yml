@@ -1,12 +1,14 @@
 logo: /images/crest.jpg
 links:
-  - title: Edgefield
+  - title: About Edgefield
     collection: edgefield
+  - title: Curriculum
+    collection: curriculum
   - title: Future Ready
     collection: future-ready
   - title: Experience
     collection: experience
-  - title: Together
-    collection: together
-  - title: Have a Question?
-    url: https://ask.gov.sg/efss
+  - title: For Students
+    collection: for-students
+  - title: For Parents
+    collection: for-parents
