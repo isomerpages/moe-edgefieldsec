@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Overseas Immersion.md
       - Entrepreneur Club.md
       - Edgefield Mascots.md
       - Bringing Arts to the School.md
