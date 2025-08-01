@@ -49,56 +49,9 @@ teaching and learning</p>
 <p><strong>Providing Parents/Guardians with Greater Choice for After-School PLD Use</strong>
 </p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Default</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Option A</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Option B</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>In-school DMA settings will continue after school hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians can modify the DMA settings after school hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians can choose to disable DMA after school hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who want their child’s/ward’s use of the devices
-to be restricted only to teaching and learning and prefer to leave it to
-the school to decide on DMA settings after school hours.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who want more leeway over the use of the device,
-and prefer to take charge of the level of restrictions for their child’s/ward’s
-use of the device after school hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who do not want their child’s/ward’s use of the
-device to be regulated by DMA after school.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="After school DMA option Default, Option A and Option B" src="/images/Screenshot_2025_08_01_102256.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Having default school settings continue after school hours is the best
@@ -110,11 +63,7 @@ manage their child’s/ward’s device use on their own.</p>
 any time by emailing to Tech support.</p>
 </li>
 </ul>
-<p>No data will be collected during use of PLD after school hours</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="After-School DMA Parent Options" src="/images/DMA_options.png">
-</div>
+<p>*&nbsp;No data will be collected during use of PLD after school hours</p>
 <p>*&nbsp;Screen time limits set by the school will override parents’/guardians’
 settings during school hours.</p>
 <p><strong>Deciding on the Choice of After-School DMA Option</strong>
