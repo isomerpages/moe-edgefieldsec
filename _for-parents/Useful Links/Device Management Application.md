@@ -48,7 +48,7 @@ teaching and learning</p>
 </ul>
 <p><strong>Providing Parents/Guardians with Greater Choice for After-School PLD Use</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
