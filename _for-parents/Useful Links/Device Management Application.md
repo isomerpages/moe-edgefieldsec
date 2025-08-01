@@ -103,6 +103,10 @@ at home?</p>
 <li>
 <p>Am I aware of how to prevent different types of cyber threats that my
 child/ward might face?</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have a conversation with your child to decide the best for your child's learning." src="/images/DMA_talk.png">
+</div>
 </li>
 </ul>
 <p><strong>Data Collected by the DMA</strong>
