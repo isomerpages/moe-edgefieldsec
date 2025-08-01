@@ -41,16 +41,23 @@ containing extremist content)</p>
 <p>Students will be able to use the device from 06.30 a.m. to 11.00 p.m.
 daily</p>
 </li>
-<li>
+</ul>
 <p>The school will determine the apps and programs to be installed to support
 teaching and learning</p>
-</li>
-</ul>
 <p><strong>Providing Parents/Guardians with Greater Choice for After-School PLD Use</strong>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>After-School DMA Parent Options provide parents with the flexibility in
+managing your child’s/ward’s use of PLD after school hours.</p>
+</li>
+<li>
+<p>The following tables outline the different levels of restrictions, controls,
+and monitoring for each After-School DMA Parent Option.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="After school DMA option Default, Option A and Option B" src="/images/Screenshot_2025_08_01_102256.png">
+<img style="width: 100%" height="auto" width="100%" alt="Available DMA options" src="/images/dma option.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
