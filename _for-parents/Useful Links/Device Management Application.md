@@ -66,6 +66,10 @@ any time by emailing to Tech support.</p>
 <p>*&nbsp;No data will be collected during use of PLD after school hours</p>
 <p>*&nbsp;Screen time limits set by the school will override parents’/guardians’
 settings during school hours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="After school DMA options" src="/images/DMA_options.png">
+</div>
 <p><strong>Deciding on the Choice of After-School DMA Option</strong>
 </p>
 <p>Parents/guardians may wish to consider the following questions before
