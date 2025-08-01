@@ -6,9 +6,112 @@ description: ""
 third_nav_title: Useful Links
 ---
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA.png">
-</div>
+<h3><strong>Device Management Application</strong></h3>
+<p><strong>Device Management Application Installation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Your child’s/ward’s PLD will be installed with a Device Management Application
+(DMA) to provide a safer digital environment for learning.</p>
+</li>
+<li>
+<p>Installation of the DMA will be performed after the collection of the
+device. Students will be guided on the installation.</p>
+</li>
+<li>
+<p>This applies to both devices purchased through the school and pre-existing
+student-owned devices.</p>
+</li>
+<li>
+<p>The DMA will be funded by MOE and will be uninstalled from the device
+when your child/ward graduates/leaves the school.</p>
+</li>
+</ul>
+<p><strong>In-School DMA Settings (Default)</strong>
+<br>Schools will determine DMA settings for in-school use. As a default, these
+settings will continue to be in place after school as well:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE and the school will set the level of web content filtering, including
+filtering objectionable content or content that may not be conducive to
+teaching and learning (e.g. social media, pornography, gambling, or websites
+containing extremist content)</p>
+</li>
+<li>
+<p>Students will be able to use the device from 06.30 a.m. to 11.00 p.m.
+daily</p>
+</li>
+<li>
+<p>The school will determine the apps and programs to be installed to support
+teaching and learning</p>
+</li>
+</ul>
+<p><strong>Providing Parents/Guardians with Greater Choice for After-School PLD Use</strong>
+</p>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Default</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Option A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Option B</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-school DMA settings will continue after school hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians can modify the DMA settings after school hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians can choose to disable DMA after school hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For parents/guardians who want their child’s/ward’s use of the devices
+to be restricted only to teaching and learning and prefer to leave it to
+the school to decide on DMA settings after school hours.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents/guardians who want more leeway over the use of the device,
+and prefer to take charge of the level of restrictions for their child’s/ward’s
+use of the device after school hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents/guardians who do not want their child’s/ward’s use of the
+device to be regulated by DMA after school.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Having default school settings continue after school hours is the best
+option for parents/guardians who prefer not to, or do not feel ready to
+manage their child’s/ward’s device use on their own.</p>
+</li>
+<li>
+<p>Parents/guardians can request to change their choice of DMA settings at
+any time by emailing to Tech support.</p>
+</li>
+</ul>
+<p>No data will be collected during use of PLD after school hours</p>
+<p></p>
 <p>*&nbsp;Screen time limits set by the school will override parents’/guardians’
 settings during school hours.</p>
 <p><strong>Deciding on the Choice of After-School DMA Option</strong>
