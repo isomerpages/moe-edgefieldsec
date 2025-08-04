@@ -322,4 +322,5 @@ place in July annually.
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; 2.30 – 5.30 pm</p>
 <p>School Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split
-sessions by gender</p>
+sessions by gender. <strong>3 times a week</strong>
+</p>
