@@ -41,5 +41,4 @@ description: ""
 ready for life! Read about the experience of Channel News Asia’s journalist
 Grace Yeoh, as she joined Edgefield Secondary’s Design &amp; Technology
 lessons to find out more!</p>
-<p>Read More</p>
 <p></p>
