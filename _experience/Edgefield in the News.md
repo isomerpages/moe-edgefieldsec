@@ -41,4 +41,5 @@ description: ""
 <p><a href="https://www.channelnewsasia.com/singapore/secondary-school-design-technology-curriculum-changes-students-teachers-2693871" rel="noopener nofollow" target="_blank">Read about how Design &amp; Technology lessons have evolved to get students ready for life! Read about the experience of Channel News Asia’s journalist Grace Yeoh, as she joined Edgefield Secondary’s Design &amp; Technology lessons to find out more!</a>
 </p>
 <p></p>
+<h4><a href="https://www.straitstimes.com/singapore/education/no-more-streaming-for-students-full-transcript-of-speech-by-education-minister" rel="noopener nofollow" target="_blank">No more streaming for students: Full transcript of speech by Education Minister Ong Ye Kung</a></h4>
 <p></p>
