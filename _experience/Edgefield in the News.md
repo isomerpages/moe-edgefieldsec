@@ -43,3 +43,7 @@ description: ""
 <p></p>
 <h4><a href="https://www.straitstimes.com/singapore/education/no-more-streaming-for-students-full-transcript-of-speech-by-education-minister" rel="noopener nofollow" target="_blank">No more streaming for students: Full transcript of speech by Education Minister Ong Ye Kung</a></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/No_More_Streaming.png">
+</div>
+<p></p>
