@@ -36,6 +36,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Back_to_School.png">
 </div>
+<p>CNA journalist Grace Yeoh sits in on a design &amp; technology lesson
+with a Secondary 2 class at Edgefield Secondary School. (Photo: CNA/Jeremy
+Long)</p>
 <p><a href="https://www.channelnewsasia.com/singapore/secondary-school-design-technology-curriculum-changes-students-teachers-2693871" rel="noopener nofollow" target="_blank">Read about how Design &amp; Technology lessons have evolved to get students ready for life! Read about the experience of Channel News Asia’s journalist Grace Yeoh, as she joined Edgefield Secondary’s Design &amp; Technology lessons to find out more!</a>
 </p>
+<p></p>
 <p></p>
