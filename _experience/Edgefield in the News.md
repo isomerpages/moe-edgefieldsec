@@ -51,7 +51,7 @@ description: ""
 </p>
 <p><a href="https://www.straitstimes.com/singapore/education/no-more-streaming-for-students-full-transcript-of-speech-by-education-minister" rel="noopener nofollow" target="_blank">Read about how Edgefield Secondary trailblaze Full Subject Based Banding with good outcomes both academically and socially by Former Minister of Education: Minister Ong Ye Kung</a>
 </p>
-<h4><a href="https://www.facebook.com/CNA938/videos/134546847981052/" rel="noopener nofollow" target="_blank"> Tech Talk - iPads in Classroom and for Remote Learning</a></h4>
+<h4><a href="https://www.facebook.com/CNA938/videos/134546847981052/" rel="noopener nofollow" target="_blank">Tech Talk - iPads in Classroom and for Remote Learning</a></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Tech_Talk.png">
 </div>
