@@ -42,7 +42,6 @@ description: ""
 </p>
 <p></p>
 <h4><a href="https://www.straitstimes.com/singapore/education/no-more-streaming-for-students-full-transcript-of-speech-by-education-minister" rel="noopener nofollow" target="_blank">No more streaming for students: Full transcript of speech by Education Minister Ong Ye Kung</a></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/No_More_Streaming.png">
 </div>
@@ -52,3 +51,6 @@ description: ""
 </p>
 <p><a href="https://www.straitstimes.com/singapore/education/no-more-streaming-for-students-full-transcript-of-speech-by-education-minister" rel="noopener nofollow" target="_blank">Read about how Edgefield Secondary trailblaze Full Subject Based Banding with good outcomes both academically and socially by Former Minister of Education: Minister Ong Ye Kung</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
