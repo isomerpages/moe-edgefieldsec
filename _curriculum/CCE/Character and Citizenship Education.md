@@ -3,13 +3,8 @@ title: Character and Citizenship Education
 permalink: /experience/programme/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-_"School programmes such as CCE and NE help us to explore concepts or values such as goodness or kindness that can serve as our moral compass to better prepare ourselves for what may come in our future. Through these programmes, we get to see how the lives of others may be and be more conscious of them. Having such information available to us can help us grow into a more understanding society. Being more sensitive to other cultures, traditions and ways of life are all skills of kindness that cannot be cultivated unless they are tended to consciously._
-  
-_From these character-related school programmes, I feel that my peers and I are more familiar with one another and our surroundings. We are able to recognise better where we must remain especially respectful to others and know when to stand up for our own beliefs."_  
-  
-**Hana Ng <br>
-Year 4 Euclid, 2020**
 
 ### CCE in Edgefield
 
