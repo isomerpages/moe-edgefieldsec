@@ -23,3 +23,13 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Farewell_23_open_242.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Middle_School_Students_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Middle_School_Students_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Middle_School_Students_3.png">
+</div>
+<p></p>
