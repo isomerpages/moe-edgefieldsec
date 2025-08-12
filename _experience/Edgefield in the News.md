@@ -58,4 +58,11 @@ description: ""
 <p><a href="https://www.facebook.com/CNA938/videos/134546847981052/" rel="noopener nofollow" target="_blank">Here more on how iPads are used in the classroom and for Remote Learning in Edgefield Secondary School through Addie Siew, SH ICT, CNA 938</a>
 </p>
 <p></p>
-<p></p>
+<h4><a href="https://www.straitstimes.com/singapore/parenting-education/teenagers-have-wider-network-of-friends-in-schools-with-mixed-form-classes-nie-study" rel="noopener nofollow" target="_blank">Teenagers have wider network of friends in schools with mixed form classes: NIE study</a></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New in Edgefield/Teenagers_have_wider_network_of_friends.png">
+</div>
+<p><sup>Edgefield Secondary School students interacting during a group work session in their mixed form class on Aug 26, 2022. ST PHOTO: GIN TAY\</sup>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/teenagers-have-wider-network-of-friends-in-schools-with-mixed-form-classes-nie-study" rel="noopener nofollow" target="_blank">Read about how Full Subject Based Banding builds greater peer network in this article from the Straits Times.</a>
+</p>
