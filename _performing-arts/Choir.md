@@ -38,12 +38,12 @@ _Accomplishment_
 
 **Teachers in Charge** <br>
 Ms Andrea Lim <br>
-Mrs Grace Lewis
+Mdm Teo Lee Loo
 
 **Student Leaders**  
-President: Sim En Qi Mabel (3ED)  <br>
-Vice-President: Koh Zhe Hui, Ashley (3EL)<br>
-Student Conductor: Lim Jia Yi (Lin Jiayi) (3EM)
+President: Felicia Chia 3ES<br> 
+Vice President: Janice Lim En Ru 3EL<br>
+Student Conductor: Siang Reng Kai Javier 3EV
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Hours** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4.00 to 6.00 pm  <br>
