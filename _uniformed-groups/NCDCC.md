@@ -22,6 +22,8 @@ We adopt a structured approach towards the development of programmes that will e
 (3) Choices - Making the choice to care, serve and impact.
 
 **Highlights / Achievements** <br>
+National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2024<br>
+_Distinction_<br>
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
 
