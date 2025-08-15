@@ -40,12 +40,12 @@ Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
     
-Shooting is undoubtedly a unique and exciting sport, challenging both our mentality and physical abilities as a sportsman. Through an abundance of eventful experiences in this CCA. I have formed numerous bonds with my teammates through our shared hardships and successes. As Captain, this role has helped me develop a disciplined and intuitive mindset, and taught me to lead my team with efficiency and harmony.
-
-Overall, my experience in Shooting CCA has given me an opportunity to discover a different skill set that transformed me to be who I am today, providing me with much cherished knowledge and memories.<br>
-_**Vernise Lim En Rui **  
-**Year 4 Edison, Captain, 2024**_
-
+Shooting as a CCA has sharpened my ability to stay calm and focused under pressure, a skill that is crucial in achieving accuracy during competitions. The sport demands intense concentration, quick decision-making, and physical control, all of which I have developed through regular training and challenging match conditions.<br>
+Beyond skill, Shooting has instilled in me important values such as discipline, perseverance, and teamwork. I have learned the importance of remaining composed when things do not go as planned, and the value of supporting one another as a team. What I enjoy most is the strong camaraderie within the CCA — the shared experiences, from training sessions to the adrenaline of competitions, have created bonds I will always treasure.<br>
+These skills and values will serve me well in the future, both in my studies and career. The focus and discipline I have gained will help me tackle complex challenges, while perseverance and teamwork will enable me to work effectively with others in any environment. Most importantly, the confidence built through leading as Captain has prepared me to take on leadership roles beyond school.<br>
+_**Senthilkumar Hares **  
+**Year3 Euler, Captain, 2025**_
+ 
 
 ![](/images/Softball_B_division.jpg)
 <h5>Softball</h5>
