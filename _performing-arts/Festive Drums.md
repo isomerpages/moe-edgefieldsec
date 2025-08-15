@@ -10,6 +10,8 @@ It is not solely on acquiring the correct rhythm, it is also about coordination 
 Through drumming, we hope to instil the values of respect, harmony and responsibility towards one another.  
 
 **Highlights / Achievements** <br><br>
+**2025**<br>
+2025 - National Day Fiesta @ Punggol 21 CC<br><br>
 **2024**<br>
 World Down Syndrome Day Concert @ One Punggol<br><br>
 **2023**<br>
