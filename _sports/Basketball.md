@@ -6,7 +6,6 @@ variant: markdown
 ---
 ![](/images/basketball%20girls%20collage%20.png)<br>
 ![](/images/2_Basketball_Boys_Collage.png)<br>
-
 **Description** <br>
 
 _"Basketball is more than a game; it's a test of heart, mind, and teamwork."_
