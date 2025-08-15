@@ -14,6 +14,9 @@ _"Basketball is more than a game; it's a test of heart, mind, and teamwork."_
 As a Co-Curricular Activity (CCA), basketball aims to not only strengthen students physically but also nurture their mental fortitude. Through regular training and competitions, we instill values of commitment, self-discipline, and resilience, shaping students to persevere in the face of challenges. The CCA strives to cultivate the spirit of sportsmanship and teamwork, while also emphasizing the pursuit of excellence. We believe that winning goes beyond trophies—it's about the relentless pursuit of growth, both as individuals and as a team.
 
 **Highlights / Achievements** <br>
+_**National School Games Basketball Championships 2025**_<br>
+B Division Girls - East Zone - Top 4
+
 _**National School Games Basketball Championships 2024**_<br>
 C Division Girls - League 2<br>
 C Division Boys - League 3
