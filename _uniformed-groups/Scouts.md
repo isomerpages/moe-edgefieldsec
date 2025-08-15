@@ -112,7 +112,8 @@ _Silver_
 **Teachers in Charge** <br>
 Mr Darren Woo&nbsp;<br>
 Ms Nur Aisha <br>
-Ms Siti Azriah
+Ms Siti Azriah <br>
+Mr Imaduddin Ahmad 
 
 **Student Leaders** <br>
 Troop Leader: Kayden Lim Cheng Kiat (3EV)  <br>
