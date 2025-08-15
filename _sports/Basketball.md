@@ -38,8 +38,8 @@ Ms Louisa Tan
 
 _Boys:_<br>
 Mr Wong Ban Heng William<br>
-Mr Tay Guo Kwang
-
+Mr. Jimmy Lim Boon Leong
+ 
 **Student Leaders** <br>
 **_Girls_** <br>
 Captain: Quek Lianne Caunca (3EH)<br>
