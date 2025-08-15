@@ -34,7 +34,6 @@ FAYRUZ BENYOUCEF 3ES
 **Teachers in Charge** <br>
 Tay Jhi Shin Ruth&nbsp;<br>
 Tang Siao Shi<br>
-Ms Vishalini Naidu Ramalingam
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br> 
 Monday&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 - 5.30pm <br>
