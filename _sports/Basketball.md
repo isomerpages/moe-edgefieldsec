@@ -4,8 +4,7 @@ permalink: /experience/cca/sports/basketball/
 description: ""
 variant: markdown
 ---
-
-![](/images/2_Basketball_Girls_Collage.png)<br>
+![](/images/basketball%20girls%20collage%20.png)<br>
 ![](/images/2_Basketball_Boys_Collage.png)<br>
 
 **Description** <br>
