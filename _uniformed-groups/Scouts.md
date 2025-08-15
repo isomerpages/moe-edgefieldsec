@@ -120,6 +120,24 @@ Troop Leader: Kayden Lim Cheng Kiat (3EV)  <br>
 Troop 2IC: Sim Ming Yen (3EU) <br>
 Quartermasters: Hafiy Hilman Bin Nasrul Hijaz (3EU)
 
+**Patrol Leaders** <br>
+KOK CHIN YU, JAMES (3EC)<br>
+JAYDEN MOK (3ES)<br>
+LEE JUN KAI (3ES)<br> 
+LEONG WEI ZHE KENDRICK (3ES)<br> 
+ABHISHEK TRIPATHY (3EU)<br> 
+TAN LE XUAN CYRIL (3EU)<br> 
+MIGUEL ETHAN INTATANO ANCHETA (3EV) 
+
+**Assistant Patrol Leaders** <br>
+KEE YU ZHE LUCAS (3ED)<br> 
+LOW ZHI KAI, DARIUS (3ED)<br> 
+TNG ZHUN YANG, ZAVIER (3ES) <br>
+ZECHARIAH AW HAO RAN (3ES)<br> 
+LIM EN JUN ARIUS (3EU) <br>
+PANG TIANG LUCK (3EU) <br>
+NG CHUN YONG (3EV) 
+
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.30 - 6.00pm  
   
