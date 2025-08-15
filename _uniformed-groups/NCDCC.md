@@ -28,9 +28,9 @@ _Gold_
 
 **Teachers in Charge:** <br>
 Mr Guo Xianlun<br>
-Mr Lim Mingxun<br>
+Ms Toh Si Qi<br>
 Mr See Qin Kai<br>
-Ms Toh Si Qi
+Mrs Jewelle Ho
 
 **Student Leaders**<br>
 Unit Sergeant Major: ZAYAN AFTAB, 3EV <br>
