@@ -59,4 +59,3 @@ The values I’ve learnt — such as resilience, teamwork, and discipline — wi
 
 _**Kayden Lim Cheng Kiat<br>
 Troop Leader, 2025**_
- 
