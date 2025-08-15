@@ -10,12 +10,15 @@ variant: markdown
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
-Being part of the choir has been an incredibly rewarding journey. Participating in competitions taught me the level of dedication and hard work required to excel, while performing at a hospital for the elderly was a particularly memorable experience. It was fulfilling to connect with and uplift others through our music. Serving as choir president also came with responsibilities that significantly contributed to my personal growth. Leading warm-ups and delivering debriefs helped me develop my public speaking skills, and managing the group during rehearsals, like ensuring everyone stayed focused, strengthened my leadership and organizational abilities. Though initially daunting, these tasks ultimately boosted my confidence in addressing large groups and keeping the team on track.
+Being in choir has helped me develop leadership and communication skills. As Choir President, I was given the opportunity to lead the group during physical training and singing practices. I had to learn how to guide others, communicate clearly, and understand things from my members’ perspectives. Standing in front of the entire choir was a challenge at first, but it helped me grow in confidence and learn what it truly means to lead.
 
-The teamwork and camaraderie within the choir were equally important. Bonding through fun games during trainings helped us build strong relationships, which proved essential during times of intense preparation. In a recent competition, our collective effort led to notable improvements, showing the power of working together. Overall, my time in the choir has not only helped me grow as a leader but has also strengthened my skills in resilience, teamwork, and communication, while providing lasting friendships and cherished memories.
+Through choir, I have learnt important values such as perseverance, teamwork, and self-confidence. I’ve also learnt to be true to myself even when performing in front of large crowds, where it’s easy to feel judged. What I enjoy most about choir is the strong sense of camaraderie—we are not just singing, we are growing together and supporting one another like a team.
 
-**_Sim En Qi Mabel<br>
-Year 3 Edison, President, 2024_**
+The leadership skills, confidence, and resilience I have built in choir will definitely help me in the future. Whether it’s in job interviews, public speaking, or career opportunities, I now feel more equipped to present myself, connect with others, and stay grounded in who I am. Instead of seeking approval from everyone, I’ve learnt to focus on staying true to my own journey—and that’s something I will carry with me for life.
+
+
+**_Felicia Chia<br>
+Year 3 Einstein, President, 2025_**
 
 ![](/images/band-1.png)
 <h5>Concert Band</h5>
