@@ -4,7 +4,7 @@ permalink: /experience/cca/performing-arts/choir/
 description: ""
 variant: markdown
 ---
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcL_tISJYz2ZRdRIdj-_6nERgNwVIJ7VJDWC9ibC6caOKKkG_ZOSm_I73Sf6Em_hx69GxTOW289504LeYeZxVqzynNCv8LrS0682hqGXBunrm1eodXP91Z42UxuziPZfnAp8Fyvxwn2ERLFEq1cFe0zyyN76XWfzknsA64OopCWi20JCE1AsOM?key=S5886BJ85TqlgpkF19UzWg)
+![](/images/Sota.jpg)
 
 **Description** <br>
 
