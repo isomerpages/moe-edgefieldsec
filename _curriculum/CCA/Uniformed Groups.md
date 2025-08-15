@@ -51,11 +51,12 @@ Unit Sergeant Major, 2024_**
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/scouts).
 
-In Scouts, one does not only practice outdoor survival skills such as the starting of fires, but also learn soft skills such as how to lead a group of people. It is an inclusive community that allows for every Scout to forge new bonds with people of different ages and cultures and create many good memories through experiences such as camps.&nbsp;
+My CCA, Scouts, has helped me by teaching me valuable skills that are essential for camping through different activities and camps. Not only that, I have also fostered new mindsets through CCA training such as to never give up and keep trying. Together with my peers, those mindsets help us get through challenges, both in and out of CCA.&nbsp;
 
-My Scouting experience in Secondary school has been an exciting one. Our Unit Camp this year gave us the opportunity to plan and execute the many activities that made our Camp a memorable one. There were moments of disagreement and misunderstanding but we managed to work them out. These experiences allowed us to develop ourselves not only as leaders, but also as better friends, and ultimately better people.&nbsp;
+Through my fulfilling journey in Scouts, I’ve learnt the importance of resilience, teamwork, and discipline. Whether it’s pushing through tough training sessions or working closely with my CCA mates to achieve a shared goal, these experiences have shaped my character and mindset. What i enjoy is the strong sense of camaraderie within the CCA — it feels like a second family. Every session brings a mix of challenges and fun, and I always look forward to learning something new while growing together with my peers.&nbsp;
 
-In these 3 years, I have made many new friends, and have seen my peers and myself develop our skills. The many Scouting activities have allowed us to bond, especially through overcoming obstacles that stand in our way.
+The values I’ve learnt — such as resilience, teamwork, and discipline — will definitely help me in the future. Resilience will keep me going when I face challenges in school, work, or life. Teamwork is essential in any job or environment that involves groups, and being able to work well with others is a valuable skill. Discipline helps me stay focused, manage my time, and stay committed to my goals. These lessons from CCA are not just for now — they shape who you are and will prepare you for the real world in the future.
 
-_**Tristan Hoh Hon Ryui<br>
-Year 3 Emerson, Troop Leader, 2024**_
+_**Kayden Lim Cheng Kiat<br>
+Troop Leader, 2025**_
+ 
