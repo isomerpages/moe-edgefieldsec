@@ -37,14 +37,14 @@ Year 4 Euclid, Unit Chairperson, 2025**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
     
-As an NCDCC leader, I have witnessed firsthand the profound impact this CCA has on our cadets. Through rigorous training in first aid, fire safety, and emergency response, our members gain invaluable practical skills that are crucial in real-world situations. 
+NCDCC has equipped me with valuable leadership skills, such as managing large groups, planning large-scale activities, and communicating effectively with different stakeholders. I've learned to stay calm under pressure and approach challenges with a clear and level-headed mindset, regardless of the situation.
   
-The values we instill—Noble, Caring, Disciplined, Courageous, Commited—are foundational for their personal growth. The cadets take pride in their ability to help others, fostering a strong sense of community spirit. They also enjoy the camaraderie and the hands-on nature of our activities, such as learning the CPR and useful first aid skills, which keep them engaged and motivated.
+Among all the experiences I've had in NCDCC, the most memorable and enjoyable moments were spent with my seniors — whether working together on badgework or participating in various activities. These interactions taught me a lot and made my journey in the CCA especially meaningful.
   
-These experiences not only prepare them for potential careers in healthcare or emergency services but also ensure they are well-rounded individuals ready to face future challenges with confidence and compassion.
+Looking back, I’m confident that the skills and experiences I’ve gained through NCDCC will continue to benefit me in the future. I’m truly grateful that, out of all the CCAs I could have chosen, I had the opportunity to be part of NCDCC.
 
-**_Ng Jun Wei Jovan  
-Unit Sergeant Major, 2024_**
+**_Zayan Aftab 
+Unit Sergeant Major, 2025_**
 
 ![](/images/scouts-1.png)
 <h5>Scouts</h5>
