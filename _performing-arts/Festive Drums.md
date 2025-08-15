@@ -4,7 +4,6 @@ permalink: /experience/cca/performing-arts/festive-drums/
 description: ""
 variant: markdown
 ---
-
 ![](/images/National_Day_Fiesta_at_Punggol_21_CC.jpg)**Description** <br>
 Festive Drums CCA hopes to cultivate a “Synthesizing Mind” and “Disciplined Mind” in the students through drumming.  
 It is not solely on acquiring the correct rhythm, it is also about coordination and teamwork.  
