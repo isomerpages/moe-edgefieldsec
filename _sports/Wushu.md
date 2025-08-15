@@ -50,6 +50,7 @@ sportsmanship, perseverance, and empathy. Whether competing at National
 School Games, performing in school events or mentoring younger peers, the
 Wushu members exemplify excellence in both mind and heart, ready to thrive
 in school and beyond.</p>
+<p></p>
 <h4>Highlights / Achievements</h4>
 <p>The following students performed well in their respective events during
 the National School Games.</p>
