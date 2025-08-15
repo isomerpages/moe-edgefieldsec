@@ -41,15 +41,13 @@ Mr Wong Ban Heng William<br>
 Mr. Jimmy Lim Boon Leong
  
 **Student Leaders** <br>
-**_Girls_** <br>
-Captain: Quek Lianne Caunca (3EH)<br>
-Vice-Captain: Tan Xi En (3EM), Wan Xin Yi (3EM)<br>
-Quarter-mistress: Erika Fitrina Binte Azrin (3EU)<br>
-CCA Peer Support Leader: Chen Jing Han (3EL)
+**_Girls:_**<br>
+Captain: LEE SI YI SANDRA 3EU<br>
+Vice Captain: ONG YAN EE 3EC
 
-**_Boys_** <br>
-Captain: Jovann Cher Rui Heng (3LU)<br>
-Vice-Captain: Lai Kit Yeung (3EL)
+Boys:
+Captain: LIM JIA XU 3ED
+Vice Captain: LIANG ZHI YUAN 3EC
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 **_Boys_** <br>
