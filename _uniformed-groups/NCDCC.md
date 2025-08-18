@@ -26,6 +26,8 @@ National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 -
 _Distinction_<br>
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
+![](/images/NCDCC_Day_2025_1.jpg)
+
 ![](/images/NCDCC.png)
 
 ![](/images/NCDCC_Day_2025_2.jpg)
