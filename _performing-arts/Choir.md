@@ -4,22 +4,21 @@ permalink: /experience/cca/performing-arts/choir/
 description: ""
 variant: markdown
 ---
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcL_tISJYz2ZRdRIdj-_6nERgNwVIJ7VJDWC9ibC6caOKKkG_ZOSm_I73Sf6Em_hx69GxTOW289504LeYeZxVqzynNCv8LrS0682hqGXBunrm1eodXP91Z42UxuziPZfnAp8Fyvxwn2ERLFEq1cFe0zyyN76XWfzknsA64OopCWi20JCE1AsOM?key=S5886BJ85TqlgpkF19UzWg)
+![](/images/Sota.jpg)
 
 **Description** <br>
-Choir CCA offers students the opportunity to sing different kinds of music. Students get to be around others who share their interest in music.&nbsp;
 
-Making music with a group of schoolmates will give students just the balance they need between practising alone at home and singing with a group.&nbsp;
+Choir CCA offers students the opportunity to explore their interest in singing while building essential life skills. Through regular rehearsals and performances, students develop focus, discipline, and teamwork—growing both in skill and character, in line with our mission of Growing Minds, Glowing Hearts.&nbsp;
 
-Choir also reinforces the skills of cooperation which are among the qualities most highly valued in school, business and industry.&nbsp;
+By making music together, students learn to listen attentively, cooperate closely, and work toward shared goals. The experience fosters compassion as they support one another during practices and performances, and courage as they gradually build the confidence to perform on stage and express themselves with authenticity.&nbsp;
 
-It is a group effort which focuses on group goals and the completion of those goals in each and every rehearsal and performance.&nbsp;
-
-Students will discover how to listen carefully and they will be able to monitor their sound based on how it feels.&nbsp;
-
-Students are able to work on their ear and social skills. Performance anxiety will also be reduced by singing with a group.
+Beyond vocal training, the CCA nurtures social awareness, emotional resilience, and a sense of belonging—preparing students for future challenges in and beyond school.
 
 **Highlights / Achievements** <br>
+  
+Singapore Youth Festival 2025<br> 
+_Accomplishment_
+
 Singapore International Choral Festival 2024<br>
 _Silver_
 
@@ -39,12 +38,12 @@ _Accomplishment_
 
 **Teachers in Charge** <br>
 Ms Andrea Lim <br>
-Mrs Grace Lewis
+Mdm Teo Lee Loo
 
 **Student Leaders**  
-President: Sim En Qi Mabel (3ED)  <br>
-Vice-President: Koh Zhe Hui, Ashley (3EL)<br>
-Student Conductor: Lim Jia Yi (Lin Jiayi) (3EM)
+President: Felicia Chia 3ES<br> 
+Vice President: Janice Lim En Ru 3EL<br>
+Student Conductor: Siang Reng Kai Javier 3EV
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Hours** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4.00 to 6.00 pm  <br>

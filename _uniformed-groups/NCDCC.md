@@ -4,7 +4,6 @@ permalink: /experience/cca/uniformed-groups/ncdcc/
 description: ""
 variant: markdown
 ---
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SRrPwZA4oFY?si=IjHU5Kf-IVTs88mS" height="315" width="560"></iframe><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KtzPWlHfR9E?si=bjqnx1IU4w6x_nOK" height="315" width="560"></iframe>
 
@@ -23,19 +22,21 @@ We adopt a structured approach towards the development of programmes that will e
 (3) Choices - Making the choice to care, serve and impact.
 
 **Highlights / Achievements** <br>
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2024
-- Distinction<br>
+National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2024<br>
+_Distinction_<br>
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
+![](/images/NCDCC_Day_2025_1.jpg)
 
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2019 <br>
-_Silver_
+![](/images/NCDCC.png)
+
+![](/images/NCDCC_Day_2025_2.jpg)
 
 **Teachers in Charge:** <br>
 Mr Guo Xianlun<br>
-Mr Lim Mingxun<br>
+Ms Toh Si Qi<br>
 Mr See Qin Kai<br>
-Ms Toh Si Qi
+Mrs Jewelle Ho
 
 **Student Leaders**<br>
 Unit Sergeant Major: ZAYAN AFTAB, 3EV <br>

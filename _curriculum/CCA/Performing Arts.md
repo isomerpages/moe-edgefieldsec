@@ -10,12 +10,15 @@ variant: markdown
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
         
-Being part of the choir has been an incredibly rewarding journey. Participating in competitions taught me the level of dedication and hard work required to excel, while performing at a hospital for the elderly was a particularly memorable experience. It was fulfilling to connect with and uplift others through our music. Serving as choir president also came with responsibilities that significantly contributed to my personal growth. Leading warm-ups and delivering debriefs helped me develop my public speaking skills, and managing the group during rehearsals, like ensuring everyone stayed focused, strengthened my leadership and organizational abilities. Though initially daunting, these tasks ultimately boosted my confidence in addressing large groups and keeping the team on track.
+Being in choir has helped me develop leadership and communication skills. As Choir President, I was given the opportunity to lead the group during physical training and singing practices. I had to learn how to guide others, communicate clearly, and understand things from my members’ perspectives. Standing in front of the entire choir was a challenge at first, but it helped me grow in confidence and learn what it truly means to lead.
 
-The teamwork and camaraderie within the choir were equally important. Bonding through fun games during trainings helped us build strong relationships, which proved essential during times of intense preparation. In a recent competition, our collective effort led to notable improvements, showing the power of working together. Overall, my time in the choir has not only helped me grow as a leader but has also strengthened my skills in resilience, teamwork, and communication, while providing lasting friendships and cherished memories.
+Through choir, I have learnt important values such as perseverance, teamwork, and self-confidence. I’ve also learnt to be true to myself even when performing in front of large crowds, where it’s easy to feel judged. What I enjoy most about choir is the strong sense of camaraderie—we are not just singing, we are growing together and supporting one another like a team.
 
-**_Sim En Qi Mabel<br>
-Year 3 Edison, President, 2024_**
+The leadership skills, confidence, and resilience I have built in choir will definitely help me in the future. Whether it’s in job interviews, public speaking, or career opportunities, I now feel more equipped to present myself, connect with others, and stay grounded in who I am. Instead of seeking approval from everyone, I’ve learnt to focus on staying true to my own journey—and that’s something I will carry with me for life.
+
+
+**_Felicia Chia<br>
+Year 3 Einstein, President, 2025_**
 
 ![](/images/band-1.png)
 <h5>Concert Band</h5>
@@ -46,14 +49,12 @@ Year 4 Eliot, Vice-Chairperson (Welfare), 2024**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
     
-Before joining Festive Drums, I had no knowledge of this CCA at all. However as the years passed, I grew a deep fondness for this CCA and enjoyed every single moment of this CCA. Festive Drums helped me meet new friends and experiment with new things. 
-
-Throughout the three years in this CCA, I have learned to appreciate the time I spent with this CCA, with my peers and juniors. I have learned many values like teamwork and perseverance, which are life long values and will remain rooted in me for a long time. 
-
-Performing in front of a big audience not only in school but also at outside venues made me step out of my comfort zone and face my fears. From our first performance to our last, I felt that all members have actually grown emotionally, from being anxious and worried to being confident and excited. I look forward to making more memories with all my peers!
+Being in Festive Drums for the past 3 years has been of my absolute pride, honour, and joy. I can still fondly remember the first day when I stepped foot into this CCA, full of doubts and uncertainty, but all these overwhelming feelings were quickly masked by the warmth and sincerity that my seniors and coach had showered me with. Fast forward 3 years later, I am now a senior, and a leader of this CCA, leading and guiding my juniors the same way my seniors had poured their time, patience and guidance in me.
   
-**_Goh En Yu Kayla<br>
-Year 3 Eliot, Vice-Chairperson, 2024_**
+At the end of this journey, I know that I’m not just walking away with my drumming skills, but with the values that this CCA has instilled in me throughout my secondary school life; discipline, respect, and responsibility, which has shaped me into the person I am today. Not to mention, the invaluable friendships which I have forged over the past 3 years that are simply irreplaceable. As the Mandarin saying goes, “a minute on stage takes 10 years of training off-stage”. Being in Festive Drums has helped me appreciate the cultural art performances a little more because I’ve learnt about the hard work that goes on behind the scenes for every performance put up on stage.
+
+**_Karis Tee Ting Enoh En<br>
+Year 3 Eisenhower, Chairperson, 2025_**
 
 ![](/images/guzheng-1.png)
 <h5>Guzheng</h5>

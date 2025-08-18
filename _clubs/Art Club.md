@@ -16,14 +16,13 @@ to museums to view art exhibitions. Such visits will help them build appreciatio
 and awareness of art around them.</p>
 <p><strong>Highlights / Achievements</strong>
 </p>
-<p><strong><em>Singapore Youth Festival 2024 Art Exhibition</em></strong>
-<br>Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte
-(2ED)
-<br>ViaRT Award 2023:
-<br>The Most Creative Award (Third Prize)&nbsp;- Jaelyn Goh, Dandree Lim, Ong Sim
-Rui
-<br>Best Sustainable Message Award (Third Prize)&nbsp;- Chia Yu Xuan Cheyenne and
-Shannon Tan Xuan En</p>
+<p><strong><em>SINGAPORE YOUTH FESTIVAL 2024 ART EXHIBITION: </em></strong>
+</p>
+Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte (2ED)
+<br>ViaRT Award 2023: 
+<br>The Most Creative Award (Third Prize)- Jaelyn Goh, Dandree Lim, Ong Sim Rui
+<br>Best Sustainable Message Award (Third Prize)- Chia Yu Xuan Cheyenne and Shannon Tan Xuan En
+
 <p><strong><em>School contributions</em></strong>
 <br>Chinese New Year Festive Cards and WhatsApp sticker designs&nbsp;
 <br>EFSS 10th Anniversary Postcard Designs&nbsp;
