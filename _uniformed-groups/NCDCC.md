@@ -27,6 +27,7 @@ _Distinction_<br>
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
 
+![](/images/NCDCC_Day_2025_2.jpg)
 
 **Teachers in Charge:** <br>
 Mr Guo Xianlun<br>
