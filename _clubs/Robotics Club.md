@@ -16,8 +16,9 @@ Through these activities, students enhance technical skills and develop essentia
 <em>Bronze (Presentation)
 <br>Bronze (Spreadsheet)</em>
 
-**2023 IDE Series Robotics Category**<br>
-<em>8th placing</em>
+**IDE Series Robotics Category 2023, 2024, 2025**<br>
+<em>2023 – Open Category 8th placing </em><br>
+<em>2025 – IDE Sprint 13th and 15th Placing</em>
 
 **Drone Odyssey 2024**<br>
 <em>1st Runner Up – Champion Award (For Category B1)<br>
@@ -31,10 +32,25 @@ Through these activities, students enhance technical skills and develop essentia
 Best Team Spirit Award<br>
 Individual Judge's Award</em>
 
-**National Robotics Competition (NRC) 2023, 2024**
+**National Robotics Competition (NRC) 2023, 2024, 2025**
 
 **Hack@Code 2023**<br>
 <em>2nd Place for Robot Performance</em>
+
+**SIT Community Challenge 2024**
+<em>Top 5 Teams</em>
+
+**RoboRoarZ 2025**
+
+<em>National Software Competition (NSC) 2025</em>
+
+**WorldSkills Singapore 2025 (Junior Open VEX IQ Category)**<br>
+<em>Judges Award<br>
+Amaze Award
+
+**ACS Challenge 2025**<br>
+Sumo Robot – 1st Place
+
 
 **Teachers In Charge** <br>
 Mr Ng Teck Yeong<br>
@@ -48,4 +64,4 @@ Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &
 Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.00pm
 
 **Venue** <br>
-Epsilon Room
+Epsilon Room</em>
