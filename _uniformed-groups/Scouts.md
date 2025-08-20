@@ -17,6 +17,13 @@ _Goh Kah Meng (Class of 2014)_
 Chief Commissioner's Award 2024 - _Pinnacle Award for Scout Section_
 | Name | Class |
 | -------- | -------- |
+| Andrew Lim Zee Ho| Year 4 Einstein |
+| Kayden Ang Hock Yung | Year 4 Emerson |
+| Toh Jia Cheng| Year 4 Eisenhower |
+| Frionel Wijoyo Prasetio| Year 4 Eisenhower  |
+| Tan Yun Ze Ethan| Year 4 Euclid|
+| Tristan Hoh Hon Ryui| Year 4 Emerson|
+| Liau Zi Hao| Year 4 Einstein|
 | Wong Jian Wei| Year 4 Euler |
 | Alburo Gene Pablo Desuyo | Year 4 Emerson |
 |Ng Zung How | Year 4 Eisenhower |
@@ -37,7 +44,6 @@ _Chua Kwee Kiat Frazier (4EM)_&nbsp;<br>
 _Lye Jun Kang (4EH)_<br>
 _Maverick Lim Jia Min (4EV)_&nbsp;<br>
 _Soon Zhi Yuan (Alroy) (4EU)_&nbsp;
-
   
 
 North Area Scout Lore Quest 2022&nbsp;<br>
