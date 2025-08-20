@@ -45,6 +45,8 @@ Museum
 <p><strong>Student Leaders</strong> 
 <br>President: Winona Andenea Nirbitalarasati 3EL 
 <br>Vice President: Ong Sim Rui 3ES 
+<br>Peer Support Leader: Goh Pei Yi Belinda, 3EH 
+<br>Peer Support Leader: Dandree Lim, 3EU 
 </p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Shahidah
