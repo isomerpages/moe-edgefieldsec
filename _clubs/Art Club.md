@@ -43,8 +43,8 @@ Museum
 </p>
 <p></p>
 <p><strong>Student Leaders</strong> 
-<br>Arman Reno, (3EL)
-<br>Putri Indraqasih, (3EU)
+<br>President: Winona Andenea Nirbitalarasati 3EL 
+<br>Vice President: Ong Sim Rui 3ES 
 </p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Shahidah
