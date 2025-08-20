@@ -56,12 +56,12 @@ Sumo Robot – 1st Place
 Mr Ng Teck Yeong<br>
 Mr Edward Gan<br><br>
 **Student Leaders**<br>
-President: Catrina Lee Wen Hui (3EM)<br>
-Vice-President: Mohamed Rifath S/O Mohamed Maideen<br>
-CCA Peer Support Leaders: Lakksh Vishal (3EM), Neo Ee Tong (3EV)<br><br>
+President: Ng Ding Xing (3EL)<br>
+Vice-President: Kayla Tiong Yongyi (3ES)<br>
+CCA Peer Support Leaders: Keanan Leong Yan Qi (3EM), Ng Guan Ming (3EL)<br><br>
 **Training Schedule&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>
-Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.00pm
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.15 - 4.15pm
 
 **Venue** <br>
 Epsilon Room</em>
