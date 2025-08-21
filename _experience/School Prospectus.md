@@ -67,7 +67,7 @@ during the competition. I’ve come to understand that winning isn't everything
 and what truly matters is our effort, attitude and how we support one another.
 My CCA has helped me build confidence, discipline and a stronger sense
 of responsibility both as a teammate and an individual.</p>
-<p> <strong><em>Kenneth Tan Jia Le 3EM</em></strong>
+<p><strong><em>Kenneth Tan Jia Le 3EM</em></strong>
 </p>
 <p><strong>WUSHU</strong>
 </p>
@@ -75,7 +75,7 @@ of responsibility both as a teammate and an individual.</p>
 being the loudest voice, but the clearest. I learned to listen, guide,
 and stand firm with my team through challenges, rather than trying to show
 off or outshine others.</p>
-<p><strong><em>ETHAN TAN YONG AN, 3EU</em></strong>
+<p><strong><em>Ethan Tan Yong An, 3EU</em></strong>
 </p>
 <p><strong>ROBOTICS</strong>
 </p>
@@ -93,14 +93,14 @@ and to have had the opportunity to grow in my role as Vice- President.</p>
 <p>Art Club has been a fulfilling journey—where I grew as an artist, a leader,
 and a friend. Every moment spent creating, learning, and connecting is
 one I truly treasure.</p>
-<p><strong><em>WINONA ANDENEA NIRBITALARASATI, 3EL</em></strong>
+<p><strong><em>Winona Andenea Nirbitalarasati, 3EL</em></strong>
 </p>
 <p><strong>CHOIR</strong>
 </p>
 <p>Being a leader isn’t easy — there are many challenges and tough moments.
 But at the end of the day, when you see your members happy, you’ll realise
 that all the effort was worth it.</p>
-<p><strong><em>FELICIA CHIA, 3ES</em></strong>
+<p><strong><em>Felicia Chia, 3ES</em></strong>
 </p>
 <p><strong>CONCERT BAND</strong>
 </p>
@@ -108,7 +108,7 @@ that all the effort was worth it.</p>
 responsibility, communication, and trust. It’s not about commanding people,
 but about connecting members with teachers and conductors, supporting the
 team, and making decisions with the band’s best interests at heart.</p>
-<p><strong><em>SKY TENG LEE YANG, 3EC </em></strong>
+<p><strong><em>Sky Teng Lee Yang, 3EC</em></strong>
 </p>
 <p><strong>DANCE</strong>
 </p>
@@ -116,13 +116,14 @@ team, and making decisions with the band’s best interests at heart.</p>
 of class, level, or background. Through training and PT, we’ve developed
 endurance, resilience, and respect for dance culture, motivating us to
 participate actively and look forward to each practice.</p>
-<p>ARINA NURBELLA (3EM) &amp; TRINITY CHOY ZHI XI (3EL)</p>
+<p><strong><em>Arina Nurbella (3EM) &amp; Trinity Choy Zhi Xi (3EL)</em></strong>
+</p>
 <p><strong>SCOUTS</strong>
 </p>
 <p>The Scout's motto, ""Be Prepared"", has been critical in my growth as
 a person. Whether it is in my examinations, projects or relationships,
 living by this motto reminds me of the need to be ready for all situations.</p>
-<p><strong><em>LEONG WEI ZHE KENDRICK, 3ES </em></strong>
+<p><strong><em>Leong Wei Zhe Kendrick, 3ES</em></strong>
 </p>
 <p><strong>NPCC (SEA)</strong>
 </p>
