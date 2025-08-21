@@ -46,15 +46,7 @@ Secretary: Shiraaz AKHTAR FARUQUI 3EL<br>
 CCA Peer Support Leaders: Jayden Low Hong Kai 3EU
 CCA Peer Support Leaders/Sectional Leaders (Percussion) Chuan Sher Lyn 3ED<br>
 Quarter Master: Jovann Goh Yi Xian  3ES<br>
-Sectional Leader (Euphoniums) / Librarian: Alexander Maximus Mateo Koh (3EV)<br>
-Sectional Leader (French Horn): Koh Tian Rui (2ES)<br>
-Sectional Leader (Trumpet) / CCA PSL: Destinee Pan Xuanhui (3ES)<br>
-Sectional Leader (Tuba): Jade Tan Xin Yi (3EH)<br>
-Librarian: Adam Bin Mohamed Sahlan (3ES)<br>
-Quarter Master: Eng Ren Hao (Huang Renhao) (3EU)<br>
-Quarter Mistress: Lai Kit Wan (3EU)<br>
-Welfare IC: Mohamad Akif Angel Bin Mohamad Yusof (3EC)<br>
-Welfare 2IC: Rizq Mirrza Bin Muhammad Rahim (3EC)
+Librarian/Sectional Leaders (Euphonium/Tuba) Phua Jun Hean  3ED<br>
 
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
