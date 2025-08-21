@@ -12,6 +12,8 @@ Concert Band CCA offers students the opportunity to make music and grow together
 **Highlights / Achievements** <br>
 Singapore International Bands Festival 2024<br>
 _Silver_<br>
+Singapore Youth Festival 2025<br>
+_Accomplishment_<br> 
 
 Singapore Youth Festival 2023<br>
 _Accomplishment_<br>
