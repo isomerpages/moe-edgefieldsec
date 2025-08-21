@@ -36,15 +36,16 @@ _Accomplishment_
 
 **Teachers in Charge** <br>
 Mr Neo Jun Yang<br>
-Ms Joanna Neo&nbsp;<br>
+Ms Ms Foo Shi Jia<br>
+Mrs Chew-Lim Chai Hoon, Yvonne&nbsp;<br>
 
 **Student Leaders**<br>
-President: Tan Raphael Rhys Reynaldo (3EU)<br>
-Student Conductor: Song Xirui (3EL)<br>
-Sectional Leader (Percussion) / CCA PSL: Muhammad Ilyas Bin Fahmy (3EH)<br>
-Sectional Leader (Clarinet): Shannon Tan (3EH)<br>
-Sectional Leader (Flutes): Kayla Ng Qian Yu (3ES)<br>
-Sectional Leader (Saxaphone): Ghwee Kai Xuan, Zoel (3EM)<br>
+President: Koh Tian Rui 3ES<br>
+Student Conductor: Sky Teng Lee Yang 3EC<br>
+Secretary: Shiraaz AKHTAR FARUQUI 3EL<br>
+CCA Peer Support Leaders: Jayden Low Hong Kai 3EU
+CCA Peer Support Leaders/Sectional Leaders (Percussion) Chuan Sher Lyn 3ED<br>
+Quarter Master: Jovann Goh Yi Xian  3ES<br>
 Sectional Leader (Euphoniums) / Librarian: Alexander Maximus Mateo Koh (3EV)<br>
 Sectional Leader (French Horn): Koh Tian Rui (2ES)<br>
 Sectional Leader (Trumpet) / CCA PSL: Destinee Pan Xuanhui (3ES)<br>
