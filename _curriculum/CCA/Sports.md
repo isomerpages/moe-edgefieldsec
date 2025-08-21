@@ -72,12 +72,10 @@ Year 3 Euler, Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
 
-The Taekwondo CCA equipped me with technical skills through experienced instructors, focusing on physical conditioning in a safe environment. Beyond sports, it taught discipline and resilience, preparing me for the National Team. Taekwondo empowered me with confidence and self-defense skills, enabling success in local and international competitions. It emphasized character development, discipline, respect, and self-control. The mental and physical strength gained continues to propel me towards new goals in both sports and life.
+I have learnt a lot of things in CCA. CCA taught me to be more direct and confident, and it influenced me to lead a better and physical lifestyle and I started to exercise on my own. However I am most grateful to meet many people I treasure, such as cca mates, people who participated in the taekwondo NSG, and even my coaches. Without my cca I wouldn’t have met these amazing people, and that’s what I love most.
 
-_**Tan Xin Jie Germaine<br>
-Year 1, 2024<br>
-Member of the Singapore Taekwondo National Team<br>
-Recipient of the ⁠2024 SSSC Best Sportsgirl Award (Taekwondo)**_<br>
+_**Ashton Goh Guan Feng <br> 
+Year 3 Euler**_
 
 
 ![](/images/volleyball-1.png)
