@@ -23,8 +23,6 @@ We adopt a structured approach towards the development of programmes that will e
 
 **Highlights / Achievements** <br>
 National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2024<br>
-_Distinction_<br>
-National Civil Defence Cadet Corps (NCDCC) Unit Overall Proficiency Award 2021 - 2023<br>
 _Gold_
 ![](/images/NCDCC_Day_2025_1.jpg)
 
@@ -43,6 +41,24 @@ Unit Sergeant Major: ZAYAN AFTAB, 3EV <br>
 Assistant Sergeant Major (Training): KHLOE LIM JOO YEE, 3EU<br>
 Assistant Sergeant Major (Operations): CLARISSE LIM JIA XUAN, 3EV<br>
 Assistant Sergeant Major (Development): ETHAN LIM, 3ES
+
+**Patrol Leaders**<br> 
+KOK CHIN YU, JAMES (3EC)<br> 
+JAYDEN MOK (3ES) <br> 
+LEE JUN KAI (3ES) <br> 
+LEONG WEI ZHE KENDRICK (3ES) <br> 
+ABHISHEK TRIPATHY (3EU) <br> 
+TAN LE XUAN CYRIL (3EU) <br> 
+MIGUEL ETHAN INTATANO ANCHETA (3EV) <br> 
+
+**Assistant Patrol Leaders**
+KEE YU ZHE LUCAS (3ED) <br> 
+LOW ZHI KAI, DARIUS (3ED) <br> 
+TNG ZHUN YANG, ZAVIER (3ES) <br> 
+ZECHARIAH AW HAO RAN (3ES) <br> 
+LIM EN JUN ARIUS (3EU) <br> 
+PANG TIANG LUCK (3EU) <br> 
+NG CHUN YONG (3EV) <br> 
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Training Time** <br>
 

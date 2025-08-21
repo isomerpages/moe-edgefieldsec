@@ -41,8 +41,11 @@ Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
     
 Shooting as a CCA has sharpened my ability to stay calm and focused under pressure, a skill that is crucial in achieving accuracy during competitions. The sport demands intense concentration, quick decision-making, and physical control, all of which I have developed through regular training and challenging match conditions.<br>
+
 Beyond skill, Shooting has instilled in me important values such as discipline, perseverance, and teamwork. I have learned the importance of remaining composed when things do not go as planned, and the value of supporting one another as a team. What I enjoy most is the strong camaraderie within the CCA — the shared experiences, from training sessions to the adrenaline of competitions, have created bonds I will always treasure.<br>
+
 These skills and values will serve me well in the future, both in my studies and career. The focus and discipline I have gained will help me tackle complex challenges, while perseverance and teamwork will enable me to work effectively with others in any environment. Most importantly, the confidence built through leading as Captain has prepared me to take on leadership roles beyond school.<br>
+
 _**Senthilkumar Hares **  
 **Year3 Euler, Captain, 2025**_
  
@@ -69,12 +72,10 @@ Year 3 Euler, Captain, 2024**_
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
 
-The Taekwondo CCA equipped me with technical skills through experienced instructors, focusing on physical conditioning in a safe environment. Beyond sports, it taught discipline and resilience, preparing me for the National Team. Taekwondo empowered me with confidence and self-defense skills, enabling success in local and international competitions. It emphasized character development, discipline, respect, and self-control. The mental and physical strength gained continues to propel me towards new goals in both sports and life.
+I have learnt a lot of things in CCA. CCA taught me to be more direct and confident, and it influenced me to lead a better and physical lifestyle and I started to exercise on my own. However I am most grateful to meet many people I treasure, such as cca mates, people who participated in the taekwondo NSG, and even my coaches. Without my cca I wouldn’t have met these amazing people, and that’s what I love most.
 
-_**Tan Xin Jie Germaine<br>
-Year 1, 2024<br>
-Member of the Singapore Taekwondo National Team<br>
-Recipient of the ⁠2024 SSSC Best Sportsgirl Award (Taekwondo)**_<br>
+_**Ashton Goh Guan Feng <br> 
+Year 3 Euler**_
 
 
 ![](/images/volleyball-1.png)

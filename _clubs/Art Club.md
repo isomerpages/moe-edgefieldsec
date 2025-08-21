@@ -30,6 +30,9 @@ Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte (2E
 <br>ARTasFest Flash Card Designs&nbsp;
 <br>SYF goes online!: Art Lab activities</p>
 <p><strong><em>Art Competitions</em></strong> 
+<br>2024 ViArt Competition The Most Artistic Award 3rd Place
+<br>2024 Live On Design Competition Merit Award
+<br>2023 ViArt Competition The Most Creative Award 3rd Place
 <br>Participation in SYF Arts Presentation 2022
 <br>Finalist Achievement in VIArt Recycled Competition 2021
 <br>Draw My Stamp Story Art Competition organised by Singapore Philatelic
@@ -40,8 +43,10 @@ Museum
 </p>
 <p></p>
 <p><strong>Student Leaders</strong> 
-<br>Arman Reno, (3EL)
-<br>Putri Indraqasih, (3EU)
+<br>President: Winona Andenea Nirbitalarasati 3EL 
+<br>Vice President: Ong Sim Rui 3ES 
+<br>Peer Support Leader: Goh Pei Yi Belinda, 3EH 
+<br>Peer Support Leader: Dandree Lim, 3EU 
 </p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Shahidah

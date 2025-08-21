@@ -5,9 +5,13 @@ description: ""
 variant: markdown
 ---
 **Description** <br>
-The Edgefield Robotics Club immerses students in the world of robotics through hands-on learning and innovation. Guided by experienced trainers, members master the fundamentals of constructing and programming miniature robots using LEGO MINDSTORM EV3 and LEGO SPIKE PRIME. The curriculum also includes drone programming and operation, offering a comprehensive technological education. <br><br>
-Our club aims to cultivate a passion for robotics and prepare students for national competitions. Talented individuals identified within our ranks receive specialized training to excel on a national stage. <br><br>
-Through these activities, students enhance technical skills and develop essential soft skills such as teamwork, leadership, and project management. Join the Edgefield Robotics Club and unleash your potential in the dynamic world of robotics!
+The Edgefield Robotics Club is “Where Creativity Meets Technology”. It offers students a dynamic space to explore innovation through hands-on problem-solving. Members design, build, and program robots using LEGO MINDSTORM EV3 and LEGO SPIKE PRIME and also gain experience in drone programming and flight.
+
+Through engaging projects and competitions, students learn to persevere through challenges, adapt their ideas, and collaborate closely with peers. Along the way, they develop confidence, initiative, and the ability to communicate their ideas effectively.
+
+Beyond building robots, the club equips students with future-ready skills — from inventive thinking and teamwork to digital fluency and resilience. These experiences prepare them not only for competitions but also for the evolving world of technology, innovation, and meaningful contributions to society.
+
+The Edgefield Robotics Club is where students discover their potential as innovators, leaders, and team players—ready to embrace the opportunities and challenges of the future.
 
 **Highlights / Achievements** <br><br>
 **Swift Explorer Singapore (SES) 2023**
@@ -16,8 +20,9 @@ Through these activities, students enhance technical skills and develop essentia
 <em>Bronze (Presentation)
 <br>Bronze (Spreadsheet)</em>
 
-**2023 IDE Series Robotics Category**<br>
-<em>8th placing</em>
+**IDE Series Robotics Category 2023, 2024, 2025**<br>
+<em>2023 – Open Category 8th placing </em><br>
+<em>2025 – IDE Sprint 13th and 15th Placing</em>
 
 **Drone Odyssey 2024**<br>
 <em>1st Runner Up – Champion Award (For Category B1)<br>
@@ -31,21 +36,36 @@ Through these activities, students enhance technical skills and develop essentia
 Best Team Spirit Award<br>
 Individual Judge's Award</em>
 
-**National Robotics Competition (NRC) 2023, 2024**
+**National Robotics Competition (NRC) 2023, 2024, 2025**
 
 **Hack@Code 2023**<br>
 <em>2nd Place for Robot Performance</em>
+
+**SIT Community Challenge 2024**
+<em>Top 5 Teams</em>
+
+**RoboRoarZ 2025**
+
+<em>National Software Competition (NSC) 2025</em>
+
+**WorldSkills Singapore 2025 (Junior Open VEX IQ Category)**<br>
+<em>Judges Award<br>
+Amaze Award
+
+**ACS Challenge 2025**<br>
+Sumo Robot – 1st Place
+
 
 **Teachers In Charge** <br>
 Mr Ng Teck Yeong<br>
 Mr Edward Gan<br><br>
 **Student Leaders**<br>
-President: Catrina Lee Wen Hui (3EM)<br>
-Vice-President: Mohamed Rifath S/O Mohamed Maideen<br>
-CCA Peer Support Leaders: Lakksh Vishal (3EM), Neo Ee Tong (3EV)<br><br>
+President: Ng Ding Xing (3EL)<br>
+Vice-President: Kayla Tiong Yongyi (3ES)<br>
+CCA Peer Support Leaders: Keanan Leong Yan Qi (3EM), Ng Guan Ming (3EL)<br><br>
 **Training Schedule&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>
-Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.00pm
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.15 - 4.15pm
 
 **Venue** <br>
-Epsilon Room
+Epsilon Room</em>
