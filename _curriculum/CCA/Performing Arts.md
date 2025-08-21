@@ -53,8 +53,10 @@ Being in Festive Drums for the past 3 years has been of my absolute pride, honou
   
 At the end of this journey, I know that I’m not just walking away with my drumming skills, but with the values that this CCA has instilled in me throughout my secondary school life; discipline, respect, and responsibility, which has shaped me into the person I am today. Not to mention, the invaluable friendships which I have forged over the past 3 years that are simply irreplaceable. As the Mandarin saying goes, “a minute on stage takes 10 years of training off-stage”. Being in Festive Drums has helped me appreciate the cultural art performances a little more because I’ve learnt about the hard work that goes on behind the scenes for every performance put up on stage.
 
-**_Karis Tee Ting Enoh En<br>
-Year 3 Eisenhower, Chairperson, 2025_**
+Throughout the past 3 years, I've not just grown in my physical strength carrying the drums and doing physical training, but in my mental capacity, and more than that, I've grown as a person; to step out of my comfort zone, to be bold, confident, and to work as a team, to drum with one beat, one voice. 
+
+**_Seah Zhi Ying<br>
+Vice President, 2025_**
 
 ![](/images/guzheng-1.png)
 <h5>Guzheng</h5>
