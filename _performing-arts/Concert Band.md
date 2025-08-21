@@ -4,7 +4,7 @@ permalink: /experience/cca/performing-arts/concert-band/
 description: ""
 variant: markdown
 ---
-![](/images/2016-CCA-CONCERTBAND-1.jpg)
+![](/images/2016-CCA-CONCER![](/images/61f038b9_8747_46d9_81ee_5c4e6050e420.jpg)TBAND-1.jpg)
 
 **Description** <br>
 Concert Band CCA offers students the opportunity to make music and grow together as one. In Secondary One, each student will be assigned to a section where they will learn the basics of an instrument and develop their musical expertise. From woodwind instruments like the flute and clarinet to the indispensable brass instruments, there is something for everyone. Through the training sessions, students forge camaraderie and develop valuable friendships. The CCA reinforces the skills of cooperation which are among the qualities most highly valued in school, business and industry. It is a group effort which focuses on group goals and the completion of those goals in each and every rehearsal and performance.
