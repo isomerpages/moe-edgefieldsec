@@ -158,6 +158,10 @@ and resilient Singapore.</p>
 excellence, and serve with integrity. Most importantly, NPCC has shaped
 me into someone who strives to make a meaningful difference in my community.
 Thank you, NPCC, for shaping the person I am today.</p>
+<p>NPCC has shaped me from a cadet into a leader, teaching me values of discipline,
+respect, teamwork, and resilience. Through challenges and achievements,
+I learnt to care for those I lead, adapt with integrity, and serve with
+purpose.</p>
 <p><strong><em>Aiden Er Yong Le, 3EV</em></strong>
 </p>
 <p><strong>NCDCC</strong>
