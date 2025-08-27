@@ -347,11 +347,14 @@ variant: markdown
 <br>Ms Chen Yantong<br>
 Ms Juliawaty</p>
 <p><strong>Student Leaders</strong><br>
-	Captain: Michael Gabriel Suhendra (3EV)<br>
-	Vice-Captain (Training/Poomsae): Locanas Frances Maria Gabilan (3ED)<br>
-	Vice-Captain (Training/Kyorugi): Declan Darrell Joan (3EV)<br>
-	Vice-Captain (Admin): Miki Yap Jia Min (3EL)<br>
-	Vice-Captain (Welfare): Natalyn Lim Wei En (3ED)
+Captain: Ashton Goh Guan Feng (3EU)<br>
+Vice-Captain (Training/Poomsae): Faith Seah (3EU)<br>
+Vice-Captain (Training/Kyorugi): Zayne Teo Kai Xiang (3EM)<br>
+Vice-Captain (Welfare): Yap Hshuen (3ES)<br>
+Vice-Captain (Admin): Gwendolyn Chong (3EU)<br>
+Vice-Captain (Logistics): Leau Jun How, Matthias (3EL)
+	
+
 </p><p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Training Time</strong> 
 <br>Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
