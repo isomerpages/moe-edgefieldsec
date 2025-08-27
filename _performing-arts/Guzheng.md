@@ -12,6 +12,9 @@ In every rehearsal and performance, students uphold honour by showing respect to
 Beyond musical skill, the Guzheng Ensemble develops resilience, discipline, and teamwork, providing students with a meaningful platform to grow as musicians and as individuals of integrity.
 
 **Highlights / Achievements** <br>
+2025 SYF Arts Presentation Instrumental Ensemble (Guzheng)<br> 
+_Certificate of Distinction_<br>
+
 Singapore Youth Festival 2023<br>
 _Accomplishment_
 
