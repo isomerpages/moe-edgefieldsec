@@ -7,10 +7,13 @@ variant: markdown
 ![](/images/2015-CCA-GIRLGUIDES.jpg)
 
 **Description** <br>
-Edgefield Girl Guides aims to provide girls with opportunities for self-training in the development of character and opportunities to discover and develop their strengths, skills and their fullest potential through various activities. These are done through a comprehensive 5-Point Programme, in hopes to develop and empower them to become responsible citizens of the world.&nbsp;
+Edgefield Girl Guides aims to provide girls with opportunities to discover their strengths, skills and fullest potential to become responsible citizens of the world. Through the Five-Point Programme, we are devoted to helping them build courage, confidence and character to make the world a better place. Our girls develop self-assurance and vital leadership and life skills -- all while learning through fun adventures and making lifelong friendships!&nbsp;
+
 
 **Highlights / Achievements** <br>
-2024 North Division Day - Art Competition (The World After Climate Change) - 1st Place<br> Mea Goh Yun Ning, 3ED<br> Janelle Alegria Lim Hwee Woon, 3EM<br><br>
+2025 Dream Brownies Room (Merit)<br> _Loh Jia Xin 1EU, Elisha Myla Ho 3EL_<br>
+2024 North Division Day - Art Competition (The World After Climate Change) - 1st Place<br> _Mea Goh Yun Ning, 3ED<br> Janelle Alegria Lim Hwee Woon, 3EM_<br><br>
+2024 Puan Noor Aishah (PNA) Award - 1st Company Gold Award<br><br>
 2023 Puan Noor Aishah (PNA) Award - 1st Company Gold Award<br><br>
 2023 North Division Outdoor Challenge<br>
 2nd Placing - Wide Game (in collaboration with Seng Kang Pri)_<br>
