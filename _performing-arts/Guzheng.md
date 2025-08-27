@@ -5,7 +5,11 @@ description: ""
 variant: markdown
 ---
 **Description** <br>
-The Guzheng CCA aims to cultivate students’ interest and passion for Chinese culture and values through the learning of a traditional Chinese instrument. It seeks to develop students’ sense of pride and confidence in public performance, by actively proving platforms for exposure to on-stage experience for its members and foster perseverance, patience and a spirit of excellence in students through the practice of musical pieces. Students will attain personal mastery in playing the Guzheng, perform and showcase talents in a professional and competition setting as well as work together as a team towards a common goal.
+The Guzheng Ensemble nurtures a love for traditional Chinese music while cultivating character and values in our students. Through the rich, expressive sounds of the guzheng, members learn the importance of sincerity — to practise with dedication, to perform with authenticity, and to stay true to the spirit of the music.
+
+In every rehearsal and performance, students uphold honour by showing respect to their instrument, their peers, and the cultural heritage they represent. They take pride in working together harmoniously, striving for excellence as individuals and as an ensemble.
+
+Beyond musical skill, the Guzheng Ensemble develops resilience, discipline, and teamwork, providing students with a meaningful platform to grow as musicians and as individuals of integrity.
 
 **Highlights / Achievements** <br>
 Singapore Youth Festival 2023<br>
