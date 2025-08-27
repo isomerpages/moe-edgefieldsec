@@ -34,8 +34,8 @@ Ms Shazleen <br>
 Ms Zhao Meiling
 
 **Student Leaders** <br>
-President: Keryn Chua Yun Jia (Cai Yunjia) (3EH) <br>
-Vice-President: Lee Xuan Nuo, Gwen (3ES)
+President: Cherise Ong Rui Min 3EL <br>
+Vice-President: Hu Yawen 3EV  
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>
