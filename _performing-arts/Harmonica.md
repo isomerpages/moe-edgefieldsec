@@ -14,6 +14,11 @@ Under the coaching of Ms He Hui Teng, conductor of Spresso Harmonica Ensemble, E
 Beyond musical excellence, our members grow as Compassionate Leaders through active community engagement such as public performances to commemorate meaningful events. Through such performances, students grow their confidence and make a positive impact in our community.
 
 **Highlights / Achievements** <br>
+Singapore Youth Festival 2025<br> 
+_Distinction 
+
+Punggol Shore National Day Fiesta 2025<br>
+
 Singapore Youth Festival 2023<br>
 _Accomplishment_
 
@@ -31,16 +36,18 @@ Singapore Youth Festival 2017 <br>
 _Accomplishment_
 
 **Student Leaders** <br>
-President: Xavier Loh, 3EM  <br>
-Vice-President: Megan Low, 3EL 
+President: Luanne Liang Kaixin, 3EC<br>
+Vice-President: Falisyah Aareeya Ruzaini, 3ED
 
 **Teachers in Charge** <br>
-Mrs Serene Ng  <br>
-Mdm Yeo Ai Peng
+Mdm Yeo Ai Peng<br>
+Mr Lim Mingxun
+
+
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 – 5.30pm <br>
 Wednesday&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 – 5.30pm
 
 **Venue** <br>
-IT Resource Room 1
+Computer Lab 1
