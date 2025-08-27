@@ -88,16 +88,12 @@ _**This CCA is not offered to Year 1 students from 2025 onwards**_
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/harmonica).
     
-Ever since we joined the Harmonica CCA, we have learnt how to play a new instrument and appreciated the diverse genres of music. From rousing pop music to melodious classical tunes, we take delight in the joyous performances of these beautiful music pieces with every member of the band.&nbsp;Even if one does not have any musical background, it is not too hard to master the harmonica!&nbsp;
-
-Being CCA leaders has also taught us many valuable lessons. From leading the juniors, especially at areas they are struggling with, to inspiring teamwork in the band, not only do we hone our leadership skills, we are also humbled&nbsp;by what we can learn from other members. In our growth&nbsp;and development as a leader, we have grown to be confident and empathetic, becoming better versions of ourselves.&nbsp; Beyond the CCA, the&nbsp;values of resilience and perseverance are also applied in our classroom learning, helping us stay focused on our goals and improving our performances.&nbsp;
-
-Through the many practices and performances, we have created deeper bonds within the band as we encourage and support one another along this journey of music making. Harmonica CCA has certainly brought us closer together despite our diverse backgrounds and personalities, helping us to better appreciate the beauty in diversity.
+Joining Harmonica CCA has been a transformative journey. At first, we were hesitant to lead or share our ideas, but the supportive environment helped us grow in confidence and step out of our comfort zones. Learning the harmonica opened our eyes to the beauty of different musical genres, and performing as a group brought us closer together. As leaders, we’ve gained valuable skills in guiding others, fostering teamwork, and showing empathy.  These experiences have shaped us into more resilient and confident individuals, with lessons that extend beyond CCA into our daily lives. 
   
-**_Xavier Loh Yuan Cheng,<br>
-Year 3 Emerson, President, 2024_**
-<br>and **_Megan Low Mei Chen,<br>
-Year 3 Euclid, Vice-President, 2024_**
+**_ Luanne Liang Kaixin,<br>
+Year 3 Euclid, President, 2025_**
+<br>and **_Falisyah Aareeya Ruzaini,<br>
+Year 3 Edison, Vice-President, 2025_**
 
 ![](/images/modern%20dance-1.png)
 <h5>Modern Dance</h5>
