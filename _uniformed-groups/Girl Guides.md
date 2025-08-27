@@ -59,22 +59,19 @@ _1st Company – Silver_ <br>
 _2nd Company – Silver_
 
 **Teachers in Charge** <br>
-Mdm Azyan Liyana <br>
-Mdm Koo Sin Yee&nbsp;<br>
 Ms Saw Xueting <br>
-Ms Puteri Sukma Wee
 
 **Student Leaders** <br>
-Company Leader: Mea Goh Yun Ning, 3ED <br>
-Assistant Company Leader: Joelle Goh Jia Ni, 3EL<br>
-Senior Patrol Leader: Allison Cheng Min Rui, 3EV <br>
-Senior Patrol Leader: Ng Nuan Jing Crystal, 3EH<br>
-Senior Patrol Leader: Nisriina Binte Imran, 3ES<br>
+Company Leader - Sybil Anne De Souza Faria 3EM<br> 
+Assistant Company Leader - Nur Sakinah Binte Mohd Ridzwan 3EH <br>
+Senior Patrol Leader - Training Quek Jia En Gracilia 3ED <br>
+Senior Patrol Leader - WelfareElisha Myla Ho 3EL 
+
 
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
-Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;4.00 - 6.00pm <br>
-Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4.00 - 6.00pm
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.30- 5.30pm <br>
+
 
 **Venue** <br>
-Girl Guides Room
+Girl Guides Room, school compound and external venues
