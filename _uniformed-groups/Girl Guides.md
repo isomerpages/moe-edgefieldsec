@@ -4,7 +4,7 @@ permalink: /experience/cca/uniformed-groups/girl-guides/
 description: ""
 variant: markdown
 ---
-![](/images/2015-CCA-GIRLGUIDES.jpg)
+!![](/images/Edgefield_Girl_Guides_Photo_for_School_Website.jpg)[](/images/2015-CCA-GIRLGUIDES.jpg)
 
 **Description** <br>
 Edgefield Girl Guides aims to provide girls with opportunities to discover their strengths, skills and fullest potential to become responsible citizens of the world. Through the Five-Point Programme, we are devoted to helping them build courage, confidence and character to make the world a better place. Our girls develop self-assurance and vital leadership and life skills -- all while learning through fun adventures and making lifelong friendships!&nbsp;
