@@ -4,13 +4,16 @@ permalink: /experience/cca/uniformed-groups/girl-guides/
 description: ""
 variant: markdown
 ---
-![](/images/2015-CCA-GIRLGUIDES.jpg)
+!![](/images/Edgefield_Girl_Guides_Photo_for_School_Website.jpg)[](/images/2015-CCA-GIRLGUIDES.jpg)
 
 **Description** <br>
-Edgefield Girl Guides aims to provide girls with opportunities for self-training in the development of character and opportunities to discover and develop their strengths, skills and their fullest potential through various activities. These are done through a comprehensive 5-Point Programme, in hopes to develop and empower them to become responsible citizens of the world.&nbsp;
+Edgefield Girl Guides aims to provide girls with opportunities to discover their strengths, skills and fullest potential to become responsible citizens of the world. Through the Five-Point Programme, we are devoted to helping them build courage, confidence and character to make the world a better place. Our girls develop self-assurance and vital leadership and life skills -- all while learning through fun adventures and making lifelong friendships!&nbsp;
+
 
 **Highlights / Achievements** <br>
-2024 North Division Day - Art Competition (The World After Climate Change) - 1st Place<br> Mea Goh Yun Ning, 3ED<br> Janelle Alegria Lim Hwee Woon, 3EM<br><br>
+2025 Dream Brownies Room (Merit)<br> _Loh Jia Xin 1EU, Elisha Myla Ho 3EL_<br>
+2024 North Division Day - Art Competition (The World After Climate Change) - 1st Place<br> _Mea Goh Yun Ning, 3ED<br> Janelle Alegria Lim Hwee Woon, 3EM_<br><br>
+2024 Puan Noor Aishah (PNA) Award - 1st Company Gold Award<br><br>
 2023 Puan Noor Aishah (PNA) Award - 1st Company Gold Award<br><br>
 2023 North Division Outdoor Challenge<br>
 2nd Placing - Wide Game (in collaboration with Seng Kang Pri)_<br>
@@ -56,22 +59,19 @@ _1st Company – Silver_ <br>
 _2nd Company – Silver_
 
 **Teachers in Charge** <br>
-Mdm Azyan Liyana <br>
-Mdm Koo Sin Yee&nbsp;<br>
 Ms Saw Xueting <br>
-Ms Puteri Sukma Wee
 
 **Student Leaders** <br>
-Company Leader: Mea Goh Yun Ning, 3ED <br>
-Assistant Company Leader: Joelle Goh Jia Ni, 3EL<br>
-Senior Patrol Leader: Allison Cheng Min Rui, 3EV <br>
-Senior Patrol Leader: Ng Nuan Jing Crystal, 3EH<br>
-Senior Patrol Leader: Nisriina Binte Imran, 3ES<br>
+Company Leader - Sybil Anne De Souza Faria 3EM<br> 
+Assistant Company Leader - Nur Sakinah Binte Mohd Ridzwan 3EH <br>
+Senior Patrol Leader - Training Quek Jia En Gracilia 3ED <br>
+Senior Patrol Leader - WelfareElisha Myla Ho 3EL 
+
 
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
-Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;4.00 - 6.00pm <br>
-Wednesday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4.00 - 6.00pm
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2.30- 5.30pm <br>
+
 
 **Venue** <br>
-Girl Guides Room
+Girl Guides Room, school compound and external venues

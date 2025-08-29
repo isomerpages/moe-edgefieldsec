@@ -29,11 +29,7 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo-8.png">
 </div>
 <p><strong>Description</strong> 
-<br>Respect, Resilience, Excellence. As important as winning is to us, we
-strongly believe that at the heart of Taekwondo are a set of values - lifelong
-teachings that we wish and hope to impart to each and every one of our
-students. Our aim for every student is to continually strive to improve
-themselves every day - to be the best version of themselves.</p>
+<br>The Taekwondo CCA nurtures students into disciplined and resilient athletes who embody the values of Moral Courage and Compassion. Aligned with the school’s vision of developing Collaborative Innovators and Compassionate Leaders, students learn to respect others, persevere through challenges, and lead with sincerity and honour both on and off the mat. Through rigorous training in Poomsae and Kyorugi, they build physical strength, mental focus, and emotional regulation, while cultivating teamwork and sportsmanship. In this way, Taekwondo supports the school’s mission of “Growing Minds, Glowing Hearts”, shaping student-athletes who are self-directed learners, values-driven leaders, and positive contributors to society.</p>
 <p><strong>Highlights / Achievements</strong> 
 <br><strong>National School Games Taekwondo Championships 2024<br><em>Combined Poomsae &amp; Kyorugi</em></strong>
 <br><em>(50 Gold, 44 Silver, 46 Bronze)</em>
@@ -349,22 +345,22 @@ themselves every day - to be the best version of themselves.</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Nah Jiajun Jeffrey
 <br>Ms Chen Yantong<br>
-Mdm Teo Lee Loo</p>
+Ms Juliawaty</p>
 <p><strong>Student Leaders</strong><br>
-	Captain: Michael Gabriel Suhendra (3EV)<br>
-	Vice-Captain (Training/Poomsae): Locanas Frances Maria Gabilan (3ED)<br>
-	Vice-Captain (Training/Kyorugi): Declan Darrell Joan (3EV)<br>
-	Vice-Captain (Admin): Miki Yap Jia Min (3EL)<br>
-	Vice-Captain (Welfare): Natalyn Lim Wei En (3ED)
+Captain: Ashton Goh Guan Feng (3EU)<br>
+Vice-Captain (Training/Poomsae): Faith Seah (3EU)<br>
+Vice-Captain (Training/Kyorugi): Zayne Teo Kai Xiang (3EM)<br>
+Vice-Captain (Welfare): Yap Hshuen (3ES)<br>
+Vice-Captain (Admin): Gwendolyn Chong (3EU)<br>
+Vice-Captain (Logistics): Leau Jun How, Matthias (3EL)
+	
+
 </p><p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Training Time</strong> 
 <br>Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 5.45pm at School Hall
-<br>Thursday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.30 - 5.45pm at School Hall
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.30 - 6.00pm  
 <br>Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.15pm at Corridor outside the Edge</p>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00 - 4.00pm  </p>
 <p><strong>Venue</strong> 
-<br>School Hall &amp; Corridor outside the Edge</p>
+<br>School Hall  </p>

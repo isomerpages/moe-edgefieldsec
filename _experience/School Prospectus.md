@@ -44,7 +44,7 @@ the seasons together regardless of what we can achieve. As captain, I learned
 how to work with my teammates, encourage them, and also improve myself.
 It wasn’t always easy, but the fun, teamwork, and growth made this journey
 truly unforgettable.</p>
-<p><strong><em>TEO LYREN</em></strong>
+<p><strong><em>TEO LYREN, 3EV</em></strong>
 </p>
 <p><strong>BASKETBALL</strong>
 </p>
@@ -87,6 +87,22 @@ and have fundamentally changed how I approach challenges when faced with
 difficulties. I am incredibly grateful to be part of the Robotics Club
 and to have had the opportunity to grow in my role as Vice- President.</p>
 <p><strong><em>Kayla Tiong Yongyi 3ES</em></strong>
+</p>
+<p><strong>SYFC</strong>
+</p>
+<p>During my time in SYFC, I was given the opportunity to learn about the
+technical aspects of aviation, including flight theory and aerodynamics.
+Using the knowledge I had learnt, I was able to gain hands-on experience
+by building wooden model planes as well as flying radio-controlled planes.
+Beyond that, I was able to do so with peers who shared a similar passion.
+Being able to share my journey of growth with like-minded people truly
+made my time in SYFC a fun and memorable one.</p>
+<p>Not only that, I was also given the opportunity to lead the CCA as a CCA
+leader, which allowed me to pass down the knowledge that my instructors
+had shared with me and to build camaraderie with my CCA mates. In addition,
+I cultivated many leadership qualities such as perseverance, responsibility,
+and discipline, all of which will certainly assist me in my future endeavors.</p>
+<p><strong><em>Lai Tze Foong 3EH</em></strong>
 </p>
 <p><strong>ART CLUB</strong>
 </p>
@@ -142,6 +158,10 @@ and resilient Singapore.</p>
 excellence, and serve with integrity. Most importantly, NPCC has shaped
 me into someone who strives to make a meaningful difference in my community.
 Thank you, NPCC, for shaping the person I am today.</p>
+<p>NPCC has shaped me from a cadet into a leader, teaching me values of discipline,
+respect, teamwork, and resilience. Through challenges and achievements,
+I learnt to care for those I lead, adapt with integrity, and serve with
+purpose.</p>
 <p><strong><em>Aiden Er Yong Le, 3EV</em></strong>
 </p>
 <p><strong>NCDCC</strong>
