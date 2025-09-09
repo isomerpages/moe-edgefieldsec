@@ -2,9 +2,9 @@ collections:
   experience:
     output: true
     order:
-      - Edgefield in the News.md
       - 360 School Virtual Tour.md
       - Good Stories.md
-      - Overseas Immersion & Cultural Experience.md
+      - Edgefield in the News.md
       - Interactive Timeline.md
+      - Overseas Immersion & Cultural Experience.md
       - School Prospectus.md
