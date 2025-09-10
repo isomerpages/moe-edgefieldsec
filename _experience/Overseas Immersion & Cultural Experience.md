@@ -38,3 +38,46 @@ water puppet show and exploration of Ben Thanh Market further broadened
 students’ perspectives. The trip successfully combined experiential learning,
 cultural immersion, and social contribution, leaving participants with
 enhanced skills, deeper appreciation of the region, and lasting memories.</p>
+<p></p>
+<h4><strong>Cambodia Overseas Immersion Trip Write-Up 2024</strong></h4>
+<p>
+<br>From 10 to 14 November 2024, 27 Secondary 2 and 3 students embarked on
+a meaningful and eye-opening journey to Phnom Penh, Cambodia, as part of
+our school’s Overseas Cultural Immersion Programme. This experience was
+designed to nurture cultural agility, deepen intercultural understanding,
+and foster a spirit of global friendship.</p>
+<p>One of the highlights of the programme was a vibrant cultural exchange
+at&nbsp;<em>Pras Khan Chey Bokator School</em>, where our students introduced&nbsp;Taekwondo&nbsp;as
+a discipline rooted in respect, perseverance, and self-mastery. In return,
+they were introduced to the traditional Cambodian martial art of&nbsp;Bokator&nbsp;—
+a powerful expression of Cambodia’s heritage and resilience.</p>
+<p>This dynamic exchange not only celebrated martial arts, but also built
+bridges of mutual curiosity and appreciation between both groups of youths.</p>
+<p></p>
+<p>As part of their bicultural learning, students also engaged in school
+exchanges with both&nbsp;<em>Chroy Chonya High School</em>, an urban school,
+and&nbsp;<em>Thomsras Secondary School</em>, located in a rural village.
+Through collaborative games and informal conversations, friendships blossomed
+— and meaningful growth unfolded on both sides.&nbsp;Our students took
+on leadership roles as they&nbsp;planned and executed bonding activities,
+interactive games, and a basic Taekwondo session, creating shared moments
+of joy and learning for their Cambodian peers.</p>
+<p>These interactions gave Cambodian students the opportunity to practise
+their English with confidence, while our students honed cultural agility
+and empathy, making new friends while navigating new environments with
+openness and heart.</p>
+<p>“My favourite memory from the immersion experience was getting to know
+my Secondary 3 seniors better and forging deeper bonds with both them and
+my level mates. Through our shared experiences, I discovered that I am
+capable of stepping out of my comfort zone — to lead, to present, and to
+make new friends with confidence. I was especially inspired by the Cambodian
+youths, who reminded me to be grateful for even the simplest things in
+life, like a warm meal or the presence of newfound friends.”</p>
+<p><strong><em>&nbsp;- Seah Zhi Ying, 2EV 2024</em></strong>
+</p>
+<p></p>
+<p>This immersive experience left an indelible mark on our students, who
+returned not only with new friendships and skills, but with a deeper understanding
+of themselves and the world. As global citizens, they were reminded that
+while languages and customs may differ, the heart of human connection —
+mutual respect, curiosity, and kindness — transcends borders.</p>
