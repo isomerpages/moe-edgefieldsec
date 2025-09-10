@@ -40,6 +40,10 @@ cultural immersion, and social contribution, leaving participants with
 enhanced skills, deeper appreciation of the region, and lasting memories.</p>
 <p></p>
 <h4><strong>Cambodia Overseas Immersion Trip Write-Up 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cambodia_overseas_immersion.gif">
+</div>
 <p>
 <br>From 10 to 14 November 2024, 27 Secondary 2 and 3 students embarked on
 a meaningful and eye-opening journey to Phnom Penh, Cambodia, as part of
