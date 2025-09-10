@@ -4,7 +4,7 @@ permalink: /overseas-immersion-cultural-experience/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Shanghai Cultural Immersion Programme&nbsp;</strong><br></h4>
+<h4><strong>Shanghai Cultural Immersion Programme 2024&nbsp;</strong><br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shanghai_Cultural_Immersion_Programme.gif">
 </div>
