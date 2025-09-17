@@ -89,6 +89,9 @@ mutual respect, curiosity, and kindness — transcends borders.</p>
 <p></p>
 <h4><strong>Guangzhou Overseas Immersion Programme 2024</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guangzhou overseas immersion.gif">
+</div>
 <p>From 10 to 15 November 2024, our students embarked on an enriching immersion
 programme to Guangzhou, China. Hosted by Guangzhou Experiment Secondary
 School, they experienced two full days of school immersion—attending lessons,
