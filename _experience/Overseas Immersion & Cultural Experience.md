@@ -85,3 +85,26 @@ returned not only with new friendships and skills, but with a deeper understandi
 of themselves and the world. As global citizens, they were reminded that
 while languages and customs may differ, the heart of human connection —
 mutual respect, curiosity, and kindness — transcends borders.</p>
+<p></p>
+<p></p>
+<h4><strong>Guangzhou Overseas Immersion Programme 2024</strong></h4>
+<p></p>
+<p>From 10 to 15 November 2024, our students embarked on an enriching immersion
+programme to Guangzhou, China. Hosted by Guangzhou Experiment Secondary
+School, they experienced two full days of school immersion—attending lessons,
+joining co-curricular activities, and forging friendships with their Chinese
+peers. A highlight was staying in the school hostel, where students gained
+first-hand experience of the daily routines and lifestyle of their Chinese
+counterparts, deepening their understanding of student life in China.</p>
+<p>Beyond the classroom, students explored China’s blend of tradition and
+innovation. They engaged in hands-on cultural activities such as dim sum
+making and crafting their own lion dance head, while visits to iFlyTech
+and the China-Singapore Guangzhou Knowledge City provided insights into
+China’s rapid technological advancements and international collaborations.</p>
+<p>Through this overseas experience, students not only deepened their appreciation
+of China’s rich history and modernisation but also enhanced their 21st
+Century Competencies in cross-cultural literacy, adaptive thinking, and
+communication. Importantly, the immersion reinforced their sense of belonging
+to Singapore and inspired them to think about how innovation and heritage
+can shape our nation’s future.</p>
+<p></p>
