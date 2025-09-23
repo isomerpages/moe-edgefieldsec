@@ -1,5 +1,4 @@
 collections:
   overseas-immersion:
     output: true
-    order:
-      - 2011 to 2015.md
+    order: []
