@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - 2024 to Present.md
       - 360 School Virtual Tour.md
       - Good Stories.md
       - Edgefield in the News.md
