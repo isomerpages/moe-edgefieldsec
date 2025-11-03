@@ -15,6 +15,13 @@ The members will also be trained in the handling of DSLRs, basic photography and
 
 **Highlights / Achievements** <br>
 
+**Prove It Contest 2025 by National Library Board**<br> 
+Silver Award <br>
+1\. Tessa Tan Jing Xuan, 2EU <br>
+2\. Xoan Ong, 2ES <br>
+3\. Peck Yu Qi, 2ED <br>
+4\. Chloe Tan Sze En, 2ED
+
 **Schools Digital Media Award 2024**<br>
 Top 8 Videos<br>
 1\. Keller Seah Kai Le, 4EM<br>
