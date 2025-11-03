@@ -4,7 +4,6 @@ permalink: /experience/cca/clubs/new-media-club/
 description: ""
 variant: markdown
 ---
-
 ![](/images/2025_NMC_Group_Photo.jpg)**Description** <br>
 The New Media Club focuses on providing AV management, photography, and videography for school events while teaching members related knowledge and skills in areas such as video production, photo editing and other relevant skills.
 
