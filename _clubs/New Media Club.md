@@ -66,10 +66,15 @@ _1st in Student Category_<br>
 _Theme: Tilt_<br>
 Dex Ngiam Chao Yi
 
+**Student Leaders**<br>
+President: Gelicia Gan Shan Ting 3EC <br>
+Vice President: Rayhan Azraqi Bin Mas Effandi 3ED <br>
+Vice President: Muhammad Danial Bin Razaleigh 3ED <br>
+
 **Teachers in Charge**&nbsp;<br> 
 Mr Wang Yueming<br> 
 Mrs Lily Lee<br> 
-Mr Derek Foo
+Mrs Grace Lewis
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training TIme** <br>
 Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.45 - 5.45pm <br>
