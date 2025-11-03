@@ -35,7 +35,7 @@ My basketball experience in secondary school has shaped who I am today. It has t
 _**Quek Lianne Caunca <br>
 Year 3 Eisenhower, Basketball Girls Team Captain, 2024**_
 
-![](/images/shooting-1.jpg)
+![](/images/20250804_0110_MWP_WEBRES.jpg)
 <h5>Shooting</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/shooting).**
