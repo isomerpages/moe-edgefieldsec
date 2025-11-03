@@ -15,9 +15,8 @@ I was involved in the many school events, competitions and workshops provided by
 _**Winona Andenea Nirbitalarasati, <br>
 3EL, President, 2025**_
 
-![](/images/new%20media%20club-1.png)
+![](/images/20250804_3715_MWP_WEBRES.jpg)
 <h5>New Media Club</h5>
-
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/new-media-club).
 
 Throughout my journey in NMC, I have learnt multiple things. From leading a whole CCA to managing events, I’ve grown in confidence, learnt how to work with different people, and discovered the importance of communication and planning. 
