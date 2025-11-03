@@ -28,6 +28,9 @@ Ms Por Yuling
 Wong Xiang En, 3ES (Captain)<br>
 Koh En Qi, 3EM (Vice-Captain)<br>
 
+**Sec 3 EXCOs**
+Alivia Lee Pei Qin, 3EU (Quater Mistress)<br>
+Jewellie Tan, 3EU (CCA PSL)<br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.30 - 6.00pm <br>
