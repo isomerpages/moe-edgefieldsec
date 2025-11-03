@@ -32,10 +32,9 @@ _Accomplishment_
 Ms Sharifah Noraini Aron&nbsp;<br>
 Ms Rachel Jacob
 
-**Student Leaders**
-
-President: Cassandra Chew Kai Xin (3EM)<br>
-Vice-President: Ho Si Xuan Alexis (3EH)<br>
+**Student Leaders**<br>
+President: ARINA NURBELLA (3EM)<br>
+Vice-President: TRINITY CHOY ZHI XI (3EL)<br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 - 5.30pm <br>
