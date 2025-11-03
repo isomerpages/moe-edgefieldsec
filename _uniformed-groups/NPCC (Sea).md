@@ -58,10 +58,9 @@ INSP (NPCC) Tan Yen Lin&nbsp;<br>
 INSP (NPCC) Kenny Cheong<br>
 
 **Student Leaders in Charge** <br>
-Unit Chairperson: Ng Jing Rui<br>
-Vice-Chairperson (Projects and Activities): Joshua Teoh <br>
-Vice-Chairperson (Training): Chua Yao An<br>
-Vice-Chairperson (Unit Development and Leadership): Yemima Putri Cheng
+Unit Chairperson: Aiden Er Yong Le <br>
+Vice-Chairperson: Chennupati Kaushal <br>
+Vice-Chairperson (Peer Support Leader): Ethan Lee Xing Jue <br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Training Time** <br>
 
