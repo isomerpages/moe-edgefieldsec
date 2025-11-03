@@ -4,7 +4,8 @@ permalink: /experience/cca/clubs/new-media-club/
 description: ""
 variant: markdown
 ---
-**Description** <br>
+
+![](/images/New_Media_Club.gif)**Description** <br>
 The New Media Club focuses on providing AV management, photography, and videography for school events while teaching members related knowledge and skills in areas such as video production, photo editing and other relevant skills.
 
 Members will learn how to operate AV equipment which are essential in the daily operations of the school while supporting in school assemblies and the wide variety programs and activities organized in Edgefield. Through training sessions (on-the-job training and actual experience), members will gain proficiency in setting up of AV equipment in different venues for events. Members will be able to acquire leadership and communication skills in coordinating the events.
