@@ -71,6 +71,11 @@ President: Gelicia Gan Shan Ting 3EC <br>
 Vice President: Rayhan Azraqi Bin Mas Effandi 3ED <br>
 Vice President: Muhammad Danial Bin Razaleigh 3ED <br>
 
+Secretary: Lim Yi Xin Lara 3EH <br>
+Head of AV: Wong Fong Lin 3ED <br>
+Head of Backstage: Ng Yong En 3EC <br>
+Head of Student Training: Lum Shi Xuan Zoey 3ED <br>
+
 **Teachers in Charge**&nbsp;<br> 
 Mr Wang Yueming<br> 
 Mrs Lily Lee<br> 
