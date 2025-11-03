@@ -33,8 +33,8 @@ Ms Sharifah Noraini Aron&nbsp;<br>
 Ms Rachel Jacob
 
 **Student Leaders**<br>
-President: ARINA NURBELLA (3EM)<br>
-Vice-President: TRINITY CHOY ZHI XI (3EL)<br>
+President:  Arina Nurbella (3EM)<br>
+Vice-President: Trinity Choy Zhi Xi  (3EL)<br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 - 5.30pm <br>
