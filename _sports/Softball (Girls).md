@@ -25,8 +25,8 @@ Mdm Han Khim Yuan <br>
 Ms Por Yuling
 
 **Student Leaders**<br>
-Wong Xiang En, 3ES (Captain)<br>
-Koh En Qi, 3EM (Vice-Captain)<br>
+Captain: Wong Xiang En, 3ES <br>
+ Vice-Captain: Koh En Qi, 3EM<br>
 
 **Sec 3 EXCOs**
 Alivia Lee Pei Qin, 3EU (Quater Mistress)<br>
