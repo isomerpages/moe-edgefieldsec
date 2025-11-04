@@ -29,9 +29,9 @@ Mdm Andi Khairulnnisa Mohd Yusof<br>
 Mdm Toh Anggy
 
 **Student Leaders** <br>
-Vice-Captain:  ALICIA TENG JIA MIN (3ES)<br>
-Vice-Captain:  KARA LIM YIXUAN (3ES)<br>
-CCA-PSL: NG HONG HAO LUCAS (3ED)
+Vice-Captain:  Alicia Teng Jia Min (3ES)<br>
+Vice-Captain:  Kara Lim Yixuan (3ES)<br>
+CCA-PSL: Ng Hong Hao Lucas (3ED)
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>
