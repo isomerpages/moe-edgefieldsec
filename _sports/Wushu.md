@@ -54,6 +54,14 @@ in school and beyond.</p>
 <h4>Highlights / Achievements</h4>
 <p>The following students performed well in their respective events during
 the National School Games.</p>
+<p><strong><u>2025</u></strong>
+<br>BOO ZHE XIAN KAYLAN 8.47 [1st International Spear]
+<br>SIM KE XIN SHAYNA 8.27 [1st International Spear]
+<br>ETHAN HENG 8.24 [5 Duan Cudgel]
+<br>ETHAN HENG 8.22 [5 Duan Broadsword]
+<br>HIAH HONG KAI AIDAN 8.18 [1st International Nan Dao]
+<br>AMY ZHANG QIYUN 8.1 [1st International Sword]
+<br>DYLAN HO ZI YI 8.02 [5 Duan Spear]</p>
 <p><strong><u>2024</u></strong>
 <br>TERRICIA HON XIN YU 8.45 [1st International Sword]
 <br>TERRICIA HON XIN YU 8.41 [2nd International Spear]
@@ -79,10 +87,7 @@ the National School Games.</p>
 <br>HIEW LAP YEIN RYAN 8.52 [NSG B Division Boys 2nd International Cudgel]
 <br>HIEW LAP YEIN RYAN 8.48 [NSG B Division Boys 1st International Broadsword]
 <br>JEFF TAN BING HUI 8.49 [NSG B Division Boys 2nd International Cudgel]</p>
-<p><strong><u>2018</u></strong>
-<br>14th SSSC National Inter-School Wushu Championships 2018
-<br><em>B Division Boys (International Spear) - Aloysious See Cheng Wee, 3rd</em>
-</p>
+<p></p>
 <p><strong>Teachers in Charge</strong> 
 <br>Mr Toh Siong Keong
 <br>Mdm Siti Zamzama'ah Parumah</p>
