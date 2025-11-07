@@ -87,6 +87,6 @@ the National School Games.</p>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.45 - 6.15pm
 <br>Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1.15 - 3.30pm&nbsp;</p>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2.00 - 4.30pm&nbsp;</p>
 <p><strong>Venue</strong> 
 <br>Indoor Sports Hall (ISH)</p>
