@@ -4,6 +4,7 @@ permalink: /experience/cca/clubs/new-media-club/
 description: ""
 variant: markdown
 ---
+![](/images/2025_NMC_Group_Photo.jpg)
 **Description** <br>
 The New Media Club focuses on providing AV management, photography, and videography for school events while teaching members related knowledge and skills in areas such as video production, photo editing and other relevant skills.
 
@@ -14,6 +15,13 @@ Edgefield New Media Club strives to empower our members to have the passion to e
 The members will also be trained in the handling of DSLRs, basic photography and videography techniques, and post-production of their works through editing tools such as Adobe Photoshop, Capcut and iMovie.
 
 **Highlights / Achievements** <br>
+
+**Prove It Contest 2025 by National Library Board**<br> 
+Silver Award <br>
+1\. Tessa Tan Jing Xuan, 2EU <br>
+2\. Xoan Ong, 2ES <br>
+3\. Peck Yu Qi, 2ED <br>
+4\. Chloe Tan Sze En, 2ED
 
 **Schools Digital Media Award 2024**<br>
 Top 8 Videos<br>
@@ -59,14 +67,24 @@ _1st in Student Category_<br>
 _Theme: Tilt_<br>
 Dex Ngiam Chao Yi
 
+**Student Leaders**<br>
+President: Gelicia Gan Shan Ting 3EC <br>
+Vice President: Rayhan Azraqi Bin Mas Effandi 3ED <br>
+Vice President: Muhammad Danial Bin Razaleigh 3ED <br>
+
+Secretary: Lim Yi Xin Lara 3EH <br>
+Head of AV: Wong Fong Lin 3ED <br>
+Head of Backstage: Ng Yong En 3EC <br>
+Head of Student Training: Lum Shi Xuan Zoey 3ED <br>
+
 **Teachers in Charge**&nbsp;<br> 
 Mr Wang Yueming<br> 
 Mrs Lily Lee<br> 
-Mr Derek Foo
+Mrs Grace Lewis
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training TIme** <br>
 Wednesday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.45 - 5.45pm <br>
 Friday&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;         &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2.30 - 4.30pm
 
 **Venue**&nbsp;<br>
-Computer Lab 4
+Computer Lab 3

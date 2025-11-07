@@ -4,7 +4,7 @@ permalink: /experience/cca/sports/shooting/
 description: ""
 variant: markdown
 ---
-![](/images/shooting.jpg)
+![](/images/20250804_0153_MWP_WEBRES.jpg)
 
 **Description** <br>
 Shooting is a CCA that requires mental toughness, strong upper body and core strength. During the CCA sessions, shooters develop values of discipline and focus through tough trainings to prepare them for local competitions. Shooters also practice sports psychological skills such as relaxation techniques, concentration techniques and performance routines. These essential skills help shooters to perform at the optimum level during competitions.
@@ -29,9 +29,9 @@ Mdm Andi Khairulnnisa Mohd Yusof<br>
 Mdm Toh Anggy
 
 **Student Leaders** <br>
-Captain: SENTHILKUMAR HARESH (3EU)<br>  Vice-Captain:  ALICIA TENG JIA MIN (3ES)<br>
-Vice-Captain:  KARA LIM YIXUAN (3ES)<br>
-CCA-PSL: NG HONG HAO LUCAS (3ED)
+Vice-Captain:  Alicia Teng Jia Min (3ES)<br>
+Vice-Captain:  Kara Lim Yixuan (3ES)<br>
+CCA-PSL: Ng Hong Hao Lucas (3ED)
 
 **Training Days&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.45 - 5.45pm <br>

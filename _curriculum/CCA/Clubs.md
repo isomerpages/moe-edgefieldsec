@@ -15,21 +15,16 @@ I was involved in the many school events, competitions and workshops provided by
 _**Winona Andenea Nirbitalarasati, <br>
 3EL, President, 2025**_
 
-![](/images/new%20media%20club-1.png)
+![](/images/20250804_3715_MWP_WEBRES.jpg)
 <h5>New Media Club</h5>
-
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/new-media-club).
-    
-New Media Club enables us to learn both technical and soft skills required in Audio Visual management. Learning the ins and outs of managing an event requires us to be proficient in operating the various equipment and in communicating well with each other. The CCA also gives us plenty of opportunities to partake in school events to ensure that the event runs smoothly.  
-  
-Not only that, we can hone our photography and videography skills through our participation in competitions each year. We are encouraged to use our creativity to come up with interesting photos and videos that fit the theme of the competition. We also learn to work together in team competitions.  
-  
-The CCA also takes us to places such as Gardens by The Bay where we took photos of the plants and enjoyed friendly competitions with each other. Such experiences give us all a chance to bond together and get to know one another better.  
-  
-The photography and videography technical skills as well as the AV management skills would come in handy when we choose related courses in our Post-secondary journey. One key skill that we have picked up in this CCA is that of leadership and teamwork. By managing and leading school events, we can be prepared to take on a leadership role in the future and learn to work under pressure. Working with each other allows us to learn to work with others and will definitely be useful when we are in a team-based workspace. 
 
-_**Jasmine Lim Hui Min <br>
-Year 3 Everest, Vice President, 2020**_
+Throughout my journey in NMC, I have learnt multiple things. From leading a whole CCA to managing events, I’ve grown in confidence, learnt how to work with different people, and discovered the importance of communication and planning. 
+
+It wasn’t always easy, but every experience—good or bad—taught me something valuable. Most importantly, I’ve built friendships and memories that made my time here truly meaningful.
+
+_**Gelicia Gan Shan Ting <br>
+Year 3 Euclid, President, 2025**_
 
 ![](/images/syfc-1.png)
 <h5>Singapore Youth Flying Club</h5>

@@ -41,12 +41,12 @@ Mr. Jimmy Lim Boon Leong
  
 **Student Leaders** <br>
 **_Girls:_**<br>
-Captain: LEE SI YI SANDRA 3EU<br>
-Vice Captain: ONG YAN EE 3EC
+Captain: Lee Si Yi Sandra 3EU<br>
+Vice Captain: Ong Yan Ee 3EC
 
 Boys:
-Captain: LIM JIA XU 3ED
-Vice Captain: LIANG ZHI YUAN 3EC
+Captain: Lim Jia Xu 3ED <br>
+Vice Captain: Linag Zhi Yuan 3EC
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Training Time** <br>
 **_Boys_** <br>

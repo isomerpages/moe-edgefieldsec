@@ -10,6 +10,10 @@ variant: markdown
 Modern Dance not only cultivates the physical development of the students, it also trains them to be disciplined and enhances the cultivation of values such as teamwork, respect and confidence. Under the Edgefield Modern Dance programme, dancers are exposed to not only contemporary dance forms, but also the popular genre, Hip Hop. This form of of physical activity is very much suited for the youths as they have boundless energy and, through dance, will have an avenue to express themselves. The CCA also hopes to cultivate a “Disciplined Mind” in the students through learning different forms of dance.
 
 **Highlights / Achievements** <br>
+**Singapore Youth Festival 2025 - Distinction** <br>
+SUPER24 Dance Competition 2025 <br>
+_Gold Award_
+
 **Singapore Youth Festival 2023**<br>
 _Distinction_
 
@@ -28,10 +32,9 @@ _Accomplishment_
 Ms Sharifah Noraini Aron&nbsp;<br>
 Ms Rachel Jacob
 
-**Student Leaders**
-
-President: Cassandra Chew Kai Xin (3EM)<br>
-Vice-President: Ho Si Xuan Alexis (3EH)<br>
+**Student Leaders**<br>
+President:  Arina Nurbella (3EM)<br>
+Vice-President: Trinity Choy Zhi Xi  (3EL)<br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Training Time** <br>
 Monday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3.30 - 5.30pm <br>
