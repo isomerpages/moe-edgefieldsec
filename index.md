@@ -16,7 +16,7 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-        - title: Open House on 22 November 2025  (9am  - 1pm)
+        - title: Open House on Saturday, 22 November 2025  (9am  - 1pm)
           description: ""
           url: ""
   - infopic:
