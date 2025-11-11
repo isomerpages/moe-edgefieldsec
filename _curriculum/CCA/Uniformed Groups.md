@@ -38,7 +38,7 @@ The values and experiences I’ve gained through NPCC will stay with me well bey
 _**Ng Jing Rui<br>
 Year 4 Euclid, Unit Chairperson, 2025**_
 
-![](/images/ncdcc-1.png)
+![](/images/NCDCC1.jpg)
 <h5>NCDCC</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
