@@ -20,7 +20,7 @@ The leadership skills, confidence, and resilience I have built in choir will def
 **_Felicia Chia<br>
 Year 3 Einstein, President, 2025_**
 
-![](/images/band-1.png)
+![](/images/Concert_Band.jpg)
 <h5>Concert Band</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
