@@ -52,7 +52,7 @@ Looking back, I’m confident that the skills and experiences I’ve gained thro
 **_Zayan Aftab 
 Unit Sergeant Major, 2025_**
 
-![](/images/scouts-1.png)
+![](/images/Souts.jpg)
 <h5>Scouts</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/scouts).
