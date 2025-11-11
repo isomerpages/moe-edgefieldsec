@@ -95,7 +95,7 @@ If you’re looking for a CCA that pushes your limits and fosters growth in ever
 
 _**Achyut Pradhan<br>
 Year 3 Emerson, Captain, 2024**_
-![Wushu](/images/Wushu_2024_collage.jpg)
+![](/images/Wushu20251.jpg)
 <h5>Wushu</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/wushu).**
