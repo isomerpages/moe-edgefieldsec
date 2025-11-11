@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/art%20club-1.png)
+![](/images/Art_Club.jpg)
 <h5>Art Club</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/art-club).
