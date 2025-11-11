@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/badminton_1.png)
+/i![](/images/Badminton1.jpg)
 <h5>Badminton</h5>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/badminton-boys-girls).**
@@ -17,7 +17,7 @@ Year 4 Euclid, 2023<br>
 Captain, Badminton, 2022-2023<br>
 3rd Place, National School Games (NSG) Singapore Schools Sports Council’s (SSSC) Badminton North B Division Boys Finals 2023**_
 
-![](/images/basketball-1.png)
+![](/images/Basketball1.jpg)
 <h5>Basketball</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/basketball).**
@@ -67,7 +67,7 @@ _**Maheerah Binte Mohammed Zulkifli<br>
 Year 3 Euler, Captain, 2024**_
 <br>
 
-![](/images/taekwondo-0.png)
+![](/images/TKD.jpg)
 <h5>Taekwondo</h5>
 		
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/taekwondo).**
@@ -78,7 +78,7 @@ _**Ashton Goh Guan Feng <br>
 Year 3 Euler**_
 
 
-![](/images/volleyball-1.png)
+![](/images/Volleyball1.jpg)
 <h5>Volleyball</h5>
 
 **For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/sports/volleyball-boys).**
