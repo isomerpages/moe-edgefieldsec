@@ -5,12 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu20251.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu20252.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_2024.jpg">
 </div>
 <p><strong>Description</strong> 
 <br>Wushu CCA: Cultivating Character, Perseverance and Respect</p>

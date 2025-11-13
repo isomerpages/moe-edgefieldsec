@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/guides-1.jpg)
+!![](/images/Girl_Guides.jpg)[](/images/guides-1.jpg)
 <h5>Girl Guides</h5>
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/girl-guides).
@@ -24,7 +24,7 @@ The CCA enabled me to develop my leadership skills. I am able to communicate mor
 _**Sybil Anne De Souza Faria <br>
 Year 3 Emerson,  Company Leader, 2025**_<br>
 
-![](/images/mwp_highres.jpg)<br>
+![](/images/NPCC_Sea_.jpg)
 <h5>NPCC (Sea)</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/npcc-sea).
@@ -38,7 +38,7 @@ The values and experiences I’ve gained through NPCC will stay with me well bey
 _**Ng Jing Rui<br>
 Year 4 Euclid, Unit Chairperson, 2025**_
 
-![](/images/ncdcc-1.png)
+![](/images/NCDCC1.jpg)
 <h5>NCDCC</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/ncdcc).
@@ -52,7 +52,7 @@ Looking back, I’m confident that the skills and experiences I’ve gained thro
 **_Zayan Aftab 
 Unit Sergeant Major, 2025_**
 
-![](/images/scouts-1.png)
+![](/images/Souts.jpg)
 <h5>Scouts</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/uniformed-groups/scouts).

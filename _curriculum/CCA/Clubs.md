@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/art%20club-1.png)
+![](/images/Art_Club.jpg)
 <h5>Art Club</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/art-club).
@@ -26,7 +26,7 @@ It wasn’t always easy, but every experience—good or bad—taught me somethin
 _**Gelicia Gan Shan Ting <br>
 Year 3 Euclid, President, 2025**_
 
-![](/images/syfc-1.png)
+![](/images/SYFC1.jpg)
 <h5>Singapore Youth Flying Club</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/syfc).
@@ -40,7 +40,7 @@ Being a CCA leader gives me opportunities to lead and share my knowledge and ski
 **_Koh Shao Kai
 <br>Chairperson of SYFC 2023-2024_**
 
-![](/images/robotics-1.png)
+![](/images/Robotics.jpg)
 <h5>Robotics Club</h5>
 		
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/clubs/robotics-club).

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/choir-1.png)
+![](/images/Choir1.jpg)
 <h5>Choir</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/choir).
@@ -20,7 +20,7 @@ The leadership skills, confidence, and resilience I have built in choir will def
 **_Felicia Chia<br>
 Year 3 Einstein, President, 2025_**
 
-![](/images/band-1.png)
+![](/images/Concert_Band.jpg)
 <h5>Concert Band</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/concert-band).
@@ -32,7 +32,7 @@ Additionally, the friendships I've formed with fellow band members have made reh
 _**Tan Raphael Rhys Reynaldo<br>
 Year 3 Euler, President, 2024**_
 
-![](/images/drama-1.png)
+![](/images/ELDDS1.jpg)
 <h5>ELDDS</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/eldds).
@@ -44,7 +44,7 @@ What I love the most about ELDDS is that it provides members with the opportunit
 _**Yap Kah Heng (Ye Jiaheng)<br>
 Year 4 Eliot, Vice-Chairperson (Welfare), 2024**_
 
-![](/images/festive%20drums-1.png)
+![](/images/Festive_Drum.jpg)
 <h5>Festive Drums</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/festive-drums).
@@ -58,7 +58,7 @@ Throughout the past 3 years, I've not just grown in my physical strength carryin
 **_Seah Zhi Ying<br>
 Vice President, 2025_**
 
-![](/images/guzheng-1.png)
+![](/images/Guzheng1.jpg)
 <h5>Guzheng</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/guzheng).
@@ -95,7 +95,7 @@ Year 3 Euclid, President, 2025_**
 <br>and **_Falisyah Aareeya Ruzaini,<br>
 Year 3 Edison, Vice-President, 2025_**
 
-![](/images/modern%20dance-1.png)
+![](/images/Modern_Dance.jpg)
 <h5>Modern Dance</h5>
 
 For more details, please click&nbsp;[here](https://staging.d3jwf1tlw34213.amplifyapp.com/experience/cca/performing-arts/modern-dance).
