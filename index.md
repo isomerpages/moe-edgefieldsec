@@ -26,6 +26,15 @@ sections:
       url: /edgefield/principals-message
       image: /images/edgefield-crop.png
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Edgefield Open House
+          date: 22 November 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: FUTURE-READY
       description: '"Change is the very essence of life." - Lee Kuan Yew, Founding
