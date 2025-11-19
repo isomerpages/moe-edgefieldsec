@@ -18,7 +18,7 @@ sections:
           url: https://www.instagram.com/edgefieldsecondary/
         - title: Open House on Saturday, 22 November 2025  (9am  - 1pm)
           description: ""
-          url: https://cms.isomer.gov.sg/sites/moe-edgefieldsec/editPage/Edgefield%20Open%20House.md
+          url: ""
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
@@ -26,15 +26,6 @@ sections:
       url: /edgefield/principals-message
       image: /images/edgefield-crop.png
       alt: Image alt text
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Edgefield Open House
-          date: 22 November 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
   - infopic:
       title: FUTURE-READY
       description: '"Change is the very essence of life." - Lee Kuan Yew, Founding
