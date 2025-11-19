@@ -9,4 +9,4 @@ image: /images/open house banner.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/efss open house 2025.gif">
 </div>
-<p></p>
+<p>2025 Open House Performing Arts &amp; CCA Showcase + Fringe Activities.pdf</p>
