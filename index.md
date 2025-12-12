@@ -19,7 +19,7 @@ sections:
         - title: Open House on Saturday, 22 November 2025  (9am  - 1pm)
           description: ""
           url: https://edgefieldsec.moe.edu.sg/edgefield-open-house/
-        - title: N-Level Results released on 18 Dec 2025 (2pm) @ Hall
+        - title: Release of 2025 N-Level Results on 18 Dec 2025 (2pm) @ Hall
           description: Details at the link
           url: https://drive.google.com/file/d/1xMW52BMZ6SFV0Nvd-nOPdqlgHoNHsNtc/view?usp=sharing
   - infopic:
