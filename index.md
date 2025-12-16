@@ -16,9 +16,9 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-        - title: Open House on Saturday, 22 November 2025  (9am  - 1pm)
-          description: ""
-          url: https://edgefieldsec.moe.edu.sg/edgefield-open-house/
+        - title: Sec 1 Registration Portal (open on 19 Dec 2025, 08:00am)
+          description: "Query: edgefield_ss@moe.edu.sg"
+          url: https://sec1reg.edgefield.edu.sg/login
         - title: Release of 2025 N-Level Results on 18 Dec 2025 (2pm) @ Hall
           description: Details at the link
           url: https://drive.google.com/file/d/1xMW52BMZ6SFV0Nvd-nOPdqlgHoNHsNtc/view?usp=sharing
