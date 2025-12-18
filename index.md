@@ -16,7 +16,7 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
-        - title: Sec 1 Registration Portal (open on 19 Dec 2025, 08:00am)
+        - title: Sec 1 Registration Portal (opens on 19 Dec 2025, 5pm)
           description: "Query: edgefield_ss@moe.edu.sg"
           url: https://sec1reg.edgefield.edu.sg/login
         - title: Release of 2025 N-Level Results on 18 Dec 2025 (2pm) @ Hall
