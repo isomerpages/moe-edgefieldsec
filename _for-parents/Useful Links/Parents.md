@@ -13,7 +13,7 @@ variant: tiptap
 <p></p>
 <p>2026 Calendar</p>
 <p><a href="/files/Sem_1_Calendar_for_Parents__Term_1_.pdf" rel="noopener nofollow" target="_blank">T</a>
-<a href="/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">erm 1:</a>| <a href="/files/Sem_1_Calendar_for_Parents__Term_2_.pdf" rel="noopener nofollow" target="_blank"> Term 2</a>
+<a href="/files/iPAD%20Learning%20Environment%20Handbook%20Version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">erm 1:</a>| <a href="/files/Sem_1_Calendar_for_Parents__Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>
 </p>
 <p></p>
 <p></p>
