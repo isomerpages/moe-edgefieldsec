@@ -12,6 +12,6 @@ variant: tiptap
 </p>
 <p></p>
 <p>2026 Calendar</p>
-<p><a href="/files/Sem_1_Calendar_for_Parents__Term_1_.pdf" rel="noopener nofollow" target="_blank">Term 1</a>|
-<a href="/files/Sem_1_Calendar_for_Parents__Term_2_.pdf" rel="noopener nofollow" target="_blank">Term2</a>
+<p><a href="/files/Term_1_Calendar_for_Parents.pdf" rel="noopener nofollow" target="_blank">Term 1</a>|
+<a href="/files/Term_2_Calendar_for_Parents.pdf" rel="noopener nofollow" target="_blank">Term2</a>
 </p>
