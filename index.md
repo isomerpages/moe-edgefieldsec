@@ -19,9 +19,9 @@ sections:
         - title: Sec 1 Registration Portal (opens on 19 Dec 2025, 5pm)
           description: Query:edgefield_ss@moe.edu.sg
           url: https://sec1reg.edgefield.edu.sg/getting-started
-        - title: Release of 2025 N-Level Results on 18 Dec 2025 (2pm) @ Hall
+        - title: Release of 2025 O-Level Results on on 14 Jan 2026, Wednesday
           description: Details at the link
-          url: https://drive.google.com/file/d/1xMW52BMZ6SFV0Nvd-nOPdqlgHoNHsNtc/view?usp=sharing
+          url: https://drive.google.com/file/d/1XzBFoq1yHYDsAaAbSqJfETLnAHLcPajz/view?usp=sharing
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
