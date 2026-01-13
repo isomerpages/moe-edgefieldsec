@@ -6,85 +6,114 @@ variant: tiptap
 third_nav_title: CCE
 ---
 <h4><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong>&nbsp;</h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd)
-in schools is about enabling students to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.
-SEd is premised on the importance of the family as the basic unit of society.
-This means encouraging healthy, heterosexual marriages and stable nuclear
-family units with extended family support. The teaching and learning of
-SEd is based on respect for the values and beliefs of the different ethnic
-and religious communities in Singapore on sexuality issues.&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+<p></p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are to:&nbsp;</p>
+</li>
+</ol>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
 students in managing their physiological, social and emotional changes
 as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
 students to make wise, informed and responsible decisions on sexuality
 matters.</p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-Sexuality Education are:&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
+</li>
+</ol>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
 respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
 decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before
-marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
+<p></p>
 <p><strong>Overview of Edgefield Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum.&nbsp;The content for
-Sexuality Education is grouped into five main themes: Human Development,
-Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>
-<br>5.&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality
-include:
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum.&nbsp;The content for Sexuality Education is grouped into five
+main themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+in the school curriculum.</p>
+<p></p>
+</li>
+</ol>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:
 <br>
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;Science
 <br>
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</p>
+<p></p>
+</li>
+</ol>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
-youth towards sexuality are increasingly shaped by their peers, exposure
-to the media, popular culture and the internet. Adolescence is a complex
-stage in life as the adolescent attempts to find his/her own identity and
-often struggles with new social relationships. The period of middle adolescence
-(generally from 15 – 17 years old) can be a turbulent period for adolescents.
-The gap between physical and emotional/cognitive maturity may result in
-a tendency to act on impulse, experiment with various activities (including
-sexual activities), sometimes without understanding the unpleasant consequences
-that may arise from such experimentation. The need for peer acceptance
-can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp;
-Given the pressures faced by the middle adolescent from within themselves
-and from peers, it is important to build a strong sense of self-worth,
-personal conviction and an understanding of the possible consequences of
-sexual behaviour.&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
-lessons, secondary students will have the opportunity to develop a positive
-self-esteem, develop their character, and expand their understanding and
-repertoire of skills to deal with various issues related to sexuality,
-which are of prime concern at this age.</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The values and attitudes of our youth towards sexuality are increasingly
+shaped by their peers, exposure to the media, popular culture and the internet.
+Adolescence is a complex stage in life as the adolescent attempts to find
+his or her own identity and often struggles with new social relationships.
+The period of middle adolescence (generally from 15 – 17 years old) can
+be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+maturity may result in a tendency to act on impulse, experiment with various
+activities (including sexual activities), sometimes without understanding
+the unpleasant consequences that may arise from such experimentation. The
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
+the opportunity to develop a positive self-esteem, develop their character,
+and expand their understanding and repertoire of skills to deal with various
+issues related to sexuality, which are of prime concern at this age.</p>
+</li>
+</ol>
 <p></p>
 <hr>
 <h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -111,6 +140,9 @@ which are of prime concern at this age.</p>
 <p>Time Period
 <br>(e.g. Term 1 Week 2)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -125,22 +157,37 @@ which are of prime concern at this age.</p>
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
 and the different types of love (e.g. familial, platonic, romantic). They
 will have the opportunity to better understand the considerations involved
 in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles
-<br>· Recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)
-<br>· Recognise the importance and understand what builds healthy and supportive
-relationships, both online and offline
-<br>· Understand what dating is, and recognise that the readiness and interest
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>recognise the importance of, and understand what builds healthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
+<p>understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
@@ -171,6 +218,9 @@ self-concept</p>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,6 +250,9 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
