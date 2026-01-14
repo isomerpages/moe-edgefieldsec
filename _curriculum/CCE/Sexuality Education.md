@@ -111,9 +111,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
 <h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -140,9 +139,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p>Time Period
 <br>(e.g. Term 1 Week 2)</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -155,9 +151,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p>Steady or Not</p>
 <p>Lesson 1
 <br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -185,9 +178,10 @@ relationships, both online and offline</p>
 </li>
 <li>
 <p>understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
+in dating vary among individuals&nbsp;</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
@@ -204,22 +198,23 @@ in dating vary among individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.</p>
-<p></p>
+of self.&nbsp;</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Understand that physical and psychological abuse from others, especially
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -235,24 +230,26 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Understand and accept that as we work towards becoming our best self,
+<ul data-tight="true" class="tight">
+<li>
+<p>understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences
-<br>· Recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access and acting irresponsibly or maliciously
-when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
+<p>recognise that there are moral and legal consequences of risky sexual
+behaviours,pornography access and acting irresponsibly or maliciously when
+online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
