@@ -55,7 +55,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Edgefield Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Edgefield Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -109,7 +109,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </ol>
 <p></p>
 <hr>
-<h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong></h4>
+<h4><strong>At Edgefield Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
