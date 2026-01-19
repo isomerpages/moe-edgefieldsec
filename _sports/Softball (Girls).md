@@ -27,8 +27,8 @@ such as resilience, discipline, respect and teamwork through the sport.</p>
 <br>
 </p>
 <p><strong>Teachers in Charge</strong> 
-<br>Mdm Han Khim Yuan
-<br>Ms Por Yuling</p>
+<br>Ms Por Yuling
+<br>Mdm Han Khim Yuan</p>
 <p><strong>Student Leaders</strong>
 <br>Captain: Wong Xiang En, 3ES
 <br>Vice-Captain: Koh En Qi, 3EM
@@ -43,6 +43,7 @@ such as resilience, discipline, respect and teamwork through the sport.</p>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 3.30 - 6.00pm
 <br>Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2.30 - 5.30pm</p>
 <p><strong>Venue</strong> 
 <br>School Field</p>
