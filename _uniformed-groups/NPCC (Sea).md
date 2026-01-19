@@ -52,10 +52,10 @@ Unit Overall Proficiency Award (UOPA) 2015 <br>
 _Bronze Award_
 
 **Teachers in Charge** <br>
-ASP (NPCC) Arman Alluwie <br>
-ASP (NPCC) Neo Chee Keong&nbsp;<br>
-INSP (NPCC) Tan Yen Lin&nbsp;<br>
-INSP (NPCC) Kenny Cheong<br>
+ASP (NPCC) Arman Alluwie (IC) <br>
+INSP (NPCC) Kenny Cheong (2IC)&nbsp;<br>
+Ng Lin Xing, Cherlyn&nbsp;<br>
+Wang Zhi Yong<br>
 
 **Student Leaders in Charge** <br>
 Unit Chairperson: Aiden Er Yong Le <br>
