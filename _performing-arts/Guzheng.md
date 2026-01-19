@@ -37,8 +37,8 @@ musicians and as individuals of integrity.</p>
 </p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Zhao Meiling</p>
-<p>Mr Chen Yantong</p>
-<p>Chew-Lim Chai Hoon Yvonne
+<p>Ms Chen Yantong</p>
+<p>Ms Chew-Lim Chai Hoon Yvonne
 <br>
 </p>
 <p><strong>Student Leaders</strong> 
