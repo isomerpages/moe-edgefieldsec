@@ -73,9 +73,10 @@ the National School Games.</p>
 <br>JEFF TAN BING HUI 8.49 [NSG B Division Boys 2nd International Cudgel]</p>
 <p></p>
 <p><strong>Teachers in Charge</strong> 
-<br>Mr Toh Siong Keong
-<br>Mdm Siti Zamzama'ah Parumah</p>
-<p><strong>Student Leaders</strong> 
+<br>Mr Toh Siong Keong (IC)
+<br>Mdm Serene Lim (2 IC)</p>
+<p>Mdm Zamzama'ah Parumah</p>
+<p><strong>Student Leaders</strong>
 <br>Captain: ETHAN TAN YONG AN, 3 Euler
 <br>Vice-Captain: CHIA EN XUAN JOLYNNA, 3 Everest
 <br>
@@ -85,6 +86,7 @@ the National School Games.</p>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;3.45 - 6.15pm
 <br>Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2.00 - 4.30pm&nbsp;</p>
+&nbsp; &nbsp;2.00 - 4.30pm&nbsp;</p>
 <p><strong>Venue</strong> 
-<br>Indoor Sports Hall (ISH)</p>
+<br>Indoor Sports Hall (ISH) Punggol View Primary</p>
+<p></p>
