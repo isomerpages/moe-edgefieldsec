@@ -54,8 +54,8 @@ Museum
 <br>Ms Fiona Goh
 <br>
 </p>
-<p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Training Time</strong> 
+<p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Training Time</strong> 
 <br>Wednesday&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;3.30 to 6.00pm</p>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; 3.30 to 6.00pm</p>
 <p><strong>Venue</strong> 
 <br>Art Room</p>
