@@ -31,10 +31,10 @@ _Gold_
 ![](/images/NCDCC_Day_2025_2.jpg)
 
 **Teachers in Charge:** <br>
-Mr Guo Xianlun<br>
-Ms Toh Si Qi<br>
+Mr Guo Xianlun (IC)<br>
+Ms Toh Si Qi (2IC)<br>
 Mr See Qin Kai<br>
-Mrs Jewelle Ho
+Ms Ku Xin Yie (Untrained)
 
 **Student Leaders**<br>
 Unit Sergeant Major: ZAYAN AFTAB, 3EV <br>
@@ -62,7 +62,7 @@ NG CHUN YONG (3EV) <br>
 
 **Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Training Time** <br>
 
-Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2:30 – 5:30pm
+Friday&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2:30 – 6:00pm
 
 **Venue** <br>
 NCDCC Room
