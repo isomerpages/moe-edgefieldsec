@@ -2,7 +2,7 @@
 title: Art Club
 permalink: /experience/cca/clubs/art-club/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Description</strong> 
 <br>Art Club offers students with interest in visual arts to come together
@@ -16,13 +16,15 @@ to museums to view art exhibitions. Such visits will help them build appreciatio
 and awareness of art around them.</p>
 <p><strong>Highlights / Achievements</strong>
 </p>
-<p><strong><em>SINGAPORE YOUTH FESTIVAL 2024 ART EXHIBITION: </em></strong>
+<p><strong><em>SINGAPORE YOUTH FESTIVAL 2024 ART EXHIBITION:</em></strong>
 </p>
-Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte (2ED)
-<br>ViaRT Award 2023: 
-<br>The Most Creative Award (Third Prize)- Jaelyn Goh, Dandree Lim, Ong Sim Rui
-<br>Best Sustainable Message Award (Third Prize)- Chia Yu Xuan Cheyenne and Shannon Tan Xuan En
-
+<p>Ocean of Tomorrow by Belinda (2EH), Shijia (1EC), Aliyah (1ED) and Charlotte
+(2ED)
+<br>ViaRT Award 2023:
+<br>The Most Creative Award (Third Prize)- Jaelyn Goh, Dandree Lim, Ong Sim
+Rui
+<br>Best Sustainable Message Award (Third Prize)- Chia Yu Xuan Cheyenne and
+Shannon Tan Xuan En</p>
 <p><strong><em>School contributions</em></strong>
 <br>Chinese New Year Festive Cards and WhatsApp sticker designs&nbsp;
 <br>EFSS 10th Anniversary Postcard Designs&nbsp;
@@ -43,22 +45,17 @@ Museum
 </p>
 <p></p>
 <p><strong>Student Leaders</strong> 
-<br>President: Winona Andenea Nirbitalarasati 3EL 
-<br>Vice President: Ong Sim Rui 3ES 
-<br>Peer Support Leader: Goh Pei Yi Belinda, 3EH 
-<br>Peer Support Leader: Dandree Lim, 3EU 
-</p>
+<br>President: Winona Andenea Nirbitalarasati 3EL
+<br>Vice President: Ong Sim Rui 3ES
+<br>Peer Support Leader: Goh Pei Yi Belinda, 3EH
+<br>Peer Support Leader: Dandree Lim, 3EU</p>
 <p><strong>Teachers in Charge</strong> 
 <br>Ms Shahidah
 <br>Ms Fiona Goh
 <br>
 </p>
 <p><strong>Training Days&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Training Time</strong> 
-<br>Monday&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp;4.00 to 5.30pm
 <br>Wednesday&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;4.00 to
-5.30pm</p>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;3.30 to 6.00pm</p>
 <p><strong>Venue</strong> 
 <br>Art Room</p>
