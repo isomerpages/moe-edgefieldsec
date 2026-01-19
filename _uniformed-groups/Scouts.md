@@ -116,10 +116,10 @@ Frank Cooper Sands Award 2012 <br>
 _Silver_  
 
 **Teachers in Charge** <br>
-Mr Darren Woo&nbsp;<br>
+Mr Darren Woo (IC)&nbsp;<br>
+Mr Imaduddin Ahmad Bin Chevi Rafiudin (2IC)  <br>
 Ms Nur Aisha <br>
-Ms Siti Azriah <br>
-Mr Imaduddin Ahmad 
+Ms Siti Azriah (CAJT) 
 
 **Student Leaders** <br>
 Troop Leader: Kayden Lim Cheng Kiat (3EV)  <br>
