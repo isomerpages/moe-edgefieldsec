@@ -41,7 +41,7 @@ Vice-President: Falisyah Aareeya Ruzaini, 3ED
 
 **Teachers in Charge** <br>
 Mdm Yeo Ai Peng<br>
-Mr Lim Mingxun
+
 
 
 
