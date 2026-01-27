@@ -38,7 +38,7 @@ teaching and learning (e.g. social media, pornography, gambling, or websites
 containing extremist content)</p>
 </li>
 <li>
-<p>Students will be able to use the device from 06.30 a.m. to 11.00 p.m.
+<p>Students will be able to use the device from 06.30 a.m. to 10.30 p.m.
 daily</p>
 </li>
 </ul>
