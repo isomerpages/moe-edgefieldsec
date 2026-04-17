@@ -5,10 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>School Advisory Committee Members</h2>
-<p>
-<br>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -105,9 +101,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+<br>
+</p>
 <p></p>
