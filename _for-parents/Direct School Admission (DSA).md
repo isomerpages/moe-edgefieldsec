@@ -6,37 +6,15 @@ variant: tiptap
 ---
 <h2><strong>Direct School Admission – Secondary (DSA-SEC) Exercise</strong></h2>
 <p>Edgefield Secondary School invites Primary 6 students to join the school
-through the 2025 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
+through the 2026 Direct School Admission – Secondary (DSA-Sec) Exercise.</p>
 <p>Interested candidates can apply for DSA through the school’s distinctive
 programmes and talent areas:
 <br>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Sports</p>
+<p>Sports(Taekwondo, Volleyball, Badminton, Basketball, Softball, Wushu)</p>
 </li>
-</ol>
-<ul>
-<li>
-<p>Taekwondo</p>
-</li>
-<li>
-<p>Volleyball (Boys only)</p>
-</li>
-<li>
-<p>Badminton</p>
-</li>
-<li>
-<p>Basketball</p>
-</li>
-<li>
-<p>Softball</p>
-</li>
-<li>
-<p>Wushu</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Innovation</p>
 </li>
@@ -57,249 +35,70 @@ programmes and talent areas:
 <th rowspan="1" colspan="1">
 <p>1.</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>SPORTS</p>
-<ul>
-<li>
-<p>Taekwondo (Boys and Girls)</p>
-</li>
-<li>
-<p>Volleyball (Boys only)</p>
-</li>
-<li>
-<p>Badminton (Boys and Girls)</p>
-</li>
-<li>
-<p>Basketball (Boys and Girls)</p>
-</li>
-<li>
-<p>Softball (Girls only)</p>
-</li>
-<li>
-<p>Wushu (Boys and Girls)</p>
-</li>
-</ul>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>SPORTS</strong>
+</p>
+<p>• Taekwondo (Boys and Girls)</p>
+<p>• Volleyball (Boys only)</p>
+<p>• Badminton (Boys and Girls)</p>
+<p>• Basketball (Boys and Girls)</p>
+<p>• Softball (Girls only)</p>
+<p>• Wushu (Boys and Girls)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>a.</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong>
+<p><strong>a. Student Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop good character and a resilient mindset in our students through
+<p>• To develop good character and a resilient mindset in our students through
 sport.</p>
-</li>
-<li>
-<p>To develop and nurture sporting talents in selected sport.</p>
+<p>• To develop and nurture sporting talents in selected sport.</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>b.</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria for all sports</strong>
+<p><strong>b. Selection Criteria for all sports</strong>
 </p>
+<p>• Applicants are medically fit, exhibit aptitude in general athletic abilities
+and/or sports-specific competencies, and display high levels of motivation
+and grit.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Candidate is medically fit, exhibits aptitude in general athletic abilities
-and/or sports-specific competencies, and displays high levels of motivation
-and grit.</p>
-</li>
-<li>
-<p>Obtained “Excellent” or “Very Good” for conduct grade in Primary 5 and
+<p>Should have Excellent or Very Good for conduct grade in Primary 5 and
 Primary 6.</p>
 </li>
 <li>
-<p>Candidates with or without prior experience may apply. The school will
-assess applicants based on the selection criteria, which may include assessing
-the potential of the candidates.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p></p>
 <p></p>
 </li>
 </ul>
 <p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p></p>
-<p>All candidates will be required to attend the sports trial specific to
-the selected sport. Only shortlisted candidates from the sports trial will
-be informed to attend an interview.</p>
+<p>All applicants will be required to attend the sports trial specific to
+the selected sport.</p>
+<p></p>
+<p>Only shortlisted applicants from the sports trial will receive notification
+via email from the school <strong>by 31 July 2026 (Friday) </strong>to attend
+an interview session.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>c.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Specific sport trial requirement:&nbsp;</strong>
-</p>
-<p><strong>A) Taekwondo</strong>
-</p>
-<ul>
-<li>
-<p>Mandatory requirement</p>
-<ul>
-<li>
-<p>Agility and Flexibility test to demonstrate physical ability; and&nbsp;</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Taekwondo specific requirement</p>
-<ul>
-<li>
-<p>Demonstrate poomsae pattern of their current or last grade level.</p>
-</li>
-<li>
-<p>For students with Kyorugi background, they are to perform a short shadow
-sparring session with emphasis on movements and kicks.</p>
-</li>
-<li>
-<p>For students without TKD background, they will be required to demonstrate
-a predetermined set of routine comprising simple kicks and hand movements.</p>
-</li>
-<li>
-<p>Students will be asked to perform this TKD specific requirement individually
-and in a group setting.</p>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p><strong>B) Volleyball&nbsp;</strong>
-</p>
-<ul>
-<li>
-<p>Mandatory requirement</p>
-<ul>
-<li>
-<p>Performance test to demonstrate physical ability which includes agility
-T-Test, vertical jump etc.; and</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Volleyball specific requirement</p>
-<ul>
-<li>
-<p>Demonstrate specific Volleyball skills such as digging, setting and service.</p>
-</li>
-<li>
-<p>Ability to demonstrate strong volleyball skills in a game play situation.</p>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p><strong>C) Badminton</strong>
-</p>
-<ul>
-<li>
-<p>Demonstrate specific Badminton skills such as lobbing, drop shots, net
-shots and smashing</p>
-</li>
-<li>
-<p>Demonstrate proficient shuttlecock control.</p>
-</li>
-<li>
-<p>Demonstrate strong Badminton skills in a game play situation.</p>
-</li>
-</ul>
-<hr>
-<p><strong>D) Basketball</strong>
-</p>
-<ul>
-<li>
-<p>Mandatory physical requirements</p>
-<ul>
-<li>
-<p>Performance test to demonstrate physical ability which would include Sprint
-Tests and Shuttle Runs.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Basketball-specific requirements</p>
-<ul>
-<li>
-<p>Demonstrate specific Basketball skills such as lay ups, shooting and defense.</p>
-</li>
-<li>
-<p>Ability to demonstrate strong situational awareness in game play situations.</p>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p><strong>E) Softball</strong>
-</p>
-<ul>
-<li>
-<p>Mandatory physical requirement</p>
-<ul>
-<li>
-<p>Performance test to demonstrate physical ability, which will include Sprint
-Tests, Agility T-Test, Illinois Agility, etc.; and</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Softball-specific requirement</p>
-<ul>
-<li>
-<p>Demonstrate specific Softball skills such as throwing, catching, and batting.</p>
-</li>
-<li>
-<p>Ability to demonstrate strong Softball skills in a game play situation</p>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p><strong>F) Wushu</strong>
-</p>
-<ul>
-<li>
-<p>Mandatory physical requirement</p>
-<ul>
-<li>
-<p>Agility and Flexibility test to demonstrate physical ability.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Wushu specific requirement</p>
-</li>
-<li>
-<p>Demonstrate one of the following routines:</p>
-<ul>
-<li>
-<p>A Wushu Individual Event Formulated Routine in Quanshu, short weapon or
-long weapon.</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>For students without Wushu background, they will be required to demonstrate
-a predetermined Quanshu routine.</p>
-</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>d.</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Programmes &amp; Activities for DSA Students</strong> 
@@ -322,83 +121,117 @@ in our school.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2.</p>
+<p><strong>Sports DSA Category</strong>
+</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>INNOVATION - Growing the Edgefield Mindset</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>a.</strong>
+<p><strong>Specific Sports Trial Requirement</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong> 
-<br>• Nurturing Collaborative Innovators with capabilities to better prepare
-them for the future.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>b.</strong>
+<p><strong>Taekwondo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-<ul>
-<li>
-<p>Displays strong passion and keen interest in developing skills and attributes
-in the areas of innovation .</p>
-</li>
-<li>
-<p>Exhibits aptitude in high performance capability in creativity and problem
-solving.</p>
-</li>
-<li>
-<p>Displays dispositions that will help nurture an innovative and entrepreneurial
-mindset.&nbsp;</p>
-</li>
-<li>
-<p>Demonstrates a high level of self-motivation and self-directedness, willingness
-and openness to attempt and experiment with new and challenging ideas,
-and alertness to opportunities.</p>
-</li>
-<li>
-<p>Obtained “Excellent” or “Very Good” for conduct grade in Primary 5 and
-Primary 6.</p>
-</li>
-<li>
-<p>Active involvement/participation in innovation programmes/competitions
-in their primary schools or has similar experiences in other platforms.</p>
-</li>
-<li>
-<p>Portfolios of outstanding achievements or work in the area of innovation
-will be taken into consideration.</p>
-</li>
-</ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>&nbsp;</p>
-<p><strong>Shortlisted candidates will be required to attend in person:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>An interview session that includes a situational test where they will be put into a problem solving scenario.</strong>
-</p>
-</li>
-</ul>
+<p>Physical requirement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agility and Flexibility assessment
+to demonstrate physical capability</p>
+<p>&nbsp;</p>
+<p>Sport specific requirement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students with prior Taekwondo experience
+are required to demonstrate the Poomsae corresponding to their most recently
+attained grade.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students with a Kyorugi background
+will be required to perform a short shadow sparring sequence, with emphasis
+on movement, footwork, and kicking techniques. They may also be required
+to spar with another candidate of similar experience and weight category.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students without prior Taekwondo
+experience will be required to perform a predetermined routine comprising
+basic kicks and hand techniques.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>c.</strong>
+<p><strong>Volleyball&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong> 
-<br>• To support successful DSA candidates in developing their areas of passion,
-they would take the lead in innovation related projects/competitions for
-the duration of their studies in Edgefield Secondary School.</p>
+<p>Physical requirement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance test to demonstrate
+physical ability which would include Agility T-Test, Vertical Jump and
+Shuttle Run</p>
+<p>&nbsp;</p>
+<p>Sport specific requirement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate specific Volleyball
+skills such as digging, setting and service</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to demonstrate strong volleyball
+skills in a game play situation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sport specific requirement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate specific Badminton skills
+such as lobbing, drop shots, net shots and smashing</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate proficient shuttlecock
+control</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate strong Badminton skills
+in a game play situation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical requirement</p>
+<p>• Performance test to demonstrate physical ability which would include
+Sprint Test and Shuttle Run</p>
+<p></p>
+<p>Sport specific requirement</p>
+<p>• Demonstrate specific Basketball skills such as lay ups, shooting and
+defense</p>
+<p>• Ability to demonstrate strong situational awareness in game play situations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Softball</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical requirement</p>
+<p>• Performance test to demonstrate physical ability which would include
+Sprint Test, Agility T-Test, Illinois Agility</p>
+<p></p>
+<p>Sport specific requirement</p>
+<p>• Demonstrate specific Softball skills such as throwing, catching, and
+batting</p>
+<p>• Ability to demonstrate strong Softball skills in a game play situation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wushu</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sport specific requirement</p>
+<p>• Demonstrate a range of basic Wushu skills which would include kicks,
+stances and jumping techniques.</p>
+<p>• Students with Wushu background will be required to demonstrate a Wushu
+Individual Event Formulated Routine in Quanshu, Short Weapon or Long Weapon.</p>
+<p>• Students without Wushu background will be required to demonstrate a
+predetermined Quanshu routine.</p>
 </td>
 </tr>
 </tbody>
@@ -410,69 +243,60 @@ the duration of their studies in Edgefield Secondary School.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>3.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>STUDENT LEADERSHIP - Nurturing Compassionate Leaders</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>a.</strong>
-</p>
+<p>(2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Outcomes</strong> 
-<br>• Nurturing Compassionate Leaders who are anchored on values and committed
-to serve the school and community with passion and empathy.</p>
+<p><strong>INNOVATION - Growing the Edgefield Mindset</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>b.</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-<ul>
-<li>
-<p>Demonstrates the values Compassion, Moral Courage, Sincerity and Honour.</p>
-</li>
-<li>
-<p>Exhibits strong leadership qualities/skills and has held a leadership
-position in primary school e.g. Prefects, CCA leaders/Captains, Peer Support
-Leaders, etc.</p>
-</li>
-<li>
-<p>Actively volunteers and has made meaningful contributions to their primary
-schools and the community.</p>
-</li>
-<li>
-<p>Obtained “Excellent” or “Very Good” for conduct grade in Primary 5 and
-Primary 6.</p>
-</li>
-<li>
-<p>Leadership and Character Awards such as the Edusave Award for Achievement,
-Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA)
-will be taken into consideration.</p>
-</li>
-</ul>
-<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
-</p>
-<p><strong>Shortlisted candidates will be required to complete/attend in person:</strong>
+<p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>A group task; and</strong>
-</p>
-</li>
-<li>
-<p><strong>A group interview session.</strong>
-</p>
+<p>Nurturing Collaborative Innovators with capabilities to better prepare
+them for the future.</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>a.	Selection Criteria</strong>
+</p>
+<p>• Displays strong passion and keen interest in developing skills and attributes
+in the areas of innovation.</p>
+<p>• Exhibits aptitude in high performance capability in creativity and problem
+solving.</p>
+<p>• Displays dispositions that will help nurture an innovative and entrepreneurial
+mindset.</p>
+<p>• Demonstrates a high level of self-motivation and self-directedness,
+willingness and openness to attempt and experiment with new and challenging
+ideas, and alertness to opportunities.</p>
+<p>• Should have “Excellent” or “Very Good” for conduct grade in Primary
+5 and Primary 6.</p>
+<p>• Active involvement/participation in innovation programmes/competitions
+in their primary schools or has similar experiences in other platforms.</p>
+<p>• Portfolios of outstanding achievements or work in the area of innovation
+will be taken into consideration.</p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<p>Shortlisted applicants will be required to attend in person:</p>
+<p>• An interview session that includes a situational test where they will
+be put into a problem-solving scenario.</p>
+<p>Only shortlisted applicants will receive notification via email from the
+school <strong>by 10 July 2026 (Friday) to attend an interview session.</strong>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -481,10 +305,74 @@ will be taken into consideration.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes &amp; Activities for DSA Leadership Students</strong> 
-<br>• To support successful DSA candidates in developing their areas of passion,
+<p><strong>Programmes &amp; Activities for DSA Innovation Students</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To support successful DSA applicants in developing their areas of passion,
+they would take the lead in innovation related projects/ competitions for
+the duration of their studies in Edgefield Secondary School.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(3)</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><strong>LEADERSHIP - Nurturing Compassionate Leaders</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Criteria</strong>
+</p>
+<p>• Demonstrates the values Compassion, Moral Courage, Sincerity and Honour.</p>
+<p>• Exhibits strong leadership qualities/skills and has held a leadership
+position in primary school e.g. Prefects, CCA leaders/Captains, Peer Support
+Leaders, etc.</p>
+<p>• Actively volunteers and has made meaningful contributions to their primary
+schools and the community.</p>
+<p>• Should have “Excellent” or “Very Good” for conduct grade in Primary
+5 and Primary 6.</p>
+<p>• Leadership and Character Awards such as the Edusave Award for Achievement,
+Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA)
+will be taken into consideration.</p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<p>Shortlisted applicants will be required to complete/attend in person:</p>
+<p>• A group task; and</p>
+<p>• A group interview session.</p>
+<p>Only shortlisted applicants will receive notification via email from the
+school <strong>by 13 July 2026 (Monday) </strong>to attend a group task
+and interview session.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programmes &amp; Activities for DSA Leadership Students</strong>
+</p>
+<p>• To support successful DSA applicants in developing their areas of passion,
 they would have to serve in one of the Student Leadership bodies for the
 duration of their studies in Edgefield Secondary School.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -492,32 +380,10 @@ duration of their studies in Edgefield Secondary School.</p>
 <p><strong>APPLICATION PROCESS</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.
-For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+The application is free-of-charge and will be open from&nbsp;6 May 2026,
+11am to 2 June 2026, 4.30pm. For more details, please refer to MOE website
+–&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p><strong>SELECTION PROCESS</strong>
-</p>
-<ul>
-<li>
-<p>Shortlisted candidates will be notified latest by <strong>4 July 2025</strong>.</p>
-</li>
-<li>
-<p>Shortlisted candidates will be required to sit for the required questionnaires,
-trials, and interviews sessions as specified under the different talent
-areas.</p>
-</li>
-<li>
-<p>Please note that shortlisted candidates will have to attend separate sessions
-of questionnaires/ trials/ interviews if they have applied for more than
-one talent area.</p>
-</li>
-<li>
-<p>The questionnaires/ trials/ interviews for shortlisted candidates will
-be conducted between&nbsp;<strong>9 July 2025</strong> and <strong>15 August 2025</strong> at
-Edgefield Secondary School.</p>
-</li>
-</ul>
-<p>All candidates will receive notification of results by <strong>4 September 2025</strong>.</p>
 <p><strong>KEY DATES</strong>
 </p>
 <table style="minWidth: 50px">
@@ -531,10 +397,10 @@ Edgefield Secondary School.</p>
 <p><strong>DSA-Sec Application Period</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>
+<td rowspan="1" colspan="1">
+<p><strong>6 May 2026, 11am to 2 June 2026, 4.30pm</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -542,27 +408,22 @@ Edgefield Secondary School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 June 2025 – 4 September 2025</strong>
+<p><strong>29 June 2026 to 28 August 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shortlisted Candidates</strong>
+<p><strong>Trials / Interview Period</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be notified by email latest by <strong>4 July 2025</strong>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Questionnaire/ Trials/ Interviews</strong>
+<p>Shortlisted applicants will be required to attend trials and/or interviews
+at Edgefield Secondary School between<strong>&nbsp;8 July 2026&nbsp;and&nbsp;14 August 2026.</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be required to sit for questionnaires/ trials/
-interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</strong>.</p>
+<p></p>
+<p>Applicants will have to attend separate sessions of trials and/or interviews
+if they have applied for more than one talent area.</p>
 </td>
 </tr>
 <tr>
@@ -571,7 +432,8 @@ interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All candidates will receive notification of results from <strong>25 August 2025 to 4 September 2025</strong>.</p>
+<p>All applicants will receive their application outcomes between <strong>17 and 28 August 2026.</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -580,41 +442,38 @@ interviews between <strong>9 July 2025</strong> and <strong>15 August 2025</stro
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students to indicate their school preferences from <strong>27 </strong>to<strong> 31 October 2025</strong>.</p>
+<p>Students are to indicate their school preferences from<strong>&nbsp;19&nbsp;to&nbsp;23 October 2026.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>ESSENTIAL INFORMATION</strong>
 </p>
-<p>1.&nbsp; &nbsp; Parents and students are encouraged to choose schools
+<p>1.&nbsp; &nbsp;&nbsp; Parents and students are encouraged to choose schools
 wisely based on the student’s aptitudes and strengths, bearing in mind
 the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
-<p>2.&nbsp; &nbsp; Please note that meeting the selection criteria stated
-above does not guarantee that the student will be shortlisted or given
-an offer.</p>
-<p>3.&nbsp; &nbsp; The school’s decision of the DSA-Sec application is final.
-No appeal or correspondence will be entertained.</p>
-<p>4.&nbsp; &nbsp; The school reserves the right not to disclose the reasons
-for the non-selection of applicants.</p>
-<p>5.&nbsp; &nbsp; Students who are successfully admitted to the school via
-DSA are expected to honour the commitment to the school and programme,
-and participate in the activities related to the talent they are selected
-for, for the duration of the programme they are admitted to.</p>
-<p>6.&nbsp; &nbsp; Successful DSA-Sec candidates who took PSLE are <strong><u>NOT</u></strong> allowed
+<p>&nbsp;2.&nbsp; &nbsp; Please note that meeting all the selection criteria
+stated above does not guarantee the student will be shortlisted/given an
+offer.</p>
+<p>&nbsp;3.&nbsp; &nbsp; The school’s decision of the DSA-Sec application
+is final. No appeal or correspondence will be entertained.</p>
+<p>&nbsp;4.&nbsp; &nbsp; The school reserves the right not to disclose the
+reasons for the non-selection of applicants.</p>
+<p>&nbsp;5.&nbsp; &nbsp; Students who are successfully admitted to the school
+via DSA are expected to honour their commitment to the school and participate
+in the activities related to the talent they are selected for from year
+1-4.</p>
+<p>&nbsp;6.&nbsp; &nbsp; Successful DSA-Sec candidates who took PSLE are&nbsp;<strong><u>NOT</u></strong>&nbsp;allowed
 to participate in the annual Secondary One (S1) Posting Exercise. However,
 if they are eligible for third language and/or course options, they may
 enter these options during the S1 Option Submission period.</p>
-<p>7.&nbsp; &nbsp; Shortlisted International Students are to take and fulfill
-the requirements of the Admissions Exercise for International Students
-(AEIS) test.</p>
-<p>8.&nbsp; &nbsp; For successful applicants <strong>not </strong>studying
-in MOE mainstream primary schools and <strong>not </strong>taking the PSLE,
-the school will conduct placement tests to assess the course suitability
-of the applicants.</p>
-<hr>
+<p>&nbsp;7.&nbsp; &nbsp; International Students (who are not taking the PSLE)
+are required to take and fulfill the requirements of the Admissions Exercise
+for International Students (AEIS) to be successful in DSA.</p>
+<p>&nbsp;</p>
 <p>For further queries, please contact the school at:</p>
 <p>DSA-Sec Coordinator: Mdm Chan Jin Fen (HOD/PE &amp; CCA)
 <br>Tel: 68839511
-<br>Email: dsa@edgefield.edu.sg</p>
+<br>Email: edgefield_ss@moe.edu.sg</p>
