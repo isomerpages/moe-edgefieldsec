@@ -84,11 +84,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Member___Mr_Simon_Yeo_Kay_Suan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Member___Mr_Simon_Yeo_Kay_Suan.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Member___Mr_Eric_Wong.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
