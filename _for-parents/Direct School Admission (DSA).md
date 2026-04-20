@@ -34,7 +34,8 @@ programmes and talent areas:
 <p>1.</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SPORTS</p>
+<p><strong>SPORTS</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Taekwondo (Boys and Girls)</p>
@@ -115,7 +116,7 @@ an interview session.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>c. Programmes &amp; Activities for DSA Students</strong> 
+<p><strong>c. Programmes &amp; Activities for DSA Students</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -461,20 +462,22 @@ and Primary 6.</p>
 <p>Leadership and Character Awards such as the Edusave Award for Achievement,
 Good Leadership and Service (EAGLES) and Edusave Character Award (ECHA)
 will be taken into consideration.</p>
+</li>
+</ul>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer.</p>
 <p>Shortlisted applicants will be required to complete/attend in person:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>A group task; and</p>
 </li>
 <li>
 <p>A group interview session.</p>
+</li>
+</ul>
 <p>Only shortlisted applicants will receive notification via email from the
 school <strong>by 13 July 2026 (Monday) </strong>to attend a group task
 and interview session.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -482,7 +485,7 @@ and interview session.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>c.  Programmes &amp; Activities for DSA Leadership Students</strong>
+<p><strong>c. Programmes &amp; Activities for DSA Leadership Students</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -569,29 +572,43 @@ if they have applied for more than one talent area.</p>
 </table>
 <p><strong>ESSENTIAL INFORMATION</strong>
 </p>
-<p>1.&nbsp; &nbsp;&nbsp; Parents and students are encouraged to choose schools
-wisely based on the student’s aptitudes and strengths, bearing in mind
-the schools’ academic and non-academic requirements, and the programmes
-available to develop the area of talent.</p>
-<p>&nbsp;2.&nbsp; &nbsp; Please note that meeting all the selection criteria
-stated above does not guarantee the student will be shortlisted/given an
-offer.</p>
-<p>&nbsp;3.&nbsp; &nbsp; The school’s decision of the DSA-Sec application
-is final. No appeal or correspondence will be entertained.</p>
-<p>&nbsp;4.&nbsp; &nbsp; The school reserves the right not to disclose the
-reasons for the non-selection of applicants.</p>
-<p>&nbsp;5.&nbsp; &nbsp; Students who are successfully admitted to the school
-via DSA are expected to honour their commitment to the school and participate
-in the activities related to the talent they are selected for from year
-1-4.</p>
-<p>&nbsp;6.&nbsp; &nbsp; Successful DSA-Sec candidates who took PSLE are&nbsp;<strong><u>NOT</u></strong>&nbsp;allowed
+<ol data-tight="true" class="tight">
+<li>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+</li>
+<li>
+<p>Please note that meeting all the selection criteria stated above does
+not guarantee the student will be shortlisted/given an offer.</p>
+</li>
+<li>
+<p>The school’s decision of the DSA-Sec application is final. No appeal or
+correspondence will be entertained.</p>
+</li>
+<li>
+<p>The school reserves the right not to disclose the reasons for the non-selection
+of applicants.</p>
+</li>
+<li>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+</li>
+<li>
+<p>Successful DSA-Sec candidates who took PSLE are&nbsp;<strong><u>NOT</u></strong>&nbsp;allowed
 to participate in the annual Secondary One (S1) Posting Exercise. However,
 if they are eligible for third language and/or course options, they may
 enter these options during the S1 Option Submission period.</p>
-<p>&nbsp;7.&nbsp; &nbsp; International Students (who are not taking the PSLE)
-are required to take and fulfill the requirements of the Admissions Exercise
-for International Students (AEIS) to be successful in DSA.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>International Students (who are not taking the PSLE) are required to take
+and fulfill the requirements of the Admissions Exercise for International
+Students (AEIS) to be successful in DSA.</p>
+<p></p>
+</li>
+</ol>
 <p>For further queries, please contact the school at:</p>
 <p>DSA-Sec Coordinator: Mdm Chan Jin Fen (HOD/PE &amp; CCA)
 <br>Tel: 68839511
