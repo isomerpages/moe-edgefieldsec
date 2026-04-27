@@ -369,23 +369,15 @@ in their primary schools or has similar experiences in other platforms.</p>
 <p>Portfolios of outstanding achievements or work in the area of innovation
 will be taken into consideration.</p>
 </li>
-<li>
+</ul>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer.</p>
-</li>
-<li>
 <p>Shortlisted applicants will be required to attend in person:</p>
-</li>
-<li>
 <p>An interview session that includes a situational test where they will
 be put into a problem-solving scenario.</p>
-</li>
-<li>
 <p>Only shortlisted applicants will receive notification via email from the
 school <strong>by 10 July 2026 (Friday) to attend an interview session.</strong>
 </p>
-</li>
-</ul>
 <p></p>
 </td>
 </tr>
