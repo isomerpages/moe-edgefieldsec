@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>School Advisory Committee Members</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final_SAC.png">
 </div>
 <p>
 <br>
