@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_12May26.gif
+      background: /images/Banner_adjusted.gif
       url: /contact-us
       key_highlights:
         - title: Full Subject-Based Banding (FULL SBB) Offered
