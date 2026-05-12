@@ -3,6 +3,7 @@ title: Mission, Vision, Motto & Core Values
 permalink: /edgefield/our-story/mission-vision-motto-n-core-values/
 description: ""
 third_nav_title: Our Story
+variant: markdown
 ---
 ### SCHOOL VISION
 
@@ -18,4 +19,4 @@ The motto “Sincerity and Honour” serves as the school’s key guiding princi
 
 ### SCHOOL VALUES 
 
-Edgefield Values are “Moral Courage and Compassion”, forming the acronym E = mc2, the famous energy equation by Albert Einstein who was one of the greatest scientists in the last century. E = mc2 helps to focus students’ mental attitude in doing what is right and being able to make a positive difference to the people around them. 
+Edgefield Values are “Enterprising, Moral Courage and Compassion”, forming the acronym E = mc2, the famous energy equation by Albert Einstein who was one of the greatest scientists in the last century. E = mc2 helps to focus students’ mental attitude in doing what is right and being able to make a positive difference to the people around them.
