@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Story
 variant: markdown
 ---
- ![](/images/School_Crest.png)
+![](/images/School_Crest.png)
 
 The Edgefield Secondary School Crest is round to represent the school’s commitment in preparing students to be global citizens while engendering a sense of rootedness to Singapore, the little “red dot”.
 
