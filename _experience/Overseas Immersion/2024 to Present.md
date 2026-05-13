@@ -14,10 +14,10 @@ experienced how technology, design, and sustainability, shape modern urban
 life. From exploring smart transport innovations like autonomous vehicles
 and drones, to discovering heritage districts, students gained valuable
 insights into how cities like Shanghai and Singapore are planning for a
-smarter, greener future.</p>
-<p>"<em>“I was inspired by the enthusiasm and technical expertise of the Shanghai students in their exploration of science and technology. Joining my buddy in class, I was amazed by how they used technology to make lessons fun and engaging. This experience opened my eyes to how technology can transform ordinary lessons into exciting opportunities to learn and connect.”</em>
-</p>
-<p><em>– Ferlyn Tan En Xin, Year 2, 2025</em>
+smarter, greener future.
+<br>
+<br>"<em>I was inspired by the enthusiasm and technical expertise of the Shanghai students in their exploration of science and technology. Joining my buddy in class, I was amazed by how they used technology to make lessons fun and engaging. This experience opened my eyes to how technology can transform ordinary lessons into exciting opportunities to learn and connect.”</em>
+<br><em>– Ferlyn Tan En Xin, Year 2, 2025</em>
 </p>
 <p></p>
 <h4><strong>Shanghai Cultural Immersion Programme 2024&nbsp;</strong><br></h4>
