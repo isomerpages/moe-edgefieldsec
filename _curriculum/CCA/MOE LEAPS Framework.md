@@ -5,5 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener nofollow" target="_blank">MOE LEAPS 2.0 Framework</a>
+<blockquote>
+<p><a href="https://www.moe.gov.sg/api/media/9f2f8124-5fbd-4223-b073-4ab8a93c5c6e/LEAPS-2-Framework.pdf" rel="noopener nofollow" target="_blank">MOE LEAPS 2.0 Framework</a>
 </p>
+</blockquote>
+<p></p>
