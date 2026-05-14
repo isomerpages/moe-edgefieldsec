@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_adjusted.gif
+      background: /images/Website_Banner14May.gif
       url: /contact-us
       key_highlights:
         - title: Full Subject-Based Banding (FULL SBB) Offered
@@ -16,6 +16,7 @@ sections:
         - title: Stay connected with us on the latest happenings here
           description: ""
           url: https://www.instagram.com/edgefieldsecondary/
+      variant: center
   - infopic:
       title: EDGEFIELD
       description: '"Wisdom begins with wonder" - Socrates, Greek Philosopher'
