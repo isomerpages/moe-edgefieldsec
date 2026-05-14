@@ -5,6 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Immersion
 ---
+<h4><strong>Shanghai Cultural Immersion Programme 2025</strong></h4>
+<p></p>
+<p>From 26–31 November 2025, students took part in a school immersion in
+Shanghai, China, attending an interesting variety of lessons, workshops,
+and experiencing school life alongside Chinese peers. Beyond that, students
+experienced how technology, design, and sustainability, shape modern urban
+life. From exploring smart transport innovations like autonomous vehicles
+and drones, to discovering heritage districts, students gained valuable
+insights into how cities like Shanghai and Singapore are planning for a
+smarter, greener future.
+<br>
+<br>"<em>I was inspired by the enthusiasm and technical expertise of the Shanghai students in their exploration of science and technology. Joining my buddy in class, I was amazed by how they used technology to make lessons fun and engaging. This experience opened my eyes to how technology can transform ordinary lessons into exciting opportunities to learn and connect.”</em>
+<br><em>– Ferlyn Tan En Xin, Year 2, 2025</em>
+</p>
+<p></p>
 <h4><strong>Shanghai Cultural Immersion Programme 2024&nbsp;</strong><br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shanghai_Cultural_Immersion_Programme.gif">
