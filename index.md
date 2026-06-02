@@ -29,7 +29,7 @@ sections:
       description: '"Change is the very essence of life." - Lee Kuan Yew, Founding
         Prime Minister of Singapore'
       button: LEARN MORE
-      url: /future-ready/future-ready/
+      url: https://www.edgefieldsec.moe.edu.sg/future-ready/applied-learning-programme/
       image: /images/future-ready-crop.png
       alt: Image alt text
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: '"Education is not a filling of a pail, but the lighting of a
         fire." - William Butler Yeats, Irish poet'
       button: LEARN MORE
-      url: /together
+      url: https://www.edgefieldsec.moe.edu.sg/together/parents-support-group/
       image: /images/together.png
       alt: Image alt text
   - infopic:
