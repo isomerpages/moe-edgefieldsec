@@ -11,23 +11,15 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EFSS_C_Div_Girls_4_May_2026_07.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EFSS_C_Div_Boys_6_May_2026_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20250313_055833167_MP_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0188_min.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_B_Division_Girls_Singles.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -48,8 +40,8 @@ variant: tiptap
 integrity, perseverance and passion for the game. Through various competitions
 such as the National School Games, students will gain greater exposure
 and hone their badminton skills and techniques.</p>
-<p>Our training has realistic coach to player ratio and our DSA trial takes
-place in July annually.
+<p>Our training has a realistic coach to player ratio and our annual DSA
+trial takes place in early July.
 <br>
 <br><strong>DSA Trial Requirements</strong>
 <br><strong>1. Lobbing</strong>
@@ -86,10 +78,54 @@ place in July annually.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Zone Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Zone Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Boy</p>
+<p>B Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Round One</p>
@@ -203,50 +239,6 @@ place in July annually.
 </td>
 <td rowspan="1" colspan="1">
 <p>Round One</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zonal Top 4 (4th)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zonal Top 4 (3rd)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarter Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarter Finals</p>
 </td>
 </tr>
 <tr>
