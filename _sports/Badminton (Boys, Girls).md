@@ -11,11 +11,11 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EFSS_C_Div_Girls_4_May_2026_07.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EFSS_C_Div_Boys_6_May_2026_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
