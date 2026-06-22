@@ -62,7 +62,7 @@ and world-ready.</p>
 </div>
 <p>See students in action here:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GDBLiK5snMY?si=kvesOwD77mghn8en"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GDBLiK5snMY?si=kvesOwD77mghn8en"></iframe>
 </div>
 <h3>Growing the Edgefield Mindset</h3>
 <p>Are there skills you think you can never pick up in school? Well, maybe
@@ -91,59 +91,64 @@ from ARTasFEST withdrawal symptoms!</p>
 <br><a href="https://youtu.be/tK1GxvZ14TQ" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/tK1GxvZ14TQ</a> 
 <br><a href="https://youtu.be/kCtQEuBYv58" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/kCtQEuBYv58</a>
 </p>
-<h3>ARTasFEST 2023</h3>
-<p>ARTasFEST 2023 is a vibrant, student-led platform at Edgefield Secondary
-School. It enhances 21st Century Competencies and underlines the significance
-of student-led initiatives. Held once every two years, this unique event
-is a fusion of a school carnival and a live outdoor concert, showcasing
-the talents and creativity of our students and alumni.</p>
-<p>ARTasFEST 2023 was held on Aug 11, 2023. The event featured a variety
-of food stalls, student-led game booths, live performances, and collaborations
-with local entrepreneurs. Each class was tasked with planning, organising,
-and operating a booth, providing students with an opportunity to develop
-their leadership, teamwork, and problem-solving skills.</p>
-<p>Themed "Together We Strive, Together We Thrive," ARTasFEST 2023 represents
-a unifying and collaborative effort at Edgefield Secondary School. There
-is also an added significance to the theme as the event provides a platform
-for Edgefield students and alumni to reconnect after years of physical
-separation due to the pandemic.</p>
-<p>What makes ARTasFEST unique is its affordability and inclusivity. It's
-a school-based carnival that brings the Punggol community together. This
-year, the event signified our dedication to giving back to the community
-through an enjoyable and cost-effective celebration. As the sun sets, ARTasFEST
-comes alive with vibrant neon lights, symbolizing our school's heart for
-the community.</p>
-<p>The event goes beyond being just a carnival; it's a celebration of shared
-values and unity. ARTasFEST is an embodiment of the spirit of togetherness
-and resilience, showcasing the collective strength of Edgefielders in striving
-for a brighter future.</p>
-<p><strong>You can also check out our live Instagram updates of the event </strong>
-<a href="instagram.com/efss_artasfest" rel="noopener noreferrer nofollow" target="_blank">@efss_artasfest</a>
+<h3>ARTasFEST 2025: Ignite the Spark, Illuminate the Future</h3>
+<p>On 23 May 2025, Edgefield Secondary School came alive with energy and
+excitement as students, staff, parents, alumni, and community partners
+gathered for ARTasFEST 2025, our biennial school carnival themed “Ignite
+the Spark, Illuminate the Future.” Organised as a signature platform of
+the school's Applied Learning Programme (ALP), ARTasFEST provided students
+with an authentic opportunity to apply their learning beyond the classroom
+while showcasing their creativity, leadership, and entrepreneurial spirit.</p>
+<p>The carnival was largely student-led, with students taking ownership of
+planning and running various aspects of the event. Secondary 1 students
+worked with vendors to curate merchandise booths, while Secondary 2 students
+coordinated food and beverage offerings. Secondary 3 students designed
+and operated original carnival games, and student groups such as the Prefectorial
+Board &amp; Peer Support Leaders contributed special booths that added
+variety and excitement to the event. The evening also featured a vibrant
+outdoor concert, where student performers, emcees, and the audio-visual
+crew showcased their talents before a lively audience.</p>
+<p>Beyond the festivities, ARTasFEST served as a meaningful platform for
+students to develop Emerging 21st Century Competencies. Students demonstrated
+adaptive thinking as they responded to real-time challenges, inventive
+thinking through the design of games and event experiences, communication
+skills in engaging vendors and visitors, and collaboration skills as they
+worked across committees to bring the event to life. Through these authentic
+experiences, students exercised voice, agency, and ownership while contributing
+to a shared vision for the school community.</p>
+<p>The event attracted strong participation from students, parents, alumni,
+and community members, fostering school pride and strengthening community
+connections. ARTasFEST 2025 was a celebration not only of student talent
+and innovation, but also of the values embodied by Edgefield students as
+Collaborative Innovators and Compassionate Leaders.</p>
+<p>You can also check out our live Instagram updates of the event @efss_artasfest</p>
+<h4>View the ARTasFEST 2025 action here:</h4>
+<p><a href="https://for.edu.sg/atf2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/atf2025</a>
 </p>
-<h4>View the ARTasFEST 2023 action here:</h4>
-<p><a href="https://for.edu.sg/atf2023" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/atf2023</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/G-isvQmOXNwLNTzGGYwv5pWmlsINW_LG0xjSPscBj63gbJAKTR6OZIpsYwU3Uy-Gy48D1vdHA3Gw7obNYlq0KzRGfpV81HBZYDkfevBt_3VdopJqBeL_FRaiTdHUGc3WygcMuLkQ6ppPlFGPZhDMsP0MUF_WW4daACYjpKGzChOugVa_T_etBUIjYlebQA">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/inVbRfoTI1kxxXhtUrTxhIBgHRE38yksyIFz9p_nm3fuMBhITIxFmUlxM7NlFWcCZ4HuFM35DrdyrabqJDeC78Dg63o8wdARXthFrkHCkBuJl-wgdYa0zlK_rfw5gH0rdsZNBTGnWJkV02V5hSWHLS9sLI145oods8TV6QlowsmzmD0lY3YKxm73WnCaSQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/lYSkK3XUJ6vhSz83XCGjWGLK_JBVzUuYgW7xxvsUbUoDHyDli91A83h_vbVG3MRzrJngzIIONPuDhkDPCAarC2GgQ1EMuEusnUMNWBHq_MFL9tDA0UxI_6f8WywvjK3ly9UHldcjcaLoW_taZFIX-W9yw6bdLonflBxOfHOZrnn937vHPPwO9I6CwLl8CA">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/O7jadOdROHtf2y56P65L3K9n3AyU_iVihu5TxfGDJ0mo8dpYqG_ZBaaM6cDHOdbibUNzINwQA8dCNrrECOcJ3vkywPJQKGj4l2pbIkSi-ztjb1w0uG1dozrf1vLer-f03h2d3_CtdkqBSAgbnOjKtOoIuexkWXMGVpjBEvgY0zyclydHGGZHgETFXe1B_w">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/g5lRjrKcMmWlxZ-x_5A8D9v2392aSjiYrYWlvKpAIo213KVdJ1KEtULZmjGopUpp2pR9xRzukPNTGszE5FeK7pOGocKpm5kYbrMwP2y1GjRsfbd2r59KB--tngmhlU0VKLeY6_J8FOeL9YCMaXW5y8ntf8E7RN1Qtlay3O_gm0vHf-ViVzgcPjNtdwv7SA">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh7-us.googleusercontent.com/Y3L_mW7oa5gheEmwY237hs7nFAri6dQ9MjlHTgeKGtPOo48wHWWTEF9HEYOOfnF0VZC-YB8pTle2dpY8l8RZyfwoff3Hb06FLxwJ-I96-bBxbimcLrITWPukzLJanDQsQ_6O1ABB7WyBlcVFGH74JL0fpe2wHZ4nerGOU9GlPh4rzsuN6wwqrKrULnbuXg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AF7.jpg">
 </div>
 <p></p>
