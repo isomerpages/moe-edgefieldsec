@@ -2,41 +2,46 @@
 title: Student Leadership
 permalink: /experience/programme/student-leadership/student-leadership/
 description: ""
+variant: markdown
 ---
-The VUCA World of tomorrow is one that is characterised by various contentious issues, and differences across groups of people are becoming increasingly polarised. The leaders of tomorrow will possess qualities different from those of today. Compassion and Empathy are what set great leaders apart.  
+The VUCA World of tomorrow is characterised by contentious issues, and differences across groups are becoming increasingly polarised. The leaders of tomorrow will possess qualities different from those of today.  Compassion and Empathy are what set great leaders apart.
 
-Edgefield Secondary School believes in nurturing Compassionate Leaders who will Lead, Care and Inspire. Building on the strong fundamentals of The Leadership Challenge Model, the Edgefield student leadership programme is aligned to the Desired Outcomes of the 21st Century Competencies Framework, and committed to developing values-centric leaders who are grounded in the school values.
+Edgefield Secondary School believes in nurturing Compassionate Leaders who will Lead, Care and Inspire. Building on the strong fundamentals of The Leadership Challenge Model, the Edgefield student leadership programme is aligned to the Desired Outcomes of the e21 Century Competencies Framework, and committed to developing values-centric leaders who are grounded in the school values.
 
-![](/images/TKD-Banner-Pic-600x338.jpg)
+![](/images/L1.png)
 
-The IDEAR approach is used in the development of leadership skills in Edgefield students:  
-  
+![](/images/L2.png)
+
+The IDEAR approach is used in the development of leadership skills in Edgefield students:
+
 (I)dentify: All students to identify their personal strengths, areas of improvement and leadership styles.  
 (D)evelopment &amp; (E)xposure: Provision of platform and leadership opportunities for students to hone their leadership skills.  
-(A)chievement &amp; (R)ecognition: To provide avenues to recognise students’ personal leadership growth and development as an individual.  
-  
-The school is committed to developing individuals grounded in strong values such as Compassion, Moral Courage, Sincerity and Honour, and who actively contribute to the community. This is achieved through the provision of level wide leadership modules and Values-In-Action platforms, equipping students with the soft skills to achieve self and peer leadership.  
-  
-Student leaders also learn about building a positive culture through the Appreciative Inquiry approach, the 4D process of ‘Discover, Dream, Design, Deliver’.
+(A)chievement &amp; (R)ecognition: To provide avenues to recognise students’ personal leadership growth and development as an individual.
 
-<center><strong> INDUCTION OF STUDENTS 2020 </strong></center>
+At Edgefield, we believe that every Edgefielder can be a leader. Leadership is not defined by titles, but by the values students demonstrate and the positive influence they have on others.&nbsp;
 
-![](/images/IOS1.jpg)
+Grounded in the values of Compassion, Moral Courage, Sincerity and Honour, the school seeks to nurture students who lead with purpose and serve with heart. We believe that every student has the potential to lead in areas of passion and interest while making a positive impact on the community. Through on-the-job training, level-wide leadership modules, camps and Values-in-Action experiences, students are equipped with the skills, confidence and character to exercise self-leadership and inspire others.
 
-![](/images/IOS2.jpg)
+Student leaders also learn how to build a positive culture through the Appreciative Inquiry approach, the 4D process of ‘Discover, Dream, Design, Deliver’.
 
-![](/images/IOS3.jpg)
+<center><strong> INDUCTION OF STUDENTS 2026 </strong></center>
 
-![](/images/IOS4.jpg)
+![](/images/L3.png)
 
-![](/images/IOS5.jpg)
+![](/images/L4.png)
 
-<center> <strong> STUDENT LEADERS' INVESTITURE 2020 </strong></center>
+![](/images/L5.png)
 
-![](/images/SLI1.jpg)
+![](/images/L6.png)
 
-![](/images/SLI2.jpg)
+<center> <strong> STUDENT LEADERS' INVESTITURE 2026 </strong></center>
 
-![](/images/SLI3.jpg)
+![](/images/L7.png)
 
-![](/images/SLI4.jpg)
+![](/images/L8.png)
+
+![](/images/L9.png)
+
+![](/images/L11.png)
+
+![](/images/L10.png)
